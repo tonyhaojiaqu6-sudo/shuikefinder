@@ -1,0 +1,228 @@
+course_code,course_title,instructor,instructors_full,term,department,workload_avg,teaching_avg,intellectual_avg
+AS.030.101.01.FA24,Introductory Chemistry I,"Goldberg, David","Goldberg, David",2024 Fall,Chemistry,3.37,3.84,4.06
+AS.030.101.01.FA24,Introductory Chemistry I,"Hernandez, Rigoberto","Hernandez, Rigoberto",2024 Fall,Chemistry,3.37,3.25,4.06
+AS.030.101.03.FA24,Introductory Chemistry I,"McCartney, Stephanie","McCartney, Stephanie",2024 Fall,Chemistry,4.47,3.78,3.92
+AS.030.101.02.FA24,Introductory Chemistry I,"Goldberg, David","Goldberg, David",2024 Fall,Chemistry,3.38,3.81,3.99
+AS.030.101.02.FA24,Introductory Chemistry I,"Hernandez, Rigoberto","Hernandez, Rigoberto",2024 Fall,Chemistry,3.38,3.10,3.99
+AS.030.101.03.FA25,Introductory Chemistry I,"McCartney, Stephanie","McCartney, Stephanie",2025 Fall,Chemistry,4.49,3.16,4.07
+AS.030.101.02.FA25,Introductory Chemistry I,"McQueen, Tyrel","McQueen, Tyrel",2025 Fall,Chemistry,3.66,3.15,4.14
+AS.030.101.02.FA25,Introductory Chemistry I,"Goldberg, David","Goldberg, David",2025 Fall,Chemistry,3.66,3.65,4.14
+AS.030.101.01.FA25,Introductory Chemistry I,"McQueen, Tyrel","McQueen, Tyrel",2025 Fall,Chemistry,3.55,3.05,4.05
+AS.030.101.01.FA25,Introductory Chemistry I,"Goldberg, David","Goldberg, David",2025 Fall,Chemistry,3.55,3.63,4.05
+AS.030.102.03.SP24,Introductory Chemistry II,"McCartney, Stephanie","McCartney, Stephanie",2024 Spring,Chemistry,4.55,3.56,4.20
+AS.030.102.02.SP24,Introductory Chemistry II,"Thyagarajan, Sunita","Thyagarajan, Sunita",2024 Spring,Chemistry,3.43,3.41,4.17
+AS.030.102.01.SP24,Introductory Chemistry II,"McQueen, Tyrel","McQueen, Tyrel",2024 Spring,Chemistry,3.49,3.36,4.22
+AS.030.102.01.SP25,Introductory Chemistry II,"Young, Jamie","Young, Jamie",2025 Spring,Chemistry,3.58,4.28,4.36
+AS.030.102.01.SP25,Introductory Chemistry II,"McCartney, Stephanie","McCartney, Stephanie",2025 Spring,Chemistry,3.58,3.30,4.36
+AS.030.102.03.SP25,Introductory Chemistry II,"McCartney, Stephanie","McCartney, Stephanie",2025 Spring,Chemistry,4.45,3.42,4.10
+AS.030.102.02.SP25,Introductory Chemistry II,"Thyagarajan, Sunita","Thyagarajan, Sunita",2025 Spring,Chemistry,3.44,3.08,4.10
+AS.030.102.02.SP25,Introductory Chemistry II,"McCartney, Stephanie","McCartney, Stephanie",2025 Spring,Chemistry,3.44,2.82,4.10
+AS.030.103.02.FA24,Applied Chemical Equilibrium and Reactivity w/lab,"Young, Jamie","Young, Jamie",2024 Fall,Chemistry,3.64,4.59,4.52
+AS.030.103.01.FA24,Applied Chemical Equilibrium and Reactivity w/lab,"Young, Jamie","Young, Jamie",2024 Fall,Chemistry,3.70,4.67,4.33
+AS.030.103.05.FA24,Applied Chemical Equilibrium and Reactivity w/lab,"Young, Jamie","Young, Jamie",2024 Fall,Chemistry,3.78,4.63,4.56
+AS.030.103.04.FA24,Applied Chemical Equilibrium and Reactivity w/lab,"Young, Jamie","Young, Jamie",2024 Fall,Chemistry,3.23,4.38,4.38
+AS.030.103.03.FA24,Applied Chemical Equilibrium and Reactivity w/lab,"Young, Jamie","Young, Jamie",2024 Fall,Chemistry,3.56,4.63,4.44
+AS.030.103.05.FA25,Applied Chemical Equilibrium and Reactivity w/lab,"Young, Jamie","Young, Jamie",2025 Fall,Chemistry,3.38,4.67,4.72
+AS.030.103.01.FA25,Applied Chemical Equilibrium and Reactivity w/lab,"Young, Jamie","Young, Jamie",2025 Fall,Chemistry,3.72,4.72,4.56
+AS.030.103.04.FA25,Applied Chemical Equilibrium and Reactivity w/lab,"Young, Jamie","Young, Jamie",2025 Fall,Chemistry,3.58,4.84,4.55
+AS.030.103.03.FA25,Applied Chemical Equilibrium and Reactivity w/lab,"Young, Jamie","Young, Jamie",2025 Fall,Chemistry,3.44,4.69,4.44
+AS.030.103.06.FA25,Applied Chemical Equilibrium and Reactivity w/lab,"Young, Jamie","Young, Jamie",2025 Fall,Chemistry,3.60,4.75,4.63
+AS.030.103.02.FA25,Applied Chemical Equilibrium and Reactivity w/lab,"Young, Jamie","Young, Jamie",2025 Fall,Chemistry,3.68,4.58,4.55
+AS.030.105.05.FA24,Introductory Chemistry Laboratory I,"Flynn, Steven","Flynn, Steven",2024 Fall,Chemistry,3.64,3.77,4.00
+AS.030.105.01.FA24,Introductory Chemistry Laboratory I,"Flynn, Steven","Flynn, Steven",2024 Fall,Chemistry,3.73,3.81,4.19
+AS.030.105.04.FA24,Introductory Chemistry Laboratory I,"Flynn, Steven","Flynn, Steven",2024 Fall,Chemistry,3.66,3.76,4.03
+AS.030.105.03.FA24,Introductory Chemistry Laboratory I,"Flynn, Steven","Flynn, Steven",2024 Fall,Chemistry,3.65,3.93,4.08
+AS.030.105.07.FA24,Introductory Chemistry Laboratory I,"Flynn, Steven","Flynn, Steven",2024 Fall,Chemistry,3.75,3.95,4.09
+AS.030.105.02.FA24,Introductory Chemistry Laboratory I,"Flynn, Steven","Flynn, Steven",2024 Fall,Chemistry,3.44,3.60,3.91
+AS.030.105.06.FA24,Introductory Chemistry Laboratory I,"Flynn, Steven","Flynn, Steven",2024 Fall,Chemistry,3.60,3.73,4.06
+AS.030.105.07.FA25,Introductory Chemistry Laboratory I,"Flynn, Steven","Flynn, Steven",2025 Fall,Chemistry,3.39,3.80,3.94
+AS.030.105.03.FA25,Introductory Chemistry Laboratory I,"Flynn, Steven","Flynn, Steven",2025 Fall,Chemistry,3.34,3.64,3.98
+AS.030.105.06.FA25,Introductory Chemistry Laboratory I,"Flynn, Steven","Flynn, Steven",2025 Fall,Chemistry,3.59,3.84,4.05
+AS.030.105.05.FA25,Introductory Chemistry Laboratory I,"Flynn, Steven","Flynn, Steven",2025 Fall,Chemistry,3.56,3.85,4.25
+AS.030.105.02.FA25,Introductory Chemistry Laboratory I,"Flynn, Steven","Flynn, Steven",2025 Fall,Chemistry,3.45,3.45,3.90
+AS.030.105.04.FA25,Introductory Chemistry Laboratory I,"Flynn, Steven","Flynn, Steven",2025 Fall,Chemistry,3.38,3.71,3.86
+AS.030.105.01.FA25,Introductory Chemistry Laboratory I,"Flynn, Steven","Flynn, Steven",2025 Fall,Chemistry,3.53,3.84,4.17
+AS.030.106.06.SP24,Introductory Chemistry Laboratory II,"Young, Jamie","Young, Jamie",2024 Spring,Chemistry,3.10,4.68,4.42
+AS.030.106.05.SP24,Introductory Chemistry Laboratory II,"Young, Jamie","Young, Jamie",2024 Spring,Chemistry,3.24,4.82,4.50
+AS.030.106.04.SP24,Introductory Chemistry Laboratory II,"Young, Jamie","Young, Jamie",2024 Spring,Chemistry,3.11,4.60,4.23
+AS.030.106.03.SP24,Introductory Chemistry Laboratory II,"Young, Jamie","Young, Jamie",2024 Spring,Chemistry,3.32,4.82,4.24
+AS.030.106.02.SP24,Introductory Chemistry Laboratory II,"Young, Jamie","Young, Jamie",2024 Spring,Chemistry,3.23,4.69,4.35
+AS.030.106.01.SP24,Introductory Chemistry Laboratory II,"Young, Jamie","Young, Jamie",2024 Spring,Chemistry,3.15,4.78,4.41
+AS.030.106.06.SP25,Introductory Chemistry Laboratory II,"Flynn, Steven","Flynn, Steven",2025 Spring,Chemistry,3.22,3.92,3.91
+AS.030.106.02.SP25,Introductory Chemistry Laboratory II,"Flynn, Steven","Flynn, Steven",2025 Spring,Chemistry,3.23,3.81,4.10
+AS.030.106.01.SP25,Introductory Chemistry Laboratory II,"Flynn, Steven","Flynn, Steven",2025 Spring,Chemistry,3.25,4.16,4.06
+AS.030.106.05.SP25,Introductory Chemistry Laboratory II,"Flynn, Steven","Flynn, Steven",2025 Spring,Chemistry,3.33,4.18,4.21
+AS.030.106.04.SP25,Introductory Chemistry Laboratory II,"Flynn, Steven","Flynn, Steven",2025 Spring,Chemistry,3.28,4.00,3.97
+AS.030.106.03.SP25,Introductory Chemistry Laboratory II,"Flynn, Steven","Flynn, Steven",2025 Spring,Chemistry,3.51,4.21,4.21
+AS.030.205.22.FA24,Introductory Organic Chemistry I,"Tovar, J D","Tovar, J D",2024 Fall,Chemistry,3.78,3.88,4.53
+AS.030.205.18.FA24,Introductory Organic Chemistry I,"Tovar, J D","Tovar, J D",2024 Fall,Chemistry,3.67,3.84,4.68
+AS.030.205.14.FA24,Introductory Organic Chemistry I,"Nsengiyumva, Olivier","Nsengiyumva, Olivier",2024 Fall,Chemistry,3.69,4.56,4.62
+AS.030.205.10.FA24,Introductory Organic Chemistry I,"Nsengiyumva, Olivier","Nsengiyumva, Olivier",2024 Fall,Chemistry,3.75,4.75,4.63
+AS.030.205.21.FA24,Introductory Organic Chemistry I,"Tovar, J D","Tovar, J D",2024 Fall,Chemistry,3.56,3.82,4.62
+AS.030.205.06.FA24,Introductory Organic Chemistry I,"Falzone, Christopher","Falzone, Christopher",2024 Fall,Chemistry,3.14,2.89,4.35
+AS.030.205.02.FA24,Introductory Organic Chemistry I,"Falzone, Christopher","Falzone, Christopher",2024 Fall,Chemistry,3.63,2.88,4.48
+AS.030.205.24.FA24,Introductory Organic Chemistry I,"Tovar, J D","Tovar, J D",2024 Fall,Chemistry,3.63,3.96,4.52
+AS.030.205.20.FA24,Introductory Organic Chemistry I,"Tovar, J D","Tovar, J D",2024 Fall,Chemistry,3.70,3.67,4.39
+AS.030.205.09.FA24,Introductory Organic Chemistry I,"Nsengiyumva, Olivier","Nsengiyumva, Olivier",2024 Fall,Chemistry,3.59,4.82,4.76
+AS.030.205.13.FA24,Introductory Organic Chemistry I,"Nsengiyumva, Olivier","Nsengiyumva, Olivier",2024 Fall,Chemistry,3.49,4.92,4.69
+AS.030.205.23.FA24,Introductory Organic Chemistry I,"Tovar, J D","Tovar, J D",2024 Fall,Chemistry,3.81,3.94,4.60
+AS.030.205.05.FA24,Introductory Organic Chemistry I,"Falzone, Christopher","Falzone, Christopher",2024 Fall,Chemistry,3.40,2.44,4.14
+AS.030.205.19.FA24,Introductory Organic Chemistry I,"Tovar, J D","Tovar, J D",2024 Fall,Chemistry,3.77,3.88,4.63
+AS.030.205.17.FA24,Introductory Organic Chemistry I,"Tovar, J D","Tovar, J D",2024 Fall,Chemistry,3.52,3.69,4.48
+AS.030.205.01.FA24,Introductory Organic Chemistry I,"Falzone, Christopher","Falzone, Christopher",2024 Fall,Chemistry,3.44,3.32,4.62
+AS.030.205.08.FA24,Introductory Organic Chemistry I,"Falzone, Christopher","Falzone, Christopher",2024 Fall,Chemistry,3.17,2.90,4.30
+AS.030.205.12.FA24,Introductory Organic Chemistry I,"Nsengiyumva, Olivier","Nsengiyumva, Olivier",2024 Fall,Chemistry,3.62,4.86,4.68
+AS.030.205.04.FA24,Introductory Organic Chemistry I,"Falzone, Christopher","Falzone, Christopher",2024 Fall,Chemistry,3.40,3.00,4.27
+AS.030.205.11.FA24,Introductory Organic Chemistry I,"Nsengiyumva, Olivier","Nsengiyumva, Olivier",2024 Fall,Chemistry,3.60,4.81,4.64
+AS.030.205.12.FA25,Introductory Organic Chemistry I,"Falzone, Christopher","Falzone, Christopher",2025 Fall,Chemistry,4.02,2.48,4.38
+AS.030.205.12.FA25,Introductory Organic Chemistry I,"Toscano, John","Toscano, John",2025 Fall,Chemistry,4.02,3.42,4.38
+AS.030.205.08.FA25,Introductory Organic Chemistry I,"Nsengiyumva, Olivier","Nsengiyumva, Olivier",2025 Fall,Chemistry,3.90,4.76,4.66
+AS.030.205.04.FA25,Introductory Organic Chemistry I,"Greenberg, Marc","Greenberg, Marc",2025 Fall,Chemistry,4.06,3.94,4.67
+AS.030.205.11.FA25,Introductory Organic Chemistry I,"Falzone, Christopher","Falzone, Christopher",2025 Fall,Chemistry,3.80,2.47,4.08
+AS.030.205.11.FA25,Introductory Organic Chemistry I,"Toscano, John","Toscano, John",2025 Fall,Chemistry,3.80,3.25,4.08
+AS.030.205.03.FA25,Introductory Organic Chemistry I,"Greenberg, Marc","Greenberg, Marc",2025 Fall,Chemistry,4.00,3.47,4.38
+AS.030.205.07.FA25,Introductory Organic Chemistry I,"Nsengiyumva, Olivier","Nsengiyumva, Olivier",2025 Fall,Chemistry,3.69,4.69,4.64
+AS.030.205.02.FA25,Introductory Organic Chemistry I,"Greenberg, Marc","Greenberg, Marc",2025 Fall,Chemistry,3.88,3.50,4.61
+AS.030.205.06.FA25,Introductory Organic Chemistry I,"Nsengiyumva, Olivier","Nsengiyumva, Olivier",2025 Fall,Chemistry,4.04,4.60,4.62
+AS.030.205.10.FA25,Introductory Organic Chemistry I,"Falzone, Christopher","Falzone, Christopher",2025 Fall,Chemistry,3.88,2.73,4.24
+AS.030.205.10.FA25,Introductory Organic Chemistry I,"Toscano, John","Toscano, John",2025 Fall,Chemistry,3.88,3.40,4.24
+AS.030.205.01.FA25,Introductory Organic Chemistry I,"Greenberg, Marc","Greenberg, Marc",2025 Fall,Chemistry,3.73,3.23,4.41
+AS.030.205.05.FA25,Introductory Organic Chemistry I,"Nsengiyumva, Olivier","Nsengiyumva, Olivier",2025 Fall,Chemistry,4.05,4.62,4.65
+AS.030.205.09.FA25,Introductory Organic Chemistry I,"Falzone, Christopher","Falzone, Christopher",2025 Fall,Chemistry,3.89,2.83,4.25
+AS.030.205.09.FA25,Introductory Organic Chemistry I,"Toscano, John","Toscano, John",2025 Fall,Chemistry,3.89,3.33,4.25
+AS.030.206.18.SP24,Organic Chemistry II,"Nsengiyumva, Olivier","Nsengiyumva, Olivier",2024 Spring,Chemistry,3.59,4.81,4.63
+AS.030.206.10.SP24,Organic Chemistry II,"Klausen, Rebekka","Klausen, Rebekka",2024 Spring,Chemistry,3.73,4.04,4.65
+AS.030.206.02.SP24,Organic Chemistry II,"Klausen, Rebekka","Klausen, Rebekka",2024 Spring,Chemistry,3.58,3.96,4.21
+AS.030.206.25.SP24,Organic Chemistry II,"Nsengiyumva, Olivier","Nsengiyumva, Olivier",2024 Spring,Chemistry,3.12,4.96,4.76
+AS.030.206.09.SP24,Organic Chemistry II,"Klausen, Rebekka","Klausen, Rebekka",2024 Spring,Chemistry,3.70,3.73,4.32
+AS.030.206.17.SP24,Organic Chemistry II,"Nsengiyumva, Olivier","Nsengiyumva, Olivier",2024 Spring,Chemistry,3.43,4.63,4.33
+AS.030.206.01.SP24,Organic Chemistry II,"Klausen, Rebekka","Klausen, Rebekka",2024 Spring,Chemistry,3.70,4.00,4.27
+AS.030.206.24.SP24,Organic Chemistry II,"Nsengiyumva, Olivier","Nsengiyumva, Olivier",2024 Spring,Chemistry,3.44,4.96,4.67
+AS.030.206.08.SP24,Organic Chemistry II,"Klausen, Rebekka","Klausen, Rebekka",2024 Spring,Chemistry,3.39,3.52,4.13
+AS.030.206.16.SP24,Organic Chemistry II,"Nsengiyumva, Olivier","Nsengiyumva, Olivier",2024 Spring,Chemistry,3.75,4.71,4.38
+AS.030.206.23.SP24,Organic Chemistry II,"Nsengiyumva, Olivier","Nsengiyumva, Olivier",2024 Spring,Chemistry,3.85,5.00,4.85
+AS.030.206.07.SP24,Organic Chemistry II,"Klausen, Rebekka","Klausen, Rebekka",2024 Spring,Chemistry,3.41,3.96,4.56
+AS.030.206.15.SP24,Organic Chemistry II,"Nsengiyumva, Olivier","Nsengiyumva, Olivier",2024 Spring,Chemistry,3.86,4.78,4.57
+AS.030.206.22.SP24,Organic Chemistry II,"Nsengiyumva, Olivier","Nsengiyumva, Olivier",2024 Spring,Chemistry,3.88,4.88,4.69
+AS.030.206.06.SP24,Organic Chemistry II,"Klausen, Rebekka","Klausen, Rebekka",2024 Spring,Chemistry,3.27,3.94,4.13
+AS.030.206.14.SP24,Organic Chemistry II,"Nsengiyumva, Olivier","Nsengiyumva, Olivier",2024 Spring,Chemistry,3.52,4.86,4.60
+AS.030.206.21.SP24,Organic Chemistry II,"Nsengiyumva, Olivier","Nsengiyumva, Olivier",2024 Spring,Chemistry,3.61,4.92,4.48
+AS.030.206.05.SP24,Organic Chemistry II,"Klausen, Rebekka","Klausen, Rebekka",2024 Spring,Chemistry,3.75,4.19,4.56
+AS.030.206.13.SP24,Organic Chemistry II,"Nsengiyumva, Olivier","Nsengiyumva, Olivier",2024 Spring,Chemistry,3.30,4.87,4.64
+AS.030.206.20.SP24,Organic Chemistry II,"Nsengiyumva, Olivier","Nsengiyumva, Olivier",2024 Spring,Chemistry,3.81,5.00,4.82
+AS.030.206.20.SP25,Organic Chemistry II,"Nsengiyumva, Olivier","Nsengiyumva, Olivier",2025 Spring,Chemistry,3.21,4.89,4.50
+AS.030.206.16.SP25,Organic Chemistry II,"Klausen, Rebekka","Klausen, Rebekka",2025 Spring,Chemistry,3.83,3.46,4.46
+AS.030.206.12.SP25,Organic Chemistry II,"Klausen, Rebekka","Klausen, Rebekka",2025 Spring,Chemistry,3.83,3.40,4.20
+AS.030.206.08.SP25,Organic Chemistry II,"Nsengiyumva, Olivier","Nsengiyumva, Olivier",2025 Spring,Chemistry,3.44,4.97,4.62
+AS.030.206.04.SP25,Organic Chemistry II,"Nsengiyumva, Olivier","Nsengiyumva, Olivier",2025 Spring,Chemistry,3.29,4.94,4.77
+AS.030.206.19.SP25,Organic Chemistry II,"Nsengiyumva, Olivier","Nsengiyumva, Olivier",2025 Spring,Chemistry,3.61,4.94,4.71
+AS.030.206.03.SP25,Organic Chemistry II,"Nsengiyumva, Olivier","Nsengiyumva, Olivier",2025 Spring,Chemistry,3.50,4.94,4.42
+AS.030.206.11.SP25,Organic Chemistry II,"Klausen, Rebekka","Klausen, Rebekka",2025 Spring,Chemistry,3.87,3.55,4.27
+AS.030.206.07.SP25,Organic Chemistry II,"Nsengiyumva, Olivier","Nsengiyumva, Olivier",2025 Spring,Chemistry,3.45,4.82,4.59
+AS.030.206.06.SP25,Organic Chemistry II,"Nsengiyumva, Olivier","Nsengiyumva, Olivier",2025 Spring,Chemistry,3.53,4.85,4.59
+AS.030.206.15.SP25,Organic Chemistry II,"Klausen, Rebekka","Klausen, Rebekka",2025 Spring,Chemistry,3.59,3.62,4.19
+AS.030.206.02.SP25,Organic Chemistry II,"Nsengiyumva, Olivier","Nsengiyumva, Olivier",2025 Spring,Chemistry,3.57,4.90,4.61
+AS.030.206.18.SP25,Organic Chemistry II,"Klausen, Rebekka","Klausen, Rebekka",2025 Spring,Chemistry,3.42,4.13,4.38
+AS.030.206.10.SP25,Organic Chemistry II,"Klausen, Rebekka","Klausen, Rebekka",2025 Spring,Chemistry,3.67,3.30,4.38
+AS.030.206.17.SP25,Organic Chemistry II,"Klausen, Rebekka","Klausen, Rebekka",2025 Spring,Chemistry,3.71,3.82,4.18
+AS.030.206.09.SP25,Organic Chemistry II,"Klausen, Rebekka","Klausen, Rebekka",2025 Spring,Chemistry,3.72,3.34,4.31
+AS.030.206.05.SP25,Organic Chemistry II,"Nsengiyumva, Olivier","Nsengiyumva, Olivier",2025 Spring,Chemistry,3.68,4.70,4.47
+AS.030.206.01.SP25,Organic Chemistry II,"Nsengiyumva, Olivier","Nsengiyumva, Olivier",2025 Spring,Chemistry,3.84,4.61,4.29
+AS.030.206.14.SP25,Organic Chemistry II,"Klausen, Rebekka","Klausen, Rebekka",2025 Spring,Chemistry,4.00,3.53,4.52
+AS.030.206.13.SP25,Organic Chemistry II,"Klausen, Rebekka","Klausen, Rebekka",2025 Spring,Chemistry,3.81,3.09,4.23
+AS.030.212.01.SP24,Honors Organic Chemistry II,"Tovar, J D","Tovar, J D",2024 Spring,Chemistry,4.03,4.59,4.97
+AS.030.212.01.SP25,Honors Organic Chemistry II,"Lectka, Thomas","Lectka, Thomas",2025 Spring,Chemistry,3.41,3.94,4.75
+AS.030.225.05.SP24,Introductory Organic Chemistry Laboratory,"D'Souza, Larissa","D'Souza, Larissa",2024 Spring,Chemistry,3.65,4.45,4.39
+AS.030.225.04.SP24,Introductory Organic Chemistry Laboratory,"D'Souza, Larissa","D'Souza, Larissa",2024 Spring,Chemistry,3.55,4.37,4.35
+AS.030.225.03.SP24,Introductory Organic Chemistry Laboratory,"D'Souza, Larissa","D'Souza, Larissa",2024 Spring,Chemistry,3.73,4.51,4.50
+AS.030.225.02.SP24,Introductory Organic Chemistry Laboratory,"D'Souza, Larissa","D'Souza, Larissa",2024 Spring,Chemistry,3.73,4.78,4.61
+AS.030.225.01.SP24,Introductory Organic Chemistry Laboratory,"D'Souza, Larissa","D'Souza, Larissa",2024 Spring,Chemistry,3.64,4.52,4.38
+AS.030.225.02.FA24,Introductory Organic Chemistry Laboratory,"D'Souza, Larissa","D'Souza, Larissa",2024 Fall,Chemistry,3.44,4.44,4.22
+AS.030.225.01.FA24,Introductory Organic Chemistry Laboratory,"D'Souza, Larissa","D'Souza, Larissa",2024 Fall,Chemistry,3.54,4.63,4.41
+AS.030.225.05.FA24,Introductory Organic Chemistry Laboratory,"D'Souza, Larissa","D'Souza, Larissa",2024 Fall,Chemistry,3.64,4.65,4.43
+AS.030.225.04.FA24,Introductory Organic Chemistry Laboratory,"D'Souza, Larissa","D'Souza, Larissa",2024 Fall,Chemistry,3.57,4.37,4.23
+AS.030.225.03.FA24,Introductory Organic Chemistry Laboratory,"D'Souza, Larissa","D'Souza, Larissa",2024 Fall,Chemistry,3.66,4.53,4.37
+AS.030.225.03.SP25,Introductory Organic Chemistry Laboratory,"D'Souza, Larissa","D'Souza, Larissa",2025 Spring,Chemistry,3.64,4.52,4.37
+AS.030.225.05.SP25,Introductory Organic Chemistry Laboratory,"D'Souza, Larissa","D'Souza, Larissa",2025 Spring,Chemistry,3.39,4.47,4.35
+AS.030.225.02.SP25,Introductory Organic Chemistry Laboratory,"D'Souza, Larissa","D'Souza, Larissa",2025 Spring,Chemistry,3.37,4.54,4.21
+AS.030.225.01.SP25,Introductory Organic Chemistry Laboratory,"D'Souza, Larissa","D'Souza, Larissa",2025 Spring,Chemistry,3.50,4.48,4.30
+AS.030.225.04.SP25,Introductory Organic Chemistry Laboratory,"D'Souza, Larissa","D'Souza, Larissa",2025 Spring,Chemistry,3.61,4.49,4.25
+AS.030.225.04.FA25,Introductory Organic Chemistry Laboratory,"D'Souza, Larissa","D'Souza, Larissa",2025 Fall,Chemistry,3.42,4.42,4.35
+AS.030.225.03.FA25,Introductory Organic Chemistry Laboratory,"D'Souza, Larissa","D'Souza, Larissa",2025 Fall,Chemistry,3.53,4.58,4.43
+AS.030.225.02.FA25,Introductory Organic Chemistry Laboratory,"D'Souza, Larissa","D'Souza, Larissa",2025 Fall,Chemistry,3.37,4.62,4.37
+AS.030.225.01.FA25,Introductory Organic Chemistry Laboratory,"D'Souza, Larissa","D'Souza, Larissa",2025 Fall,Chemistry,3.38,4.57,4.30
+AS.030.225.05.FA25,Introductory Organic Chemistry Laboratory,"D'Souza, Larissa","D'Souza, Larissa",2025 Fall,Chemistry,3.58,4.35,4.29
+AS.030.227.01.FA24,"Chemical Chirality:  An Introduction in Organic Chem. Lab, Techniques","Hill, Eric","Hill, Eric",2024 Fall,Chemistry,3.00,4.00,4.40
+AS.030.227.03.FA24,"Chemical Chirality:  An Introduction in Organic Chem. Lab, Techniques","Hill, Eric","Hill, Eric",2024 Fall,Chemistry,2.80,3.40,4.00
+AS.030.227.02.FA24,"Chemical Chirality:  An Introduction in Organic Chem. Lab, Techniques","Hill, Eric","Hill, Eric",2024 Fall,Chemistry,2.86,3.71,4.29
+AS.030.227.03.FA25,"Chemical Chirality:  An Introduction in Organic Chem. Lab, Techniques","Hill, Eric","Hill, Eric",2025 Fall,Chemistry,3.33,4.25,4.00
+AS.030.227.02.FA25,"Chemical Chirality:  An Introduction in Organic Chem. Lab, Techniques","Hill, Eric","Hill, Eric",2025 Fall,Chemistry,3.57,3.93,4.21
+AS.030.227.01.FA25,"Chemical Chirality:  An Introduction in Organic Chem. Lab, Techniques","Hill, Eric","Hill, Eric",2025 Fall,Chemistry,3.31,4.31,4.54
+AS.030.228.02.SP24,Intermediate Organic Chemistry Laboratory,"Hill, Eric","Hill, Eric",2024 Spring,Chemistry,3.10,4.50,4.33
+AS.030.228.01.SP24,Intermediate Organic Chemistry Laboratory,"Hill, Eric","Hill, Eric",2024 Spring,Chemistry,3.00,3.92,3.77
+AS.030.228.02.SP25,Intermediate Organic Chemistry Laboratory,"Hill, Eric","Hill, Eric",2025 Spring,Chemistry,3.38,4.22,4.22
+AS.030.228.01.SP25,Intermediate Organic Chemistry Laboratory,"Hill, Eric","Hill, Eric",2025 Spring,Chemistry,2.96,3.92,4.46
+AS.030.245.02.FA24,Quantitative Analytical Laboratory,"Thyagarajan, Sunita","Thyagarajan, Sunita",2024 Fall,Chemistry,4.00,2.08,3.25
+AS.030.245.01.FA24,Quantitative Analytical Laboratory,"Thyagarajan, Sunita","Thyagarajan, Sunita",2024 Fall,Chemistry,3.60,2.91,3.55
+AS.030.245.03.FA24,Quantitative Analytical Laboratory,"Thyagarajan, Sunita","Thyagarajan, Sunita",2024 Fall,Chemistry,4.22,3.00,3.50
+AS.030.246.03.FA25,Quantitative Analytical Chemistry and Spectroscopy lab,"Thyagarajan, Sunita","Thyagarajan, Sunita",2025 Fall,Chemistry,3.63,2.88,3.50
+AS.030.246.02.FA25,Quantitative Analytical Chemistry and Spectroscopy lab,"Thyagarajan, Sunita","Thyagarajan, Sunita",2025 Fall,Chemistry,4.20,2.70,3.50
+AS.030.246.01.FA25,Quantitative Analytical Chemistry and Spectroscopy lab,"Thyagarajan, Sunita","Thyagarajan, Sunita",2025 Fall,Chemistry,4.00,2.50,3.80
+AS.030.301.01.FA24,Physical Chemistry I,"Bragg, Art","Bragg, Art",2024 Fall,Chemistry,4.00,4.21,4.61
+AS.030.301.01.FA25,Physical Chemistry I,"Bragg, Art","Bragg, Art",2025 Fall,Chemistry,3.83,4.34,4.76
+AS.030.302.01.SP24,Physical Chemistry II,"Bowen, Kit","Bowen, Kit",2024 Spring,Chemistry,3.40,3.20,4.09
+AS.030.302.01.SP25,Physical Chemistry II,"Bowen, Kit","Bowen, Kit",2025 Spring,Chemistry,3.59,3.37,4.00
+AS.030.305.01.SP24,Physical Chemistry Instrumentation Laboratory I,"Fairbrother, D","Fairbrother, D",2024 Spring,Chemistry,4.00,3.80,4.00
+AS.030.305.01.SP25,Physical Chemistry Instrumentation Laboratory I,"Fried, Stephen","Fried, Stephen",2025 Spring,Chemistry,4.00,4.11,4.33
+AS.030.306.02.FA24,Physical Chemistry Instrumentation Laboratory II,"Kempa, Thomas","Kempa, Thomas",2024 Fall,Chemistry,4.00,3.27,4.10
+AS.030.306.01.FA24,Physical Chemistry Instrumentation Laboratory II,"Kempa, Thomas","Kempa, Thomas",2024 Fall,Chemistry,4.00,3.71,4.36
+AS.030.356.02.SP24,Advanced Inorganic Lab,"Huang, Xiongyi","Huang, Xiongyi",2024 Spring,Chemistry,2.83,3.75,4.18
+AS.030.356.01.SP24,Advanced Inorganic Lab,"Huang, Xiongyi","Huang, Xiongyi",2024 Spring,Chemistry,2.87,3.60,3.93
+AS.030.356.02.SP25,Advanced Inorganic Lab,"Huang, Xiongyi","Huang, Xiongyi",2025 Spring,Chemistry,3.21,3.67,3.87
+AS.030.356.01.SP25,Advanced Inorganic Lab,"Huang, Xiongyi","Huang, Xiongyi",2025 Spring,Chemistry,2.89,3.28,3.94
+AS.030.403.01.SP24,"Optoelectronic Materials and Devices: Synthesis, Spectroscopy, and Applications","Kempa, Thomas","Kempa, Thomas",2024 Spring,Chemistry,2.88,4.88,4.88
+AS.030.403.01.FA25,"Optoelectronic Materials and Devices: Synthesis, Spectroscopy, and Applications","Kempa, Thomas","Kempa, Thomas",2025 Fall,Chemistry,3.00,4.83,4.50
+AS.030.404.01.SP24,Electrochemical Systems for Energy Conversion and Storage,"Thoi, Sara","Thoi, Sara",2024 Spring,Chemistry,3.00,4.62,4.69
+AS.030.405.01.SP24,Introduction to Computational Chemistry,"Cheng, Lan","Cheng, Lan",2024 Spring,Chemistry,2.38,4.50,4.29
+AS.030.416.01.SP25,The Chemistry of Transition Metals in Biology,Goldberg + Karlin,"Goldberg, David + Karlin, Kenneth",2025 Spring,Chemistry,3.29,4.57,4.57
+AS.030.421.01.FA24,Data Science Tools for the Chemical and Materials Sciences,"McQueen, Tyrel","McQueen, Tyrel",2024 Fall,Chemistry,2.78,4.70,4.00
+AS.030.424.01.SP24,Molecular Synthetic Biology,"Fried, Stephen","Fried, Stephen",2024 Spring,Chemistry,3.89,4.44,4.67
+AS.030.424.01.FA25,Molecular Synthetic Biology,"Fried, Stephen","Fried, Stephen",2025 Fall,Chemistry,4.14,4.25,5.00
+AS.030.441.01.SP24,Spectroscopic Methods of Organic Structure Determination,"Falzone, Christopher","Falzone, Christopher",2024 Spring,Chemistry,2.27,4.27,4.32
+AS.030.442.01.SP24,Organometallic Chemistry,"Thyagarajan, Sunita","Thyagarajan, Sunita",2024 Spring,Chemistry,3.33,3.72,4.61
+AS.030.442.01.SP25,Organometallic Chemistry,"Thyagarajan, Sunita","Thyagarajan, Sunita",2025 Spring,Chemistry,3.45,2.90,3.80
+AS.030.449.01.FA24,Chemistry of  Inorganic Compounds,"Thoi, Sara","Thoi, Sara",2024 Fall,Chemistry,3.11,4.00,4.51
+AS.030.449.01.FA25,Chemistry of  Inorganic Compounds,"Thoi, Sara","Thoi, Sara",2025 Fall,Chemistry,3.47,3.83,4.50
+AS.030.452.01.FA24,Materials & Surface,"Fairbrother, D","Fairbrother, D",2024 Fall,Chemistry,2.83,4.77,4.62
+AS.030.452.01.FA25,Materials & Surface,"Fairbrother, D","Fairbrother, D",2025 Fall,Chemistry,3.20,4.42,4.25
+AS.030.453.01.FA24,Intermediate Quantum Chemistry,"Cheng, Lan","Cheng, Lan",2024 Fall,Chemistry,2.92,4.67,4.50
+AS.030.453.01.FA25,Intermediate Quantum Chemistry,"Cheng, Lan","Cheng, Lan",2025 Fall,Chemistry,2.20,4.50,4.20
+AS.030.454.01.SP25,Electrochemistry for Energy Conversion and Storage,"Thoi, Sara","Thoi, Sara",2025 Spring,Chemistry,2.11,4.89,4.67
+AS.030.456.01.FA24,Chemical Applications of Group Theory,Toscano + Yarkony,"Toscano, John + Yarkony, David",2024 Fall,Chemistry,2.50,5.00,5.00
+AS.030.601.01.SP25,Statistical Mechanics,"Hernandez, Rigoberto","Hernandez, Rigoberto",2025 Spring,Chemistry,3.88,4.22,4.56
+AS.030.613.01.FA24,Chemistry-Biology Interface Program Forum I,"Rokita, Steven","Rokita, Steven",2024 Fall,Chemistry,2.56,4.09,4.07
+AS.030.613.01.FA25,Chemistry-Biology Interface Program Forum I,"Rokita, Steven","Rokita, Steven",2025 Fall,Chemistry,1.75,4.67,4.43
+AS.030.614.01.SP24,Chemical-Biology Program Interface Forum II,"Rokita, Steven","Rokita, Steven",2024 Spring,Chemistry,1.60,4.33,4.00
+AS.030.614.01.SP25,Chemical-Biology Program Interface Forum II,"Rokita, Steven","Rokita, Steven",2025 Spring,Chemistry,1.50,4.00,5.00
+AS.030.616.01.SP24,The Chemistry of Transition Metals in Biology,"Goldberg, David","Goldberg, David",2024 Spring,Chemistry,3.00,5.00,5.00
+AS.030.616.01.SP25,The Chemistry of Transition Metals in Biology,"Karlin, Kenneth","Karlin, Kenneth",2025 Spring,Chemistry,2.67,4.20,4.00
+AS.030.616.01.SP25,The Chemistry of Transition Metals in Biology,"Goldberg, David","Goldberg, David",2025 Spring,Chemistry,2.67,4.33,4.00
+AS.030.619.01.FA24,Chemical Biology I,"Rokita, Steven","Rokita, Steven",2024 Fall,Chemistry,3.63,4.31,4.50
+AS.030.619.01.FA25,Chemical Biology I,"Rokita, Steven","Rokita, Steven",2025 Fall,Chemistry,3.22,4.33,4.44
+AS.030.620.01.SP24,Chemical Biology II,"Toscano, John","Toscano, John",2024 Spring,Chemistry,2.56,4.57,4.22
+AS.030.620.01.SP25,Chemical Biology II,"Toscano, John","Toscano, John",2025 Spring,Chemistry,2.56,4.50,4.22
+AS.030.623.01.SP24,Molecular Synthetic Biology,"Fried, Stephen","Fried, Stephen",2024 Spring,Chemistry,4.31,4.64,4.93
+AS.030.623.01.FA25,Molecular Synthetic Biology,"Fried, Stephen","Fried, Stephen",2025 Fall,Chemistry,4.35,4.14,4.52
+AS.030.624.01.FA24,"Reading, Writing and Proposing Science","Rokita, Steven","Rokita, Steven",2024 Fall,Chemistry,3.22,4.18,4.00
+AS.030.625.01.FA24,Advanced Mechanistic Organic Chemistry I,"Greenberg, Marc","Greenberg, Marc",2024 Fall,Chemistry,3.94,4.75,4.75
+AS.030.625.01.FA25,Advanced Mechanistic Organic Chemistry I,"Tovar, J. D.","Tovar, J. D.",2025 Fall,Chemistry,3.06,4.41,4.53
+AS.030.626.01.SP24,Advanced Mechanistic Organic Chemistry II,"Huang, Xiongyi","Huang, Xiongyi",2024 Spring,Chemistry,2.22,4.11,4.33
+AS.030.626.01.SP25,Advanced Mechanistic Organic Chemistry II,"Greenberg, Marc","Greenberg, Marc",2025 Spring,Chemistry,2.78,4.90,5.00
+AS.030.640.01.FA24,Light Mediated Chemistry,"Panetti, Grace","Panetti, Grace",2024 Fall,Chemistry,3.57,3.88,4.38
+AS.030.640.01.FA25,Light Mediated Chemistry,"Panetti, Grace","Panetti, Grace",2025 Fall,Chemistry,3.20,3.80,4.60
+AS.030.652.01.SP24,A Theoretical and Experimental Approach to X-ray Crystallography,"Siegler, Maxime","Siegler, Maxime",2024 Spring,Chemistry,3.80,4.00,5.00
+AS.030.652.01.SP25,A Theoretical and Experimental Approach to X-ray Crystallography,"Siegler, Maxime","Siegler, Maxime",2025 Spring,Chemistry,2.50,4.83,4.83
+AS.030.677.01.FA24,Advanced Organic Synthesis I,"Klausen, Rebekka","Klausen, Rebekka",2024 Fall,Chemistry,3.63,4.43,4.52
+AS.030.677.01.FA25,Advanced Organic Synthesis I,"Klausen, Rebekka","Klausen, Rebekka",2025 Fall,Chemistry,3.73,4.60,4.91
+AS.030.678.01.SP25,Advanced Organic Synthesis II,"Lectka, Thomas","Lectka, Thomas",2025 Spring,Chemistry,3.13,4.14,4.88
+AS.030.681.01.SP24,Nucleic Acids: Fundamental Chemistry and Applications,"Greenberg, Marc","Greenberg, Marc",2024 Spring,Chemistry,2.50,5.00,5.00

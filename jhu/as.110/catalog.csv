@@ -1,0 +1,861 @@
+code,title,credits,description,fa_tags,distribution,prereq_codes,prereq_text,restrictions,raw_description
+AS.110.100,Data Analytics Workshop,1,"In this two-week pre-college program, students work in groups to construct and present a data analysis project which collects, organizes, cleanses, and visualizes a dataset of their choosing. Topics include exploratory data analysis, data visualization, probability distributions, data scraping and cleansing, the basics of hypothesis testing, and regression modeling. Students will primarily use Microsoft Excel. Programs like Octave (Matlab), and Octoparse, will also be introduced to help students learn the basics of data analytics.",FA2,Quantitative and Mathematical Sciences,,,,"AS.110.100.
+Data Analytics Workshop.
+1 Credit.
+In this two-week pre-college program, students work in groups to construct and present a data analysis project which collects, organizes, cleanses, and visualizes a dataset of their choosing. Topics include exploratory data analysis, data visualization, probability distributions, data scraping and cleansing, the basics of hypothesis testing, and regression modeling. Students will primarily use Microsoft Excel. Programs like Octave (Matlab), and Octoparse, will also be introduced to help students learn the basics of data analytics.
+Distribution Area: Quantitative and Mathematical Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+AS.110.102,College Algebra,4,"This introductory course will create a foundational understanding of topics in Algebra. An emphasis will be on applications to prepare students for future courses like Precalculus or Statistics. After a review of elementary algebra concepts, topics covered include: equations and inequalities, linear equations, exponents and polynomials, factoring, rational expressions and equations, relations and functions, radicals, linear and quadratic equations, higher-degree polynomials, exponential, logarithmic, and rational functions.",FA2,Quantitative and Mathematical Sciences,,,,"AS.110.102.
+College Algebra.
+4 Credits.
+This introductory course will create a foundational understanding of topics in Algebra. An emphasis will be on applications to prepare students for future courses like Precalculus or Statistics. After a review of elementary algebra concepts, topics covered include: equations and inequalities, linear equations, exponents and polynomials, factoring, rational expressions and equations, relations and functions, radicals, linear and quadratic equations, higher-degree polynomials, exponential, logarithmic, and rational functions.
+Distribution Area: Quantitative and Mathematical Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+AS.110.105,Precalculus,4,"This course provides students with the background necessary for the study of calculus. It begins with a review of the coordinate plane, linear equations, and inequalities, and moves purposefully into the study of functions. Students will explore the nature of graphs and deepen their understanding of polynomial, rational, trigonometric, exponential, and logarithmic functions, and will be introduced to complex numbers, parametric equations, and the difference quotient.",FA2,Quantitative and Mathematical Sciences,,,,"AS.110.105.
+Precalculus.
+4 Credits.
+This course provides students with the background necessary for the study of calculus. It begins with a review of the coordinate plane, linear equations, and inequalities, and moves purposefully into the study of functions. Students will explore the nature of graphs and deepen their understanding of polynomial, rational, trigonometric, exponential, and logarithmic functions, and will be introduced to complex numbers, parametric equations, and the difference quotient.
+Distribution Area: Quantitative and Mathematical Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+AS.110.106,Calculus I (Biology and Social Sciences),4,"Differential and integral calculus. Includes analytic geometry, functions, limits, integrals and derivatives, introduction to differential equations, functions of several variables, linear systems, applications for systems of linear differential equations, probability distributions. Many applications to the biological and social sciences will be discussed.",FA2,Quantitative and Mathematical Sciences,,,,"AS.110.106.
+Calculus I (Biology and Social Sciences).
+4 Credits.
+Differential and integral calculus. Includes analytic geometry, functions, limits, integrals and derivatives, introduction to differential equations, functions of several variables, linear systems, applications for systems of linear differential equations, probability distributions. Many applications to the biological and social sciences will be discussed.
+Distribution Area: Quantitative and Mathematical Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+AS.110.107,Calculus II (For Biological and Social Science),4,"Differential and integral Calculus. Includes analytic geometry, functions, limits, integrals and derivatives, introduction to differential equations, functions of several variables, linear systems, applications for systems of linear differential equations, probability distributions. Applications to the biological and social sciences will be discussed, and the courses are designed to meet the needs of students in these disciplines.","FA1, FA2",Quantitative and Mathematical Sciences,,,,"AS.110.107.
+Calculus II (For Biological and Social Science).
+4 Credits.
+Differential and integral Calculus. Includes analytic geometry, functions, limits, integrals and derivatives, introduction to differential equations, functions of several variables, linear systems, applications for systems of linear differential equations, probability distributions. Applications to the biological and social sciences will be discussed, and the courses are designed to meet the needs of students in these disciplines.  Recommended Course Background: Grade of C- or Better in
+AS.110.106
+or
+AS.110.108
+, or a 5 on the AP AB exam.
+Distribution Area: Quantitative and Mathematical Sciences
+AS Foundational Abilities: Writing and Communication (FA1),
+Science and Data (FA2)"
+AS.110.108,Calculus I (Physical Sciences & Engineering),4,"Differential and integral calculus. Includes analytic geometry, functions, limits, integrals and derivatives, polar coordinates, parametric equations, Taylor's theorem and applications, infinite sequences and series. Some applications to the physical sciences and engineering will be discussed, and the courses are designed to meet the needs of students in these disciplines.",FA2,Quantitative and Mathematical Sciences,,,,"AS.110.108.
+Calculus I (Physical Sciences & Engineering).
+4 Credits.
+Differential and integral calculus. Includes analytic geometry, functions, limits, integrals and derivatives, polar coordinates, parametric equations, Taylor's theorem and applications, infinite sequences and series. Some applications to the physical sciences and engineering will be discussed, and the courses are designed to meet the needs of students in these disciplines.
+Distribution Area: Quantitative and Mathematical Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+AS.110.109,Calculus II (For Physical Sciences and Engineering),4,"Differential and integral calculus. Includes analytic geometry, functions, limits, integrals and derivatives, polar coordinates, parametric equations, Taylor's theorem and applications, infinite sequences and series.  Some applications to the physical sciences and engineering will be discussed, and the courses are designed to meet the needs of students in these disciplines.",FA2,Quantitative and Mathematical Sciences,,,,"AS.110.109.
+Calculus II (For Physical Sciences and Engineering).
+4 Credits.
+Differential and integral calculus. Includes analytic geometry, functions, limits, integrals and derivatives, polar coordinates, parametric equations, Taylor's theorem and applications, infinite sequences and series.  Some applications to the physical sciences and engineering will be discussed, and the courses are designed to meet the needs of students in these disciplines.  Recommended Course Background: Grade of C- or Better in
+AS.110.106
+or
+AS.110.108
+, or a 5 on the AP AB exam.
+Distribution Area: Quantitative and Mathematical Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+AS.110.110,Foundational Mathematics of Artificial Intelligence,1,"As artificial intelligence models like ChatGPT become increasingly capable and part of our everyday life, the need to understand their inner workings intensifies. This course introduces the mathematical and statistical principles behind machine learning and AI technologies. Students will assimilate basic concepts including math models and performance measurement. They will apply software to build machine learning applications that serve as AI building blocks including linear regression, classification trees, neural networks, and reinforcement learning. Participants will be challenged to assess the quality of their analyses to better understand the opportunities for, and the limitations of AI.",FA2,Quantitative and Mathematical Sciences,,,,"AS.110.110.
+Foundational Mathematics of Artificial Intelligence.
+1 Credit.
+As artificial intelligence models like ChatGPT become increasingly capable and part of our everyday life, the need to understand their inner workings intensifies. This course introduces the mathematical and statistical principles behind machine learning and AI technologies. Students will assimilate basic concepts including math models and performance measurement. They will apply software to build machine learning applications that serve as AI building blocks including linear regression, classification trees, neural networks, and reinforcement learning. Participants will be challenged to assess the quality of their analyses to better understand the opportunities for, and the limitations of AI.
+Distribution Area: Quantitative and Mathematical Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+AS.110.111,Math Modelling,1,Topics will vary by term. Please see the specific term and section for current topics.,FA2,Quantitative and Mathematical Sciences,,,,"AS.110.111.
+Math Modelling.
+1 Credit.
+Topics will vary by term. Please see the specific term and section for current topics.
+Distribution Area: Quantitative and Mathematical Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+AS.110.112,SPARK: Mathematics,1,This Summer Program Advancing Readiness and Knowledge allows incoming students to work through learning modules in the preparation and learning platform ALEKS with the support of a near-peer network. Students will participate synchronously and asynchronously over a two-week period.,FA2,,,,,"AS.110.112.
+SPARK: Mathematics.
+1 Credit.
+This Summer Program Advancing Readiness and Knowledge allows incoming students to work through learning modules in the preparation and learning platform ALEKS with the support of a near-peer network. Students will participate synchronously and asynchronously over a two-week period.
+AS Foundational Abilities: Science and Data (FA2)"
+AS.110.113,Honors Single Variable Calculus,4,"This is an honors alternative to the Calculus sequences
+AS.110.106
+-
+AS.110.107
+or
+AS.110.108
+-
+AS.110.109
+and meets the general requirement for both Calculus I and Calculus II (although the credit hours count for only one course). It is a more theoretical treatment of one variable differential and integral calculus and is based on our modern understanding of the real number system as explained by Cantor, Dedekind, and Weierstrass. Students who want to know the ""why's and how's"" of Calculus will find this course rewarding. Previous background in Calculus is not assumed. Students will learn differential Calculus (derivatives, differentiation, chain rule, optimization, related rates, etc), the theory of integration, the fundamental theorem(s) of Calculus, applications of integration, and Taylor series. Students should have a strong ability to learn mathematics quickly and on a higher level than that of the regular Calculus sequences.",FA2,Quantitative and Mathematical Sciences,,,,"AS.110.113.
+Honors Single Variable Calculus.
+4 Credits.
+This is an honors alternative to the Calculus sequences
+AS.110.106
+-
+AS.110.107
+or
+AS.110.108
+-
+AS.110.109
+and meets the general requirement for both Calculus I and Calculus II (although the credit hours count for only one course). It is a more theoretical treatment of one variable differential and integral calculus and is based on our modern understanding of the real number system as explained by Cantor, Dedekind, and Weierstrass. Students who want to know the ""why's and how's"" of Calculus will find this course rewarding. Previous background in Calculus is not assumed. Students will learn differential Calculus (derivatives, differentiation, chain rule, optimization, related rates, etc), the theory of integration, the fundamental theorem(s) of Calculus, applications of integration, and Taylor series. Students should have a strong ability to learn mathematics quickly and on a higher level than that of the regular Calculus sequences.
+Distribution Area: Quantitative and Mathematical Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+AS.110.125,Introduction to Data Analysis,4,"This course introduces students to important concepts in data analytics using a hands-on analysis through case studies. Students will learn how to gather, analyze, and interpret data to drive strategic and operational success. Students will explore how to clean and organize data for analysis and how to perform calculations using spreadsheets, SQL and R programming. Topics include the data lifecycle, probability, statistics, hypothesis testing, set theory, graphing, regression, and data ethics.",FA2,Quantitative and Mathematical Sciences,,,,"AS.110.125.
+Introduction to Data Analysis.
+4 Credits.
+This course introduces students to important concepts in data analytics using a hands-on analysis through case studies. Students will learn how to gather, analyze, and interpret data to drive strategic and operational success. Students will explore how to clean and organize data for analysis and how to perform calculations using spreadsheets, SQL and R programming. Topics include the data lifecycle, probability, statistics, hypothesis testing, set theory, graphing, regression, and data ethics.
+Distribution Area: Quantitative and Mathematical Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+AS.110.126,Mathematics for Sustainability,4,"Mathematics for Sustainability covers topics in measurement, probability, statistics, dynamics, and data analysis. In this course, students will analyze, visually represent, and interpret large, real data sets from a variety of government, corporate, and non-profit sources.  Through local and global case studies, students will engage in the mathematics behind environmental sustainability issues and the debates centered on them. Topics include climate change, natural resource use, waste production, air and water pollution, water scarcity, and decreasing biodiversity.  The software package R is used throughout the semester.","FA2, FA4",Quantitative and Mathematical Sciences,,,,"AS.110.126.
+Mathematics for Sustainability.
+4 Credits.
+Mathematics for Sustainability covers topics in measurement, probability, statistics, dynamics, and data analysis. In this course, students will analyze, visually represent, and interpret large, real data sets from a variety of government, corporate, and non-profit sources.  Through local and global case studies, students will engage in the mathematics behind environmental sustainability issues and the debates centered on them. Topics include climate change, natural resource use, waste production, air and water pollution, water scarcity, and decreasing biodiversity.  The software package R is used throughout the semester.
+Distribution Area: Quantitative and Mathematical Sciences
+AS Foundational Abilities: Science and Data (FA2),
+Citizens and Society (FA4)"
+AS.110.201,Linear Algebra,4,"Vector spaces, matrices, and linear transformations. Solutions of systems of linear equations. Eigenvalues, eigenvectors, and diagonalization of matrices. Applications to differential equations.","FA2, FA5",Quantitative and Mathematical Sciences,"AS.110.212, EN.553.291, AS.110.201, AS.110.107, AS.110.109, AS.110.113, AS.110.202, AS.110.302","Students who have taken, or are already enrolled in
+AS.110.212
+OR
+EN.553.291
+, are not eligible to take
+AS.110.201
+.;Grade of C- or better in
+AS.110.107
+OR
+AS.110.109
+OR
+AS.110.113
+OR
+AS.110.202
+OR
+AS.110.302
+, or a 5 on the AP BC exam.",,"AS.110.201.
+Linear Algebra.
+4 Credits.
+Vector spaces, matrices, and linear transformations. Solutions of systems of linear equations. Eigenvalues, eigenvectors, and diagonalization of matrices. Applications to differential equations.
+Prerequisite(s):
+Students who have taken, or are already enrolled in
+AS.110.212
+OR
+EN.553.291
+, are not eligible to take
+AS.110.201
+.;Grade of C- or better in
+AS.110.107
+OR
+AS.110.109
+OR
+AS.110.113
+OR
+AS.110.202
+OR
+AS.110.302
+, or a 5 on the AP BC exam.
+Distribution Area: Quantitative and Mathematical Sciences
+AS Foundational Abilities: Science and Data (FA2),
+Ethics and Foundations (FA5)"
+AS.110.202,Calculus III,4,"Calculus of functions of more than one variable: partial derivatives, and applications; multiple integrals, line and surface integrals; Green's Theorem, Stokes' Theorem, and Gauss' Divergence Theorem.",FA2,Quantitative and Mathematical Sciences,"AS.110.107, AS.110.109, AS.110.113, AS.110.201, AS.110.212, AS.110.302","Grade of C- or better in
+AS.110.107
+OR
+AS.110.109
+OR
+AS.110.113
+OR
+AS.110.201
+OR
+AS.110.212
+OR
+AS.110.302
+, or a 5 or better on the AP BC exam.",,"AS.110.202.
+Calculus III.
+4 Credits.
+Calculus of functions of more than one variable: partial derivatives, and applications; multiple integrals, line and surface integrals; Green's Theorem, Stokes' Theorem, and Gauss' Divergence Theorem.
+Prerequisite(s):
+Grade of C- or better in
+AS.110.107
+OR
+AS.110.109
+OR
+AS.110.113
+OR
+AS.110.201
+OR
+AS.110.212
+OR
+AS.110.302
+, or a 5 or better on the AP BC exam.
+Distribution Area: Quantitative and Mathematical Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+AS.110.204,Practical Mathematics for AI,4,"This course provides a rigorous yet accessible introduction to the essential mathematical foundations underlying modern Artificial Intelligence (AI) and Deep Learning applications. The course emphasizes the practical application of linear algebra, probability, statistics, calculus, and optimization techniques in the design and understanding of machine learning systems. Students will explore how these core mathematical tools are used to build models for computer vision, regression, classification, clustering, and deep neural networks. Each topic is contextualized with real-world problems, Python Code, and bridging theory with implementation. The course is designed for students from diverse academic backgrounds who want to gain a solid foundation in mathematics for working with AI systems. Topics include: Vectors, matrices, and tensor operations; Calculus and gradient-based optimization for training neural networks; Probability theory and statistical inference in machine learning; Mathematical intuition behind computer vision, regression, classification, clustering, and deep neural networks with practical use cases.",FA2,Quantitative and Mathematical Sciences,AS.110.105,AS.110.105,,"AS.110.204.
+Practical Mathematics for AI.
+4 Credits.
+This course provides a rigorous yet accessible introduction to the essential mathematical foundations underlying modern Artificial Intelligence (AI) and Deep Learning applications. The course emphasizes the practical application of linear algebra, probability, statistics, calculus, and optimization techniques in the design and understanding of machine learning systems. Students will explore how these core mathematical tools are used to build models for computer vision, regression, classification, clustering, and deep neural networks. Each topic is contextualized with real-world problems, Python Code, and bridging theory with implementation. The course is designed for students from diverse academic backgrounds who want to gain a solid foundation in mathematics for working with AI systems. Topics include: Vectors, matrices, and tensor operations; Calculus and gradient-based optimization for training neural networks; Probability theory and statistical inference in machine learning; Mathematical intuition behind computer vision, regression, classification, clustering, and deep neural networks with practical use cases.
+Prerequisite(s):
+AS.110.105
+Distribution Area: Quantitative and Mathematical Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+AS.110.205,Mathematics of Data Science,4,"This course is designed for students of all backgrounds to provide a solid foundation in the underlying mathematical, programming, and statistical theory of data analysis. In today's data driven world, data literacy is an increasingly important skill to master. To this end, the course will motivate the fundamental concepts used in this growing field. While discussing the general theory behind common methods of data science there will be numerous applications to real world data sets. In particular, the course will use Python libraries to create, import, and analyze data sets.",FA2,Quantitative and Mathematical Sciences,,,,"AS.110.205.
+Mathematics of Data Science.
+4 Credits.
+This course is designed for students of all backgrounds to provide a solid foundation in the underlying mathematical, programming, and statistical theory of data analysis. In today's data driven world, data literacy is an increasingly important skill to master. To this end, the course will motivate the fundamental concepts used in this growing field. While discussing the general theory behind common methods of data science there will be numerous applications to real world data sets. In particular, the course will use Python libraries to create, import, and analyze data sets.
+Distribution Area: Quantitative and Mathematical Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+AS.110.211,Honors Multivariable Calculus,4,"This course includes the material in
+AS.110.202
+with some additional applications and theory. Recommended for mathematically able students majoring in physical science, engineering, or especially mathematics.
+AS.110.211
+-
+AS.110.212
+used to be an integrated yearlong course, but now the two are independent courses and can be taken in either order.",FA2,Quantitative and Mathematical Sciences,"AS.110.201, AS.110.212","Grade of C- or better in (
+AS.110.201
+or
+AS.110.212
+)",,"AS.110.211.
+Honors Multivariable Calculus.
+4 Credits.
+This course includes the material in
+AS.110.202
+with some additional applications and theory. Recommended for mathematically able students majoring in physical science, engineering, or especially mathematics.
+AS.110.211
+-
+AS.110.212
+used to be an integrated yearlong course, but now the two are independent courses and can be taken in either order.
+Prerequisite(s):
+Grade of C- or better in (
+AS.110.201
+or
+AS.110.212
+)
+Distribution Area: Quantitative and Mathematical Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+AS.110.212,Honors Linear Algebra,4,"This course includes the material in
+AS.110.201
+with additional applications and theory, and is recommended only for mathematically able students majoring in physical science, engineering, or mathematics who are interested in a proof-based version of linear algebra. This course can serve as an Introduction to Proofs (IP) course.  Prerequisites: Grade of B+ or better in 110.107 or 110.109 or 110.113, or a 5 on the AP BC exam. Area: Quantitative and Mathematical Sciences.","FA2, FA5",Quantitative and Mathematical Sciences,"EN.553.291, AS.110.201, AS.110.212, AS.110.107, AS.110.109, AS.110.113, AS.110.202, AS.110.302","Students who have taken, or are currently enrolled in
+EN.553.291
+OR
+AS.110.201
+, are not eligible to take
+AS.110.212
+.;Grade of B+ or better in
+AS.110.107
+or
+AS.110.109
+or
+AS.110.113
+or
+AS.110.202
+, or
+AS.110.302
+, or a 5 on the AP BC exam.",,"AS.110.212.
+Honors Linear Algebra.
+4 Credits.
+This course includes the material in
+AS.110.201
+with additional applications and theory, and is recommended only for mathematically able students majoring in physical science, engineering, or mathematics who are interested in a proof-based version of linear algebra. This course can serve as an Introduction to Proofs (IP) course.  Prerequisites: Grade of B+ or better in 110.107 or 110.109 or 110.113, or a 5 on the AP BC exam. Area: Quantitative and Mathematical Sciences.
+Prerequisite(s):
+Students who have taken, or are currently enrolled in
+EN.553.291
+OR
+AS.110.201
+, are not eligible to take
+AS.110.212
+.;Grade of B+ or better in
+AS.110.107
+or
+AS.110.109
+or
+AS.110.113
+or
+AS.110.202
+, or
+AS.110.302
+, or a 5 on the AP BC exam.
+Distribution Area: Quantitative and Mathematical Sciences
+AS Foundational Abilities: Science and Data (FA2),
+Ethics and Foundations (FA5)"
+AS.110.225,Problem Solving Lab,2,"This course is an introduction to mathematical reason and formalism in the context of mathematical problem solving, such as induction, invariants, inequalities and generating functions.  This course does not satisfy any major requirement, and may be taken more than once for credit  It is primarily used as training for the William Lowell Putnam Mathematics Competition.  Area: Quantitative and Mathematical Sciences.",FA2,Quantitative and Mathematical Sciences,,,,"AS.110.225.
+Problem Solving Lab.
+2 Credits.
+This course is an introduction to mathematical reason and formalism in the context of mathematical problem solving, such as induction, invariants, inequalities and generating functions.  This course does not satisfy any major requirement, and may be taken more than once for credit  It is primarily used as training for the William Lowell Putnam Mathematics Competition.  Area: Quantitative and Mathematical Sciences.
+Distribution Area: Quantitative and Mathematical Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+AS.110.275,Introduction to Probability,4,"This course follows the actuarial Exam P syllabus and learning objectives to prepare students to pass the SOA/CAS Probability Exam. Topics include axioms of probability, discrete and continuous random variables, conditional probability, Bayes’ theorem, Chebyshev's Theorem, Central Limit Theorem, univariate and joint distributions and expectations, loss frequency, loss severity and other risk management concepts. Exam P learning objectives and learning outcomes are emphasized.",FA2,Quantitative and Mathematical Sciences,"AS.110.107, AS.110.109","AS.110.107
+OR
+AS.110.109",,"AS.110.275.
+Introduction to Probability.
+4 Credits.
+This course follows the actuarial Exam P syllabus and learning objectives to prepare students to pass the SOA/CAS Probability Exam. Topics include axioms of probability, discrete and continuous random variables, conditional probability, Bayes’ theorem, Chebyshev's Theorem, Central Limit Theorem, univariate and joint distributions and expectations, loss frequency, loss severity and other risk management concepts. Exam P learning objectives and learning outcomes are emphasized.  Recommended Course Background: Calculus II
+Prerequisite(s):
+AS.110.107
+OR
+AS.110.109
+Distribution Area: Quantitative and Mathematical Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+AS.110.276,Introduction to Financial Mathematics,4,"This course is designed to develop students' understanding of fundamental concepts of financial mathematics.  The course will cover mathematical theory and applications including the time value of money, annuities and cash flows, bond pricing, loans, amortization, stock and portfolio pricing, immunization of portfolios, swaps and determinants of interest rates, asset matching and convexity.  A basic knowledge of calculus and an introductory knowledge of probability is assumed.",FA2,Quantitative and Mathematical Sciences,,,,"AS.110.276.
+Introduction to Financial Mathematics.
+4 Credits.
+This course is designed to develop students' understanding of fundamental concepts of financial mathematics.  The course will cover mathematical theory and applications including the time value of money, annuities and cash flows, bond pricing, loans, amortization, stock and portfolio pricing, immunization of portfolios, swaps and determinants of interest rates, asset matching and convexity.  A basic knowledge of calculus and an introductory knowledge of probability is assumed.
+Distribution Area: Quantitative and Mathematical Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+AS.110.301,Introduction to Proofs,4,"This course will provide a practical introduction to mathematical proof, both as they have been done for centuries, and using a modern technological theorem prover. The course begins with the basic building blocks of mathematics: propositional logic, set theory, functions, and relations. These foundational tools lead to answers to questions that are surprisingly difficult, like “what are numbers?” Students will be exposed to mathematical notation and how to create it in digital documents, as well as an “artificially intelligent” proof assistant. The course will conclude with a consideration of the role of A.I. in pure mathematics, particularly as it applies to proofs.","FA1, FA2, FA5",Quantitative and Mathematical Sciences,,,,"AS.110.301.
+Introduction to Proofs.
+4 Credits.
+This course will provide a practical introduction to mathematical proof, both as they have been done for centuries, and using a modern technological theorem prover. The course begins with the basic building blocks of mathematics: propositional logic, set theory, functions, and relations. These foundational tools lead to answers to questions that are surprisingly difficult, like “what are numbers?” Students will be exposed to mathematical notation and how to create it in digital documents, as well as an “artificially intelligent” proof assistant. The course will conclude with a consideration of the role of A.I. in pure mathematics, particularly as it applies to proofs.
+Distribution Area: Quantitative and Mathematical Sciences
+AS Foundational Abilities: Writing and Communication (FA1),
+Science and Data (FA2),
+Ethics and Foundations (FA5)"
+AS.110.302,Differential Equations and Applications,4,"This is a course in ordinary differential equations (ODEs), equations involving an unknown function of one independent variable and some of its derivatives, and is primarily a course in the study of the structure of and techniques for solving ODEs as mathematical models. Specific topics include first and second ODEs of various types, systems of linear differential equations, autonomous systems, and the qualitative and quantitative analysis of nonlinear systems of first-order ODEs.  Laplace transforms, series solutions and the basics of numerical solutions are included as extra topics.Prerequisites: Grade of C- or better in 110.107 or 110.109 or 110.113, or a 5 on the AP BC exam. Area: Quantitative and Mathematical Sciences.",FA2,Quantitative and Mathematical Sciences,"AS.110.107, AS.110.109, AS.110.113, AS.110.201, AS.110.202, AS.110.211, AS.110.212","Grade of C- or better in
+AS.110.107
+or
+AS.110.109
+or
+AS.110.113
+or
+AS.110.201
+or
+AS.110.202
+or
+AS.110.211
+or
+AS.110.212
+, or a 5 on the AP BC exam.",,"AS.110.302.
+Differential Equations and Applications.
+4 Credits.
+This is a course in ordinary differential equations (ODEs), equations involving an unknown function of one independent variable and some of its derivatives, and is primarily a course in the study of the structure of and techniques for solving ODEs as mathematical models. Specific topics include first and second ODEs of various types, systems of linear differential equations, autonomous systems, and the qualitative and quantitative analysis of nonlinear systems of first-order ODEs.  Laplace transforms, series solutions and the basics of numerical solutions are included as extra topics.Prerequisites: Grade of C- or better in 110.107 or 110.109 or 110.113, or a 5 on the AP BC exam. Area: Quantitative and Mathematical Sciences.
+Prerequisite(s):
+Grade of C- or better in
+AS.110.107
+or
+AS.110.109
+or
+AS.110.113
+or
+AS.110.201
+or
+AS.110.202
+or
+AS.110.211
+or
+AS.110.212
+, or a 5 on the AP BC exam.
+Distribution Area: Quantitative and Mathematical Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+AS.110.303,"The Mathematics of Politics, Democracy, and Social Choice",4,"This course is designed for students of all backgrounds to provide a mathematical introduction tosocial choice theory, weighted voting systems, apportionment methods, and gerrymandering. Inthe search for ideal ways to make certain kinds of political decisions, a lot of wasted effort couldbe averted if mathematics could determine that finding such an ideal were actually possible in thefirst place. The course will analyze data from recent US elections as well as provide historicalcontext to modern discussions in politics, culminating in a mathematical analysis of the USElectoral College. Case studies, future implications, and comparisons to other governing bodiesoutside the US will be used to apply the theory of the course. Students will use Microsoft Excel toanalyze data sets. There are no mathematical prerequisites for this course.","FA1, FA2, FA4",Quantitative and Mathematical Sciences,,,Writing Intensive,"AS.110.303.
+The Mathematics of Politics, Democracy, and Social Choice.
+4 Credits.
+This course is designed for students of all backgrounds to provide a mathematical introduction tosocial choice theory, weighted voting systems, apportionment methods, and gerrymandering. Inthe search for ideal ways to make certain kinds of political decisions, a lot of wasted effort couldbe averted if mathematics could determine that finding such an ideal were actually possible in thefirst place. The course will analyze data from recent US elections as well as provide historicalcontext to modern discussions in politics, culminating in a mathematical analysis of the USElectoral College. Case studies, future implications, and comparisons to other governing bodiesoutside the US will be used to apply the theory of the course. Students will use Microsoft Excel toanalyze data sets. There are no mathematical prerequisites for this course.
+Distribution Area: Quantitative and Mathematical Sciences
+AS Foundational Abilities: Writing and Communication (FA1),
+Science and Data (FA2),
+Citizens and Society (FA4),
+Democracy (FA4.1)
+EN Foundational Abilities: Engagement with Society (FA4)
+Writing Intensive"
+AS.110.304,Elementary Number Theory,4,"The student is provided with many historical examples of topics, each of which serves as an illustration of and provides a background for many years of current research in number theory. Primes and prime factorization, congruences, Euler's function, quadratic reciprocity, primitive roots, solutions to polynomial congruences (Chevalley's theorem), Diophantine equations including the Pythagorean and Pell equations, Gaussian integers, Dirichlet's theorem on primes.",FA2,Quantitative and Mathematical Sciences,"AS.110.109, AS.110.113","AS.110.109
+Calculus II OR
+AS.110.113
+Honors Single Variable Calculus, or the equivalent of a full year of single variable calculus.",,"AS.110.304.
+Elementary Number Theory.
+4 Credits.
+The student is provided with many historical examples of topics, each of which serves as an illustration of and provides a background for many years of current research in number theory. Primes and prime factorization, congruences, Euler's function, quadratic reciprocity, primitive roots, solutions to polynomial congruences (Chevalley's theorem), Diophantine equations including the Pythagorean and Pell equations, Gaussian integers, Dirichlet's theorem on primes.
+Prerequisite(s):
+AS.110.109
+Calculus II OR
+AS.110.113
+Honors Single Variable Calculus, or the equivalent of a full year of single variable calculus.
+Distribution Area: Quantitative and Mathematical Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+AS.110.311,Methods of Complex Analysis,4,"This course is an introduction to the theory of functions of one complex variable.  Its emphasis is on techniques and applications, and it serves as a basis for more advanced courses. Functions of a complex variable and their derivatives; power series and Laurent expansions; Cauchy integral theorem and formula; calculus of residues and contour integrals; harmonic functions.","FA2, FA5",Quantitative and Mathematical Sciences,"AS.110.202, AS.110.211","Grade of C- or better in (
+AS.110.202
+or
+AS.110.211
+)",,"AS.110.311.
+Methods of Complex Analysis.
+4 Credits.
+This course is an introduction to the theory of functions of one complex variable.  Its emphasis is on techniques and applications, and it serves as a basis for more advanced courses. Functions of a complex variable and their derivatives; power series and Laurent expansions; Cauchy integral theorem and formula; calculus of residues and contour integrals; harmonic functions.
+Prerequisite(s):
+Grade of C- or better in (
+AS.110.202
+or
+AS.110.211
+)
+Distribution Area: Quantitative and Mathematical Sciences
+AS Foundational Abilities: Science and Data (FA2),
+Ethics and Foundations (FA5)"
+AS.110.365,Mathematical Foundations of AI Bias,4,"At the end of this course students should be able to understand various sources of algorithmic bias; understand what types of bias can or cannot be addressed in a given data set; be able to reason over when different algorithms can be applied to a data set, and how they can be interpreted; take the outcomes of a given algorithm and reason about the bias of the output.",FA2,Quantitative and Mathematical Sciences,"AS.110.201, AS.110.202, EN.553.310","AS.110.201
+OR
+AS.110.202
+OR
+EN.553.310",,"AS.110.365.
+Mathematical Foundations of AI Bias.
+4 Credits.
+At the end of this course students should be able to understand various sources of algorithmic bias; understand what types of bias can or cannot be addressed in a given data set; be able to reason over when different algorithms can be applied to a data set, and how they can be interpreted; take the outcomes of a given algorithm and reason about the bias of the output.  Recommended Course Background: Vector calc, linear algebra, a suffiently advanced stats course, programming ability in R, matlab or python
+Prerequisite(s):
+AS.110.201
+OR
+AS.110.202
+OR
+EN.553.310
+Distribution Area: Quantitative and Mathematical Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+AS.110.375,Introduction to Mathematical Cryptography,4,"An Introduction to Mathematical Cryptography is an introduction to modern cryptography with an emphasis on the mathematics behind the theory of public key cryptosystems and digital signature schemes. The course develops the mathematical tools needed for the construction and security analysis of diverse cryptosystems. Other topics central to mathematical cryptography covered are: classical cryptographic constructions, such as Diffie-Hellmann key exchange, discrete logarithm-based cryptosystems, the RSA cryptosystem, and digital signatures.  Fundamental mathematical tools for cryptography studied include: primality testing, factorization algorithms, probability theory, information theory, and collision algorithms. A survey of important recent cryptographic innovations, such as elliptic curves, elliptic curve and pairing-based cryptography are included as well. This course is an ideal introduction for mathematics and computer science students to the mathematical foundations of modern cryptography.",FA2,Quantitative and Mathematical Sciences,,,,"AS.110.375.
+Introduction to Mathematical Cryptography.
+4 Credits.
+An Introduction to Mathematical Cryptography is an introduction to modern cryptography with an emphasis on the mathematics behind the theory of public key cryptosystems and digital signature schemes. The course develops the mathematical tools needed for the construction and security analysis of diverse cryptosystems. Other topics central to mathematical cryptography covered are: classical cryptographic constructions, such as Diffie-Hellmann key exchange, discrete logarithm-based cryptosystems, the RSA cryptosystem, and digital signatures.  Fundamental mathematical tools for cryptography studied include: primality testing, factorization algorithms, probability theory, information theory, and collision algorithms. A survey of important recent cryptographic innovations, such as elliptic curves, elliptic curve and pairing-based cryptography are included as well. This course is an ideal introduction for mathematics and computer science students to the mathematical foundations of modern cryptography.
+Distribution Area: Quantitative and Mathematical Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+AS.110.401,Introduction to Abstract Algebra,4,"An introduction to the basic notions of modern abstract algebra and can serve as as Introduction to Proofs (IP) course.  This course is an introduction to group theory, with an emphasis on concrete examples, and especially on geometric symmetry groups. The course will introduce basic notions (groups, subgroups, homomorphisms, quotients) and prove foundational results (Lagrange's theorem, Cauchy's theorem, orbit-counting techniques, the classification of finite abelian groups). Examples to be discussed include permutation groups, dihedral groups, matrix groups, and finite rotation groups, culminating in the classification of the wallpaper groups.Prerequisites: Grade of C- or better in 110.201 or 110.212  Area: Quantitative and Mathematical Sciences.","FA2, FA5",Quantitative and Mathematical Sciences,"AS.110.201, AS.110.212","Grade of C- or better in (
+AS.110.201
+or
+AS.110.212
+)",,"AS.110.401.
+Introduction to Abstract Algebra.
+4 Credits.
+An introduction to the basic notions of modern abstract algebra and can serve as as Introduction to Proofs (IP) course.  This course is an introduction to group theory, with an emphasis on concrete examples, and especially on geometric symmetry groups. The course will introduce basic notions (groups, subgroups, homomorphisms, quotients) and prove foundational results (Lagrange's theorem, Cauchy's theorem, orbit-counting techniques, the classification of finite abelian groups). Examples to be discussed include permutation groups, dihedral groups, matrix groups, and finite rotation groups, culminating in the classification of the wallpaper groups.Prerequisites: Grade of C- or better in 110.201 or 110.212  Area: Quantitative and Mathematical Sciences.
+Prerequisite(s):
+Grade of C- or better in (
+AS.110.201
+or
+AS.110.212
+)
+Distribution Area: Quantitative and Mathematical Sciences
+AS Foundational Abilities: Science and Data (FA2),
+Ethics and Foundations (FA5)"
+AS.110.405,Real Analysis I,4,"This course is designed to give a firm grounding in the basic tools of analysis. It is recommended as preparation (but may not be a prerequisite) for other advanced analysis courses and may be taken as an Introduction to Proofs (IP) course. Topics include the formal properties of real and complex number systems, topology of metric spaces, limits, continuity, infinite sequences and series, differentiation, Riemann-Stieltjes integration. Prerequisites: Grade of C- or better in 110.201 or 110.212 and 110.202 or 110.211","FA1, FA2, FA5",Quantitative and Mathematical Sciences,"AS.110.415, AS.110.405, AS.110.201, AS.110.212, AS.110.202, AS.110.211","Students who have taken, or are currently enrolled in
+AS.110.415
+, are not eligible to take
+AS.110.405
+.;Grade of C- or better in (
+AS.110.201
+OR
+AS.110.212
+) AND (
+AS.110.202
+OR
+AS.110.211
+)",Writing Intensive,"AS.110.405.
+Real Analysis I.
+4 Credits.
+This course is designed to give a firm grounding in the basic tools of analysis. It is recommended as preparation (but may not be a prerequisite) for other advanced analysis courses and may be taken as an Introduction to Proofs (IP) course. Topics include the formal properties of real and complex number systems, topology of metric spaces, limits, continuity, infinite sequences and series, differentiation, Riemann-Stieltjes integration. Prerequisites: Grade of C- or better in 110.201 or 110.212 and 110.202 or 110.211
+Prerequisite(s):
+Students who have taken, or are currently enrolled in
+AS.110.415
+, are not eligible to take
+AS.110.405
+.;Grade of C- or better in (
+AS.110.201
+OR
+AS.110.212
+) AND (
+AS.110.202
+OR
+AS.110.211
+)
+Distribution Area: Quantitative and Mathematical Sciences
+AS Foundational Abilities: Writing and Communication (FA1),
+Science and Data (FA2),
+Ethics and Foundations (FA5)
+Writing Intensive"
+AS.110.406,Real Analysis II,4,"This course continues
+AS.110.405
+with an emphasis on the fundamental notions of modern analysis.  Sequences and series of functions, Fourier series, equicontinuity and the Arzela-Ascoli theorem, the Stone-Weierstrass theorem, functions of several variables, the inverse and implicit function theorems, introduction to the Lebesgue integral.","FA2, FA5",Quantitative and Mathematical Sciences,,,,"AS.110.406.
+Real Analysis II.
+4 Credits.
+This course continues
+AS.110.405
+with an emphasis on the fundamental notions of modern analysis.  Sequences and series of functions, Fourier series, equicontinuity and the Arzela-Ascoli theorem, the Stone-Weierstrass theorem, functions of several variables, the inverse and implicit function theorems, introduction to the Lebesgue integral.
+Distribution Area: Quantitative and Mathematical Sciences
+AS Foundational Abilities: Science and Data (FA2),
+Ethics and Foundations (FA5)"
+AS.110.407,Honors Complex Analysis,4,"AS.110.407
+. Honors Complex Analysis. 4.00 Credits.This course is an introduction to the theory of functions of one complex variable for honors students. Its emphasis is on techniques and applications, and can serve as an Introduction to Proofs (IP) course.  Topics will include functions of a complex variable and their derivatives; power series and Laurent expansions; Cauchy integral theorem and formula; calculus of residues and contour integrals; harmonic functions, as well as applications to number theory and harmonic analysis.Area: Quantitative and Mathematical Sciences.This is not an Introduction to Proofs course (IP) and may not be taken as a first proof-based mathematics course except at the discretion of the instructor. This course satisfies a core requirement of the mathematics major as a second analysis course, and is a core requirement for honors in the major.","FA2, FA5",Quantitative and Mathematical Sciences,"AS.110.405, AS.110.415","AS.110.405
+OR
+AS.110.415",,"AS.110.407.
+Honors Complex Analysis.
+4 Credits.
+AS.110.407
+. Honors Complex Analysis. 4.00 Credits.This course is an introduction to the theory of functions of one complex variable for honors students. Its emphasis is on techniques and applications, and can serve as an Introduction to Proofs (IP) course.  Topics will include functions of a complex variable and their derivatives; power series and Laurent expansions; Cauchy integral theorem and formula; calculus of residues and contour integrals; harmonic functions, as well as applications to number theory and harmonic analysis.Area: Quantitative and Mathematical Sciences.This is not an Introduction to Proofs course (IP) and may not be taken as a first proof-based mathematics course except at the discretion of the instructor. This course satisfies a core requirement of the mathematics major as a second analysis course, and is a core requirement for honors in the major.
+Prerequisite(s):
+AS.110.405
+OR
+AS.110.415
+Distribution Area: Quantitative and Mathematical Sciences
+AS Foundational Abilities: Science and Data (FA2),
+Ethics and Foundations (FA5)"
+AS.110.411,Honors Algebra I,4,"An introduction to the basic notions of modern algebra for students with some prior acquaintance with abstract mathematics. Elements of group theory: groups, subgroups, normal subgroups, quotients, homomorphisms. Generators and relations, free groups, products, abelian groups, finite groups. Groups acting on sets, the Sylow theorems. Definition and examples of rings and ideals.","FA2, FA5",Quantitative and Mathematical Sciences,"AS.110.212, AS.110.304, AS.110.113, AS.110.405, AS.110.415, AS.110.407, AS.110.413, AS.110.421","Grade of C- or better in
+AS.110.212
+OR
+AS.110.304
+OR
+AS.110.113
+OR
+AS.110.405
+OR
+AS.110.415
+OR
+AS.110.407
+OR
+AS.110.413
+OR
+AS.110.421",,"AS.110.411.
+Honors Algebra I.
+4 Credits.
+An introduction to the basic notions of modern algebra for students with some prior acquaintance with abstract mathematics. Elements of group theory: groups, subgroups, normal subgroups, quotients, homomorphisms. Generators and relations, free groups, products, abelian groups, finite groups. Groups acting on sets, the Sylow theorems. Definition and examples of rings and ideals.
+Prerequisite(s):
+Grade of C- or better in
+AS.110.212
+OR
+AS.110.304
+OR
+AS.110.113
+OR
+AS.110.405
+OR
+AS.110.415
+OR
+AS.110.407
+OR
+AS.110.413
+OR
+AS.110.421
+Distribution Area: Quantitative and Mathematical Sciences
+AS Foundational Abilities: Science and Data (FA2),
+Ethics and Foundations (FA5)"
+AS.110.412,Honors Algebra II,4,"This is a continuation of 110.411 Honors Algebra I. Topics studies include principal ideal domains, structure of finitely generated modules over them. Introduction to field theory. Linear algebra over a field. Field extensions, constructible polygons, non-trisectability. Splitting field of a polynomial, algebraic closure of a field. Galois theory: correspondence between subgroups and subfields. Solvability of polynomial equations by radicals. Prerequisites: Grade of C- or better in 110.201 or 110.212.Area: Quantitative and Mathematical Sciences.","FA1, FA2, FA5",Quantitative and Mathematical Sciences,AS.110.411,"C- or better in
+AS.110.411",,"AS.110.412.
+Honors Algebra II.
+4 Credits.
+This is a continuation of 110.411 Honors Algebra I. Topics studies include principal ideal domains, structure of finitely generated modules over them. Introduction to field theory. Linear algebra over a field. Field extensions, constructible polygons, non-trisectability. Splitting field of a polynomial, algebraic closure of a field. Galois theory: correspondence between subgroups and subfields. Solvability of polynomial equations by radicals. Prerequisites: Grade of C- or better in 110.201 or 110.212.Area: Quantitative and Mathematical Sciences.
+Prerequisite(s):
+C- or better in
+AS.110.411
+Distribution Area: Quantitative and Mathematical Sciences
+AS Foundational Abilities: Writing and Communication (FA1),
+Science and Data (FA2),
+Ethics and Foundations (FA5)"
+AS.110.413,Introduction To Topology,4,"Topological spaces, connectedness, compactness, quotient spaces, metric spaces, function spaces. An introduction to algebraic topology: covering spaces, the fundamental group, and other topics as time permits.","FA1, FA2, FA5",Quantitative and Mathematical Sciences,"AS.110.202, AS.110.211","Grade of C- or better in (
+AS.110.202
+OR
+AS.110.211
+)",,"AS.110.413.
+Introduction To Topology.
+4 Credits.
+Topological spaces, connectedness, compactness, quotient spaces, metric spaces, function spaces. An introduction to algebraic topology: covering spaces, the fundamental group, and other topics as time permits.
+Prerequisite(s):
+Grade of C- or better in (
+AS.110.202
+OR
+AS.110.211
+)
+Distribution Area: Quantitative and Mathematical Sciences
+AS Foundational Abilities: Writing and Communication (FA1),
+Science and Data (FA2),
+Ethics and Foundations (FA5)"
+AS.110.415,Honors Analysis I,4,"This highly theoretical sequence in analysis is reserved for the most able students. The sequence covers the real number system, metric spaces, basic functional analysis, the Lebesgue integral, and other topics.",FA2,Quantitative and Mathematical Sciences,,Grade of B+ or better in 110.201 or B- or better in 110.212 and B+ or better in 110.202 or B- or better in 110.211.,,"AS.110.415.
+Honors Analysis I.
+4 Credits.
+This highly theoretical sequence in analysis is reserved for the most able students. The sequence covers the real number system, metric spaces, basic functional analysis, the Lebesgue integral, and other topics.
+Prerequisite(s):
+Grade of B+ or better in 110.201 or B- or better in 110.212 and B+ or better in 110.202 or B- or better in 110.211.
+Distribution Area: Quantitative and Mathematical Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+AS.110.416,Honors Analysis II,4,"Lebesgue integration and differentiation.  Elementary Hilbert and Banach space theory.  Baire category theorem.  Continuation of
+AS.110.415
+, introduction to real analysis.","FA1, FA2, FA5",Quantitative and Mathematical Sciences,AS.110.415,"Grade of C- or better in
+AS.110.415",,"AS.110.416.
+Honors Analysis II.
+4 Credits.
+Lebesgue integration and differentiation.  Elementary Hilbert and Banach space theory.  Baire category theorem.  Continuation of
+AS.110.415
+, introduction to real analysis.
+Prerequisite(s):
+Grade of C- or better in
+AS.110.415
+Distribution Area: Quantitative and Mathematical Sciences
+AS Foundational Abilities: Writing and Communication (FA1),
+Science and Data (FA2),
+Ethics and Foundations (FA5)"
+AS.110.417,Partial Differential Equations,3,"This course is aimed at a first exposure to the theory of Partial Differential Equations by examples. Basic examples of PDEs (Boundary value problems and initial value problems): Laplace equation, heat equation and wave equation. Method of separation of variables. Fourier series. Examples of wave equations in one and two dimensions. Sturm-Liouville eigenvalue problems and generalized Fourier series. Self-adjoint operators and applications to problems in higher dimensions. Nonhomogeneous PDEs. Green's functions and fundamental solution for the heat equation. Prerequisites:Calculus III. Recommended: 110.405 or 110.415.",FA2,Quantitative and Mathematical Sciences,,,,"AS.110.417.
+Partial Differential Equations.
+3 Credits.
+This course is aimed at a first exposure to the theory of Partial Differential Equations by examples. Basic examples of PDEs (Boundary value problems and initial value problems): Laplace equation, heat equation and wave equation. Method of separation of variables. Fourier series. Examples of wave equations in one and two dimensions. Sturm-Liouville eigenvalue problems and generalized Fourier series. Self-adjoint operators and applications to problems in higher dimensions. Nonhomogeneous PDEs. Green's functions and fundamental solution for the heat equation. Prerequisites:Calculus III. Recommended: 110.405 or 110.415.
+Distribution Area: Quantitative and Mathematical Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+AS.110.421,Dynamical Systems,3,"This is a course in the modern theory of Dynamical Systems. Topic include both discrete (iterated maps) and continuous (differential equations) dynamical systems and focuses on the qualitative structure of the system in developing properties of solutions. Topics include contractions, interval and planar maps, linear and nonlinear ODE systems including bifurcation theory, recurrence, transitivity and mixing, phase volume preservation as well as chaos theory, fractional dimension and topological entropy.  May be taken as an Introduction to Proofs (IP) course.Prerequisites: Grade of C- or better in 110.201 or 110.212 OR 110.202 or 110.211 and 110.302 Area: Quantitative and Mathematical Sciences",FA2,Quantitative and Mathematical Sciences,"AS.110.201, AS.110.212, AS.110.202, AS.110.211","Grade of C- or better in (
+AS.110.201
+OR
+AS.110.212
+) AND (
+AS.110.202
+or
+AS.110.211
+) AND 110.302",,"AS.110.421.
+Dynamical Systems.
+3 Credits.
+This is a course in the modern theory of Dynamical Systems. Topic include both discrete (iterated maps) and continuous (differential equations) dynamical systems and focuses on the qualitative structure of the system in developing properties of solutions. Topics include contractions, interval and planar maps, linear and nonlinear ODE systems including bifurcation theory, recurrence, transitivity and mixing, phase volume preservation as well as chaos theory, fractional dimension and topological entropy.  May be taken as an Introduction to Proofs (IP) course.Prerequisites: Grade of C- or better in 110.201 or 110.212 OR 110.202 or 110.211 and 110.302 Area: Quantitative and Mathematical Sciences
+Prerequisite(s):
+Grade of C- or better in (
+AS.110.201
+OR
+AS.110.212
+) AND (
+AS.110.202
+or
+AS.110.211
+) AND 110.302
+Distribution Area: Quantitative and Mathematical Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+AS.110.422,Representation Theory,4,"This course will focus on the basic theory of representations of finite groups in characteristic zero: Schur's Lemma, Mashcke's Theorem and complete reducibility, character tables and orthogonality, direct sums and tensor products. The main examples we will try to understand are the representation theory of the symmetric group and the general linear group over a finite field. If time permits, the theory of Brauer characters and modular representations will be introduced.",FA2,Quantitative and Mathematical Sciences,"AS.110.201, AS.110.212, AS.110.401, AS.110.411","Grade of C- or better in (
+AS.110.201
+OR
+AS.110.212
+) AND (
+AS.110.401
+OR
+AS.110.411
+)",,"AS.110.422.
+Representation Theory.
+4 Credits.
+This course will focus on the basic theory of representations of finite groups in characteristic zero: Schur's Lemma, Mashcke's Theorem and complete reducibility, character tables and orthogonality, direct sums and tensor products. The main examples we will try to understand are the representation theory of the symmetric group and the general linear group over a finite field. If time permits, the theory of Brauer characters and modular representations will be introduced.
+Prerequisite(s):
+Grade of C- or better in (
+AS.110.201
+OR
+AS.110.212
+) AND (
+AS.110.401
+OR
+AS.110.411
+)
+Distribution Area: Quantitative and Mathematical Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+AS.110.433,Introduction to Harmonic Analysis and Its Applications,3,"The course is an introduction to methods in harmonic analysis, in particular Fourier series, Fourier integrals, and wavelets. These methods will be introduced rigorously, together with their motivations and applications to the analysis of basic partial differential equations and integral kernels, signal processing, inverse problems, and statistical/machine learning.",FA2,Quantitative and Mathematical Sciences,"AS.110.201, AS.110.212, EN.553.291, AS.110.202, AS.110.211, AS.110.405, AS.110.415","(
+AS.110.201
+OR
+AS.110.212
+OR
+EN.553.291
+) AND (
+AS.110.202
+OR
+AS.110.211
+) AND (
+AS.110.405
+OR
+AS.110.415
+)",,"AS.110.433.
+Introduction to Harmonic Analysis and Its Applications.
+3 Credits.
+The course is an introduction to methods in harmonic analysis, in particular Fourier series, Fourier integrals, and wavelets. These methods will be introduced rigorously, together with their motivations and applications to the analysis of basic partial differential equations and integral kernels, signal processing, inverse problems, and statistical/machine learning.
+Prerequisite(s):
+(
+AS.110.201
+OR
+AS.110.212
+OR
+EN.553.291
+) AND (
+AS.110.202
+OR
+AS.110.211
+) AND (
+AS.110.405
+OR
+AS.110.415
+)
+Distribution Area: Quantitative and Mathematical Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+AS.110.435,Introduction to Algebraic Geometry,3,"Algebraic geometry studies zeros of polynomials in several variables and is based on the use of abstract algebraic techniques, mainly from commutative algebra, for solving geometric problems about these sets of zeros. The fundamental objects of study are algebraic varieties which are the geometric manifestations of solutions of systems of polynomial equations. Algebraic geometry occupies a central place in modern mathematics and has multiple conceptual connections with diverse fields such as complex analysis, topology and number theory.This course aims to provide to an undergraduate student majoring in mathematics the fundamental background to approach the study of algebraic geometry by providing the needed abstract knowledge also complemented by several examples and applications.",FA2,Quantitative and Mathematical Sciences,,,,"AS.110.435.
+Introduction to Algebraic Geometry.
+3 Credits.
+Algebraic geometry studies zeros of polynomials in several variables and is based on the use of abstract algebraic techniques, mainly from commutative algebra, for solving geometric problems about these sets of zeros. The fundamental objects of study are algebraic varieties which are the geometric manifestations of solutions of systems of polynomial equations. Algebraic geometry occupies a central place in modern mathematics and has multiple conceptual connections with diverse fields such as complex analysis, topology and number theory.This course aims to provide to an undergraduate student majoring in mathematics the fundamental background to approach the study of algebraic geometry by providing the needed abstract knowledge also complemented by several examples and applications.
+Distribution Area: Quantitative and Mathematical Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+AS.110.439,Introduction To Differential Geometry,3,"Theory of curves and surfaces in Euclidean space: Frenet equations, fundamental forms, curvatures of a surface, theorems of Gauss and Mainardi-Codazzi, curves on a surface; introduction to tensor analysis and Riemannian geometry; theorema egregium; elementary global theorems.",FA2,Quantitative and Mathematical Sciences,"AS.110.201, AS.110.212, AS.110.202, AS.100.211","Grade of C- or better in (
+AS.110.201
+OR
+AS.110.212
+) AND (
+AS.110.202
+OR AS.100.211)",,"AS.110.439.
+Introduction To Differential Geometry.
+3 Credits.
+Theory of curves and surfaces in Euclidean space: Frenet equations, fundamental forms, curvatures of a surface, theorems of Gauss and Mainardi-Codazzi, curves on a surface; introduction to tensor analysis and Riemannian geometry; theorema egregium; elementary global theorems.
+Prerequisite(s):
+Grade of C- or better in (
+AS.110.201
+OR
+AS.110.212
+) AND (
+AS.110.202
+OR AS.100.211)
+Distribution Area: Quantitative and Mathematical Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+AS.110.441,Calculus on Manifolds,3,"This course provides the tools for classical three-dimensional physics and mechanics. This course extends these techniques to the general locally Euclidean spaces (manifolds) needed for an understanding of such things as Maxwell's equations or optimization in higher dimensional contexts, eg. in economics. The course will cover the theory of differential forms and integration. Specific topics include Maxwell's equations in terms of 4D Lorentz geometry, vector (in particular, tangent) bundles, an introduction to de Rham theory, and Sard's theorem on the density of regular values of smooth functions. The course is intended to be useful to mathematics students interested in analysis, differential geometry, and topology, as well as to students in physics and economics.",FA2,Quantitative and Mathematical Sciences,,,,"AS.110.441.
+Calculus on Manifolds.
+3 Credits.
+This course provides the tools for classical three-dimensional physics and mechanics. This course extends these techniques to the general locally Euclidean spaces (manifolds) needed for an understanding of such things as Maxwell's equations or optimization in higher dimensional contexts, eg. in economics. The course will cover the theory of differential forms and integration. Specific topics include Maxwell's equations in terms of 4D Lorentz geometry, vector (in particular, tangent) bundles, an introduction to de Rham theory, and Sard's theorem on the density of regular values of smooth functions. The course is intended to be useful to mathematics students interested in analysis, differential geometry, and topology, as well as to students in physics and economics.
+Distribution Area: Quantitative and Mathematical Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+AS.110.445,Mathematical and Computational Foundations of Data Science,3,"We will cover several topics in the mathematical and computational foundations of Data Science. The emphasis is on fundamental mathematical ideas (basic functional analysis, reproducing kernel Hilbert spaces, concentration inequalities, uniform central limit theorems), basic statistical modeling techniques (e.g. linear regression, parametric and non-parametric methods), basic machine learning techniques for unsupervised (e.g. clustering, manifold learning), supervised (classification, regression), and semi-supervised learning, and corresponding computational aspects (linear algebra, basic linear and nonlinear optimization to attack the problems above). Applications will include statistical signal processing, imaging, inverse problems, graph processing, and problems at the intersection of statistics/machine learning and physical/dynamical systems (e.g. model reduction for stochastic dynamical systems).",FA2,Quantitative and Mathematical Sciences,,,,"AS.110.445.
+Mathematical and Computational Foundations of Data Science.
+3 Credits.
+We will cover several topics in the mathematical and computational foundations of Data Science. The emphasis is on fundamental mathematical ideas (basic functional analysis, reproducing kernel Hilbert spaces, concentration inequalities, uniform central limit theorems), basic statistical modeling techniques (e.g. linear regression, parametric and non-parametric methods), basic machine learning techniques for unsupervised (e.g. clustering, manifold learning), supervised (classification, regression), and semi-supervised learning, and corresponding computational aspects (linear algebra, basic linear and nonlinear optimization to attack the problems above). Applications will include statistical signal processing, imaging, inverse problems, graph processing, and problems at the intersection of statistics/machine learning and physical/dynamical systems (e.g. model reduction for stochastic dynamical systems).
+Distribution Area: Quantitative and Mathematical Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+AS.110.585,Directed Research for Undergraduates,3,"Research on a topic chosen by the professor. Throughout the semester, each student will present related topics, including write ups for the presentations, which may be merged as a contribution to a collaborative paper.","FA2, FA6",Quantitative and Mathematical Sciences,,You must request Customized Academic Learning using the Customized Academic Learning form found in Student Self-Service: Registration > Online Forms.,,"AS.110.585.
+Directed Research for Undergraduates.
+3 Credits.
+Research on a topic chosen by the professor. Throughout the semester, each student will present related topics, including write ups for the presentations, which may be merged as a contribution to a collaborative paper.
+Prerequisite(s):
+You must request Customized Academic Learning using the Customized Academic Learning form found in Student Self-Service: Registration > Online Forms.
+Distribution Area: Quantitative and Mathematical Sciences
+AS Foundational Abilities: Science and Data (FA2),
+Projects and Methods (FA6)"
+AS.110.587,DRP Independent Study,1,Directed Reading Program (DRP) Independent Study.,"FA2, FA6",Quantitative and Mathematical Sciences,,You must request Customized Academic Learning using the Customized Academic Learning form found in Student Self-Service: Registration > Online Forms.,,"AS.110.587.
+DRP Independent Study.
+1 Credit.
+Directed Reading Program (DRP) Independent Study.
+Prerequisite(s):
+You must request Customized Academic Learning using the Customized Academic Learning form found in Student Self-Service: Registration > Online Forms.
+Distribution Area: Quantitative and Mathematical Sciences
+AS Foundational Abilities: Science and Data (FA2),
+Projects and Methods (FA6)"
+AS.110.601,Algebra I,4,"The first of a two semester algebra sequence to provide the student with the foundations for Number Theory, Algebraic Geometry, Representation Theory, and other areas. Topics include refined elements of group theory, commutative algebra, Noetherian rings, local rings, modules, and rudiments of category theory, homological algebra, field theory, Galois theory, and non-commutative algebras.",,Quantitative and Mathematical Sciences,,,,"AS.110.601.
+Algebra I.
+4 Credits.
+The first of a two semester algebra sequence to provide the student with the foundations for Number Theory, Algebraic Geometry, Representation Theory, and other areas. Topics include refined elements of group theory, commutative algebra, Noetherian rings, local rings, modules, and rudiments of category theory, homological algebra, field theory, Galois theory, and non-commutative algebras.
+Distribution Area: Quantitative and Mathematical Sciences"
+AS.110.602,Algebra II,4,"The second of a two semester algebra sequence to provide the student with the foundations for Number Theory, Algebraic Geometry, Representation Theory, and other areas. Topics include refined elements of group theory, commutative algebra, Noetherian rings, local rings, modules, and rudiments of category theory, homological algebra, field theory, Galois theory, and non-commutative algebras.",,Quantitative and Mathematical Sciences,,,,"AS.110.602.
+Algebra II.
+4 Credits.
+The second of a two semester algebra sequence to provide the student with the foundations for Number Theory, Algebraic Geometry, Representation Theory, and other areas. Topics include refined elements of group theory, commutative algebra, Noetherian rings, local rings, modules, and rudiments of category theory, homological algebra, field theory, Galois theory, and non-commutative algebras.
+Distribution Area: Quantitative and Mathematical Sciences"
+AS.110.605,Real Analysis,4,"This course covers the theory of the Lebesgue theory of integration in d-dimensional Euclidean space, and offers a brief introduction to the theory of Hilbert spaces. Closely related topics in real variables, such as functions of bounded variation, the Riemann-Stieltjes integral, Fubini's theorem, Lp classes, and various results about differentiation are examined in detail. applications are basic facts about convolution operators and Fourier series, including results for the conjugate function and the Hardy-Littlewood maximal function.",,Quantitative and Mathematical Sciences,,,,"AS.110.605.
+Real Analysis.
+4 Credits.
+This course covers the theory of the Lebesgue theory of integration in d-dimensional Euclidean space, and offers a brief introduction to the theory of Hilbert spaces. Closely related topics in real variables, such as functions of bounded variation, the Riemann-Stieltjes integral, Fubini's theorem, Lp classes, and various results about differentiation are examined in detail. applications are basic facts about convolution operators and Fourier series, including results for the conjugate function and the Hardy-Littlewood maximal function.
+Distribution Area: Quantitative and Mathematical Sciences"
+AS.110.607,Complex Variables,4,"Analytic functions of one complex variable. Topics include Cauchy integral theorems, residue theory, conformal mapping, harmonic functions, riemann mapping theorem, normal families.  Other topics may include Mittag-Leffler theorem, Weierstrass factorization theorem, elliptic functions, Picard theorem, and Nevanlinna theory.",,,,,,"AS.110.607.
+Complex Variables.
+4 Credits.
+Analytic functions of one complex variable. Topics include Cauchy integral theorems, residue theory, conformal mapping, harmonic functions, riemann mapping theorem, normal families.  Other topics may include Mittag-Leffler theorem, Weierstrass factorization theorem, elliptic functions, Picard theorem, and Nevanlinna theory."
+AS.110.608,Riemann Surfaces,4,"Abstract Riemann surfaces. Examples: algebraic curves, elliptic curves and functions on them. Holomorphic and meromorphic functions and differential forms, divisors and the Mittag-Leffler problem. The analytic genus. Bezout's theorem and applications. Introduction to sheaf theory, with applications to constructing linear series of meromorphic functions. Serre duality, the existence of meromorphic functions on Riemann surfaces, the equality of the topological and analytic genera, the equivalence of algebraic curves and compact Riemann surfaces, the Riemann-Roch theorem. Period matrices and the Abel-Jacobi mapping, Jacobi inversion, the Torelli theorem. Uniformization (time permitting).",,,,,,"AS.110.608.
+Riemann Surfaces.
+4 Credits.
+Abstract Riemann surfaces. Examples: algebraic curves, elliptic curves and functions on them. Holomorphic and meromorphic functions and differential forms, divisors and the Mittag-Leffler problem. The analytic genus. Bezout's theorem and applications. Introduction to sheaf theory, with applications to constructing linear series of meromorphic functions. Serre duality, the existence of meromorphic functions on Riemann surfaces, the equality of the topological and analytic genera, the equivalence of algebraic curves and compact Riemann surfaces, the Riemann-Roch theorem. Period matrices and the Abel-Jacobi mapping, Jacobi inversion, the Torelli theorem. Uniformization (time permitting)."
+AS.110.615,Algebraic Topology I,4,"Singular homology theory, cohomology and products, category theory and homological algebra, Künneth and universal coefficient theorems, Poincaré and Alexander duality theorems, Lefschetz fixed-point theorem, covering spaces and fundamental groups. Prerequsites: the equivalent of one semester in both Abstract Algebra and Real Analysis (specifically, point set topology).",,,,,,"AS.110.615.
+Algebraic Topology I.
+4 Credits.
+Singular homology theory, cohomology and products, category theory and homological algebra, Künneth and universal coefficient theorems, Poincaré and Alexander duality theorems, Lefschetz fixed-point theorem, covering spaces and fundamental groups. Prerequsites: the equivalent of one semester in both Abstract Algebra and Real Analysis (specifically, point set topology)."
+AS.110.616,Algebraic Topology II,4,"Higher homotopy groups, CW complexes, cellular homology and cohomology, spectral sequences and comparison theorems, graded homological algebra, fibrations, Serre and Eilenberg-Moore spectral sequence, Eilenberg-MacLane spaces, Steenrod algebra, spectra.",,Quantitative and Mathematical Sciences,,,,"AS.110.616.
+Algebraic Topology II.
+4 Credits.
+Higher homotopy groups, CW complexes, cellular homology and cohomology, spectral sequences and comparison theorems, graded homological algebra, fibrations, Serre and Eilenberg-Moore spectral sequence, Eilenberg-MacLane spaces, Steenrod algebra, spectra.
+Distribution Area: Quantitative and Mathematical Sciences"
+AS.110.617,Number Theory I,4,"Elements of advanced algebra and number theory. Possible topics for the year-long sequence include local and global fields, Galois cohomology, semisimple algebras, class field theory, elliptic curves, modular and automorphic forms, integral representations of L-functions, adelic geometry and function fields, fundamental notions in arithmetic geometry (including Arakelov and diophantine geometry).",,Quantitative and Mathematical Sciences,,,,"AS.110.617.
+Number Theory I.
+4 Credits.
+Elements of advanced algebra and number theory. Possible topics for the year-long sequence include local and global fields, Galois cohomology, semisimple algebras, class field theory, elliptic curves, modular and automorphic forms, integral representations of L-functions, adelic geometry and function fields, fundamental notions in arithmetic geometry (including Arakelov and diophantine geometry).
+Distribution Area: Quantitative and Mathematical Sciences"
+AS.110.618,Number Theory II,4,"Topics in advanced algebra and number theory. Possible topics for the year-long sequence include local and global fields, Galois cohomology, semisimple algebras, class field theory, elliptic curves, modular and automorphic forms, integral representations of L-functions, adelic geometry and function fields, fundamental notions in arithmetic geometry (including Arakelov and diophantine geometry).",,,,,,"AS.110.618.
+Number Theory II.
+4 Credits.
+Topics in advanced algebra and number theory. Possible topics for the year-long sequence include local and global fields, Galois cohomology, semisimple algebras, class field theory, elliptic curves, modular and automorphic forms, integral representations of L-functions, adelic geometry and function fields, fundamental notions in arithmetic geometry (including Arakelov and diophantine geometry)."
+AS.110.619,Lie Groups and Lie Algebras,4,"Lie groups and Lie algebras, classification of complex semi-simple Lie algebras, compact forms, representations and Weyl formulas, symmetric Riemannian spaces.",,Quantitative and Mathematical Sciences,,,,"AS.110.619.
+Lie Groups and Lie Algebras.
+4 Credits.
+Lie groups and Lie algebras, classification of complex semi-simple Lie algebras, compact forms, representations and Weyl formulas, symmetric Riemannian spaces.
+Distribution Area: Quantitative and Mathematical Sciences"
+AS.110.631,Partial Differential Equations I,4,"This course is the first in the sequence about the general theory of PDEs. The beginning of the course will describe several important results of functional analysis which are instrumental for the study of PDEs: Hahn-Banach theorem, Uniform boundedness and closed graph theorems, reflexive spaces and weak topologies. The topics covered include: theory of Sobolev spaces. Harmonic functions and their properties. Weyl theorem. General Elliptic operators. Existence theory for elliptic boundary value problems. Lax-Milgram theorem. Dirichlet principle. Fine properties of solutions of elliptic equations such as maximum principles, Harnack principles, Sobolev and H\""older regularity.",,,,,,"AS.110.631.
+Partial Differential Equations I.
+4 Credits.
+This course is the first in the sequence about the general theory of PDEs. The beginning of the course will describe several important results of functional analysis which are instrumental for the study of PDEs: Hahn-Banach theorem, Uniform boundedness and closed graph theorems, reflexive spaces and weak topologies. The topics covered include: theory of Sobolev spaces. Harmonic functions and their properties. Weyl theorem. General Elliptic operators. Existence theory for elliptic boundary value problems. Lax-Milgram theorem. Dirichlet principle. Fine properties of solutions of elliptic equations such as maximum principles, Harnack principles, Sobolev and H\""older regularity."
+AS.110.632,Partial Differential Equations II,4,"This course is the second in the sequence about the general theory of PDEs. It focuses on time-dependent equations. It includes: Space-time Banach spaces. Linear 2nd order parabolic using Galerkin approximations. Linear 2nd order hyperbolic using Galerkin approximations. Semigroup theory and application to linear parabolic and hyperbolic equations. Nonlinear equations of Schr\""odinger/Wave  type. Basic 2nd order semilinear wave equations. Systems of nonlinear hyperbolic equations. Conservation laws. Applications to equations coming from physics (Examples: Euler, Navier-Stokes, Einstein, etc...)",,,,,,"AS.110.632.
+Partial Differential Equations II.
+4 Credits.
+This course is the second in the sequence about the general theory of PDEs. It focuses on time-dependent equations. It includes: Space-time Banach spaces. Linear 2nd order parabolic using Galerkin approximations. Linear 2nd order hyperbolic using Galerkin approximations. Semigroup theory and application to linear parabolic and hyperbolic equations. Nonlinear equations of Schr\""odinger/Wave  type. Basic 2nd order semilinear wave equations. Systems of nonlinear hyperbolic equations. Conservation laws. Applications to equations coming from physics (Examples: Euler, Navier-Stokes, Einstein, etc...)"
+AS.110.633,Harmonic Analysis,4,"Fourier multipliers, oscillatory integrals, restriction theorems, Fourier integral operators, pseudodifferential operators, eigenfunctions. Undergrads need instructor's permission.",,Quantitative and Mathematical Sciences,,,"Fourier multipliers, oscillatory integrals, restriction theorems, Fourier integral operators, pseudodifferential operators, eigenfunctions.","AS.110.633.
+Harmonic Analysis.
+4 Credits.
+Fourier multipliers, oscillatory integrals, restriction theorems, Fourier integral operators, pseudodifferential operators, eigenfunctions. Undergrads need instructor's permission.
+Distribution Area: Quantitative and Mathematical Sciences"
+AS.110.637,Functional Analysis,4,"This class will explore basic aspects of functional analysis, focusing mostly on normed vector spaces. This will include the Hahn-Banach and open mapping theorems, a discussion of strong and weak topologies, the theory of compact operators, and spaces of integrable functions and Sobolev spaces, with applications to the study of some partial differential equations.  Prerequisite: Real Analysis",,,,,,"AS.110.637.
+Functional Analysis.
+4 Credits.
+This class will explore basic aspects of functional analysis, focusing mostly on normed vector spaces. This will include the Hahn-Banach and open mapping theorems, a discussion of strong and weak topologies, the theory of compact operators, and spaces of integrable functions and Sobolev spaces, with applications to the study of some partial differential equations.  Prerequisite: Real Analysis"
+AS.110.643,Algebraic Geometry I,4,"Introduction to affine varieties and projective varieties. Hilbert's theorems about polynomials in several variables with their connections to geometry. Abstract algebraic varieties and projective geometry. Dimension of varieties and smooth varieties. Sheaf theory and?some notions of cohomology. Applications of sheaves to?geometry;?e.g., theory of divisors, rudiments of scheme theory for the understanding of the Riemann-Roch theorem for curves and surfaces. Other topics may include Jacobian varieties, resolution of singularities, birational geometry on surfaces, schemes, connections with complex analytic geometry and topology.?",,,,,,"AS.110.643.
+Algebraic Geometry I.
+4 Credits.
+Introduction to affine varieties and projective varieties. Hilbert's theorems about polynomials in several variables with their connections to geometry. Abstract algebraic varieties and projective geometry. Dimension of varieties and smooth varieties. Sheaf theory and?some notions of cohomology. Applications of sheaves to?geometry;?e.g., theory of divisors, rudiments of scheme theory for the understanding of the Riemann-Roch theorem for curves and surfaces. Other topics may include Jacobian varieties, resolution of singularities, birational geometry on surfaces, schemes, connections with complex analytic geometry and topology.?"
+AS.110.644,Algebraic Geometry II,4,"Introduction to affine varieties and projective varieties. Hilbert's theorems about polynomials in several variables with their connections to geometry. Abstract algebraic varieties and projective geometry. Dimension of varieties and smooth varieties. Sheaf theory and?some notions of cohomology. Applications of sheaves to?geometry;?e.g., theory of divisors, rudiments of scheme theory for the understanding of the Riemann-Roch theorem for curves and surfaces. Other topics may include Jacobian varieties, resolution of singularities, birational geometry on surfaces, schemes, connections with complex analytic geometry and topology.",,Quantitative and Mathematical Sciences,,,,"AS.110.644.
+Algebraic Geometry II.
+4 Credits.
+Introduction to affine varieties and projective varieties. Hilbert's theorems about polynomials in several variables with their connections to geometry. Abstract algebraic varieties and projective geometry. Dimension of varieties and smooth varieties. Sheaf theory and?some notions of cohomology. Applications of sheaves to?geometry;?e.g., theory of divisors, rudiments of scheme theory for the understanding of the Riemann-Roch theorem for curves and surfaces. Other topics may include Jacobian varieties, resolution of singularities, birational geometry on surfaces, schemes, connections with complex analytic geometry and topology.
+Distribution Area: Quantitative and Mathematical Sciences"
+AS.110.645,Riemannian Geometry I,4,"This course is a graduate-level introduction to foundational material in Riemannian Geometry.  Riemannian manifolds, a smooth manifold equipped with a Riemannian metric.  Topics include connections, geodesics, Jacobi fields, submanifold theory including the second fundamental form and Gauss equations, manifolds of constant curvature, comparison theorems, Morse index theorem, Hadamard theorem and Bonnet-Myers theorem.",,,,,,"AS.110.645.
+Riemannian Geometry I.
+4 Credits.
+This course is a graduate-level introduction to foundational material in Riemannian Geometry.  Riemannian manifolds, a smooth manifold equipped with a Riemannian metric.  Topics include connections, geodesics, Jacobi fields, submanifold theory including the second fundamental form and Gauss equations, manifolds of constant curvature, comparison theorems, Morse index theorem, Hadamard theorem and Bonnet-Myers theorem."
+AS.110.646,Riemannian Geometry II,4,"This course covers more advanced topics in Riemannian geometry chosen at the instructors discretion.  Possible topics include: minimal surface theory, geometric heat flows, harmonic mappings, Einstein manifolds, etc.",,,,,,"AS.110.646.
+Riemannian Geometry II.
+4 Credits.
+This course covers more advanced topics in Riemannian geometry chosen at the instructors discretion.  Possible topics include: minimal surface theory, geometric heat flows, harmonic mappings, Einstein manifolds, etc."
+AS.110.653,Stochastic Differential Equations: An Introduction With Applications,4,"This course is an introduction to stochastic differential equations and applications. Basic topics to be reviewed include Ito and Stratonovich integrals, Ito formula, SDEs and their integration. The course will focus on diffusion processes and diffusion theory, with topics include Markov properties, generator, Kolmogrov’s equations (Fokker-Planck equation),  Feynman-Kac formula, the martingale problem, Girsanov theorem, stability and ergodicity. The course will briefly introduce applications, with topics include statistical inference of SDEs, filtering and control.",,Quantitative and Mathematical Sciences,,,,"AS.110.653.
+Stochastic Differential Equations: An Introduction With Applications.
+4 Credits.
+This course is an introduction to stochastic differential equations and applications. Basic topics to be reviewed include Ito and Stratonovich integrals, Ito formula, SDEs and their integration. The course will focus on diffusion processes and diffusion theory, with topics include Markov properties, generator, Kolmogrov’s equations (Fokker-Planck equation),  Feynman-Kac formula, the martingale problem, Girsanov theorem, stability and ergodicity. The course will briefly introduce applications, with topics include statistical inference of SDEs, filtering and control.
+Distribution Area: Quantitative and Mathematical Sciences"
+AS.110.710,What is...  Seminar,2,"This is a professional development course for graduate students, where they will learn, practice, or enhance their skills at giving math talks. The course will run in the format of a ""What is... Seminar"", where each week one of the participants will present a 1 hour talk on an accessible and relatively self-contained topic, titled What is (insert your math notion of choice). In preparation for their talk, students will meet with the instructor at least once, where they will receive guidance and detailed advice to help them give a great talk. Although the definition of a ""great talk"" is subjective, participants should be willing to follow the instructors' advice. Graduate students at any stage of their PhD are encouraged to attend, regardless of their experience giving talks.",,Quantitative and Mathematical Sciences,,,,"AS.110.710.
+What is...  Seminar.
+2 Credits.
+This is a professional development course for graduate students, where they will learn, practice, or enhance their skills at giving math talks. The course will run in the format of a ""What is... Seminar"", where each week one of the participants will present a 1 hour talk on an accessible and relatively self-contained topic, titled What is (insert your math notion of choice). In preparation for their talk, students will meet with the instructor at least once, where they will receive guidance and detailed advice to help them give a great talk. Although the definition of a ""great talk"" is subjective, participants should be willing to follow the instructors' advice. Graduate students at any stage of their PhD are encouraged to attend, regardless of their experience giving talks.
+Distribution Area: Quantitative and Mathematical Sciences"
+AS.110.712,Topics in Mathematical Physics,3,"The course will be about scattering for Nonlinear Klein Gordon, Nonlinear Schroedinger and Nonlinear wave equations with variable coefficients in one space dimension. The ultimate goal is to show stability of stationary solutions, so called kinks, as well as moving soliton solutions for certain nonlinear equations of mathematical physics. Recently there has been a lot of activity in this area which uses some interesting math like spectral theory, estimates of Fourier Multipliers, twisted Fourier transform,... in order to study operators with variable coefficients.",,,,,,"AS.110.712.
+Topics in Mathematical Physics.
+3 Credits.
+The course will be about scattering for Nonlinear Klein Gordon, Nonlinear Schroedinger and Nonlinear wave equations with variable coefficients in one space dimension. The ultimate goal is to show stability of stationary solutions, so called kinks, as well as moving soliton solutions for certain nonlinear equations of mathematical physics. Recently there has been a lot of activity in this area which uses some interesting math like spectral theory, estimates of Fourier Multipliers, twisted Fourier transform,... in order to study operators with variable coefficients."
+AS.110.721,Topics In Homotopy Type Theory,4,"Homotopy type theory (HoTT) is a new proposed foundation system for mathematics that extends Martin-Löf's dependent type theory with Voevodsky's univalence axiom. Dependent type theory is a formal system for constructive mathematics, in which a theorem is proven by constructing a term in the type that encodes its statement. In Homotopy type theory, types are thought of as spaces and terms as points in those spaces. A proof that two terms in a common type are equal is now interpreted as a path between two points in a space. In particular, types might have interesting higher homotopical structure, which can be thought of as revealing fundamental differences between two proofs of a common proposition. One advantage of this foundation system is its amenability to computer formalization, which this course will illustrate by introducing the computer proof assistant Agda.",,,,,,"AS.110.721.
+Topics In Homotopy Type Theory.
+4 Credits.
+Homotopy type theory (HoTT) is a new proposed foundation system for mathematics that extends Martin-Löf's dependent type theory with Voevodsky's univalence axiom. Dependent type theory is a formal system for constructive mathematics, in which a theorem is proven by constructing a term in the type that encodes its statement. In Homotopy type theory, types are thought of as spaces and terms as points in those spaces. A proof that two terms in a common type are equal is now interpreted as a path between two points in a space. In particular, types might have interesting higher homotopical structure, which can be thought of as revealing fundamental differences between two proofs of a common proposition. One advantage of this foundation system is its amenability to computer formalization, which this course will illustrate by introducing the computer proof assistant Agda."
+AS.110.726,Topics in Analysis,3,The topics covered will involve the theory of calculus of Functors applied to Geometric problems like Embedding theory. Other related areas will be covered depending on the interest of the audience.,,Quantitative and Mathematical Sciences,,,,"AS.110.726.
+Topics in Analysis.
+3 Credits.
+The topics covered will involve the theory of calculus of Functors applied to Geometric problems like Embedding theory. Other related areas will be covered depending on the interest of the audience.
+Distribution Area: Quantitative and Mathematical Sciences"
+AS.110.727,Topics in Algebraic Topology,3,"The class will be specifically focused on topics related to -theory, and its connections to number theory and manifold theory.",,,,,,"AS.110.727.
+Topics in Algebraic Topology.
+3 Credits.
+The class will be specifically focused on topics related to -theory, and its connections to number theory and manifold theory."
+AS.110.731,Topics in Geometric Analysis,3,Topics covered will vary from year to year and are at the discretion of the instructor.,,,,,,"AS.110.731.
+Topics in Geometric Analysis.
+3 Credits.
+Topics covered will vary from year to year and are at the discretion of the instructor."
+AS.110.733,Topics In Alg Num Theory,3,Topics covered will vary from year to year and are at the discretion of the instructor.,,,,,,"AS.110.733.
+Topics In Alg Num Theory.
+3 Credits.
+Topics covered will vary from year to year and are at the discretion of the instructor."
+AS.110.735,Topics in Number Theory,3,Topics covered will vary from year to year and are at the discretion of the instructor.,,Quantitative and Mathematical Sciences,,,,"AS.110.735.
+Topics in Number Theory.
+3 Credits.
+Topics covered will vary from year to year and are at the discretion of the instructor.
+Distribution Area: Quantitative and Mathematical Sciences"
+AS.110.736,Topics in Dynamics,3,The topics covered will involve the theory of calculus of Functors applied to Geometric problems like Embedding theory. Other related areas will be covered depending on the interest of the audience.,,Quantitative and Mathematical Sciences,,,,"AS.110.736.
+Topics in Dynamics.
+3 Credits.
+The topics covered will involve the theory of calculus of Functors applied to Geometric problems like Embedding theory. Other related areas will be covered depending on the interest of the audience.
+Distribution Area: Quantitative and Mathematical Sciences"
+AS.110.737,Topics in Algebraic Geometry,3,Topics covered will vary from year to year and are at the discretion of the instructor.,,,,,,"AS.110.737.
+Topics in Algebraic Geometry.
+3 Credits.
+Topics covered will vary from year to year and are at the discretion of the instructor."
+AS.110.741,Topics in Partial Differential Equations,3,Topics covered will vary from year to year and are at the discretion of the instructor.,,,,,,"AS.110.741.
+Topics in Partial Differential Equations.
+3 Credits.
+Topics covered will vary from year to year and are at the discretion of the instructor."
+AS.110.750,Topics in Representation Theory,3,Topics covered will vary from year to year and are at the discretion of the instructor.,,Quantitative and Mathematical Sciences,,,,"AS.110.750.
+Topics in Representation Theory.
+3 Credits.
+Topics covered will vary from year to year and are at the discretion of the instructor.
+Distribution Area: Quantitative and Mathematical Sciences"
+AS.110.771,Mathematics GTA Teaching Seminar,3,"The goals of this seminar center on the preparedness for graduate students in mathematics to engage in classroom instructions for undergraduates at Johns Hopkins University.  This seminar augments the teaching orientation provided to graduate students by the CER and Mathematics Department by addressing (1)  teaching-techniques: student-centered inclusive teaching strategies, facilitating small group work, incorporating student ideas and student thinking into active hole class discussions, and choosing appropriate mathematical tasks, (2) opportunities for practice teaching in classrooms before their first assignment to TA for a course in scaffolded micro-teaching experiences and (3) preparing for the practice of and documentation of a reflective teaching practice necessary for success in their careers as mathematicians and educators.",,Quantitative and Mathematical Sciences,,,,"AS.110.771.
+Mathematics GTA Teaching Seminar.
+3 Credits.
+The goals of this seminar center on the preparedness for graduate students in mathematics to engage in classroom instructions for undergraduates at Johns Hopkins University.  This seminar augments the teaching orientation provided to graduate students by the CER and Mathematics Department by addressing (1)  teaching-techniques: student-centered inclusive teaching strategies, facilitating small group work, incorporating student ideas and student thinking into active hole class discussions, and choosing appropriate mathematical tasks, (2) opportunities for practice teaching in classrooms before their first assignment to TA for a course in scaffolded micro-teaching experiences and (3) preparing for the practice of and documentation of a reflective teaching practice necessary for success in their careers as mathematicians and educators.
+Distribution Area: Quantitative and Mathematical Sciences"
+AS.110.773,Topics in Data Science,3,Topics covered will vary from year to year and are at the discretion of the instructor.,,Quantitative and Mathematical Sciences,,,,"AS.110.773.
+Topics in Data Science.
+3 Credits.
+Topics covered will vary from year to year and are at the discretion of the instructor.
+Distribution Area: Quantitative and Mathematical Sciences"

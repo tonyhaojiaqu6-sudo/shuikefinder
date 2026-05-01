@@ -1,0 +1,265 @@
+course_code,course_title,instructor,instructors_full,term,department,workload_avg,teaching_avg,intellectual_avg
+AS.110.105.88.SP24,Precalculus,"Gaines, Alexa","Gaines, Alexa",2024 Spring,Mathematics,3.50,3.75,4.38
+AS.110.105.01.FA24,Precalculus,"Ahmed, Mikail","Ahmed, Mikail",2024 Fall,Mathematics,3.39,3.58,4.11
+AS.110.105.01.FA25,Precalculus,"Sun, Yitong","Sun, Yitong",2025 Fall,Mathematics,2.89,3.44,4.33
+AS.110.105.88.FA25,Precalculus,"Gaines, Alexa","Gaines, Alexa",2025 Fall,Mathematics,3.25,4.55,4.80
+AS.110.106.03.SP24,Calculus I (Biology and Social Sciences),"Lu, Fei","Lu, Fei",2024 Spring,Mathematics,3.05,2.45,3.59
+AS.110.106.02.SP24,Calculus I (Biology and Social Sciences),"Lu, Fei","Lu, Fei",2024 Spring,Mathematics,3.19,2.62,3.85
+AS.110.106.01.SP24,Calculus I (Biology and Social Sciences),"Lu, Fei","Lu, Fei",2024 Spring,Mathematics,3.55,2.57,4.00
+AS.110.106.11.FA24,Calculus I (Biology and Social Sciences),"Wentworth-Nice, Prairie","Wentworth-Nice, Prairie",2024 Fall,Mathematics,3.40,3.53,3.60
+AS.110.106.03.FA24,Calculus I (Biology and Social Sciences),"Wentworth-Nice, Prairie","Wentworth-Nice, Prairie",2024 Fall,Mathematics,3.50,3.67,3.78
+AS.110.106.10.FA24,Calculus I (Biology and Social Sciences),"Wentworth-Nice, Prairie","Wentworth-Nice, Prairie",2024 Fall,Mathematics,3.50,3.58,3.80
+AS.110.106.02.FA24,Calculus I (Biology and Social Sciences),"Wentworth-Nice, Prairie","Wentworth-Nice, Prairie",2024 Fall,Mathematics,3.35,3.92,3.88
+AS.110.106.01.FA24,Calculus I (Biology and Social Sciences),"Wentworth-Nice, Prairie","Wentworth-Nice, Prairie",2024 Fall,Mathematics,3.70,3.54,4.00
+AS.110.106.09.FA24,Calculus I (Biology and Social Sciences),"Wentworth-Nice, Prairie","Wentworth-Nice, Prairie",2024 Fall,Mathematics,3.62,3.83,3.86
+AS.110.106.12.FA24,Calculus I (Biology and Social Sciences),"Wentworth-Nice, Prairie","Wentworth-Nice, Prairie",2024 Fall,Mathematics,3.27,3.11,3.84
+AS.110.106.05.FA24,Calculus I (Biology and Social Sciences),"Wentworth-Nice, Prairie","Wentworth-Nice, Prairie",2024 Fall,Mathematics,3.15,3.41,3.46
+AS.110.106.02.SP25,Calculus I (Biology and Social Sciences),"Brown, Richard","Brown, Richard",2025 Spring,Mathematics,3.67,3.92,4.08
+AS.110.106.01.SP25,Calculus I (Biology and Social Sciences),"Brown, Richard","Brown, Richard",2025 Spring,Mathematics,3.72,3.37,4.06
+AS.110.106.08.FA25,Calculus I (Biology and Social Sciences),"Wentworth-Nice, Prairie","Wentworth-Nice, Prairie",2025 Fall,Mathematics,3.70,3.89,3.81
+AS.110.106.03.FA25,Calculus I (Biology and Social Sciences),"Wentworth-Nice, Prairie","Wentworth-Nice, Prairie",2025 Fall,Mathematics,3.40,3.60,3.60
+AS.110.106.02.FA25,Calculus I (Biology and Social Sciences),"Wentworth-Nice, Prairie","Wentworth-Nice, Prairie",2025 Fall,Mathematics,3.43,4.17,4.46
+AS.110.106.01.FA25,Calculus I (Biology and Social Sciences),"Wentworth-Nice, Prairie","Wentworth-Nice, Prairie",2025 Fall,Mathematics,3.52,3.96,4.07
+AS.110.106.07.FA25,Calculus I (Biology and Social Sciences),"Wentworth-Nice, Prairie","Wentworth-Nice, Prairie",2025 Fall,Mathematics,3.70,3.65,3.91
+AS.110.106.09.FA25,Calculus I (Biology and Social Sciences),"Wentworth-Nice, Prairie","Wentworth-Nice, Prairie",2025 Fall,Mathematics,3.77,3.92,4.22
+AS.110.106.06.FA25,Calculus I (Biology and Social Sciences),"Wentworth-Nice, Prairie","Wentworth-Nice, Prairie",2025 Fall,Mathematics,3.52,4.19,4.26
+AS.110.106.04.FA25,Calculus I (Biology and Social Sciences),"Wentworth-Nice, Prairie","Wentworth-Nice, Prairie",2025 Fall,Mathematics,3.96,4.11,4.30
+AS.110.107.04.SP24,Calculus II (For Biological and Social Science),"Pezzi, Daniel","Pezzi, Daniel",2024 Spring,Mathematics,3.50,3.37,4.00
+AS.110.107.12.SP24,Calculus II (For Biological and Social Science),"Sun, Yuchin","Sun, Yuchin",2024 Spring,Mathematics,3.58,2.75,3.63
+AS.110.107.03.SP24,Calculus II (For Biological and Social Science),"Pezzi, Daniel","Pezzi, Daniel",2024 Spring,Mathematics,3.75,3.69,4.15
+AS.110.107.11.SP24,Calculus II (For Biological and Social Science),"Sun, Yuchin","Sun, Yuchin",2024 Spring,Mathematics,3.50,3.00,3.68
+AS.110.107.02.SP24,Calculus II (For Biological and Social Science),"Pezzi, Daniel","Pezzi, Daniel",2024 Spring,Mathematics,3.32,3.32,4.00
+AS.110.107.10.SP24,Calculus II (For Biological and Social Science),"Sun, Yuchin","Sun, Yuchin",2024 Spring,Mathematics,3.82,2.30,4.09
+AS.110.107.01.SP24,Calculus II (For Biological and Social Science),"Pezzi, Daniel","Pezzi, Daniel",2024 Spring,Mathematics,3.50,3.61,4.00
+AS.110.107.09.SP24,Calculus II (For Biological and Social Science),"Sun, Yuchin","Sun, Yuchin",2024 Spring,Mathematics,3.55,3.10,4.18
+AS.110.107.07.SP24,Calculus II (For Biological and Social Science),"Sun, Yuchin","Sun, Yuchin",2024 Spring,Mathematics,3.76,2.62,3.30
+AS.110.107.06.SP24,Calculus II (For Biological and Social Science),"Pezzi, Daniel","Pezzi, Daniel",2024 Spring,Mathematics,3.60,3.55,4.00
+AS.110.107.05.SP24,Calculus II (For Biological and Social Science),"Pezzi, Daniel","Pezzi, Daniel",2024 Spring,Mathematics,4.11,3.47,4.06
+AS.110.107.03.FA24,Calculus II (For Biological and Social Science),"Campion, Tim","Campion, Tim",2024 Fall,Mathematics,3.13,2.83,3.83
+AS.110.107.02.FA24,Calculus II (For Biological and Social Science),"Campion, Tim","Campion, Tim",2024 Fall,Mathematics,3.48,2.54,3.69
+AS.110.107.01.FA24,Calculus II (For Biological and Social Science),"Campion, Tim","Campion, Tim",2024 Fall,Mathematics,2.95,2.64,3.82
+AS.110.107.04.FA24,Calculus II (For Biological and Social Science),"Campion, Tim","Campion, Tim",2024 Fall,Mathematics,3.22,1.94,3.67
+AS.110.107.03.SP25,Calculus II (For Biological and Social Science),"Wentworth-Nice, Prairie","Wentworth-Nice, Prairie",2025 Spring,Mathematics,3.25,3.29,3.93
+AS.110.107.08.SP25,Calculus II (For Biological and Social Science),"Wentworth-Nice, Prairie","Wentworth-Nice, Prairie",2025 Spring,Mathematics,3.75,3.32,4.15
+AS.110.107.07.SP25,Calculus II (For Biological and Social Science),"Wentworth-Nice, Prairie","Wentworth-Nice, Prairie",2025 Spring,Mathematics,3.96,3.46,3.93
+AS.110.107.06.SP25,Calculus II (For Biological and Social Science),"Wentworth-Nice, Prairie","Wentworth-Nice, Prairie",2025 Spring,Mathematics,3.77,3.15,3.62
+AS.110.107.10.SP25,Calculus II (For Biological and Social Science),"Wentworth-Nice, Prairie","Wentworth-Nice, Prairie",2025 Spring,Mathematics,3.64,3.56,4.00
+AS.110.107.02.SP25,Calculus II (For Biological and Social Science),"Wentworth-Nice, Prairie","Wentworth-Nice, Prairie",2025 Spring,Mathematics,3.30,3.48,3.84
+AS.110.107.09.SP25,Calculus II (For Biological and Social Science),"Wentworth-Nice, Prairie","Wentworth-Nice, Prairie",2025 Spring,Mathematics,3.54,3.64,4.12
+AS.110.107.04.SP25,Calculus II (For Biological and Social Science),"Wentworth-Nice, Prairie","Wentworth-Nice, Prairie",2025 Spring,Mathematics,3.53,3.05,3.37
+AS.110.107.03.FA25,Calculus II (For Biological and Social Science),"Shumakovitch, Alexander","Shumakovitch, Alexander",2025 Fall,Mathematics,3.36,3.32,4.33
+AS.110.107.02.FA25,Calculus II (For Biological and Social Science),"Shumakovitch, Alexander","Shumakovitch, Alexander",2025 Fall,Mathematics,3.48,2.87,3.83
+AS.110.107.04.FA25,Calculus II (For Biological and Social Science),"Shumakovitch, Alexander","Shumakovitch, Alexander",2025 Fall,Mathematics,3.75,3.14,4.14
+AS.110.107.01.FA25,Calculus II (For Biological and Social Science),"Shumakovitch, Alexander","Shumakovitch, Alexander",2025 Fall,Mathematics,3.57,3.57,4.29
+AS.110.108.88.SP24,Calculus I (For Physical Sciences and Engineering),"Clayton, Amanda","Clayton, Amanda",2024 Spring,Mathematics,3.56,4.14,4.53
+AS.110.108.04.FA24,Calculus I (Physical Sciences & Engineering),"Marshall-Stevens, Kobe","Marshall-Stevens, Kobe",2024 Fall,Mathematics,3.06,4.32,3.94
+AS.110.108.03.FA24,Calculus I (Physical Sciences & Engineering),"Marshall-Stevens, Kobe","Marshall-Stevens, Kobe",2024 Fall,Mathematics,3.36,4.57,4.25
+AS.110.108.02.FA24,Calculus I (Physical Sciences & Engineering),"Marshall-Stevens, Kobe","Marshall-Stevens, Kobe",2024 Fall,Mathematics,3.35,4.53,4.25
+AS.110.108.88.FA24,Calculus I (Physical Sciences & Engineering),"Clayton, Amanda","Clayton, Amanda",2024 Fall,Mathematics,3.11,4.47,4.40
+AS.110.108.07.FA24,Calculus I (Physical Sciences & Engineering),"Marshall-Stevens, Kobe","Marshall-Stevens, Kobe",2024 Fall,Mathematics,3.11,4.46,4.25
+AS.110.108.88.SP25,Calculus I (For Physical Sciences and Engineering),"Clayton, Amanda","Clayton, Amanda",2025 Spring,Mathematics,3.67,4.82,4.82
+AS.110.108.03.FA25,Calculus I (Physical Sciences & Engineering),"McConnell, Ryan","McConnell, Ryan",2025 Fall,Mathematics,3.12,3.40,3.76
+AS.110.108.02.FA25,Calculus I (Physical Sciences & Engineering),"McConnell, Ryan","McConnell, Ryan",2025 Fall,Mathematics,3.47,2.74,3.74
+AS.110.108.01.FA25,Calculus I (Physical Sciences & Engineering),"McConnell, Ryan","McConnell, Ryan",2025 Fall,Mathematics,3.42,3.25,3.50
+AS.110.108.88.FA25,Calculus I (Physical Sciences & Engineering),"Clayton, Amanda","Clayton, Amanda",2025 Fall,Mathematics,3.86,4.18,4.70
+AS.110.108.04.FA25,Calculus I (Physical Sciences & Engineering),"McConnell, Ryan","McConnell, Ryan",2025 Fall,Mathematics,3.75,3.13,4.50
+AS.110.109.08.SP24,Calculus II (For Physical Sciences and Engineering),"Sakellaridis, Yiannis","Sakellaridis, Yiannis",2024 Spring,Mathematics,3.77,1.82,3.33
+AS.110.109.07.SP24,Calculus II (For Physical Sciences and Engineering),"Sakellaridis, Yiannis","Sakellaridis, Yiannis",2024 Spring,Mathematics,3.76,2.71,3.65
+AS.110.109.06.SP24,Calculus II (For Physical Sciences and Engineering),"Sakellaridis, Yiannis","Sakellaridis, Yiannis",2024 Spring,Mathematics,4.09,2.55,4.00
+AS.110.109.05.SP24,Calculus II (For Physical Sciences and Engineering),"Sakellaridis, Yiannis","Sakellaridis, Yiannis",2024 Spring,Mathematics,3.65,2.24,3.90
+AS.110.109.04.SP24,Calculus II (For Physical Sciences and Engineering),"Sakellaridis, Yiannis","Sakellaridis, Yiannis",2024 Spring,Mathematics,3.91,2.48,3.76
+AS.110.109.03.SP24,Calculus II (For Physical Sciences and Engineering),"Sakellaridis, Yiannis","Sakellaridis, Yiannis",2024 Spring,Mathematics,3.64,2.86,4.27
+AS.110.109.02.SP24,Calculus II (For Physical Sciences and Engineering),"Sakellaridis, Yiannis","Sakellaridis, Yiannis",2024 Spring,Mathematics,3.61,2.78,3.59
+AS.110.109.88.SP24,Calculus II (For Physical Sciences and Engineering),"Clayton, Amanda","Clayton, Amanda",2024 Spring,Mathematics,3.60,3.88,4.44
+AS.110.109.01.SP24,Calculus II (For Physical Sciences and Engineering),"Sakellaridis, Yiannis","Sakellaridis, Yiannis",2024 Spring,Mathematics,3.95,2.24,4.10
+AS.110.109.07.FA24,Calculus II (For Physical Sciences and Engineering),"Li, Huajie","Li, Huajie",2024 Fall,Mathematics,3.43,1.84,3.52
+AS.110.109.02.FA24,Calculus II (For Physical Sciences and Engineering),"Li, Huajie","Li, Huajie",2024 Fall,Mathematics,3.84,1.75,4.22
+AS.110.109.05.FA24,Calculus II (For Physical Sciences and Engineering),"Li, Huajie","Li, Huajie",2024 Fall,Mathematics,3.45,1.67,3.68
+AS.110.109.01.FA24,Calculus II (For Physical Sciences and Engineering),"Li, Huajie","Li, Huajie",2024 Fall,Mathematics,3.37,1.59,3.69
+AS.110.109.88.FA24,Calculus II (For Physical Sciences and Engineering),"Cutrone, Joseph","Cutrone, Joseph",2024 Fall,Mathematics,4.00,4.83,4.83
+AS.110.109.08.FA24,Calculus II (For Physical Sciences and Engineering),"Li, Huajie","Li, Huajie",2024 Fall,Mathematics,3.74,2.00,4.20
+AS.110.109.04.FA24,Calculus II (For Physical Sciences and Engineering),"Li, Huajie","Li, Huajie",2024 Fall,Mathematics,3.46,1.70,3.73
+AS.110.109.03.FA24,Calculus II (For Physical Sciences and Engineering),"Li, Huajie","Li, Huajie",2024 Fall,Mathematics,3.64,1.73,3.53
+AS.110.109.06.SP25,Calculus II (For Physical Sciences and Engineering),"Im, Mee Seong","Im, Mee Seong",2025 Spring,Mathematics,3.42,3.50,3.92
+AS.110.109.01.SP25,Calculus II (For Physical Sciences and Engineering),"Cutrone, Joseph","Cutrone, Joseph",2025 Spring,Mathematics,3.38,4.25,4.13
+AS.110.109.04.SP25,Calculus II (For Physical Sciences and Engineering),"Im, Mee Seong","Im, Mee Seong",2025 Spring,Mathematics,3.44,4.25,4.50
+AS.110.109.03.SP25,Calculus II (For Physical Sciences and Engineering),"Cutrone, Joseph","Cutrone, Joseph",2025 Spring,Mathematics,3.56,4.19,4.44
+AS.110.109.02.SP25,Calculus II (For Physical Sciences and Engineering),"Cutrone, Joseph","Cutrone, Joseph",2025 Spring,Mathematics,3.52,3.80,4.24
+AS.110.109.88.SP25,Calculus II (For Physical Sciences and Engineering),"Clayton, Amanda","Clayton, Amanda",2025 Spring,Mathematics,3.92,4.19,4.61
+AS.110.109.02.FA25,Calculus II (For Physical Sciences and Engineering),"Mese, CHIKAKO","Mese, CHIKAKO",2025 Fall,Mathematics,3.06,3.89,4.06
+AS.110.109.06.FA25,Calculus II (For Physical Sciences and Engineering),"Stufflebeam, Hunter","Stufflebeam, Hunter",2025 Fall,Mathematics,3.60,3.87,4.27
+AS.110.109.01.FA25,Calculus II (For Physical Sciences and Engineering),"Mese, CHIKAKO","Mese, CHIKAKO",2025 Fall,Mathematics,3.54,3.68,4.13
+AS.110.109.05.FA25,Calculus II (For Physical Sciences and Engineering),"Stufflebeam, Hunter","Stufflebeam, Hunter",2025 Fall,Mathematics,3.52,3.35,4.10
+AS.110.109.04.FA25,Calculus II (For Physical Sciences and Engineering),"Stufflebeam, Hunter","Stufflebeam, Hunter",2025 Fall,Mathematics,3.68,3.73,4.23
+AS.110.109.88.FA25,Calculus II (For Physical Sciences and Engineering),"Cutrone, Joseph","Cutrone, Joseph",2025 Fall,Mathematics,4.67,5.00,5.00
+AS.110.109.03.FA25,Calculus II (For Physical Sciences and Engineering),"Mese, CHIKAKO","Mese, CHIKAKO",2025 Fall,Mathematics,3.56,3.50,4.19
+AS.110.109.07.FA25,Calculus II (For Physical Sciences and Engineering),"Stufflebeam, Hunter","Stufflebeam, Hunter",2025 Fall,Mathematics,3.46,4.00,4.56
+AS.110.113.01.FA25,Honors Single Variable Calculus,"Chedalavada, Anish","Chedalavada, Anish",2025 Fall,Mathematics,4.67,4.56,4.78
+AS.110.201.08.SP24,Linear Algebra,"Cutrone, Joseph","Cutrone, Joseph",2024 Spring,Mathematics,3.63,4.33,4.47
+AS.110.201.07.SP24,Linear Algebra,"Cutrone, Joseph","Cutrone, Joseph",2024 Spring,Mathematics,3.96,4.43,4.64
+AS.110.201.06.SP24,Linear Algebra,"Cutrone, Joseph","Cutrone, Joseph",2024 Spring,Mathematics,3.67,4.29,4.55
+AS.110.201.05.SP24,Linear Algebra,"Cutrone, Joseph","Cutrone, Joseph",2024 Spring,Mathematics,3.79,4.20,4.16
+AS.110.201.03.SP24,Linear Algebra,"Li, Huajie","Li, Huajie",2024 Spring,Mathematics,3.79,1.63,3.94
+AS.110.201.02.SP24,Linear Algebra,"Li, Huajie","Li, Huajie",2024 Spring,Mathematics,3.30,2.24,3.38
+AS.110.201.01.SP24,Linear Algebra,"Li, Huajie","Li, Huajie",2024 Spring,Mathematics,3.64,2.64,4.09
+AS.110.201.88.SP24,Linear Algebra,"Marshburn, Nicholas","Marshburn, Nicholas",2024 Spring,Mathematics,3.00,4.29,4.43
+AS.110.201.06.FA24,Linear Algebra,"Riehl, EMILY","Riehl, EMILY",2024 Fall,Mathematics,3.24,3.95,4.24
+AS.110.201.02.FA24,Linear Algebra,"Riehl, EMILY","Riehl, EMILY",2024 Fall,Mathematics,3.06,4.50,4.33
+AS.110.201.05.FA24,Linear Algebra,"Riehl, EMILY","Riehl, EMILY",2024 Fall,Mathematics,3.73,4.43,4.50
+AS.110.201.01.FA24,Linear Algebra,"Riehl, EMILY","Riehl, EMILY",2024 Fall,Mathematics,3.32,4.00,4.15
+AS.110.201.04.FA24,Linear Algebra,"Riehl, EMILY","Riehl, EMILY",2024 Fall,Mathematics,3.68,4.00,4.23
+AS.110.201.88.FA24,Linear Algebra,"Marshburn, Nicholas","Marshburn, Nicholas",2024 Fall,Mathematics,3.86,3.95,4.50
+AS.110.201.03.FA24,Linear Algebra,"Riehl, EMILY","Riehl, EMILY",2024 Fall,Mathematics,3.29,4.39,4.11
+AS.110.201.08.SP25,Linear Algebra,"Gregoric, Rok","Gregoric, Rok",2025 Spring,Mathematics,3.08,3.13,4.21
+AS.110.201.04.SP25,Linear Algebra,"Gregoric, Rok","Gregoric, Rok",2025 Spring,Mathematics,3.13,3.67,3.80
+AS.110.201.02.SP25,Linear Algebra,"Gregoric, Rok","Gregoric, Rok",2025 Spring,Mathematics,3.15,3.57,3.90
+AS.110.201.07.SP25,Linear Algebra,"Gregoric, Rok","Gregoric, Rok",2025 Spring,Mathematics,3.24,3.78,4.06
+AS.110.201.06.SP25,Linear Algebra,"Gregoric, Rok","Gregoric, Rok",2025 Spring,Mathematics,3.40,3.40,4.30
+AS.110.201.05.SP25,Linear Algebra,"Gregoric, Rok","Gregoric, Rok",2025 Spring,Mathematics,2.88,3.38,3.75
+AS.110.201.01.SP25,Linear Algebra,"Gregoric, Rok","Gregoric, Rok",2025 Spring,Mathematics,3.00,3.50,3.89
+AS.110.201.88.SP25,Linear Algebra,"Marshburn, Nicholas","Marshburn, Nicholas",2025 Spring,Mathematics,3.45,4.03,4.27
+AS.110.201.05.FA25,Linear Algebra,"Sunohara, Matthew","Sunohara, Matthew",2025 Fall,Mathematics,3.50,2.78,4.00
+AS.110.201.01.FA25,Linear Algebra,"Sunohara, Matthew","Sunohara, Matthew",2025 Fall,Mathematics,3.43,3.10,4.24
+AS.110.201.04.FA25,Linear Algebra,"Sunohara, Matthew","Sunohara, Matthew",2025 Fall,Mathematics,3.57,2.43,4.10
+AS.110.201.03.FA25,Linear Algebra,"Sunohara, Matthew","Sunohara, Matthew",2025 Fall,Mathematics,3.33,2.87,4.00
+AS.110.201.02.FA25,Linear Algebra,"Sunohara, Matthew","Sunohara, Matthew",2025 Fall,Mathematics,3.62,3.09,4.00
+AS.110.201.88.FA25,Linear Algebra,"Marshburn, Nicholas","Marshburn, Nicholas",2025 Fall,Mathematics,3.00,3.91,4.44
+AS.110.202.07.SP24,Calculus III,"Bernstein, Jacob","Bernstein, Jacob",2024 Spring,Mathematics,3.95,2.79,3.94
+AS.110.202.06.SP24,Calculus III,"Bernstein, Jacob","Bernstein, Jacob",2024 Spring,Mathematics,3.89,2.29,4.29
+AS.110.202.05.SP24,Calculus III,"Bernstein, Jacob","Bernstein, Jacob",2024 Spring,Mathematics,4.00,2.14,3.95
+AS.110.202.04.SP24,Calculus III,"Bernstein, Jacob","Bernstein, Jacob",2024 Spring,Mathematics,4.19,2.44,4.19
+AS.110.202.03.SP24,Calculus III,"Bernstein, Jacob","Bernstein, Jacob",2024 Spring,Mathematics,4.17,2.08,3.67
+AS.110.202.88.SP24,Calculus III,"Christiansen, Teri","Christiansen, Teri",2024 Spring,Mathematics,3.00,4.67,4.33
+AS.110.202.02.SP24,Calculus III,"Bernstein, Jacob","Bernstein, Jacob",2024 Spring,Mathematics,4.20,2.15,4.65
+AS.110.202.09.SP24,Calculus III,"Bernstein, Jacob","Bernstein, Jacob",2024 Spring,Mathematics,3.79,2.05,4.33
+AS.110.202.01.SP24,Calculus III,"Bernstein, Jacob","Bernstein, Jacob",2024 Spring,Mathematics,4.30,2.40,3.89
+AS.110.202.08.SP24,Calculus III,"Bernstein, Jacob","Bernstein, Jacob",2024 Spring,Mathematics,3.65,3.00,3.75
+AS.110.202.11.FA24,Calculus III,"Brown, Richard","Brown, Richard",2024 Fall,Mathematics,4.00,3.52,4.48
+AS.110.202.88.FA24,Calculus III,"Christiansen, Teri","Christiansen, Teri",2024 Fall,Mathematics,3.36,4.70,4.55
+AS.110.202.07.FA24,Calculus III,"Brown, Richard","Brown, Richard",2024 Fall,Mathematics,4.14,3.62,4.33
+AS.110.202.03.FA24,Calculus III,"Brown, Richard","Brown, Richard",2024 Fall,Mathematics,3.96,3.74,4.70
+AS.110.202.14.FA24,Calculus III,"Brown, Richard","Brown, Richard",2024 Fall,Mathematics,3.93,3.80,4.33
+AS.110.202.06.FA24,Calculus III,"Brown, Richard","Brown, Richard",2024 Fall,Mathematics,4.24,4.10,4.43
+AS.110.202.02.FA24,Calculus III,"Brown, Richard","Brown, Richard",2024 Fall,Mathematics,4.00,4.22,4.56
+AS.110.202.10.FA24,Calculus III,"Brown, Richard","Brown, Richard",2024 Fall,Mathematics,4.30,3.90,4.38
+AS.110.202.05.FA24,Calculus III,"Brown, Richard","Brown, Richard",2024 Fall,Mathematics,4.00,3.39,4.41
+AS.110.202.13.FA24,Calculus III,"Brown, Richard","Brown, Richard",2024 Fall,Mathematics,3.85,3.86,4.43
+AS.110.202.09.FA24,Calculus III,"Brown, Richard","Brown, Richard",2024 Fall,Mathematics,3.81,3.24,4.33
+AS.110.202.01.FA24,Calculus III,"Brown, Richard","Brown, Richard",2024 Fall,Mathematics,3.74,3.53,3.89
+AS.110.202.04.FA24,Calculus III,"Brown, Richard","Brown, Richard",2024 Fall,Mathematics,3.95,4.09,4.45
+AS.110.202.12.FA24,Calculus III,"Brown, Richard","Brown, Richard",2024 Fall,Mathematics,3.90,3.48,4.19
+AS.110.202.08.FA24,Calculus III,"Brown, Richard","Brown, Richard",2024 Fall,Mathematics,3.90,3.55,4.41
+AS.110.202.07.SP25,Calculus III,"Corato Zanarella, Murilo","Corato Zanarella, Murilo",2025 Spring,Mathematics,3.26,3.74,3.95
+AS.110.202.03.SP25,Calculus III,"Corato Zanarella, Murilo","Corato Zanarella, Murilo",2025 Spring,Mathematics,3.29,4.00,4.06
+AS.110.202.02.SP25,Calculus III,"Corato Zanarella, Murilo","Corato Zanarella, Murilo",2025 Spring,Mathematics,3.48,3.48,4.29
+AS.110.202.01.SP25,Calculus III,"Corato Zanarella, Murilo","Corato Zanarella, Murilo",2025 Spring,Mathematics,3.47,3.43,4.29
+AS.110.202.06.SP25,Calculus III,"Corato Zanarella, Murilo","Corato Zanarella, Murilo",2025 Spring,Mathematics,3.59,3.71,4.35
+AS.110.202.88.SP25,Calculus III,"Christiansen, Teri","Christiansen, Teri",2025 Spring,Mathematics,3.71,4.92,4.92
+AS.110.202.08.SP25,Calculus III,"Corato Zanarella, Murilo","Corato Zanarella, Murilo",2025 Spring,Mathematics,3.62,3.46,4.08
+AS.110.202.05.SP25,Calculus III,"Corato Zanarella, Murilo","Corato Zanarella, Murilo",2025 Spring,Mathematics,3.30,3.84,4.37
+AS.110.202.04.SP25,Calculus III,"Corato Zanarella, Murilo","Corato Zanarella, Murilo",2025 Spring,Mathematics,3.27,3.68,4.11
+AS.110.202.88.FA25,Calculus III,"Christiansen, Teri","Christiansen, Teri",2025 Fall,Mathematics,3.70,4.55,4.18
+AS.110.202.11.FA25,Calculus III,"Wright, Kayla","Wright, Kayla",2025 Fall,Mathematics,3.58,3.42,3.88
+AS.110.202.07.FA25,Calculus III,"Wright, Kayla","Wright, Kayla",2025 Fall,Mathematics,3.64,3.00,4.00
+AS.110.202.03.FA25,Calculus III,"Wright, Kayla","Wright, Kayla",2025 Fall,Mathematics,3.61,3.13,4.00
+AS.110.202.02.FA25,Calculus III,"Wright, Kayla","Wright, Kayla",2025 Fall,Mathematics,3.86,3.62,4.48
+AS.110.202.10.FA25,Calculus III,"Wright, Kayla","Wright, Kayla",2025 Fall,Mathematics,3.46,3.32,4.00
+AS.110.202.06.FA25,Calculus III,"Wright, Kayla","Wright, Kayla",2025 Fall,Mathematics,3.77,3.26,4.09
+AS.110.202.14.FA25,Calculus III,"Wright, Kayla","Wright, Kayla",2025 Fall,Mathematics,3.40,3.73,3.95
+AS.110.202.13.FA25,Calculus III,"Wright, Kayla","Wright, Kayla",2025 Fall,Mathematics,3.65,3.43,4.14
+AS.110.202.09.FA25,Calculus III,"Wright, Kayla","Wright, Kayla",2025 Fall,Mathematics,3.29,3.46,4.33
+AS.110.202.01.FA25,Calculus III,"Wright, Kayla","Wright, Kayla",2025 Fall,Mathematics,3.61,2.96,3.96
+AS.110.202.05.FA25,Calculus III,"Wright, Kayla","Wright, Kayla",2025 Fall,Mathematics,3.91,3.61,4.43
+AS.110.202.12.FA25,Calculus III,"Wright, Kayla","Wright, Kayla",2025 Fall,Mathematics,3.46,3.12,4.12
+AS.110.202.04.FA25,Calculus III,"Wright, Kayla","Wright, Kayla",2025 Fall,Mathematics,3.55,2.95,3.86
+AS.110.202.08.FA25,Calculus III,"Wright, Kayla","Wright, Kayla",2025 Fall,Mathematics,3.48,2.76,4.12
+AS.110.211.01.SP24,Honors Multivariable Calculus,"Shumakovitch, Alexander","Shumakovitch, Alexander",2024 Spring,Mathematics,3.89,4.30,4.40
+AS.110.211.01.SP25,Honors Multivariable Calculus,"Shumakovitch, Alexander","Shumakovitch, Alexander",2025 Spring,Mathematics,3.38,4.00,4.14
+AS.110.212.01.SP24,Honors Linear Algebra,"Dalal, Rahul","Dalal, Rahul",2024 Spring,Mathematics,4.36,3.71,4.79
+AS.110.212.01.FA24,Honors Linear Algebra,"Sakellaridis, Yiannis","Sakellaridis, Yiannis",2024 Fall,Mathematics,4.93,3.80,4.93
+AS.110.212.01.FA25,Honors Linear Algebra,"Sakellaridis, Yiannis","Sakellaridis, Yiannis",2025 Fall,Mathematics,4.89,4.80,5.00
+AS.110.225.01.FA24,Problem Solving Lab,"Chedalavada, Anish","Chedalavada, Anish",2024 Fall,Mathematics,1.50,4.25,4.00
+AS.110.275.88.FA24,Introduction to Probability,"Marshburn, Nicholas","Marshburn, Nicholas",2024 Fall,Mathematics,3.00,4.00,4.00
+AS.110.275.88.SP25,Introduction to Probability,"Marshburn, Nicholas","Marshburn, Nicholas",2025 Spring,Mathematics,4.00,4.22,4.56
+AS.110.301.88.FA24,Introduction to Proofs,"Goldstein, Erich","Goldstein, Erich",2024 Fall,Mathematics,2.67,5.00,4.75
+AS.110.301.88.SP25,Introduction to Proofs,"Goldstein, Erich","Goldstein, Erich",2025 Spring,Mathematics,3.20,4.43,4.71
+AS.110.301.88.FA25,Introduction to Proofs,"Goldstein, Erich","Goldstein, Erich",2025 Fall,Mathematics,3.67,5.00,5.00
+AS.110.302.03.SP24,Differential Equations and Applications,"Restrepo Montoya, Daniel","Restrepo Montoya, Daniel",2024 Spring,Mathematics,2.95,3.85,3.85
+AS.110.302.02.SP24,Differential Equations and Applications,"Restrepo Montoya, Daniel","Restrepo Montoya, Daniel",2024 Spring,Mathematics,3.25,4.13,4.17
+AS.110.302.01.SP24,Differential Equations and Applications,"Restrepo Montoya, Daniel","Restrepo Montoya, Daniel",2024 Spring,Mathematics,3.33,4.26,4.11
+AS.110.302.88.SP24,Differential Equations and Applications,"Marshburn, Nicholas","Marshburn, Nicholas",2024 Spring,Mathematics,2.78,4.45,4.09
+AS.110.302.06.SP24,Differential Equations and Applications,"Restrepo Montoya, Daniel","Restrepo Montoya, Daniel",2024 Spring,Mathematics,3.59,4.28,4.06
+AS.110.302.05.SP24,Differential Equations and Applications,"Restrepo Montoya, Daniel","Restrepo Montoya, Daniel",2024 Spring,Mathematics,3.12,4.47,4.16
+AS.110.302.04.SP24,Differential Equations and Applications,"Restrepo Montoya, Daniel","Restrepo Montoya, Daniel",2024 Spring,Mathematics,2.87,4.35,4.35
+AS.110.302.04.FA24,Differential Equations and Applications,"Wu, Yueqiao","Wu, Yueqiao",2024 Fall,Mathematics,3.24,3.17,4.00
+AS.110.302.88.FA24,Differential Equations and Applications,"Marshburn, Nicholas","Marshburn, Nicholas",2024 Fall,Mathematics,2.86,4.75,4.33
+AS.110.302.03.FA24,Differential Equations and Applications,"Wu, Yueqiao","Wu, Yueqiao",2024 Fall,Mathematics,3.50,3.75,4.20
+AS.110.302.06.FA24,Differential Equations and Applications,"Wu, Yueqiao","Wu, Yueqiao",2024 Fall,Mathematics,3.00,3.93,4.14
+AS.110.302.02.FA24,Differential Equations and Applications,"Wu, Yueqiao","Wu, Yueqiao",2024 Fall,Mathematics,3.18,3.92,4.42
+AS.110.302.05.FA24,Differential Equations and Applications,"Wu, Yueqiao","Wu, Yueqiao",2024 Fall,Mathematics,3.38,3.57,4.13
+AS.110.302.01.FA24,Differential Equations and Applications,"Wu, Yueqiao","Wu, Yueqiao",2024 Fall,Mathematics,3.23,3.45,4.14
+AS.110.302.03.SP25,Differential Equations and Applications,"Meng, Fanjun","Meng, Fanjun",2025 Spring,Mathematics,3.05,4.14,4.14
+AS.110.302.88.SP25,Differential Equations and Applications,"Marshburn, Nicholas","Marshburn, Nicholas",2025 Spring,Mathematics,2.50,3.73,3.91
+AS.110.302.02.SP25,Differential Equations and Applications,"Meng, Fanjun","Meng, Fanjun",2025 Spring,Mathematics,3.10,3.65,4.05
+AS.110.302.06.SP25,Differential Equations and Applications,"Meng, Fanjun","Meng, Fanjun",2025 Spring,Mathematics,3.36,4.00,4.18
+AS.110.302.05.SP25,Differential Equations and Applications,"Meng, Fanjun","Meng, Fanjun",2025 Spring,Mathematics,2.86,4.05,3.76
+AS.110.302.01.SP25,Differential Equations and Applications,"Meng, Fanjun","Meng, Fanjun",2025 Spring,Mathematics,3.14,4.00,4.39
+AS.110.302.04.SP25,Differential Equations and Applications,"Meng, Fanjun","Meng, Fanjun",2025 Spring,Mathematics,3.19,3.82,3.86
+AS.110.302.04.FA25,Differential Equations and Applications,"Brown, Richard","Brown, Richard",2025 Fall,Mathematics,3.43,4.35,4.09
+AS.110.302.88.FA25,Differential Equations and Applications,"Marshburn, Nicholas","Marshburn, Nicholas",2025 Fall,Mathematics,3.00,5.00,4.67
+AS.110.302.03.FA25,Differential Equations and Applications,"Klevdal, Christian","Klevdal, Christian",2025 Fall,Mathematics,3.36,3.86,3.86
+AS.110.302.06.FA25,Differential Equations and Applications,"Brown, Richard","Brown, Richard",2025 Fall,Mathematics,3.40,4.40,4.20
+AS.110.302.05.FA25,Differential Equations and Applications,"Brown, Richard","Brown, Richard",2025 Fall,Mathematics,3.32,4.38,4.29
+AS.110.302.02.FA25,Differential Equations and Applications,"Klevdal, Christian","Klevdal, Christian",2025 Fall,Mathematics,3.10,3.82,3.86
+AS.110.302.01.FA25,Differential Equations and Applications,"Klevdal, Christian","Klevdal, Christian",2025 Fall,Mathematics,3.04,3.57,3.78
+AS.110.303.88.SP24,"The Mathematics of Politics, Democracy, and Social Choice","Ratigan, Christopher","Ratigan, Christopher",2024 Spring,Mathematics,3.13,4.41,4.38
+AS.110.303.88.FA24,"The Mathematics of Politics, Democracy, and Social Choice","Ratigan, Christopher","Ratigan, Christopher",2024 Fall,Mathematics,3.33,3.78,4.11
+AS.110.303.88.SP25,"The Mathematics of Politics, Democracy, and Social Choice","Ratigan, Christopher","Ratigan, Christopher",2025 Spring,Mathematics,3.31,4.38,4.19
+AS.110.303.88.FA25,"The Mathematics of Politics, Democracy, and Social Choice","Ratigan, Christopher","Ratigan, Christopher",2025 Fall,Mathematics,3.63,4.67,4.56
+AS.110.304.01.SP24,Elementary Number Theory,"Kitchloo, Nitya","Kitchloo, Nitya",2024 Spring,Mathematics,3.60,4.60,4.60
+AS.110.304.01.SP25,Elementary Number Theory,"Rijke, Egbert","Rijke, Egbert",2025 Spring,Mathematics,3.60,4.60,4.80
+AS.110.304.01.FA25,Elementary Number Theory,"Rijke, Egbert","Rijke, Egbert",2025 Fall,Mathematics,3.25,4.88,4.88
+AS.110.311.01.SP24,Methods of Complex Analysis,"Mese, CHIKAKO","Mese, CHIKAKO",2024 Spring,Mathematics,3.46,4.69,4.69
+AS.110.311.01.SP25,Methods of Complex Analysis,"Mese, CHIKAKO","Mese, CHIKAKO",2025 Spring,Mathematics,3.60,4.80,4.60
+AS.110.401.01.SP24,Introduction to Abstract Algebra,"Gregoric, Rok","Gregoric, Rok",2024 Spring,Mathematics,3.18,3.91,3.91
+AS.110.401.88.SP24,Introduction to Abstract Algebra,"Marshburn, Nicholas","Marshburn, Nicholas",2024 Spring,Mathematics,3.13,4.40,4.11
+AS.110.401.01.FA24,Advanced Algebra I,"Park, Chamsol","Park, Chamsol",2024 Fall,Mathematics,3.33,4.67,4.56
+AS.110.401.01.SP25,Introduction to Abstract Algebra,"Wu, Yueqiao","Wu, Yueqiao",2025 Spring,Mathematics,3.89,3.67,4.44
+AS.110.401.88.SP25,Introduction to Abstract Algebra,"Marshburn, Nicholas","Marshburn, Nicholas",2025 Spring,Mathematics,3.25,4.60,4.80
+AS.110.401.88.FA25,Advanced Algebra I,"Marshburn, Nicholas","Marshburn, Nicholas",2025 Fall,Mathematics,3.00,4.67,4.75
+AS.110.401.01.FA25,Advanced Algebra I,"Jones, Trevor","Jones, Trevor",2025 Fall,Mathematics,4.33,4.56,4.89
+AS.110.405.88.SP24,Real Analysis I,"Marino, Jeffrey","Marino, Jeffrey",2024 Spring,Mathematics,4.00,4.43,4.83
+AS.110.405.01.SP24,Real Analysis I,"Wang, Xiong","Wang, Xiong",2024 Spring,Mathematics,3.42,4.75,4.83
+AS.110.405.88.FA24,Real Analysis I,"Marino, Jeffrey","Marino, Jeffrey",2024 Fall,Mathematics,3.94,3.90,4.48
+AS.110.405.01.FA24,Real Analysis I,"Shumakovitch, Alexander","Shumakovitch, Alexander",2024 Fall,Mathematics,4.22,4.56,4.84
+AS.110.405.88.SP25,Real Analysis I,"Marino, Jeffrey","Marino, Jeffrey",2025 Spring,Mathematics,4.31,4.07,4.64
+AS.110.405.01.SP25,Real Analysis I,"Bernstein, Jacob","Bernstein, Jacob",2025 Spring,Mathematics,3.68,4.50,4.55
+AS.110.405.01.FA25,Real Analysis I,"Lu, Fei","Lu, Fei",2025 Fall,Mathematics,3.96,4.13,4.52
+AS.110.405.88.FA25,Real Analysis I,"Marino, Jeffrey","Marino, Jeffrey",2025 Fall,Mathematics,4.50,4.36,4.71
+AS.110.406.88.FA24,Real Analysis II,"Marino, Jeffrey","Marino, Jeffrey",2024 Fall,Mathematics,3.67,4.60,4.80
+AS.110.406.88.SP25,Real Analysis II,"Marino, Jeffrey","Marino, Jeffrey",2025 Spring,Mathematics,3.40,4.71,4.86
+AS.110.407.01.FA25,Honors Complex Analysis,"Dodson, Benjamin","Dodson, Benjamin",2025 Fall,Mathematics,3.25,4.25,5.00
+AS.110.411.01.FA24,Honors Algebra I,"Meng, Fanjun","Meng, Fanjun",2024 Fall,Mathematics,3.06,3.76,4.18
+AS.110.411.01.FA25,Honors Algebra I,"Hamil, Matthew","Hamil, Matthew",2025 Fall,Mathematics,3.20,4.09,4.36
+AS.110.412.01.SP24,Honors Algebra II,"Weinberger, Jonathan","Weinberger, Jonathan",2024 Spring,Mathematics,4.21,3.71,4.64
+AS.110.412.01.SP25,Honors Algebra II,"Consani, Caterina (Katia)","Consani, Caterina (Katia)",2025 Spring,Mathematics,3.63,3.63,4.38
+AS.110.413.01.SP24,Introduction To Topology,"Verdugo, Paula","Verdugo, Paula",2024 Spring,Mathematics,3.33,4.42,4.54
+AS.110.413.01.SP25,Introduction To Topology,"Wang, Zhiren","Wang, Zhiren",2025 Spring,Mathematics,3.54,3.85,4.54
+AS.110.415.01.FA24,Honors Analysis I,"Maggioni, Mauro","Maggioni, Mauro",2024 Fall,Mathematics,4.27,4.50,5.00
+AS.110.415.01.FA25,Honors Analysis I,"Marshall-Stevens, Kobe","Marshall-Stevens, Kobe",2025 Fall,Mathematics,4.06,4.74,4.74
+AS.110.416.01.SP24,Honors Analysis II,"Zhao, Zihui","Zhao, Zihui",2024 Spring,Mathematics,3.50,4.63,4.88
+AS.110.416.01.SP25,Honors Analysis II,"Sogge, Christopher","Sogge, Christopher",2025 Spring,Mathematics,3.40,4.60,4.90
+AS.110.417.01.SP24,Partial Differential Equations,"Wang, Xiong","Wang, Xiong",2024 Spring,Mathematics,3.60,5.00,4.75
+AS.110.417.01.SP25,Partial Differential Equations,"Lu, Fei","Lu, Fei",2025 Spring,Mathematics,3.80,4.38,4.38
+AS.110.421.01.SP24,Dynamical Systems,"Brown, Richard","Brown, Richard",2024 Spring,Mathematics,3.92,4.50,4.58
+AS.110.422.01.FA24,Representation Theory,"Khovanov, Mikhail","Khovanov, Mikhail",2024 Fall,Mathematics,3.60,4.00,4.83
+AS.110.439.01.FA24,Introduction To Differential Geometry,"Restrepo Montoya, Daniel","Restrepo Montoya, Daniel",2024 Fall,Mathematics,3.43,4.86,4.71
+AS.110.439.01.FA25,Introduction To Differential Geometry,"Restrepo Montoya, Daniel","Restrepo Montoya, Daniel",2025 Fall,Mathematics,3.60,4.60,4.80
+AS.110.441.01.SP25,Calculus on Manifolds,"Marshall-Stevens, Kobe","Marshall-Stevens, Kobe",2025 Spring,Mathematics,3.15,4.80,4.73
+AS.110.445.01.SP24,Mathematical and Computational Foundations of Data Science,"Maggioni, Mauro","Maggioni, Mauro",2024 Spring,Mathematics,3.10,4.57,4.71
+AS.110.445.01.SP25,Mathematical and Computational Foundations of Data Science,"Maggioni, Mauro","Maggioni, Mauro",2025 Spring,Mathematics,3.63,3.58,4.21
+AS.110.601.01.FA24,Algebra I,"Gepner, David","Gepner, David",2024 Fall,Mathematics,4.00,4.25,4.36
+AS.110.607.01.SP25,Complex Variables,"Wang, Yi","Wang, Yi",2025 Spring,Mathematics,2.90,4.20,3.18
+AS.110.615.01.FA24,Algebraic Topology I,"Kitchloo, Nitya","Kitchloo, Nitya",2024 Fall,Mathematics,3.47,4.93,4.93
+AS.110.615.01.FA25,Algebraic Topology I,"Kitchloo, Nitya","Kitchloo, Nitya",2025 Fall,Mathematics,2.67,4.55,4.27
+AS.110.637.01.FA25,Functional Analysis,"Lindblad, Hans","Lindblad, Hans",2025 Fall,Mathematics,3.78,3.75,4.58
