@@ -1,0 +1,302 @@
+course_code,course_title,instructor,instructors_full,term,department,workload_avg,teaching_avg,intellectual_avg
+EN.601.104.01.SP24,Computer Ethics,"Leschke, Tim","Leschke, Tim",2024 Spring,Computer Science,3.00,4.08,3.50
+EN.601.104.02.SP24,Computer Ethics,"Leschke, Tim","Leschke, Tim",2024 Spring,Computer Science,2.84,4.37,3.58
+EN.601.104.04.SP24,Computer Ethics,"Leschke, Tim","Leschke, Tim",2024 Spring,Computer Science,2.63,4.44,4.13
+EN.601.104.03.SP24,Computer Ethics,"Leschke, Tim","Leschke, Tim",2024 Spring,Computer Science,3.08,4.00,3.43
+EN.601.104.02.FA24,Computer Ethics,"Leschke, Tim","Leschke, Tim",2024 Fall,Computer Science,2.47,4.40,3.93
+EN.601.104.04.FA24,Computer Ethics,"Leschke, Tim","Leschke, Tim",2024 Fall,Computer Science,2.25,3.94,3.19
+EN.601.104.01.FA24,Computer Ethics,"Leschke, Tim","Leschke, Tim",2024 Fall,Computer Science,2.67,4.17,3.23
+EN.601.104.03.FA24,Computer Ethics,"Leschke, Tim","Leschke, Tim",2024 Fall,Computer Science,2.57,4.07,3.57
+EN.601.104.03.SP25,Computer Ethics,"Leschke, Tim","Leschke, Tim",2025 Spring,Computer Science,2.67,3.72,3.39
+EN.601.104.02.SP25,Computer Ethics,"Leschke, Tim","Leschke, Tim",2025 Spring,Computer Science,3.07,4.36,4.00
+EN.601.104.04.SP25,Computer Ethics,"Leschke, Tim","Leschke, Tim",2025 Spring,Computer Science,2.31,4.00,3.75
+EN.601.104.01.SP25,Computer Ethics,"Leschke, Tim","Leschke, Tim",2025 Spring,Computer Science,2.68,4.05,3.44
+EN.601.104.01.FA25,Computer Ethics,"Leschke, Tim","Leschke, Tim",2025 Fall,Computer Science,2.47,4.27,3.80
+EN.601.104.03.FA25,Computer Ethics,"Leschke, Tim","Leschke, Tim",2025 Fall,Computer Science,2.36,4.06,3.63
+EN.601.104.04.FA25,Computer Ethics,"Leschke, Tim","Leschke, Tim",2025 Fall,Computer Science,2.50,4.00,3.64
+EN.601.104.02.FA25,Computer Ethics,"Leschke, Tim","Leschke, Tim",2025 Fall,Computer Science,2.13,4.19,3.44
+EN.601.124.02.SP24,The Ethics of Artificial Intelligence and Automation,"Lopez-Gonzalez, Monica","Lopez-Gonzalez, Monica",2024 Spring,Computer Science,2.60,4.38,3.94
+EN.601.124.01.SP24,The Ethics of Artificial Intelligence and Automation,"Lopez-Gonzalez, Monica","Lopez-Gonzalez, Monica",2024 Spring,Computer Science,3.07,3.67,3.67
+EN.601.124.02.FA24,The Ethics of Artificial Intelligence and Automation,"Lopez-Gonzalez,  Monica","Lopez-Gonzalez,  Monica",2024 Fall,Computer Science,3.13,4.93,4.53
+EN.601.124.01.FA24,The Ethics of Artificial Intelligence and Automation,"Lopez-Gonzalez,  Monica","Lopez-Gonzalez,  Monica",2024 Fall,Computer Science,2.86,4.71,4.07
+EN.601.124.01.SP25,The Ethics of Artificial Intelligence and Automation,"Lopez, Monica","Lopez, Monica",2025 Spring,Computer Science,3.07,4.20,4.00
+EN.601.164.01.FA25,Human and Machine Intelligence Alignment,"Ryan, Dan","Ryan, Dan",2025 Fall,Computer Science,2.73,4.65,4.08
+EN.601.220.03.SP24,Intermediate Programming,"Kazhdan, Misha","Kazhdan, Misha",2024 Spring,Computer Science,4.45,4.20,4.51
+EN.601.220.02.SP24,Intermediate Programming,"Darvish, Ali","Darvish, Ali",2024 Spring,Computer Science,4.38,3.55,4.35
+EN.601.220.01.SP24,Intermediate Programming,"Darvish, Ali","Darvish, Ali",2024 Spring,Computer Science,4.03,3.72,4.29
+EN.601.220.04.FA24,Intermediate Programming,"Selinski, Joanne","Selinski, Joanne",2024 Fall,Computer Science,4.00,3.91,4.09
+EN.601.220.03.FA24,Intermediate Programming,"Darvish, Ali","Darvish, Ali",2024 Fall,Computer Science,4.48,3.36,4.25
+EN.601.220.05.FA24,Intermediate Programming,"Presler-Marshall, Kai","Presler-Marshall, Kai",2024 Fall,Computer Science,4.25,3.65,4.19
+EN.601.220.01.FA24,Intermediate Programming,"Simari, Patricio","Simari, Patricio",2024 Fall,Computer Science,4.38,4.38,4.42
+EN.601.220.02.FA24,Intermediate Programming,"Darvish, Ali","Darvish, Ali",2024 Fall,Computer Science,4.11,3.48,4.19
+EN.601.220.02.SP25,Intermediate Programming,"Darvish, Ali","Darvish, Ali",2025 Spring,Computer Science,4.06,3.77,4.31
+EN.601.220.04.SP25,Intermediate Programming,"Simari, Patricio","Simari, Patricio",2025 Spring,Computer Science,4.06,4.29,4.35
+EN.601.220.01.SP25,Intermediate Programming,"Darvish, Ali","Darvish, Ali",2025 Spring,Computer Science,3.87,3.77,4.19
+EN.601.220.03.SP25,Intermediate Programming,"Simari, Patricio","Simari, Patricio",2025 Spring,Computer Science,4.23,4.13,4.47
+EN.601.220.02.FA25,Intermediate Programming,"Darvish, Ali","Darvish, Ali",2025 Fall,Computer Science,3.76,3.80,4.30
+EN.601.220.03.FA25,Intermediate Programming,"Simari, Patricio","Simari, Patricio",2025 Fall,Computer Science,4.04,3.92,3.96
+EN.601.220.01.FA25,Intermediate Programming,"Selinski, Joanne","Selinski, Joanne",2025 Fall,Computer Science,3.75,4.19,4.09
+EN.601.220.04.FA25,Intermediate Programming,"Simari, Patricio","Simari, Patricio",2025 Fall,Computer Science,3.80,4.36,4.31
+EN.601.226.02.SP24,Data Structures,"Simari, Patricio","Simari, Patricio",2024 Spring,Computer Science,4.03,4.26,4.36
+EN.601.226.01.SP24,Data Structures,"Simari, Patricio","Simari, Patricio",2024 Spring,Computer Science,4.19,4.30,4.30
+EN.601.226.01.FA24,Data Structures,"Presler-Marshall, Kai","Presler-Marshall, Kai",2024 Fall,Computer Science,4.19,4.31,4.54
+EN.601.226.02.FA24,Data Structures,"Madooei, Ali","Madooei, Ali",2024 Fall,Computer Science,4.19,4.64,4.57
+EN.601.226.01.SP25,Data Structures,"Presler-Marshall, Kai","Presler-Marshall, Kai",2025 Spring,Computer Science,4.31,4.09,4.20
+EN.601.226.02.SP25,Data Structures,"Presler-Marshall, Kai","Presler-Marshall, Kai",2025 Spring,Computer Science,4.26,4.06,4.22
+EN.601.226.02.FA25,Data Structures,"Madooei, Ali","Madooei, Ali",2025 Fall,Computer Science,4.35,4.61,4.65
+EN.601.226.01.FA25,Data Structures,"Madooei, Ali","Madooei, Ali",2025 Fall,Computer Science,4.39,4.52,4.56
+EN.601.229.01.SP24,Computer System Fundamentals,"Hovemeyer, David","Hovemeyer, David",2024 Spring,Computer Science,3.99,4.25,4.57
+EN.601.229.01.FA24,Computer System Fundamentals,"Hovemeyer, David","Hovemeyer, David",2024 Fall,Computer Science,3.96,4.36,4.60
+EN.601.229.02.FA24,Computer System Fundamentals,"Hovemeyer, David","Hovemeyer, David",2024 Fall,Computer Science,3.89,4.30,4.32
+EN.601.229.01.SP25,Computer System Fundamentals,"Hovemeyer, David","Hovemeyer, David",2025 Spring,Computer Science,3.72,4.31,4.35
+EN.601.229.02.FA25,Computer System Fundamentals,"Hovemeyer, David","Hovemeyer, David",2025 Fall,Computer Science,3.65,3.98,4.29
+EN.601.229.01.FA25,Computer System Fundamentals,"Hovemeyer, David","Hovemeyer, David",2025 Fall,Computer Science,4.15,4.10,4.30
+EN.601.230.08.SP24,Mathematical Foundations for Computer Science,"More, Sara","More, Sara",2024 Spring,Computer Science,3.41,4.29,4.24
+EN.601.230.07.SP24,Mathematical Foundations for Computer Science,"More, Sara","More, Sara",2024 Spring,Computer Science,3.00,3.87,3.69
+EN.601.230.06.SP24,Mathematical Foundations for Computer Science,"More, Sara","More, Sara",2024 Spring,Computer Science,2.82,4.22,3.50
+EN.601.230.05.SP24,Mathematical Foundations for Computer Science,"More, Sara","More, Sara",2024 Spring,Computer Science,2.78,4.28,3.94
+EN.601.230.03.SP24,Mathematical Foundations for Computer Science,"More, Sara","More, Sara",2024 Spring,Computer Science,3.18,4.23,3.85
+EN.601.230.01.SP24,Mathematical Foundations for Computer Science,"More, Sara","More, Sara",2024 Spring,Computer Science,3.50,3.93,3.92
+EN.601.230.02.SP24,Mathematical Foundations for Computer Science,"More, Sara","More, Sara",2024 Spring,Computer Science,3.29,4.20,3.73
+EN.601.230.04.SP24,Mathematical Foundations for Computer Science,"More, Sara","More, Sara",2024 Spring,Computer Science,3.44,3.94,3.50
+EN.601.230.07.FA24,Mathematical Foundations for Computer Science,"Garg, Gagan","Garg, Gagan",2024 Fall,Computer Science,3.13,4.44,4.33
+EN.601.230.04.FA24,Mathematical Foundations for Computer Science,"Garg, Gagan","Garg, Gagan",2024 Fall,Computer Science,2.75,3.71,3.94
+EN.601.230.02.FA24,Mathematical Foundations for Computer Science,"Garg, Gagan","Garg, Gagan",2024 Fall,Computer Science,2.69,4.06,3.88
+EN.601.230.05.FA24,Mathematical Foundations for Computer Science,"Garg, Gagan","Garg, Gagan",2024 Fall,Computer Science,2.38,4.25,3.63
+EN.601.230.03.FA24,Mathematical Foundations for Computer Science,"Garg, Gagan","Garg, Gagan",2024 Fall,Computer Science,3.00,4.50,4.17
+EN.601.230.05.SP25,Mathematical Foundations for Computer Science,"More, Sara","More, Sara",2025 Spring,Computer Science,3.32,4.16,4.16
+EN.601.230.06.SP25,Mathematical Foundations for Computer Science,"More, Sara","More, Sara",2025 Spring,Computer Science,3.21,4.29,4.00
+EN.601.230.03.SP25,Mathematical Foundations for Computer Science,"More, Sara","More, Sara",2025 Spring,Computer Science,3.18,3.67,3.27
+EN.601.230.04.SP25,Mathematical Foundations for Computer Science,"More, Sara","More, Sara",2025 Spring,Computer Science,3.17,4.00,4.17
+EN.601.230.02.SP25,Mathematical Foundations for Computer Science,"More, Sara","More, Sara",2025 Spring,Computer Science,3.67,4.10,4.00
+EN.601.257.01.FA24,Computer Graphics and 3D Game Programming,"Simari, Patricio","Simari, Patricio",2024 Fall,Computer Science,3.56,3.78,3.78
+EN.601.257.01.SP25,Computer Graphics and 3D Game Programming,"Simari, Patricio","Simari, Patricio",2025 Spring,Computer Science,3.63,4.63,4.75
+EN.601.257.01.FA25,Computer Graphics and 3D Game Programming,"Simari, Patricio","Simari, Patricio",2025 Fall,Computer Science,3.70,4.10,3.60
+EN.601.264.01.SP25,Practical Generative AI,"Madooei, Ali","Madooei, Ali",2025 Spring,Computer Science,3.63,4.69,4.44
+EN.601.277.01.SP24,Disinformation Self-Defense,"Shpitser, Ilya","Shpitser, Ilya",2024 Spring,Computer Science,3.29,3.93,4.13
+EN.601.280.02.FA24,Full-Stack JavaScript,"Madooei, Ali","Madooei, Ali",2024 Fall,Computer Science,3.80,3.64,3.76
+EN.601.280.01.FA24,Full-Stack JavaScript,"Madooei, Ali","Madooei, Ali",2024 Fall,Computer Science,3.79,4.35,4.45
+EN.601.280.01.FA25,Full-Stack JavaScript,"Presler-Marshall, Kai","Presler-Marshall, Kai",2025 Fall,Computer Science,3.54,3.80,3.94
+EN.601.290.02.SP24,User Interfaces and Mobile Applications,"Selinski, Joanne","Selinski, Joanne",2024 Spring,Computer Science,3.25,3.26,3.70
+EN.601.290.01.SP24,User Interfaces and Mobile Applications,"Selinski, Joanne","Selinski, Joanne",2024 Spring,Computer Science,3.63,3.74,3.98
+EN.601.290.01.SP25,User Interfaces and Mobile Applications,"Selinski, Joanne","Selinski, Joanne",2025 Spring,Computer Science,3.55,4.11,4.13
+EN.601.290.02.SP25,User Interfaces and Mobile Applications,"Selinski, Joanne","Selinski, Joanne",2025 Spring,Computer Science,3.50,3.11,3.00
+EN.601.315.01.FA24,Databases,"Yarowsky, David","Yarowsky, David",2024 Fall,Computer Science,3.54,2.84,4.00
+EN.601.315.01.FA25,Databases,"Yarowsky, David","Yarowsky, David",2025 Fall,Computer Science,3.46,2.96,4.13
+EN.601.340.01.FA25,Web Security,"Cao, Yinzhi","Cao, Yinzhi",2025 Fall,Computer Science,3.25,5.00,4.75
+EN.601.350.01.SP24,Genomic Data Science,"Salzberg, Steven","Salzberg, Steven",2024 Spring,Computer Science,2.96,4.39,4.04
+EN.601.404.01.SP25,Brain & Computation,"Kosaraju, Rao","Kosaraju, Rao",2025 Spring,Computer Science,3.00,3.43,3.14
+EN.601.411.01.SP24,Computer Science Innovation & Entrepreneurship II,"Aronhime, Lawrence","Aronhime, Lawrence",2024 Spring,Computer Science,2.92,4.77,4.54
+EN.601.411.01.SP24,Computer Science Innovation & Entrepreneurship II,"Dahbura, Anton","Dahbura, Anton",2024 Spring,Computer Science,2.92,4.69,4.54
+EN.601.411.01.SP25,Computer Science Innovation & Entrepreneurship II,"Aronhime, Lawrence","Aronhime, Lawrence",2025 Spring,Computer Science,3.60,4.64,4.55
+EN.601.411.01.SP25,Computer Science Innovation & Entrepreneurship II,"Dahbura, Anton","Dahbura, Anton",2025 Spring,Computer Science,3.60,4.27,4.55
+EN.601.415.01.FA25,Databases,"Yarowsky, David","Yarowsky, David",2025 Fall,Computer Science,3.22,3.27,3.91
+EN.601.419.01.FA25,Cloud Computing,"Ghorbani, Soudeh","Ghorbani, Soudeh",2025 Fall,Computer Science,3.29,4.38,4.14
+EN.601.433.01.FA25,Intro Algorithms,"Dinitz, Michael","Dinitz, Michael",2025 Fall,Computer Science,4.13,3.71,4.46
+EN.601.433.01.FA25,Intro Algorithms,"Sorrell, Jessica","Sorrell, Jessica",2025 Fall,Computer Science,4.13,4.00,4.46
+EN.601.433.02.FA25,Intro Algorithms,"Dinitz, Michael","Dinitz, Michael",2025 Fall,Computer Science,3.87,3.88,4.80
+EN.601.433.02.FA25,Intro Algorithms,"Sorrell, Jessica","Sorrell, Jessica",2025 Fall,Computer Science,3.87,4.13,4.80
+EN.601.447.02.FA24,Computational Genomics: Sequences,"Langmead, Benjamin","Langmead, Benjamin",2024 Fall,Computer Science,3.00,5.00,4.67
+EN.601.447.01.FA24,Computational Genomics: Sequences,"Langmead, Benjamin","Langmead, Benjamin",2024 Fall,Computer Science,3.35,4.74,4.41
+EN.601.464.01.SP24,Artificial Intelligence,"Haque, Musad","Haque, Musad",2024 Spring,Computer Science,2.80,3.86,3.94
+EN.601.464.02.SP24,Artificial Intelligence,"Haque, Musad","Haque, Musad",2024 Spring,Computer Science,3.00,3.40,4.00
+EN.601.464.01.FA24,Artificial Intelligence,"Haque, Musad","Haque, Musad",2024 Fall,Computer Science,3.02,3.78,3.73
+EN.601.464.01.SP25,Artificial Intelligence,"Haque, Musad","Haque, Musad",2025 Spring,Computer Science,3.06,3.99,3.93
+EN.601.464.01.FA25,Artificial Intelligence,"Haque, Musad","Haque, Musad",2025 Fall,Computer Science,3.14,4.28,4.02
+EN.601.465.01.FA24,Natural Language Processing,"Eisner, Jason","Eisner, Jason",2024 Fall,Computer Science,5.00,4.60,4.88
+EN.601.475.01.SP24,Machine Learning,"Liu, Anqi","Liu, Anqi",2024 Spring,Computer Science,4.65,3.55,4.40
+EN.601.477.01.FA25,Causal Inference,"Shpitser, Ilya","Shpitser, Ilya",2025 Fall,Computer Science,4.00,4.00,4.00
+EN.601.482.03.FA25,Machine Learning: Deep Learning,"Unberath, Mathias","Unberath, Mathias",2025 Fall,Computer Science,3.56,4.27,4.59
+EN.601.482.03.FA25,Machine Learning: Deep Learning,"Kocaoglu, Murat","Kocaoglu, Murat",2025 Fall,Computer Science,3.56,3.69,4.59
+EN.601.496.01.SP24,Computer Integrated Surgery II - Teams,"Taylor, Russell","Taylor, Russell",2024 Spring,Computer Science,4.20,4.20,4.40
+EN.601.496.01.SP25,Computer Integrated Surgery II - Teams,"Taylor, Russell","Taylor, Russell",2025 Spring,Computer Science,4.38,4.13,4.75
+EN.601.604.01.SP24,Brain & Computation,"Kosaraju, Rao","Kosaraju, Rao",2024 Spring,Computer Science,2.67,4.33,4.33
+EN.601.613.01.SP24,Software Defined Networks,"Sabnani, Krishan","Sabnani, Krishan",2024 Spring,Computer Science,3.33,4.33,4.67
+EN.601.613.01.SP25,Software Defined Networks,"Sabnani, Krishan","Sabnani, Krishan",2025 Spring,Computer Science,3.00,4.42,4.33
+EN.601.614.01.SP24,Computer Networks,"Marder, Alex","Marder, Alex",2024 Spring,Computer Science,3.88,4.12,4.35
+EN.601.614.01.FA24,Computer Networks,"Zhao, Renjie","Zhao, Renjie",2024 Fall,Computer Science,3.88,3.63,4.13
+EN.601.614.01.SP25,Computer Networks,"Zhao, Renjie","Zhao, Renjie",2025 Spring,Computer Science,4.00,3.81,4.25
+EN.601.614.01.FA25,Computer Networks,"Marder, Alex","Marder, Alex",2025 Fall,Computer Science,3.40,5.00,4.80
+EN.601.615.01.FA24,Databases,"Yarowsky, David","Yarowsky, David",2024 Fall,Computer Science,3.52,3.25,3.71
+EN.601.615.02.FA24,Databases,"Yarowsky, David","Yarowsky, David",2024 Fall,Computer Science,3.91,3.55,4.50
+EN.601.615.02.FA25,Databases,"Yarowsky, David","Yarowsky, David",2025 Fall,Computer Science,4.00,4.00,4.25
+EN.601.618.01.SP24,Operating Systems,"Hovemeyer, David","Hovemeyer, David",2024 Spring,Computer Science,4.44,4.30,4.30
+EN.601.618.01.SP25,Operating Systems,"Hovemeyer, David","Hovemeyer, David",2025 Spring,Computer Science,4.50,4.67,4.83
+EN.601.620.01.FA24,Parallel Computing for Data Science,"Burns, Randal","Burns, Randal",2024 Fall,Computer Science,2.65,4.09,3.91
+EN.601.621.01.SP24,Object Oriented Software Engineering,"Madooei, Ali","Madooei, Ali",2024 Spring,Computer Science,4.30,4.40,4.80
+EN.601.621.01.FA24,Object Oriented Software Engineering,"Darvish, Ali","Darvish, Ali",2024 Fall,Computer Science,3.13,4.39,4.39
+EN.601.621.01.SP25,Object Oriented Software Engineering,"Madooei, Ali","Madooei, Ali",2025 Spring,Computer Science,4.07,4.50,4.44
+EN.601.621.01.FA25,Object Oriented Software Engineering,"Darvish, Ali","Darvish, Ali",2025 Fall,Computer Science,3.17,4.33,4.00
+EN.601.622.01.SP24,Software Testing & Debugging,"Darvish, Ali","Darvish, Ali",2024 Spring,Computer Science,3.27,4.20,4.25
+EN.601.622.01.SP25,Software Testing & Debugging,"Darvish, Ali","Darvish, Ali",2025 Spring,Computer Science,3.44,4.67,4.24
+EN.601.625.01.SP24,Software System Design,"Madooei, Ali","Madooei, Ali",2024 Spring,Computer Science,2.89,4.90,4.62
+EN.601.625.01.SP25,Software System Design,"Madooei, Ali","Madooei, Ali",2025 Spring,Computer Science,3.11,4.84,4.51
+EN.601.625.01.FA25,Software System Design,"Madooei, Ali","Madooei, Ali",2025 Fall,Computer Science,2.86,4.93,4.29
+EN.601.626.01.SP24,Principles of Programming Languages,"Smith, Scott","Smith, Scott",2024 Spring,Computer Science,3.38,4.88,4.63
+EN.601.626.01.SP25,Principles of Programming Languages,"Smith, Scott","Smith, Scott",2025 Spring,Computer Science,3.33,4.33,3.83
+EN.601.628.01.FA24,Compilers & Interpreters,"Hovemeyer, David","Hovemeyer, David",2024 Fall,Computer Science,4.60,5.00,5.00
+EN.601.628.01.FA25,Compilers & Interpreters,"Hovemeyer, David","Hovemeyer, David",2025 Fall,Computer Science,3.50,5.00,4.50
+EN.601.629.01.FA24,Functional Programming in Software Engineering,"Smith, Scott","Smith, Scott",2024 Fall,Computer Science,3.64,4.07,4.15
+EN.601.629.01.FA25,Functional Programming in Software Engineering,"Smith, Scott","Smith, Scott",2025 Fall,Computer Science,3.86,4.07,4.43
+EN.601.630.01.SP24,Combinatorics & Graph Theory in Computer Science,"Li, Xin","Li, Xin",2024 Spring,Computer Science,2.89,3.78,4.56
+EN.601.630.01.SP25,Combinatorics & Graph Theory in Computer Science,"Li, Xin","Li, Xin",2025 Spring,Computer Science,3.20,4.60,4.20
+EN.601.631.01.FA24,Theory of Computation,"Li, Xin","Li, Xin",2024 Fall,Computer Science,3.33,3.92,4.17
+EN.601.631.01.FA25,Theory of Computation,"Li, Xin","Li, Xin",2025 Fall,Computer Science,3.17,4.14,5.00
+EN.601.633.02.SP24,Intro Algorithms,"Garg, Gagan","Garg, Gagan",2024 Spring,Computer Science,3.64,4.13,4.13
+EN.601.633.01.SP24,Intro Algorithms,"Garg, Gagan","Garg, Gagan",2024 Spring,Computer Science,3.57,4.24,4.42
+EN.601.633.01.FA24,Intro Algorithms,"Dinitz, Michael","Dinitz, Michael",2024 Fall,Computer Science,4.23,4.63,4.78
+EN.601.633.02.SP25,Intro Algorithms,"Garg, Gagan","Garg, Gagan",2025 Spring,Computer Science,3.53,4.38,4.57
+EN.601.633.01.SP25,Intro Algorithms,"Garg, Gagan","Garg, Gagan",2025 Spring,Computer Science,3.54,4.46,4.17
+EN.601.634.01.SP25,Randomized and Big Data Algorithms,"Braverman, Vladimir","Braverman, Vladimir",2025 Spring,Computer Science,3.13,4.73,4.60
+EN.601.635.01.SP24,Approximation Algorithms,"Dinitz, Michael","Dinitz, Michael",2024 Spring,Computer Science,3.25,4.50,4.88
+EN.601.638.01.SP25,Algorithmic Foundations of Differential Privacy,"Dinitz, Michael","Dinitz, Michael",2025 Spring,Computer Science,3.43,4.50,4.71
+EN.601.640.01.FA25,Web Security,"Cao, Yinzhi","Cao, Yinzhi",2025 Fall,Computer Science,3.33,4.49,4.54
+EN.601.641.01.FA24,Blockchains and Cryptocurrencies,"Green, Matthew","Green, Matthew",2024 Fall,Computer Science,3.71,4.55,4.55
+EN.601.643.01.FA24,Security & Privacy in Computing,"Rushanan, Michael","Rushanan, Michael",2024 Fall,Computer Science,3.25,4.59,4.41
+EN.601.643.01.FA24,Security & Privacy in Computing,"Martin,  Paul","Martin,  Paul",2024 Fall,Computer Science,3.25,4.48,4.41
+EN.601.643.01.FA25,Security & Privacy in Computing,"Kostick, Logan","Kostick, Logan",2025 Fall,Computer Science,3.77,4.23,4.54
+EN.601.643.01.FA25,Security & Privacy in Computing,"Rushanan, Michael","Rushanan, Michael",2025 Fall,Computer Science,3.77,4.54,4.54
+EN.601.644.01.SP25,Medical Device Cybersecurity,"Rushanan, Michael","Rushanan, Michael",2025 Spring,Computer Science,3.40,4.93,4.73
+EN.601.645.01.SP24,Practical Cryptographic Systems,"Green, Matthew","Green, Matthew",2024 Spring,Computer Science,3.76,4.86,4.95
+EN.601.645.01.SP25,Practical Cryptographic Systems,"Green, Matthew","Green, Matthew",2025 Spring,Computer Science,3.97,4.77,4.87
+EN.601.646.01.SP24,Sketching and Indexing for Sequences,"Langmead, Benjamin","Langmead, Benjamin",2024 Spring,Computer Science,3.11,5.00,4.56
+EN.601.646.01.SP25,Sketching and Indexing for Sequences,"Langmead, Benjamin","Langmead, Benjamin",2025 Spring,Computer Science,3.20,4.67,4.17
+EN.601.647.01.FA24,Computational Genomics: Sequences,"Langmead, Benjamin","Langmead, Benjamin",2024 Fall,Computer Science,3.70,4.67,4.64
+EN.601.647.03.FA24,Computational Genomics: Sequences,"Langmead, Benjamin","Langmead, Benjamin",2024 Fall,Computer Science,3.20,4.60,4.40
+EN.601.647.02.FA24,Computational Genomics: Sequences,"Langmead, Benjamin","Langmead, Benjamin",2024 Fall,Computer Science,4.00,5.00,5.00
+EN.601.649.01.FA24,Computational Genomics: Applied Comparative Genomics,"Schatz, Michael","Schatz, Michael",2024 Fall,Computer Science,3.00,4.77,4.54
+EN.601.649.01.FA25,Computational Genomics: Applied Comparative Genomics,"Schatz, Michael","Schatz, Michael",2025 Fall,Computer Science,3.27,4.80,4.60
+EN.601.653.01.SP24,Applications of Augmented Reality,"Martin Gomez, Alejandro","Martin Gomez, Alejandro",2024 Spring,Computer Science,3.43,4.86,4.43
+EN.601.654.02.FA25,Introduction to Augmented Reality,Kazanzides + Munawar,"Kazanzides, Peter + Munawar, Adnan",2025 Fall,Computer Science,3.71,4.57,4.14
+EN.601.654.01.FA25,Introduction to Augmented Reality,"Kazanzides, Peter","Kazanzides, Peter",2025 Fall,Computer Science,3.43,4.43,4.57
+EN.601.654.01.FA25,Introduction to Augmented Reality,"Munawar, Adnan","Munawar, Adnan",2025 Fall,Computer Science,3.43,4.86,4.57
+EN.601.655.01.FA24,Computer Integrated Surgery I,"Taylor, Russell","Taylor, Russell",2024 Fall,Computer Science,4.75,3.85,4.71
+EN.601.655.02.FA25,Computer Integrated Surgery I,"Taylor, Russell","Taylor, Russell",2025 Fall,Computer Science,4.71,3.57,4.71
+EN.601.655.01.FA25,Computer Integrated Surgery I,"Taylor, Russell","Taylor, Russell",2025 Fall,Computer Science,4.47,3.47,4.76
+EN.601.656.01.SP24,Computer Integrated Surgery II,"Taylor, Russell","Taylor, Russell",2024 Spring,Computer Science,4.19,4.10,4.55
+EN.601.656.01.SP25,Computer Integrated Surgery II,"Taylor, Russell","Taylor, Russell",2025 Spring,Computer Science,4.08,4.52,4.78
+EN.601.657.01.SP25,Computer Graphics,"Kazhdan, Misha","Kazhdan, Misha",2025 Spring,Computer Science,3.87,4.67,4.60
+EN.601.657.01.FA25,Computer Graphics,"Kazhdan, Misha","Kazhdan, Misha",2025 Fall,Computer Science,4.14,5.00,4.67
+EN.601.661.02.SP24,Computer Vision,"Katyal, Kapil","Katyal, Kapil",2024 Spring,Computer Science,3.33,4.32,4.42
+EN.601.661.01.SP24,Computer Vision,"Katyal, Kapil","Katyal, Kapil",2024 Spring,Computer Science,3.07,4.66,4.28
+EN.601.661.03.FA24,Computer Vision,"Katyal, Kapil","Katyal, Kapil",2024 Fall,Computer Science,2.77,4.23,4.15
+EN.601.661.01.FA24,Computer Vision,"Katyal, Kapil","Katyal, Kapil",2024 Fall,Computer Science,3.13,4.48,4.25
+EN.601.661.02.FA24,Computer Vision,"Katyal, Kapil","Katyal, Kapil",2024 Fall,Computer Science,3.07,4.47,4.40
+EN.601.661.02.SP25,Computer Vision,"Katyal, Kapil","Katyal, Kapil",2025 Spring,Computer Science,2.85,4.54,4.31
+EN.601.661.01.SP25,Computer Vision,"Katyal, Kapil","Katyal, Kapil",2025 Spring,Computer Science,3.24,4.49,4.37
+EN.601.661.01.FA25,Computer Vision,"Katyal, Kapil","Katyal, Kapil",2025 Fall,Computer Science,3.29,4.75,4.75
+EN.601.661.03.FA25,Computer Vision,"Hager, Greg","Hager, Greg",2025 Fall,Computer Science,3.18,4.63,4.53
+EN.601.661.02.FA25,Computer Vision,"Katyal, Kapil","Katyal, Kapil",2025 Fall,Computer Science,3.14,4.64,4.29
+EN.601.663.02.SP24,Algorithms for Sensor-Based Robotics,"Leonard, Simon","Leonard, Simon",2024 Spring,Computer Science,4.06,4.58,4.64
+EN.601.663.01.SP24,Algorithms for Sensor-Based Robotics,"Leonard, Simon","Leonard, Simon",2024 Spring,Computer Science,4.13,4.57,4.14
+EN.601.663.01.FA24,Algorithms for Sensor-Based Robotics,"Leonard, Simon","Leonard, Simon",2024 Fall,Computer Science,3.76,4.69,4.35
+EN.601.663.02.FA24,Algorithms for Sensor-Based Robotics,"Leonard, Simon","Leonard, Simon",2024 Fall,Computer Science,3.80,4.67,4.70
+EN.601.663.02.SP25,Algorithms for Sensor-Based Robotics,"Leonard, Simon","Leonard, Simon",2025 Spring,Computer Science,3.52,4.55,4.35
+EN.601.663.01.SP25,Algorithms for Sensor-Based Robotics,"Leonard, Simon","Leonard, Simon",2025 Spring,Computer Science,3.88,4.50,4.88
+EN.601.663.02.FA25,Algorithms for Sensor-Based Robotics,"Leonard, Simon","Leonard, Simon",2025 Fall,Computer Science,3.88,4.25,4.47
+EN.601.663.01.FA25,Algorithms for Sensor-Based Robotics,"Leonard, Simon","Leonard, Simon",2025 Fall,Computer Science,3.92,4.48,4.40
+EN.601.664.01.SP24,Artificial Intelligence,"Koehn, Philipp","Koehn, Philipp",2024 Spring,Computer Science,3.05,4.08,4.20
+EN.601.664.02.SP24,Artificial Intelligence,"Koehn, Philipp","Koehn, Philipp",2024 Spring,Computer Science,3.11,4.03,4.12
+EN.601.664.03.FA24,Artificial Intelligence,"Cachola, Isabel","Cachola, Isabel",2024 Fall,Computer Science,3.16,4.15,3.97
+EN.601.664.02.FA24,Artificial Intelligence,"Haque, Musad","Haque, Musad",2024 Fall,Computer Science,2.92,4.19,4.04
+EN.601.664.02.SP25,Artificial Intelligence,"Koehn, Philipp","Koehn, Philipp",2025 Spring,Computer Science,2.83,4.41,4.31
+EN.601.664.01.SP25,Artificial Intelligence,"Koehn, Philipp","Koehn, Philipp",2025 Spring,Computer Science,2.85,4.37,4.24
+EN.601.664.02.FA25,Artificial Intelligence,"Shu, Tianmin","Shu, Tianmin",2025 Fall,Computer Science,3.43,4.05,4.09
+EN.601.664.01.FA25,Artificial Intelligence,"Shu, Tianmin","Shu, Tianmin",2025 Fall,Computer Science,3.39,3.96,4.20
+EN.601.665.02.FA24,Natural Language Processing,"Eisner, Jason","Eisner, Jason",2024 Fall,Computer Science,5.00,4.75,4.75
+EN.601.665.03.FA24,Natural Language Processing,"Eisner, Jason","Eisner, Jason",2024 Fall,Computer Science,5.00,4.11,4.44
+EN.601.665.01.FA24,Natural Language Processing,"Eisner, Jason","Eisner, Jason",2024 Fall,Computer Science,4.77,4.65,4.78
+EN.601.665.01.FA25,Natural Language Processing,"Eisner, Jason","Eisner, Jason",2025 Fall,Computer Science,4.81,4.82,4.89
+EN.601.665.02.FA25,Natural Language Processing,"Eisner, Jason","Eisner, Jason",2025 Fall,Computer Science,4.38,4.59,4.47
+EN.601.666.01.SP24,Information Retrieval and Web Agents,"Yarowsky, David","Yarowsky, David",2024 Spring,Computer Science,3.40,4.18,4.20
+EN.601.666.02.SP24,Information Retrieval and Web Agents,"Yarowsky, David","Yarowsky, David",2024 Spring,Computer Science,3.83,4.17,4.67
+EN.601.666.02.SP25,Information Retrieval and Web Agents,"Yarowsky, David","Yarowsky, David",2025 Spring,Computer Science,3.38,4.38,4.25
+EN.601.666.01.SP25,Information Retrieval and Web Agents,"Yarowsky, David","Yarowsky, David",2025 Spring,Computer Science,3.21,4.07,4.14
+EN.601.667.01.FA24,Introduction to Human Language Technology,"Koehn, Philipp","Koehn, Philipp",2024 Fall,Computer Science,3.29,3.89,3.69
+EN.601.667.01.FA25,Introduction to Human Language Technology,"Koehn, Philipp","Koehn, Philipp",2025 Fall,Computer Science,3.35,4.08,4.03
+EN.601.668.01.FA24,Machine Translation,"Koehn, Philipp","Koehn, Philipp",2024 Fall,Computer Science,3.28,4.18,4.25
+EN.601.668.02.FA24,Machine Translation,"Koehn, Philipp","Koehn, Philipp",2024 Fall,Computer Science,3.55,4.62,4.69
+EN.601.668.01.FA25,Machine Translation,"Koehn, Philipp","Koehn, Philipp",2025 Fall,Computer Science,3.04,4.59,4.22
+EN.601.669.01.FA25,"AI Safety, Alignment, & Governance","Hadfield, Gillian","Hadfield, Gillian",2025 Fall,Computer Science,3.13,4.71,4.31
+EN.601.669.02.FA25,"AI Safety, Alignment, & Governance","Hadfield, Gillian","Hadfield, Gillian",2025 Fall,Computer Science,3.50,4.73,4.33
+EN.601.670.02.FA24,Artificial Agents,"Van Durme, Benjamin","Van Durme, Benjamin",2024 Fall,Computer Science,3.29,4.38,4.43
+EN.601.670.01.FA24,Artificial Agents,"Van Durme, Benjamin","Van Durme, Benjamin",2024 Fall,Computer Science,3.64,3.54,4.14
+EN.601.671.01.SP24,Natural Language Processing: Self-Supervised Models,"Khashabi, Daniel","Khashabi, Daniel",2024 Spring,Computer Science,3.75,4.82,4.74
+EN.601.671.01.SP25,Natural Language Processing: Self-Supervised Models,"Khashabi, Daniel","Khashabi, Daniel",2025 Spring,Computer Science,4.00,4.84,4.63
+EN.601.672.01.SP24,Natural Language Processing for Computational Social Science,"Field, Anjalie","Field, Anjalie",2024 Spring,Computer Science,2.56,4.40,3.90
+EN.601.672.01.SP25,Natural Language Processing for Computational Social Science,"Field, Anjalie","Field, Anjalie",2025 Spring,Computer Science,2.79,4.37,4.00
+EN.601.673.01.SP24,Cognitive Artificial Intelligence,"Shu, Tianmin","Shu, Tianmin",2024 Spring,Computer Science,2.93,4.44,4.25
+EN.601.673.01.FA24,Cognitive Artificial Intelligence,"Shu, Tianmin","Shu, Tianmin",2024 Fall,Computer Science,3.00,4.11,4.33
+EN.601.674.01.FA24,ML: Learning Theory,"Arora, Raman","Arora, Raman",2024 Fall,Computer Science,4.71,4.00,4.65
+EN.601.674.01.FA25,ML: Learning Theory,"Arora, Raman","Arora, Raman",2025 Fall,Computer Science,3.56,4.33,4.75
+EN.601.674.02.FA25,ML: Learning Theory,"Arora, Raman","Arora, Raman",2025 Fall,Computer Science,3.67,4.67,4.67
+EN.601.675.02.FA24,Machine Learning,"Shpitser, Ilya","Shpitser, Ilya",2024 Fall,Computer Science,4.13,3.75,4.38
+EN.601.675.01.FA24,Machine Learning,"Shpitser, Ilya","Shpitser, Ilya",2024 Fall,Computer Science,4.24,3.21,4.27
+EN.601.675.01.SP25,Machine Learning,"Arora, Raman","Arora, Raman",2025 Spring,Computer Science,3.86,4.20,4.60
+EN.601.675.02.SP25,Machine Learning,"Arora, Raman","Arora, Raman",2025 Spring,Computer Science,3.88,4.40,4.40
+EN.601.675.01.FA25,Machine Learning,"Shpitser, Ilya","Shpitser, Ilya",2025 Fall,Computer Science,4.47,3.41,4.14
+EN.601.675.01.FA25,Machine Learning,"Oberst, Michael","Oberst, Michael",2025 Fall,Computer Science,4.47,4.36,4.14
+EN.601.675.03.FA25,Machine Learning,"Shpitser, Ilya","Shpitser, Ilya",2025 Fall,Computer Science,4.23,4.25,4.73
+EN.601.675.03.FA25,Machine Learning,"Oberst, Michael","Oberst, Michael",2025 Fall,Computer Science,4.23,4.23,4.73
+EN.601.675.02.FA25,Machine Learning,"Shpitser, Ilya","Shpitser, Ilya",2025 Fall,Computer Science,4.29,3.33,3.57
+EN.601.675.02.FA25,Machine Learning,"Oberst, Michael","Oberst, Michael",2025 Fall,Computer Science,4.29,3.25,3.57
+EN.601.675.04.FA25,Machine Learning,"Shpitser, Ilya","Shpitser, Ilya",2025 Fall,Computer Science,4.19,4.10,4.12
+EN.601.675.04.FA25,Machine Learning,"Oberst, Michael","Oberst, Michael",2025 Fall,Computer Science,4.19,4.06,4.12
+EN.601.679.01.FA25,Machine Learning: Reinforcement Learning,"Braverman, Vladimir","Braverman, Vladimir",2025 Fall,Computer Science,2.63,4.64,4.52
+EN.601.679.01.FA25,Machine Learning: Reinforcement Learning,"Chiu, Zih-Yun","Chiu, Zih-Yun",2025 Fall,Computer Science,2.63,4.76,4.52
+EN.601.682.02.FA24,Machine Learning: Deep Learning,"Unberath, Mathias","Unberath, Mathias",2024 Fall,Computer Science,3.47,4.78,4.29
+EN.601.682.01.FA24,Machine Learning: Deep Learning,"Unberath, Mathias","Unberath, Mathias",2024 Fall,Computer Science,4.20,4.80,4.69
+EN.601.682.02.SP25,Machine Learning: Deep Learning,"Nalisnick, Eric","Nalisnick, Eric",2025 Spring,Computer Science,3.13,4.75,4.50
+EN.601.682.01.SP25,Machine Learning: Deep Learning,"Nalisnick, Eric","Nalisnick, Eric",2025 Spring,Computer Science,3.05,4.60,4.50
+EN.601.682.02.FA25,Machine Learning: Deep Learning,"Unberath, Mathias","Unberath, Mathias",2025 Fall,Computer Science,3.64,4.79,4.71
+EN.601.682.03.FA25,Machine Learning: Deep Learning,"Unberath, Mathias","Unberath, Mathias",2025 Fall,Computer Science,3.74,4.57,4.44
+EN.601.682.03.FA25,Machine Learning: Deep Learning,"Kocaoglu, Murat","Kocaoglu, Murat",2025 Fall,Computer Science,3.74,4.00,4.44
+EN.601.682.01.FA25,Machine Learning: Deep Learning,"Unberath, Mathias","Unberath, Mathias",2025 Fall,Computer Science,3.58,4.65,4.33
+EN.601.684.02.SP24,ML: Interpretable Machine Learning Design,"Unberath, Mathias","Unberath, Mathias",2024 Spring,Computer Science,2.83,3.83,3.83
+EN.601.684.01.SP24,ML: Interpretable Machine Learning Design,"Unberath, Mathias","Unberath, Mathias",2024 Spring,Computer Science,3.57,4.43,3.71
+EN.601.684.01.SP25,Explainable AI Design & Human-AI Interaction,"Unberath, Mathias","Unberath, Mathias",2025 Spring,Computer Science,2.75,4.75,4.25
+EN.601.685.01.FA24,Probabilistic Models of the Visual Cortex,"Yuille, Alan","Yuille, Alan",2024 Fall,Computer Science,3.11,4.62,4.59
+EN.601.685.01.FA25,Probabilistic Models of the Visual Cortex,"Yuille, Alan","Yuille, Alan",2025 Fall,Computer Science,3.00,4.30,4.23
+EN.601.686.01.FA24,Machine Learning: Artificial Intelligence System Design & Development,"Dredze, Mark","Dredze, Mark",2024 Fall,Computer Science,3.00,4.33,3.73
+EN.601.686.01.FA25,Machine Learning: Artificial Intelligence System Design & Development,"Dredze, Mark","Dredze, Mark",2025 Fall,Computer Science,3.00,4.50,3.94
+EN.601.687.01.SP25,Machine Learning: Coping with Non-Stationary Environments and Errors,"Liu, Anqi","Liu, Anqi",2025 Spring,Computer Science,3.07,4.43,4.50
+EN.601.689.01.FA24,Human-in-the-Loop Machine Learning,"Nalisnick, Eric","Nalisnick, Eric",2024 Fall,Computer Science,2.50,5.00,4.71
+EN.601.690.01.SP24,Introduction to Human-Computer Interaction,"Reiter, Joshua","Reiter, Joshua",2024 Spring,Computer Science,2.90,4.50,3.96
+EN.601.690.02.FA24,Introduction to Human-Computer Interaction,"Xiao, Ziang","Xiao, Ziang",2024 Fall,Computer Science,3.23,4.69,4.23
+EN.601.690.01.FA24,Introduction to Human-Computer Interaction,"Xiao, Ziang","Xiao, Ziang",2024 Fall,Computer Science,3.36,4.29,3.50
+EN.601.690.03.FA24,Introduction to Human-Computer Interaction,"Reiter, Joshua","Reiter, Joshua",2024 Fall,Computer Science,2.81,4.82,3.95
+EN.601.690.04.SP25,Introduction to Human-Computer Interaction,"Reiter, Joshua","Reiter, Joshua",2025 Spring,Computer Science,4.00,4.75,4.25
+EN.601.690.03.SP25,Introduction to Human-Computer Interaction,"Reiter, Joshua","Reiter, Joshua",2025 Spring,Computer Science,3.20,4.40,4.00
+EN.601.690.02.SP25,Introduction to Human-Computer Interaction,"Reiter, Joshua","Reiter, Joshua",2025 Spring,Computer Science,4.67,3.62,2.92
+EN.601.690.01.SP25,Introduction to Human-Computer Interaction,"Reiter, Joshua","Reiter, Joshua",2025 Spring,Computer Science,3.70,4.32,3.70
+EN.601.690.01.FA25,Introduction to Human-Computer Interaction,"Xiao, Ziang","Xiao, Ziang",2025 Fall,Computer Science,3.57,5.00,4.50
+EN.601.690.02.FA25,Introduction to Human-Computer Interaction,"Xiao, Ziang","Xiao, Ziang",2025 Fall,Computer Science,3.36,4.67,4.50
+EN.601.690.03.FA25,Introduction to Human-Computer Interaction,"Reiter, Joshua","Reiter, Joshua",2025 Fall,Computer Science,2.82,4.71,4.18
+EN.601.691.02.SP25,Human-Robot Interaction,"Mahmood, Amama","Mahmood, Amama",2025 Spring,Computer Science,2.25,4.50,3.25
+EN.601.691.01.SP25,Human-Robot Interaction,"Mahmood, Amama","Mahmood, Amama",2025 Spring,Computer Science,3.22,4.60,4.30
+EN.601.693.01.FA25,Accessible Computing,"Huang, Chien-Ming","Huang, Chien-Ming",2025 Fall,Computer Science,3.10,4.64,4.09
+EN.601.713.01.FA24,Future Networks,"Sabnani, Krishan","Sabnani, Krishan",2024 Fall,Computer Science,2.63,4.25,4.13
+EN.601.713.01.FA25,Future Networks,"Sabnani, Krishan","Sabnani, Krishan",2025 Fall,Computer Science,2.86,4.60,4.14
+EN.601.714.01.SP25,Advanced Computer Networks,"Ghorbani, Soudeh","Ghorbani, Soudeh",2025 Spring,Computer Science,3.80,4.00,4.20
+EN.601.715.01.SP25,Advanced Networks: Internet Measurement,"Marder, Alex","Marder, Alex",2025 Spring,Computer Science,2.83,5.00,4.83
+EN.601.716.01.SP24,Advanced Topics in Internet of Things,"Zhao, Renjie","Zhao, Renjie",2024 Spring,Computer Science,2.75,4.44,4.56
+EN.601.716.01.FA25,Advanced Topics in Internet of Things,"Zhao, Renjie","Zhao, Renjie",2025 Fall,Computer Science,3.06,4.74,4.65
+EN.601.727.01.FA25,Machine Programming,"Li, Ziyang","Li, Ziyang",2025 Fall,Computer Science,2.83,4.94,4.84
+EN.601.742.01.FA25,Advanced Topics in Cryptography,"Green, Matthew","Green, Matthew",2025 Fall,Computer Science,2.80,5.00,5.00
+EN.601.764.01.SP24,Advanced NLP: Multilingual Methods,"Murray, Kenton","Murray, Kenton",2024 Spring,Computer Science,2.67,4.67,4.67
+EN.601.770.01.FA24,AI Ethics and Social Impact,"Field, Anjalie","Field, Anjalie",2024 Fall,Computer Science,2.83,4.78,4.11
+EN.601.771.01.FA24,Advances in Self-Supervised Statistical Models,"Khashabi, Daniel","Khashabi, Daniel",2024 Fall,Computer Science,3.24,4.78,4.67
+EN.601.771.01.FA25,Advances in Self-Supervised Statistical Models,"Khashabi, Daniel","Khashabi, Daniel",2025 Fall,Computer Science,3.18,4.68,4.63
+EN.601.773.01.SP25,Machine Social Intelligence,"Shu, Tianmin","Shu, Tianmin",2025 Spring,Computer Science,3.14,4.48,4.29
+EN.601.774.01.SP25,Theory of Replicable Machine Learning,"Sorrell, Jessica","Sorrell, Jessica",2025 Spring,Computer Science,2.60,4.91,4.91
+EN.601.779.01.SP24,Machine Learning: Advanced Topics,"Arora, Raman","Arora, Raman",2024 Spring,Computer Science,3.07,4.67,4.60
+EN.601.783.02.SP24,Vision as Bayesian Inference,"Yuille, Alan","Yuille, Alan",2024 Spring,Computer Science,2.79,4.64,4.71
+EN.601.783.01.SP24,Vision as Bayesian Inference,"Yuille, Alan","Yuille, Alan",2024 Spring,Computer Science,2.95,4.34,4.37
+EN.601.783.02.SP25,Vision as Bayesian Inference,"Yuille, Alan","Yuille, Alan",2025 Spring,Computer Science,2.84,4.37,4.11
+EN.601.783.01.SP25,Vision as Bayesian Inference,"Yuille, Alan","Yuille, Alan",2025 Spring,Computer Science,2.99,4.29,4.39
+EN.601.787.01.FA24,Advanced Machine Learning: Machine Learning for Trustworthy AI,"Liu, Anqi","Liu, Anqi",2024 Fall,Computer Science,3.37,4.63,4.37
+EN.601.788.02.FA24,Machine Learning for Healthcare,"Oberst, Michael","Oberst, Michael",2024 Fall,Computer Science,3.33,4.67,4.50
+EN.601.788.01.FA24,Machine Learning for Healthcare,"Oberst, Michael","Oberst, Michael",2024 Fall,Computer Science,3.80,4.67,4.55
+EN.601.790.01.SP25,Advanced Human-Computer Interaction: Research Methods,"Xiao, Ziang","Xiao, Ziang",2025 Spring,Computer Science,3.19,4.76,4.59
+EN.601.792.01.SP24,Advanced Topics in Conversational User Interfaces,"Xiao, Ziang","Xiao, Ziang",2024 Spring,Computer Science,2.40,4.67,4.10
+EN.601.794.01.FA25,"Privacy Technology, Design, and Law","Yao, Yaxing","Yao, Yaxing",2025 Fall,Computer Science,3.09,4.43,4.13
