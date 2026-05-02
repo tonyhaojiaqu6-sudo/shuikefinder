@@ -1,0 +1,6 @@
+cookie.txt
+debug_response.html
+debug_catalog.html
+__pycache__/
+.DS_Store
+*.pyc
