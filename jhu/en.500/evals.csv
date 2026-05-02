@@ -1,0 +1,110 @@
+course_code,course_title,instructor,instructors_full,term,department,workload_avg,teaching_avg,intellectual_avg
+EN.500.101.01.FA24,What Is Engineering?,"VerHulst, Claire","VerHulst, Claire",2024 Fall,General Engineering,3.17,4.17,3.50
+EN.500.101.01.FA25,What Is Engineering?,"VerHulst, Claire","VerHulst, Claire",2025 Fall,General Engineering,2.50,4.83,3.83
+EN.500.103.01.FA24,Hopkins Engineering Sampler Seminar,"Boone, Antonio","Boone, Antonio",2024 Fall,General Engineering,1.50,4.60,3.22
+EN.500.103.01.FA25,Hopkins Engineering Sampler Seminar,"Wiseman, Andrea","Wiseman, Andrea",2025 Fall,General Engineering,1.33,3.67,2.60
+EN.500.111.15.FA24,Hopkins Engineering Applications & Research Tutorials,"Cao, Di","Cao, Di",2024 Fall,General Engineering,1.25,4.57,3.71
+EN.500.111.10.FA24,Hopkins Engineering Applications & Research Tutorials,"Huang, Ziting","Huang, Ziting",2024 Fall,General Engineering,2.00,4.50,3.75
+EN.500.111.05.FA24,Hopkins Engineering Applications & Research Tutorials,"Titi, Aseel","Titi, Aseel",2024 Fall,General Engineering,1.80,3.60,3.60
+EN.500.111.16.FA24,Hopkins Engineering Applications & Research Tutorials,"Nixon, Kristen","Nixon, Kristen",2024 Fall,General Engineering,1.33,4.83,4.17
+EN.500.111.08.FA24,Hopkins Engineering Applications & Research Tutorials,Fernandez Brillet + Quinn,"Fernandez Brillet, Celia + Quinn, Kiara",2024 Fall,General Engineering,2.00,5.00,4.63
+EN.500.111.03.FA24,Hopkins Engineering Applications & Research Tutorials,"Ahmad, Zan","Ahmad, Zan",2024 Fall,General Engineering,2.00,3.90,4.11
+EN.500.111.14.FA24,Hopkins Engineering Applications & Research Tutorials,"Lim, Josiah","Lim, Josiah",2024 Fall,General Engineering,1.20,5.00,4.40
+EN.500.111.07.FA24,Hopkins Engineering Applications & Research Tutorials,"Gill, Amy","Gill, Amy",2024 Fall,General Engineering,1.57,4.29,4.29
+EN.500.111.12.FA24,Hopkins Engineering Applications & Research Tutorials,"Jain, Manav","Jain, Manav",2024 Fall,General Engineering,1.67,4.83,4.18
+EN.500.111.06.FA24,Hopkins Engineering Applications & Research Tutorials,"Kumar, Avisha","Kumar, Avisha",2024 Fall,General Engineering,1.44,4.55,3.91
+EN.500.111.11.FA24,Hopkins Engineering Applications & Research Tutorials,"Brown, Nathan","Brown, Nathan",2024 Fall,General Engineering,1.60,4.60,4.00
+EN.500.111.01.FA25,Hopkins Engineering Applications & Research Tutorials,"Lim, Josiah","Lim, Josiah",2025 Fall,General Engineering,1.64,5.00,4.75
+EN.500.111.05.FA25,Hopkins Engineering Applications & Research Tutorials,"Ariail, Emily","Ariail, Emily",2025 Fall,General Engineering,1.67,4.40,4.13
+EN.500.111.04.FA25,Hopkins Engineering Applications & Research Tutorials,"Saha, Indrashish","Saha, Indrashish",2025 Fall,General Engineering,1.86,4.38,4.13
+EN.500.111.03.FA25,Hopkins Engineering Applications & Research Tutorials,"Hallinan, Caleb","Hallinan, Caleb",2025 Fall,General Engineering,2.60,4.40,4.40
+EN.500.112.01.SP24,Gateway Computing: JAVA,"Garg, Gagan","Garg, Gagan",2024 Spring,General Engineering,3.83,4.33,4.33
+EN.500.112.04.SP24,Gateway Computing: JAVA,"More, Sara","More, Sara",2024 Spring,General Engineering,3.62,4.17,4.38
+EN.500.112.03.SP24,Gateway Computing: JAVA,"More, Sara","More, Sara",2024 Spring,General Engineering,3.57,4.14,3.93
+EN.500.112.02.SP24,Gateway Computing: JAVA,"Garg, Gagan","Garg, Gagan",2024 Spring,General Engineering,3.89,4.22,4.00
+EN.500.112.03.FA24,Gateway Computing: JAVA,"More, Sara","More, Sara",2024 Fall,General Engineering,3.67,4.44,4.31
+EN.500.112.01.FA24,Gateway Computing: JAVA,"Garg, Gagan","Garg, Gagan",2024 Fall,General Engineering,3.31,3.71,3.88
+EN.500.112.02.FA24,Gateway Computing: JAVA,"Garg, Gagan","Garg, Gagan",2024 Fall,General Engineering,3.67,4.47,4.50
+EN.500.112.06.FA24,Gateway Computing: JAVA,"More, Sara","More, Sara",2024 Fall,General Engineering,3.50,4.21,4.37
+EN.500.112.05.FA24,Gateway Computing: JAVA,"More, Sara","More, Sara",2024 Fall,General Engineering,3.67,4.58,4.25
+EN.500.112.02.SP25,Gateway Computing: JAVA,"Garg, Gagan","Garg, Gagan",2025 Spring,General Engineering,3.63,3.75,4.25
+EN.500.112.02.SP25,Gateway Computing: JAVA,"More, Sara","More, Sara",2025 Spring,General Engineering,3.63,4.38,4.25
+EN.500.112.01.SP25,Gateway Computing: JAVA,"Garg, Gagan","Garg, Gagan",2025 Spring,General Engineering,3.22,4.00,4.00
+EN.500.112.01.SP25,Gateway Computing: JAVA,"More, Sara","More, Sara",2025 Spring,General Engineering,3.22,4.25,4.00
+EN.500.112.03.FA25,Gateway Computing: JAVA,"Garg, Gagan","Garg, Gagan",2025 Fall,General Engineering,3.29,4.50,4.14
+EN.500.112.03.FA25,Gateway Computing: JAVA,"More, Sara","More, Sara",2025 Fall,General Engineering,3.29,4.71,4.14
+EN.500.112.02.FA25,Gateway Computing: JAVA,Garg + More,"Garg, Gagan + More, Sara",2025 Fall,General Engineering,3.29,4.00,3.89
+EN.500.112.05.FA25,Gateway Computing: JAVA,"Garg, Gagan","Garg, Gagan",2025 Fall,General Engineering,3.67,4.40,4.30
+EN.500.112.05.FA25,Gateway Computing: JAVA,"More, Sara","More, Sara",2025 Fall,General Engineering,3.67,5.00,4.30
+EN.500.112.04.FA25,Gateway Computing: JAVA,"Garg, Gagan","Garg, Gagan",2025 Fall,General Engineering,3.50,4.22,4.06
+EN.500.112.04.FA25,Gateway Computing: JAVA,"More, Sara","More, Sara",2025 Fall,General Engineering,3.50,3.71,4.06
+EN.500.113.07.SP24,Gateway Computing: Python,"Edison, John","Edison, John",2024 Spring,General Engineering,3.40,4.25,4.00
+EN.500.113.01.SP24,Gateway Computing: Python,"Ardekani, Siamak","Ardekani, Siamak",2024 Spring,General Engineering,3.00,4.00,4.13
+EN.500.113.03.SP24,Gateway Computing: Python,"Kutten, Kwame","Kutten, Kwame",2024 Spring,General Engineering,3.28,3.78,3.94
+EN.500.113.02.SP24,Gateway Computing: Python,"Ardekani, Siamak","Ardekani, Siamak",2024 Spring,General Engineering,3.59,4.12,4.18
+EN.500.113.06.SP24,Gateway Computing: Python,"Miller, Scot","Miller, Scot",2024 Spring,General Engineering,3.06,4.76,3.88
+EN.500.113.10.SP24,Gateway Computing: Python,"Oses, Corey","Oses, Corey",2024 Spring,General Engineering,3.82,4.17,4.45
+EN.500.113.05.SP24,Gateway Computing: Python,"Miller, Scot","Miller, Scot",2024 Spring,General Engineering,3.47,4.50,4.06
+EN.500.113.09.SP24,Gateway Computing: Python,"Oses, Corey","Oses, Corey",2024 Spring,General Engineering,3.92,4.25,4.33
+EN.500.113.04.SP24,Gateway Computing: Python,"Kutten, Kwame","Kutten, Kwame",2024 Spring,General Engineering,3.67,4.20,4.00
+EN.500.113.08.SP24,Gateway Computing: Python,"Edison, John","Edison, John",2024 Spring,General Engineering,3.14,4.43,4.29
+EN.500.113.12.FA24,Gateway Computing: Python,"Buccafusca,  Lucas","Buccafusca,  Lucas",2024 Fall,General Engineering,3.40,4.38,4.13
+EN.500.113.06.FA24,Gateway Computing: Python,"Giovanis, Dimitrios","Giovanis, Dimitrios",2024 Fall,General Engineering,3.13,3.53,3.71
+EN.500.113.10.FA24,Gateway Computing: Python,"Miller, Scot","Miller, Scot",2024 Fall,General Engineering,3.00,4.83,4.28
+EN.500.113.02.FA24,Gateway Computing: Python,"Ardekani,  Siamak","Ardekani,  Siamak",2024 Fall,General Engineering,3.28,3.67,4.22
+EN.500.113.11.FA24,Gateway Computing: Python,"Ardekani,  Siamak","Ardekani,  Siamak",2024 Fall,General Engineering,3.16,3.32,3.95
+EN.500.113.01.FA24,Gateway Computing: Python,"Ardekani,  Siamak","Ardekani,  Siamak",2024 Fall,General Engineering,3.54,3.77,3.85
+EN.500.113.05.FA24,Gateway Computing: Python,"Giovanis, Dimitrios","Giovanis, Dimitrios",2024 Fall,General Engineering,3.41,3.53,3.94
+EN.500.113.13.FA24,Gateway Computing: Python,"Ardekani,  Siamak","Ardekani,  Siamak",2024 Fall,General Engineering,3.57,3.29,3.86
+EN.500.113.09.FA24,Gateway Computing: Python,"Miller, Scot","Miller, Scot",2024 Fall,General Engineering,3.18,4.39,3.67
+EN.500.113.04.FA24,Gateway Computing: Python,"Ramesh,  Sathappan","Ramesh,  Sathappan",2024 Fall,General Engineering,3.75,2.94,3.82
+EN.500.113.08.FA24,Gateway Computing: Python,"Edison, John","Edison, John",2024 Fall,General Engineering,3.63,4.81,4.56
+EN.500.113.03.FA24,Gateway Computing: Python,"Ramesh,  Sathappan","Ramesh,  Sathappan",2024 Fall,General Engineering,3.47,3.13,3.69
+EN.500.113.07.FA24,Gateway Computing: Python,"Edison, John","Edison, John",2024 Fall,General Engineering,3.44,4.50,4.22
+EN.500.113.06.SP25,Gateway Computing: Python,"Ramesh, Sathappan","Ramesh, Sathappan",2025 Spring,General Engineering,3.69,2.81,4.19
+EN.500.113.04.SP25,Gateway Computing: Python,"Kutten, Kwame","Kutten, Kwame",2025 Spring,General Engineering,3.11,3.78,3.79
+EN.500.113.02.SP25,Gateway Computing: Python,"Ardekani, Siamak","Ardekani, Siamak",2025 Spring,General Engineering,3.46,4.00,3.86
+EN.500.113.10.SP25,Gateway Computing: Python,"Edison, John","Edison, John",2025 Spring,General Engineering,3.61,4.33,4.28
+EN.500.113.01.SP25,Gateway Computing: Python,"Ardekani, Siamak","Ardekani, Siamak",2025 Spring,General Engineering,3.60,3.80,4.00
+EN.500.113.09.SP25,Gateway Computing: Python,"Edison, John","Edison, John",2025 Spring,General Engineering,3.47,4.53,4.32
+EN.500.113.05.SP25,Gateway Computing: Python,"Ramesh, Sathappan","Ramesh, Sathappan",2025 Spring,General Engineering,3.22,3.79,3.84
+EN.500.113.03.SP25,Gateway Computing: Python,"Kutten, Kwame","Kutten, Kwame",2025 Spring,General Engineering,3.18,4.12,3.88
+EN.500.113.08.SP25,Gateway Computing: Python,"Oses, Corey","Oses, Corey",2025 Spring,General Engineering,3.53,4.12,4.47
+EN.500.113.07.SP25,Gateway Computing: Python,"Oses, Corey","Oses, Corey",2025 Spring,General Engineering,3.75,4.00,3.92
+EN.500.113.06.FA25,Gateway Computing: Python,"Miller, Scot","Miller, Scot",2025 Fall,General Engineering,3.75,4.35,4.06
+EN.500.113.08.FA25,Gateway Computing: Python,"Giovanis, Dimitrios","Giovanis, Dimitrios",2025 Fall,General Engineering,3.58,3.37,4.00
+EN.500.113.12.FA25,Gateway Computing: Python,"Mendat, Daniel","Mendat, Daniel",2025 Fall,General Engineering,3.47,3.76,4.41
+EN.500.113.10.FA25,Gateway Computing: Python,"Edison, John","Edison, John",2025 Fall,General Engineering,3.68,4.78,4.26
+EN.500.113.02.FA25,Gateway Computing: Python,"Ardekani , Siamak","Ardekani , Siamak",2025 Fall,General Engineering,3.59,3.00,4.00
+EN.500.113.07.FA25,Gateway Computing: Python,"Giovanis, Dimitrios","Giovanis, Dimitrios",2025 Fall,General Engineering,3.71,2.94,4.18
+EN.500.113.04.FA25,Gateway Computing: Python,"Miller, Scot","Miller, Scot",2025 Fall,General Engineering,2.89,4.68,4.16
+EN.500.113.01.FA25,Gateway Computing: Python,"Ardekani , Siamak","Ardekani , Siamak",2025 Fall,General Engineering,3.35,3.94,4.24
+EN.500.113.05.FA25,Gateway Computing: Python,"Presler-Marshall, Kai","Presler-Marshall, Kai",2025 Fall,General Engineering,4.12,3.89,3.89
+EN.500.113.11.FA25,Gateway Computing: Python,"Mendat, Daniel","Mendat, Daniel",2025 Fall,General Engineering,3.37,3.84,4.05
+EN.500.113.09.FA25,Gateway Computing: Python,"Edison, John","Edison, John",2025 Fall,General Engineering,3.47,4.65,4.59
+EN.500.113.03.FA25,Gateway Computing: Python,"Presler-Marshall, Kai","Presler-Marshall, Kai",2025 Fall,General Engineering,3.88,3.69,4.19
+EN.500.114.01.SP24,Gateway Computing: Matlab,"Kraemer, David","Kraemer, David",2024 Spring,General Engineering,3.19,4.19,4.04
+EN.500.114.02.SP24,Gateway Computing: Matlab,"Kraemer, David","Kraemer, David",2024 Spring,General Engineering,3.07,4.06,3.81
+EN.500.114.02.SP25,Gateway Computing: Matlab,"Kraemer, David","Kraemer, David",2025 Spring,General Engineering,3.19,3.81,3.70
+EN.500.114.01.SP25,Gateway Computing: Matlab,"Kraemer, David","Kraemer, David",2025 Spring,General Engineering,2.93,3.71,3.79
+EN.500.115.02.SP24,Gateway Data Science,"Santosa, Fadil","Santosa, Fadil",2024 Spring,General Engineering,2.27,4.11,3.84
+EN.500.115.03.SP24,Gateway Data Science,"Ardekani, Siamak","Ardekani, Siamak",2024 Spring,General Engineering,2.92,3.62,3.46
+EN.500.115.02.SP25,Gateway Data Science,"Santosa, Fadil","Santosa, Fadil",2025 Spring,General Engineering,2.85,4.38,4.31
+EN.500.132.01.SP24,Bootcamp: Java,"Sekyonda, Ivan","Sekyonda, Ivan",2024 Spring,General Engineering,3.25,3.67,3.75
+EN.500.132.01.FA24,Bootcamp: Java,"Sekyonda, Ivan","Sekyonda, Ivan",2024 Fall,General Engineering,4.50,4.50,4.17
+EN.500.132.01.SP25,Bootcamp: Java,"Sekyonda, Ivan","Sekyonda, Ivan",2025 Spring,General Engineering,3.86,3.83,3.86
+EN.500.132.01.FA25,Bootcamp: Java,"More, Sara","More, Sara",2025 Fall,General Engineering,4.00,4.14,3.88
+EN.500.132.02.FA25,Bootcamp: Java,"More, Sara","More, Sara",2025 Fall,General Engineering,4.00,4.25,4.00
+EN.500.133.01.SP24,Bootcamp: Python,"Ray, Soumyajit","Ray, Soumyajit",2024 Spring,General Engineering,2.71,3.89,4.00
+EN.500.133.01.FA24,Bootcamp: Python,"Ray, Soumyajit","Ray, Soumyajit",2024 Fall,General Engineering,3.13,3.46,4.10
+EN.500.133.01.SP25,Bootcamp: Python,"Ray, Soumyajit","Ray, Soumyajit",2025 Spring,General Engineering,3.50,3.56,4.08
+EN.500.133.01.FA25,Bootcamp: Python,"Sekyonda, Ivan","Sekyonda, Ivan",2025 Fall,General Engineering,2.96,4.05,4.08
+EN.500.133.02.FA25,Bootcamp: Python,"Sekyonda, Ivan","Sekyonda, Ivan",2025 Fall,General Engineering,3.33,4.33,3.86
+EN.500.134.01.SP24,Bootcamp: MATLAB,"Suzuki, Takayuki","Suzuki, Takayuki",2024 Spring,General Engineering,3.17,4.27,4.54
+EN.500.134.01.FA24,Bootcamp: MATLAB,"Suzuki, Takayuki","Suzuki, Takayuki",2024 Fall,General Engineering,3.00,4.00,3.60
+EN.500.134.01.SP25,Bootcamp: MATLAB,"Suzuki, Takayuki","Suzuki, Takayuki",2025 Spring,General Engineering,2.88,4.14,4.00
+EN.500.215.01.FA25,Principles of Data Science,"Santosa, Fadil","Santosa, Fadil",2025 Fall,General Engineering,2.50,4.09,4.17
+EN.500.312.01.FA24,Hopkins Engineering Research-Opened Investigation Courses,"Ozdemir, Ece","Ozdemir, Ece",2024 Fall,General Engineering,1.60,4.60,3.40
+EN.500.312.05.FA24,Hopkins Engineering Research-Opened Investigation Courses,"Sivakumar, Nikita","Sivakumar, Nikita",2024 Fall,General Engineering,2.57,4.86,4.71
+EN.500.312.03.FA25,Hopkins Engineering Research-Opened Investigation Courses,"Mudrik, Noga","Mudrik, Noga",2025 Fall,General Engineering,2.33,5.00,4.60
+EN.500.312.01.FA25,Hopkins Engineering Research-Opened Investigation Courses,"Nixon, Kristen","Nixon, Kristen",2025 Fall,General Engineering,1.92,4.77,4.54

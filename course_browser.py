@@ -159,6 +159,16 @@ DEPT_NAMES = {
 # 课程级别桶
 LEVEL_BUCKETS = ["100s", "200s", "300s", "400s", "500s", "600s", "700s+"]
 
+# JHU Foundational Abilities 描述
+FA_DESCRIPTIONS = {
+    "FA1": ("FA1", "Writing and Communication",      "写作与表达"),
+    "FA2": ("FA2", "Science and Data",               "科学与数据"),
+    "FA3": ("FA3", "Design and Quantitative Methods","设计与量化方法"),
+    "FA4": ("FA4", "Citizens and Society",           "公民与社会"),
+    "FA5": ("FA5", "Ethics and Foundations",         "伦理与基础"),
+    "FA6": ("FA6", "Projects and Methods",           "项目与方法"),
+}
+
 # 工作量阈值
 WL_T1, WL_T2, WL_T3, WL_T4 = 2.4, 2.8, 3.2, 3.6
 
@@ -235,6 +245,17 @@ def load_evals():
     df["base_code"] = df["course_code"].str.extract(
         r"^([A-Z]{2}\.\d{3}\.\d{3})", expand=False
     )
+    # 规范化教师名：去除首尾空格、压缩多个空格成一个、补齐逗号后空格
+    # 防止 "Smith, John" / "Smith,John" / " Smith, John  " 被当成 3 个不同的人
+    if "instructor" in df.columns:
+        df["instructor"] = (
+            df["instructor"].astype(str)
+              .str.replace(r"\s+", " ", regex=True)        # 多个空格 → 一个
+              .str.replace(r",\s*", ", ", regex=True)      # 标准化逗号后空格
+              .str.strip()
+        )
+        # 把空字符串和 'nan' 字符串还原为 NaN
+        df.loc[df["instructor"].isin(["", "nan", "None"]), "instructor"] = pd.NA
     return df, files
 
 
@@ -486,6 +507,46 @@ def aggregate_for_instructor(rows, instructor=None):
     }
 
 
+@st.cache_data
+def precompute_all_aggregates(evals_df):
+    """
+    一次性计算所有课程、所有教师的平均分。
+    结果缓存在内存中，后续访问是 O(1) dict 查找，不再重复过滤 DataFrame。
+
+    返回两层 dict:
+        agg_cache[(base_code, instructor)] = {workload, teaching, intellectual}
+        agg_cache[(base_code, None)]       = 综合所有教师的平均值
+
+    evals_df 作为参数传入，确保数据变化时缓存自动失效。
+    """
+    cache = {}
+    if evals_df.empty:
+        return cache
+
+    grouped = evals_df.groupby("base_code")
+    for base_code, group in grouped:
+        # 综合所有教师
+        cache[(base_code, None)] = {
+            "workload":     group["workload_avg"].mean()     if "workload_avg" in group else None,
+            "teaching":     group["teaching_avg"].mean()     if "teaching_avg" in group else None,
+            "intellectual": group["intellectual_avg"].mean() if "intellectual_avg" in group else None,
+        }
+        # 每位教师单独
+        for instructor, igroup in group.groupby("instructor"):
+            cache[(base_code, instructor)] = {
+                "workload":     igroup["workload_avg"].mean()     if "workload_avg" in igroup else None,
+                "teaching":     igroup["teaching_avg"].mean()     if "teaching_avg" in igroup else None,
+                "intellectual": igroup["intellectual_avg"].mean() if "intellectual_avg" in igroup else None,
+            }
+    return cache
+
+
+def get_agg(agg_cache, base_code, instructor=None):
+    """从缓存中取出聚合结果。找不到时返回空值 dict。"""
+    key = (base_code, instructor if instructor and instructor != "全部教师（综合）" else None)
+    return agg_cache.get(key, {"workload": None, "teaching": None, "intellectual": None})
+
+
 def get_effective_tags(base_code, agg, overrides_df):
     """
     返回应该显示的三个标签（工作量、老师、简单到无聊），
@@ -537,19 +598,14 @@ ELIGIBLE_WORKLOAD_LABELS = {"水的不能再水了", "水课"}
 ELIGIBLE_TEACHING_LABELS = {"我想给老师磕一个", "老师还行吧"}
 
 
-def get_eligible_courses(courses, evals_df, overrides_df,
+def get_eligible_courses(courses, agg_cache, overrides_df,
                          allowed_depts=None, allowed_levels=None):
     """
     返回所有满足"水课 + 老师还行" 条件的课程列表。
-    每个元素是 (base_code, title, effective_tags_dict)。
-
-    allowed_depts: 如果提供，只保留这些 dept code 的课程
-    allowed_levels: 如果提供，只保留这些级别的课程（'100s', '200s', ...）
-    None 表示不过滤该维度。
+    使用预计算缓存，避免每次重复过滤 DataFrame。
     """
     eligible = []
     for code, title in courses:
-        # 应用每日过滤
         if allowed_depts is not None:
             dept = code_to_dept_code(code)
             if dept not in allowed_depts:
@@ -559,10 +615,7 @@ def get_eligible_courses(courses, evals_df, overrides_df,
             if level not in allowed_levels:
                 continue
 
-        rows = get_course_rows(evals_df, code)
-        if rows.empty:
-            continue
-        agg = aggregate_for_instructor(rows, None)  # 综合所有教师
+        agg = get_agg(agg_cache, code, None)
         eff = get_effective_tags(code, agg, overrides_df)
 
         wl = eff["workload"]
@@ -611,9 +664,243 @@ if evals_df.empty:
 
 courses = get_unique_courses(evals_df)
 
+# 预计算所有课程的平均分——缓存后每次交互直接查表，不再重复过滤 DataFrame
+agg_cache = precompute_all_aggregates(evals_df)
+
+
+@st.cache_data
+def build_catalog_index(catalog_df):
+    """
+    从 catalog_df 构建 base_code → {fa_tags, prereq_codes, prereq_text} 的快速查找字典。
+    base_code 格式: 'AS.020.303'（大写，不含 section/term 后缀）
+    """
+    index = {}
+    if catalog_df.empty:
+        return index
+    for _, row in catalog_df.iterrows():
+        code = str(row.get("code", "") or "").strip()
+        if not code:
+            continue
+        # 标准化为大写，取前三段
+        parts = code.upper().split(".")
+        if len(parts) >= 3:
+            base = f"{parts[0]}.{parts[1]}.{parts[2]}"
+        else:
+            base = code.upper()
+        index[base] = {
+            "fa_tags":     str(row.get("fa_tags", "") or "").strip(),
+            "prereq_codes": str(row.get("prereq_codes", "") or "").strip(),
+            "prereq_text":  str(row.get("prereq_text", "") or "").strip(),
+            "credits":      str(row.get("credits", "") or "").strip(),
+            "description":  str(row.get("description", "") or "").strip(),
+            "restrictions": str(row.get("restrictions", "") or "").strip(),
+        }
+    return index
+
+
+catalog_index = build_catalog_index(catalog_df)
+
+
+def get_catalog_info(base_code):
+    """返回某课程的 catalog 信息 dict，找不到时返回空 dict。"""
+    return catalog_index.get(base_code.upper(), {})
+
+
+@st.cache_data
+def build_title_index(catalog_df, evals_df):
+    """构建 base_code → title 的快速查找字典（catalog 优先，evals 兜底）。"""
+    idx = {}
+    if not evals_df.empty:
+        for _, row in evals_df.iterrows():
+            code = row.get("base_code")
+            if pd.notna(code) and code not in idx:
+                idx[str(code).upper()] = str(row.get("course_title", "") or "").strip()
+    if not catalog_df.empty:
+        # catalog 覆盖 evals（更准确）
+        for _, row in catalog_df.iterrows():
+            code = str(row.get("code", "") or "").upper().strip()
+            if code:
+                idx[code] = str(row.get("title", "") or "").strip()
+    return idx
+
+
+_title_index = build_title_index(catalog_df, evals_df)
+
+
+def get_course_title(base_code):
+    """O(1) 查找课程标题，找不到返回空字符串。"""
+    return _title_index.get(base_code.upper(), "")
+
+
+COURSE_CODE_PATTERN_LIVE = re.compile(r"\b[A-Z]{2}\.\d{3}\.\d{3}\b")
+
+
+def linkify_course_codes(text):
+    """
+    Replace course codes (e.g. AS.020.303) with clickable links that show
+    a CSS-styled popup card on hover containing the course title.
+
+    Wrap each link in a <span class="ck-tip"> with a child .ck-pop element
+    that gets shown on :hover via CSS injected once at the top of the app.
+    """
+    if not text:
+        return ""
+    import html
+    parts = []
+    last_end = 0
+    for m in COURSE_CODE_PATTERN_LIVE.finditer(text):
+        parts.append(html.escape(text[last_end:m.start()]))
+        code = m.group()
+        title = get_course_title(code)
+        title_safe = html.escape(title) if title else ""
+        # Build the popup HTML. <span class="ck-pop"> is hidden by default and
+        # shown on hover of parent .ck-tip via CSS.
+        pop = (
+            f'<span class="ck-pop">'
+            f'<span class="ck-pop-code">{code}</span>'
+            + (f'<span class="ck-pop-title">{title_safe}</span>' if title else '')
+            + '</span>'
+        )
+        parts.append(
+            f'<span class="ck-tip">'
+            f'<a href="?search={code}" target="_self" class="ck-link">{code}</a>'
+            f'{pop}'
+            f'</span>'
+        )
+        last_end = m.end()
+    parts.append(html.escape(text[last_end:]))
+    return "".join(parts)
+
+
+# CSS for course-code links + hover popup cards.
+# Injected once near the top of the app so it applies everywhere.
+COURSE_CODE_CSS = """
+<style>
+.ck-tip {
+    position: relative;
+    display: inline-block;
+}
+.ck-link {
+    color: #5b9dff !important;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    cursor: pointer;
+    font-weight: 500;
+}
+.ck-link:hover {
+    color: #87b7ff !important;
+    text-decoration-style: solid;
+}
+.ck-pop {
+    visibility: hidden;
+    opacity: 0;
+    position: absolute;
+    bottom: calc(100% + 8px);
+    left: 50%;
+    transform: translateX(-50%);
+    background: #1f2233;
+    color: #f0f0f5;
+    padding: 10px 14px;
+    border-radius: 8px;
+    border: 1px solid #3a3f55;
+    box-shadow: 0 6px 24px rgba(0,0,0,0.35);
+    white-space: nowrap;
+    font-size: 0.9em;
+    line-height: 1.4;
+    z-index: 1000;
+    transition: opacity 0.15s ease, visibility 0s linear 0.15s;
+    pointer-events: none;
+}
+.ck-pop::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    border: 6px solid transparent;
+    border-top-color: #1f2233;
+}
+.ck-tip:hover .ck-pop {
+    visibility: visible;
+    opacity: 1;
+    transition: opacity 0.15s ease;
+}
+.ck-pop-code {
+    display: block;
+    font-family: 'SF Mono', Monaco, monospace;
+    color: #5b9dff;
+    font-weight: 600;
+    margin-bottom: 2px;
+}
+.ck-pop-title {
+    display: block;
+    color: #d0d0d8;
+}
+</style>
+"""
+
+
+def render_catalog_info(base_code):
+    """
+    显示 FA 标签和完整的先修/限制文本（含可点击的课程代码）。
+    """
+    info = get_catalog_info(base_code)
+    if not info:
+        return
+
+    # ── FA 标签 ────────────────────────────────────────────────────────────────
+    fa_raw = str(info.get("fa_tags", "") or "").strip()
+    # 排除 'nan' 和空字符串
+    if not fa_raw or fa_raw.lower() == "nan":
+        fa_display = "None"
+    else:
+        fa_list = [f.strip() for f in fa_raw.split(",") if f.strip() and f.strip().lower() != "nan"]
+        if fa_list:
+            fa_display = "  ".join(f"`{fa}`" for fa in fa_list)
+        else:
+            fa_display = "None"
+    st.markdown(f"**FA：** {fa_display}")
+
+    # ── 完整描述（含可点击的课程代码）────────────────────────────────────────
+    description = str(info.get("description", "") or "").strip()
+    if description.lower() == "nan":
+        description = ""
+
+    if description:
+        # 把课程代码转换成带 hover 提示的链接
+        linkified = linkify_course_codes(description)
+        st.markdown(
+            f"**课程描述：**<br>"
+            f"<div style='padding:10px 14px;background:rgba(255,255,255,0.04);"
+            f"border-left:3px solid #5b9dff;border-radius:4px;"
+            f"margin-top:6px;line-height:1.6;'>{linkified}</div>",
+            unsafe_allow_html=True,
+        )
+
+
+# 注入课程代码链接 + hover 提示卡片的 CSS（全局有效）
+st.markdown(COURSE_CODE_CSS, unsafe_allow_html=True)
+
+# 如果 URL 里有 ?search=，显示提示横幅引导用户切到「浏览」标签
+_pending_search = st.query_params.get("search", "")
+if _pending_search:
+    _pending_title = get_course_title(_pending_search)
+    _label = (f"{_pending_search} — {_pending_title}"
+              if _pending_title else _pending_search)
+    st.warning(
+        f"🔍 已搜索: **{_label}** · "
+        f"请点击下方「🔍 浏览」标签查看课程详情 ↓"
+    )
+
 # ─── 侧边栏 ───────────────────────────────────────────────────────────────────
 
 with st.sidebar:
+    # 欢迎信息
+    st.info(
+        "很幸运你发现了水课finder，"
+        "能考上 t10 已经很难了，希望我们能帮助你减轻上学的压力。"
+    )
+
     st.header("图例")
     st.subheader("工作量")
     for emoji, label, color in WORKLOAD_TAGS:
@@ -625,8 +912,12 @@ with st.sidebar:
     st.markdown(f":{BORING_TAG[2]}[{BORING_TAG[0]} **{BORING_TAG[1]}**]")
 
     st.divider()
+    st.subheader("修读要求（FA）")
+    for fa_code, (tag, en_name, zh_name) in FA_DESCRIPTIONS.items():
+        st.caption(f"`{tag}` {zh_name} · *{en_name}*")
+
+    st.divider()
     st.caption(f"已加载 {len(courses)} 门课程")
-    st.caption(f"已加载 {len(overrides_df)} 条手动备注")
     if not catalog_df.empty:
         st.caption(f"已加载 {len(catalog_df)} 条课程目录信息")
     st.divider()
@@ -670,13 +961,25 @@ with st.sidebar:
             st.session_state["is_admin"] = False
             st.rerun()
 
+    # 免责声明
+    st.divider()
+    st.caption(
+        "_Disclaimer: Ratings presented on courses and instructors come from "
+        "student feedback, some may be inaccurate. Please pick courses according "
+        "to your program requirements and advisor feedback._"
+    )
+
 
 # ─── 主界面：分 Tab ───────────────────────────────────────────────────────────
 
 if st.session_state.get("is_admin"):
-    daily_tab, user_tab, admin_tab = st.tabs(["⭐ 每日好课", "🔍 浏览", "🔧 管理员"])
+    daily_tab, user_tab, ai_tab, admin_tab = st.tabs(
+        ["⭐ 每日好课", "🔍 浏览", "🤖 AI 选课助手", "🔧 管理员"]
+    )
 else:
-    daily_tab, user_tab = st.tabs(["⭐ 每日好课", "🔍 浏览"])
+    daily_tab, user_tab, ai_tab = st.tabs(
+        ["⭐ 每日好课", "🔍 浏览", "🤖 AI 选课助手"]
+    )
     admin_tab = None
 
 # ─── 每日好课 Tab ─────────────────────────────────────────────────────────────
@@ -688,15 +991,13 @@ with daily_tab:
     # 加载每日过滤设置
     allowed_depts, allowed_levels, filter_exists = load_daily_filter()
     if filter_exists:
-        # 文件存在：用其中的设置；空集合 = 全禁
         eligible = get_eligible_courses(
-            courses, evals_df, overrides_df,
+            courses, agg_cache, overrides_df,
             allowed_depts=allowed_depts,
             allowed_levels=allowed_levels,
         )
     else:
-        # 默认：无过滤（当前行为）
-        eligible = get_eligible_courses(courses, evals_df, overrides_df)
+        eligible = get_eligible_courses(courses, agg_cache, overrides_df)
 
     # 管理员可以"换一个"，用 salt 重新选；普通用户不受影响
     if st.session_state.get("is_admin"):
@@ -748,6 +1049,10 @@ with daily_tab:
                     emoji, label, color = tag
                     st.markdown(f"## {emoji} :{color}[{label}]")
 
+            st.divider()
+            # FA 标签 + 完整先修/限制文本（不显示标题，只为占用空间）
+            render_catalog_info(base_code)
+
             # 备注（如有）
             override_match = overrides_df[overrides_df["course_code"] == base_code]
             if not override_match.empty:
@@ -765,10 +1070,19 @@ with user_tab:
     st.title("📚 水课finder")
     st.caption("搜索课程，查看综合评级。")
 
+    # 先修课程按钮点击后会把课程代码写入 query param "search"
+    # 搜索框读取它作为默认值
+    default_search = st.query_params.get("search", "")
+
     search_query = st.text_input(
         "按课程代码或名称搜索",
         placeholder="例如：genetics、AS.020.303、biology",
+        value=default_search,
     )
+
+    # 清除 query param 避免刷新时重复触发
+    if default_search:
+        st.query_params.clear()
 
     if search_query:
         q = search_query.lower()
@@ -799,6 +1113,9 @@ with user_tab:
                 st.subheader(f"{base_code} — {course_title}")
                 st.markdown(f"**院系：** {department}")
 
+                # FA 标签 + 完整先修/限制文本
+                render_catalog_info(base_code)
+
                 # 教师下拉（默认按字母顺序选第一个）
                 all_instructors = sorted(rows["instructor"].dropna().unique().tolist())
                 instructor_options = ["全部教师（综合）"] + all_instructors
@@ -810,7 +1127,8 @@ with user_tab:
 
                 instructor_filter = (None if selected_instructor == "全部教师（综合）"
                                      else selected_instructor)
-                agg = aggregate_for_instructor(rows, instructor_filter)
+                # 用缓存取平均分，不再重新过滤 DataFrame
+                agg = get_agg(agg_cache, base_code, instructor_filter)
 
                 # 推荐/避免横幅
                 override_match = overrides_df[overrides_df["course_code"] == base_code]
@@ -842,6 +1160,134 @@ with user_tab:
                     st.info("此教师暂无足够数据生成评级。")
 
 
+# ─── AI 选课助手 Tab ──────────────────────────────────────────────────────────
+
+with ai_tab:
+    col_title, col_badge = st.columns([3, 1])
+    with col_title:
+        st.title("🤖 AI 选课助手")
+    with col_badge:
+        st.markdown(
+            "<div style='background:#FFE082;color:#5D4037;padding:6px 12px;"
+            "border-radius:12px;text-align:center;font-weight:600;"
+            "margin-top:24px;'>Coming Soon</div>",
+            unsafe_allow_html=True,
+        )
+
+    st.info(
+        "🚀 **即将推出：** AI 选课助手将能够读取你的 SIS 课程表、专业要求、"
+        "已修课程、AP 学分和评估数据，结合实时课程评分和先修关系，为你制定下学期的"
+        "完整选课方案——既满足毕业要求，又最大化体验质量。"
+    )
+
+    st.markdown("**👇 以下为产品预览，AI 暂未上线**")
+
+    # 滚动聊天容器（高度限制 + overflow，自动滚动条）
+    with st.container(height=600):
+        # ─── User msg 1 ────────────────────────────────────────────────
+        with st.chat_message("user"):
+            st.markdown("帮我规划下学期的课，我想塞一个 FA6，剩下的填合适的水课")
+
+        # ─── User msg 2: file attachment ──────────────────────────────
+        with st.chat_message("user"):
+            st.markdown(
+                "<div style='display:inline-block;background:#2b2b3a;"
+                "padding:12px 16px;border-radius:10px;border:1px solid #444;'>"
+                "📎 <b>transcript_fall2025.pdf</b><br>"
+                "<span style='color:#888;font-size:0.85em;'>"
+                "PDF · 142 KB</span></div>",
+                unsafe_allow_html=True,
+            )
+
+        # ─── AI thinking process ──────────────────────────────────────
+        with st.chat_message("assistant"):
+            with st.expander("💭 思考过程", expanded=False):
+                st.markdown(
+                    """
+                    *正在分析...*
+                    - *读取上传的成绩单，提取已修课程和成绩*
+                    - *从 SIS 拉取你的专业、年级、当前学期信息 → 大二 Biology major*
+                    - *核对 Bio major 毕业要求清单 → 还差 Cell Biology、Biochemistry、Organic Chem I、一门 Bio elective*
+                    - *核对你已修的 FA 标签覆盖 → 已有 FA1、FA2、FA4、FA5；缺 FA3、FA6*
+                    - *根据你说的"塞一个 FA6"，搜索同时满足 FA6 + Bio elective 的课程*
+                    - *查询每门候选课的最新评估数据和先修关系*
+                    - *组合方案确保 12 学分起步，且所有先修课程要么已修、要么同学期同时修*
+                    """
+                )
+
+            st.markdown("好的，我已读取你的成绩单和专业进度。")
+
+            st.markdown("**📋 你的已修课程（相关）**")
+            st.markdown(
+                """
+- AS.020.151 General Biology I ✓
+- AS.020.152 General Biology II ✓
+- AS.020.153 General Biology Lab I ✓
+- AS.020.303 Genetics ✓
+- AS.030.101 Intro Chemistry I ✓
+- AS.030.102 Intro Chemistry II ✓
+- AS.110.108 Calculus I（AP credit）✓
+                """
+            )
+
+            st.markdown("**🎯 下学期推荐方案（共 13 学分）**")
+
+            plan_df = pd.DataFrame([
+                {
+                    "课程": "AS.030.205 Organic Chemistry I",
+                    "学分": 4,
+                    "类型": "Bio必修先修",
+                    "评级": "🟡 有点难了 · 😐 老师还行吧",
+                    "推荐理由": "AS.020.305 的硬性先修，必须先选",
+                },
+                {
+                    "课程": "AS.020.306 Cell Biology",
+                    "学分": 3,
+                    "类型": "Bio必修",
+                    "评级": "🟣 正常课 · 😐 老师还行吧",
+                    "推荐理由": "你已完成先修 AS.020.303",
+                },
+                {
+                    "课程": "AS.020.369 Population Genetics Modeling",
+                    "学分": 3,
+                    "类型": "FA6 + Bio Elective",
+                    "评级": "🟢 水的不能再水了 · 🙇 我想给老师磕一个",
+                    "推荐理由": "同时满足 FA6 和 Bio elective，工作量 2.1",
+                },
+                {
+                    "课程": "AS.020.317 Great Experiments in Biology",
+                    "学分": 3,
+                    "类型": "水课填坑",
+                    "评级": "🔵 水课 · 😐 老师还行吧 · 💤 简单到无聊",
+                    "推荐理由": "讨论课，无考试，期末一篇 paper 即可",
+                },
+            ])
+            st.dataframe(plan_df, hide_index=True, use_container_width=True)
+
+            st.markdown("**⚙️ 选课逻辑说明**")
+            st.markdown(
+                """
+- 你原本可能想本学期同时选 Biochem (AS.020.305)，但它的先修 AS.030.205 你还没修，
+  所以我把这学期排成"先修 Orgo I、下学期再上 Biochem"
+- AS.020.369 是这学期符合 FA6 的 Bio elective 中工作量最低的，一举两得
+- AS.020.317 是水课填坑首选，3 学分讨论课，给 Cell Bio + Orgo 这种重课留出充足时间
+                """
+            )
+
+            st.markdown("**⚠️ 注意事项**")
+            st.markdown(
+                """
+- 13 学分已超过 full-time 12 学分门槛
+- 课程评级基于历年学生反馈，最终选课请和 advisor 确认
+                """
+            )
+
+            st.markdown("需要我调整吗？比如想换更轻松的 FA6、或加一门兴趣课？")
+
+    # 禁用的输入框（暗示功能未上线）
+    st.chat_input("AI 选课助手即将上线...", disabled=True)
+
+
 # ─── 管理员视图 ───────────────────────────────────────────────────────────────
 
 if admin_tab is not None:
@@ -869,8 +1315,7 @@ if admin_tab is not None:
 
         overview_rows = []
         for code, title in admin_matches:
-            rows = get_course_rows(evals_df, code)
-            agg = aggregate_for_instructor(rows, None)  # 全部教师
+            agg = get_agg(agg_cache, code, None)
             eff = get_effective_tags(code, agg, overrides_df)
             overview_rows.append({
                 "课程代码": code,
@@ -898,9 +1343,8 @@ if admin_tab is not None:
             )
             edit_code = edit_selected.split(" — ")[0]
 
-            # 当前数据
-            edit_rows = get_course_rows(evals_df, edit_code)
-            edit_agg = aggregate_for_instructor(edit_rows, None)
+            # 用缓存取数据，不再查 DataFrame
+            edit_agg = get_agg(agg_cache, edit_code, None)
             current_eff = get_effective_tags(edit_code, edit_agg, overrides_df)
 
             # 当前覆盖值
@@ -1068,7 +1512,7 @@ if admin_tab is not None:
 
         # 预览：当前筛选下能选的合格课程数
         preview_eligible = get_eligible_courses(
-            courses, evals_df, overrides_df,
+            courses, agg_cache, overrides_df,
             allowed_depts=set(selected_depts) if selected_depts != all_depts_sorted else None,
             allowed_levels=set(selected_levels) if selected_levels != LEVEL_BUCKETS else None,
         )
