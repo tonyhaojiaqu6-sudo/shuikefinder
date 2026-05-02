@@ -1,0 +1,47 @@
+course_code,course_title,instructor,instructors_full,term,department,workload_avg,teaching_avg,intellectual_avg
+AS.050.102.01.FA24,Language and Mind,"Yarmolinskaya, Julia","Yarmolinskaya, Julia",2024 Fall,Cognitive Science,3.38,4.00,4.10
+AS.050.102.01.FA25,Language and Mind,"Yarmolinskaya, Julia","Yarmolinskaya, Julia",2025 Fall,Cognitive Science,3.22,4.05,4.26
+AS.050.105.01.FA24,Introduction to Cognitive Neuropsychology,"McCloskey, Michael","McCloskey, Michael",2024 Fall,Cognitive Science,2.87,4.21,4.17
+AS.050.105.01.FA25,Introduction to Cognitive Neuropsychology,"McCloskey, Michael","McCloskey, Michael",2025 Fall,Cognitive Science,3.10,4.20,4.17
+AS.050.116.01.SP24,Visual Cognition,"Li, Donald","Li, Donald",2024 Spring,Cognitive Science,2.75,4.25,4.40
+AS.050.116.01.SP25,Visual Cognition,"Li, Donald","Li, Donald",2025 Spring,Cognitive Science,2.53,4.65,4.25
+AS.050.116.01.FA25,Visual Cognition,"Zhao, Yuanfang","Zhao, Yuanfang",2025 Fall,Cognitive Science,2.54,4.00,4.36
+AS.050.202.01.SP25,Introduction to Computational Cognitive Science,"Rawlins, Kyle","Rawlins, Kyle",2025 Spring,Cognitive Science,2.67,4.13,4.50
+AS.050.203.01.SP24,Neuroscience: Cognitive,"Bonner, Mick","Bonner, Mick",2024 Spring,Cognitive Science,2.25,4.34,3.93
+AS.050.203.01.SP25,Neuroscience: Cognitive,"Bonner, Mick","Bonner, Mick",2025 Spring,Cognitive Science,2.28,4.29,3.88
+AS.050.206.01.SP24,Bilingualism,"Yarmolinskaya, Julia","Yarmolinskaya, Julia",2024 Spring,Cognitive Science,2.88,4.58,4.19
+AS.050.206.01.SP25,Bilingualism,"Yarmolinskaya, Julia","Yarmolinskaya, Julia",2025 Spring,Cognitive Science,3.18,4.27,4.36
+AS.050.212.01.SP25,Introduction to Computational Cognitive Science Lab,"Rawlins, Kyle","Rawlins, Kyle",2025 Spring,Cognitive Science,2.67,4.33,4.33
+AS.050.236.01.FA24,Neurolinguistics,"Yarmolinskaya, Julia","Yarmolinskaya, Julia",2024 Fall,Cognitive Science,2.88,3.94,4.31
+AS.050.236.01.FA25,Neurolinguistics,"Yarmolinskaya, Julia","Yarmolinskaya, Julia",2025 Fall,Cognitive Science,2.77,4.43,4.29
+AS.050.239.01.SP24,Cognitive Development,"Yarmolinskaya, Julia","Yarmolinskaya, Julia",2024 Spring,Cognitive Science,3.18,4.35,4.47
+AS.050.239.01.SP25,Cognitive Development,"Yarmolinskaya, Julia","Yarmolinskaya, Julia",2025 Spring,Cognitive Science,2.96,4.25,4.33
+AS.050.244.01.FA24,Cognitive Neuroscience Lab,"Li, Donald","Li, Donald",2024 Fall,Cognitive Science,2.90,4.60,4.20
+AS.050.308.01.SP25,Acoustic Phonetics,"Renwick, Margaret","Renwick, Margaret",2025 Spring,Cognitive Science,3.14,5.00,4.86
+AS.050.308.01.FA25,Acoustic Phonetics,"Renwick, Margaret","Renwick, Margaret",2025 Fall,Cognitive Science,3.00,4.50,4.50
+AS.050.312.01.FA24,Cognitive Neuroimaging Methods in High-Level Vision,"Li, Donald","Li, Donald",2024 Fall,Cognitive Science,3.54,3.92,4.57
+AS.050.312.01.FA25,Cognitive Neuroimaging Methods in High-Level Vision,"Zhao, Yuanfang","Zhao, Yuanfang",2025 Fall,Cognitive Science,3.33,3.83,4.25
+AS.050.315.01.SP24,Cognitive Neuropsychology of Visual Perception: The Malfunctioning Visual Brain,"McCloskey, Michael","McCloskey, Michael",2024 Spring,Cognitive Science,2.98,4.72,4.40
+AS.050.315.01.SP25,Cognitive Neuropsychology of Visual Perception: The Malfunctioning Visual Brain,"McCloskey, Michael","McCloskey, Michael",2025 Spring,Cognitive Science,3.11,4.22,4.15
+AS.050.317.01.FA25,Semantics I,"Rawlins, Kyle","Rawlins, Kyle",2025 Fall,Cognitive Science,3.20,4.36,4.82
+AS.050.320.01.SP24,Syntax I,"Legendre, Geraldine","Legendre, Geraldine",2024 Spring,Cognitive Science,3.64,3.82,4.55
+AS.050.320.01.SP25,Syntax I,"Koval, Pasha","Koval, Pasha",2025 Spring,Cognitive Science,3.25,3.75,4.75
+AS.050.325.01.SP24,Phonology I,"Wilson, Colin","Wilson, Colin",2024 Spring,Cognitive Science,2.09,4.56,4.18
+AS.050.325.01.SP25,Phonology I,"Wilson, Colin","Wilson, Colin",2025 Spring,Cognitive Science,2.06,4.56,4.18
+AS.050.326.01.SP25,Foundations of Cognitive Science,"Hale, John","Hale, John",2025 Spring,Cognitive Science,4.14,4.71,4.71
+AS.050.332.01.SP24,Developmental Cognitive Neuroscience,"Landau, Barbara","Landau, Barbara",2024 Spring,Cognitive Science,3.22,4.33,4.22
+AS.050.333.01.FA24,Psycholinguistics,"Koval, Pasha","Koval, Pasha",2024 Fall,Cognitive Science,3.50,3.67,4.17
+AS.050.333.01.FA25,Psycholinguistics,"Koval, Pasha","Koval, Pasha",2025 Fall,Cognitive Science,3.20,3.10,4.30
+AS.050.337.01.SP24,Reading the Mind: Computational Cognitive Neuroscience of Vision,"Li, Donald","Li, Donald",2024 Spring,Cognitive Science,3.78,4.22,4.67
+AS.050.337.01.SP25,Reading the Mind: Computational Cognitive Neuroscience of Vision,"Li, Donald","Li, Donald",2025 Spring,Cognitive Science,3.44,4.67,4.78
+AS.050.347.01.FA24,Deep Learning for Cognitive Neuroscience,"Isik, Leyla","Isik, Leyla",2024 Fall,Cognitive Science,3.08,4.69,4.54
+AS.050.347.01.FA25,Deep Learning for Cognitive Neuroscience,"Isik, Leyla","Isik, Leyla",2025 Fall,Cognitive Science,2.40,4.50,4.20
+AS.050.348.01.FA24,First Language Acquisition,"Yarmolinskaya, Julia","Yarmolinskaya, Julia",2024 Fall,Cognitive Science,2.56,4.67,4.56
+AS.050.348.01.FA25,First Language Acquisition,"Yarmolinskaya, Julia","Yarmolinskaya, Julia",2025 Fall,Cognitive Science,2.71,4.47,4.33
+AS.050.349.01.SP24,Second Language Acquisition,"Yarmolinskaya, Julia","Yarmolinskaya, Julia",2024 Spring,Cognitive Science,3.00,4.36,3.93
+AS.050.349.01.SP25,Second Language Acquisition,"Yarmolinskaya, Julia","Yarmolinskaya, Julia",2025 Spring,Cognitive Science,2.82,4.35,4.53
+AS.050.357.01.FA24,Sociophonetics,"Renwick, Margaret","Renwick, Margaret",2024 Fall,Cognitive Science,3.00,4.58,4.67
+AS.050.365.01.FA24,Cracking the code: Theory and modeling of information coding in neural activity,"Bonner, Mick","Bonner, Mick",2024 Fall,Cognitive Science,2.82,4.55,4.36
+AS.050.365.01.FA25,Cracking the code: Theory and modeling of information coding in neural activity,"Bonner, Mick","Bonner, Mick",2025 Fall,Cognitive Science,2.86,4.86,4.57
+AS.050.371.01.FA24,Bayesian Inference,"Wilson, Colin","Wilson, Colin",2024 Fall,Cognitive Science,2.86,4.57,4.57
+AS.050.375.01.FA25,Probabilistic Models of the Visual Cortex,"Yuille, Alan","Yuille, Alan",2025 Fall,Cognitive Science,2.70,3.20,4.11

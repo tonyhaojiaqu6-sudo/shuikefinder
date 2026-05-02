@@ -28,6 +28,7 @@
 import streamlit as st
 import pandas as pd
 import os
+import re
 import glob
 import hashlib
 from datetime import datetime, date
@@ -37,7 +38,126 @@ from datetime import datetime, date
 EVALS_PATTERN = os.path.join("*", "*", "evals.csv")
 CATALOG_PATTERN = os.path.join("*", "*", "catalog.csv")
 OVERRIDES_FILE = "manual_overrides.csv"
+DAILY_FILTER_FILE = "daily_filter.csv"
 ADMIN_PASSWORD = "6629"
+
+# 院系代码 → 中文/英文名映射（管理员维护）
+# 用于侧边栏「数据来源」展示，让代码更易读。
+# 没有匹配的代码会显示为 "(name not set)"。
+DEPT_NAMES = {
+    # ─── ARTS & SCIENCES ───
+    "as.001": "First Year Seminars",
+    "as.004": "University Writing Program",
+    "as.010": "History of Art",
+    "as.020": "Biology",
+    "as.030": "Chemistry",
+    "as.040": "Classics",
+    "as.050": "Cognitive Science",
+    "as.060": "English",
+    "as.061": "Film and Media Studies",
+    "as.070": "Anthropology",
+    "as.080": "Neuroscience",
+    "as.100": "History",
+    "as.110": "Mathematics",
+    "as.130": "Near Eastern Studies",
+    "as.131": "Near Eastern Studies",
+    "as.132": "Near Eastern Studies",
+    "as.133": "Near Eastern Studies",
+    "as.134": "Near Eastern Studies",
+    "as.136": "Archaeology",
+    "as.140": "History of Science, Medicine, and Technology",
+    "as.145": "Medicine, Science and the Humanities",
+    "as.150": "Philosophy",
+    "as.171": "Physics & Astronomy",
+    "as.172": "Physics & Astronomy",
+    "as.173": "Physics & Astronomy",
+    "as.180": "Economics",
+    "as.190": "Political Science",
+    "as.191": "Political Science",
+    "as.192": "International Studies",
+    "as.194": "Islamic Studies",
+    "as.196": "Agora Institute",
+    "as.197": "Economy and Society",
+    "as.200": "Psychological & Brain Sciences",
+    "as.210": "Modern Languages & Literatures",
+    "as.211": "Modern Languages & Literatures",
+    "as.212": "Modern Languages & Literatures",
+    "as.213": "Modern Languages & Literatures",
+    "as.214": "Modern Languages & Literatures",
+    "as.215": "Modern Languages & Literatures",
+    "as.216": "Modern Languages & Literatures",
+    "as.217": "Modern Languages & Literatures",
+    "as.220": "Writing Seminars",
+    "as.225": "Theatre Arts & Studies",
+    "as.230": "Sociology",
+    "as.250": "Biophysics",
+    "as.270": "Earth & Planetary Sciences",
+    "as.271": "Earth & Planetary Sciences",
+    "as.280": "Public Health Studies",
+    "as.290": "Behavioral Biology",
+    "as.300": "Comparative Thought and Literature",
+    "as.305": "Critical Study of Racism, Immigration, & Colonialism",
+    "as.310": "East Asian Studies",
+    "as.360": "Interdepartmental",
+    "as.361": "Latin American, Caribbean, and Latinx Studies",
+    "as.362": "Center for Africana Studies",
+    "as.363": "Study of Women, Gender, & Sexuality",
+    "as.370": "Center for Language Education",
+    "as.371": "Art",
+    "as.373": "Center for Language Education",
+    "as.374": "Military Science",
+    "as.375": "Center for Language Education",
+    "as.376": "Music",
+    "as.377": "Center for Language Education",
+    "as.378": "Center for Language Education",
+    "as.379": "Center for Language Education",
+    "as.380": "Center for Language Education",
+    "as.381": "Center for Language Education",
+    "as.389": "Program in Museums and Society",
+    # ─── ENGINEERING ───
+    "en.500": "General Engineering",
+    "en.501": "First Year Seminars (EN)",
+    "en.510": "Materials Science & Engineering",
+    "en.515": "Materials Science and Engineering",
+    "en.520": "Electrical & Computer Engineering",
+    "en.525": "Electrical and Computer Engineering",
+    "en.530": "Mechanical Engineering",
+    "en.535": "Mechanical Engineering",
+    "en.540": "Chemical & Biomolecular Engineering",
+    "en.545": "Chemical and Biomolecular Engineering",
+    "en.553": "Applied Mathematics & Statistics",
+    "en.555": "Financial Mathematics",
+    "en.560": "Civil and Systems Engineering",
+    "en.565": "Civil Engineering",
+    "en.570": "Environmental Health and Engineering",
+    "en.575": "Environmental Engineering and Science",
+    "en.580": "Biomedical Engineering",
+    "en.585": "Applied Biomedical Engineering",
+    "en.595": "Engineering Management",
+    "en.601": "Computer Science",
+    "en.605": "Computer Science",
+    "en.615": "Applied Physics",
+    "en.620": "Robotics",
+    "en.625": "Applied and Computational Mathematics",
+    "en.635": "Information Systems Engineering",
+    "en.645": "Systems Engineering",
+    "en.650": "Information Security Institute",
+    "en.655": "Healthcare Systems Engineering",
+    "en.660": "Center for Leadership Education",
+    "en.661": "Center for Leadership Education",
+    "en.662": "Center for Leadership Education",
+    "en.663": "Center for Leadership Education",
+    "en.665": "Robotics and Autonomous Systems",
+    "en.670": "Institute for NanoBio Technology",
+    "en.675": "Space Systems Engineering",
+    "en.685": "Data Science",
+    "en.695": "Cybersecurity",
+    "en.700": "Doctor of Engineering",
+    "en.705": "Artificial Intelligence",
+}
+
+# 课程级别桶
+LEVEL_BUCKETS = ["100s", "200s", "300s", "400s", "500s", "600s", "700s+"]
 
 # 工作量阈值
 WL_T1, WL_T2, WL_T3, WL_T4 = 2.4, 2.8, 3.2, 3.6
@@ -158,6 +278,115 @@ def load_overrides():
         if c not in df.columns:
             df[c] = ""
     return df[cols].astype("string").fillna("")
+
+
+def load_daily_filter():
+    """
+    加载每日好课的过滤设置。无缓存。
+
+    存储为长格式 CSV：
+        kind          "department" 或 "level"
+        value         dept code（如 "as.020"）或 level bucket（如 "100s"）
+        enabled       "true" / "false"
+
+    没文件 = 默认所有项都启用（无过滤，等同于当前行为）。
+    返回: (allowed_dept_codes_set, allowed_level_buckets_set, file_exists_bool)
+    """
+    if not os.path.exists(DAILY_FILTER_FILE):
+        return None, None, False
+    try:
+        df = pd.read_csv(DAILY_FILTER_FILE, dtype="string", keep_default_na=False)
+    except Exception:
+        return None, None, False
+
+    allowed_depts = set()
+    allowed_levels = set()
+    for _, row in df.iterrows():
+        kind = str(row.get("kind", "")).strip().lower()
+        value = str(row.get("value", "")).strip()
+        enabled = str(row.get("enabled", "")).strip().lower() in ("true", "1", "yes")
+        if not enabled:
+            continue
+        if kind == "department":
+            allowed_depts.add(value.lower())
+        elif kind == "level":
+            allowed_levels.add(value)
+    return allowed_depts, allowed_levels, True
+
+
+def save_daily_filter(allowed_depts, allowed_levels, all_depts, all_levels):
+    """
+    保存每日好课过滤设置。
+    传入：当前选中的 dept 集合、level 集合，以及全部可选项（用于记录禁用状态）。
+    """
+    rows = []
+    for d in sorted(all_depts):
+        rows.append({"kind": "department", "value": d,
+                     "enabled": "true" if d in allowed_depts else "false"})
+    for lvl in all_levels:
+        rows.append({"kind": "level", "value": lvl,
+                     "enabled": "true" if lvl in allowed_levels else "false"})
+    df = pd.DataFrame(rows)
+    df.to_csv(DAILY_FILTER_FILE, index=False)
+
+
+def _read_known_depts(filename):
+    """读取过滤文件里所有出现过的 dept code（无论启用与否）。"""
+    if not os.path.exists(filename):
+        return set()
+    try:
+        df = pd.read_csv(filename, dtype="string", keep_default_na=False)
+    except Exception:
+        return set()
+    return {str(v).lower() for k, v in zip(df.get("kind", []), df.get("value", []))
+            if str(k).strip().lower() == "department"}
+
+
+def _read_known_levels(filename):
+    """读取过滤文件里所有出现过的 level（无论启用与否）。"""
+    if not os.path.exists(filename):
+        return set()
+    try:
+        df = pd.read_csv(filename, dtype="string", keep_default_na=False)
+    except Exception:
+        return set()
+    return {str(v) for k, v in zip(df.get("kind", []), df.get("value", []))
+            if str(k).strip().lower() == "level"}
+
+
+def get_dept_display_name(dept_code):
+    """返回 'as.020 — Biology' 格式；没匹配的显示 '(name not set)'。"""
+    name = DEPT_NAMES.get(dept_code.lower(), "(name not set)")
+    return f"{dept_code} — {name}"
+
+
+def code_to_level_bucket(course_code):
+    """
+    从课程代码（如 'AS.020.303.01.SP25'）提取课号最后一段（实际是中间段，
+    例如 020.303 中的 303），按百位分桶。
+    返回 '100s' / '200s' / ... / '700s+'，无法解析返回 None。
+    """
+    if not course_code:
+        return None
+    m = re.match(r"^[A-Z]{2}\.\d{3}\.(\d{3})", course_code)
+    if not m:
+        return None
+    num = int(m.group(1))
+    if num < 100:
+        return None  # 罕见，如 AS.020.001
+    if num >= 700:
+        return "700s+"
+    return f"{(num // 100) * 100}s"
+
+
+def code_to_dept_code(course_code):
+    """从 'AS.020.303.01.SP25' 提取 'as.020'。"""
+    if not course_code:
+        return None
+    m = re.match(r"^([A-Z]{2}\.\d{3})", course_code)
+    if not m:
+        return None
+    return m.group(1).lower()
 
 
 def save_overrides(df):
@@ -308,13 +537,28 @@ ELIGIBLE_WORKLOAD_LABELS = {"水的不能再水了", "水课"}
 ELIGIBLE_TEACHING_LABELS = {"我想给老师磕一个", "老师还行吧"}
 
 
-def get_eligible_courses(courses, evals_df, overrides_df):
+def get_eligible_courses(courses, evals_df, overrides_df,
+                         allowed_depts=None, allowed_levels=None):
     """
     返回所有满足"水课 + 老师还行" 条件的课程列表。
     每个元素是 (base_code, title, effective_tags_dict)。
+
+    allowed_depts: 如果提供，只保留这些 dept code 的课程
+    allowed_levels: 如果提供，只保留这些级别的课程（'100s', '200s', ...）
+    None 表示不过滤该维度。
     """
     eligible = []
     for code, title in courses:
+        # 应用每日过滤
+        if allowed_depts is not None:
+            dept = code_to_dept_code(code)
+            if dept not in allowed_depts:
+                continue
+        if allowed_levels is not None:
+            level = code_to_level_bucket(code)
+            if level not in allowed_levels:
+                continue
+
         rows = get_course_rows(evals_df, code)
         if rows.empty:
             continue
@@ -386,11 +630,22 @@ with st.sidebar:
     if not catalog_df.empty:
         st.caption(f"已加载 {len(catalog_df)} 条课程目录信息")
     st.divider()
-    st.caption("**数据来源：**")
+    # 数据来源 — 改成下拉菜单，显示 "as.020 — Biology" 格式
+    # 列表会随院系增加而变长，下拉更整洁
+    source_options = []
     for fp in eval_files:
         parts = fp.split(os.sep)
         if len(parts) >= 3:
-            st.caption(f"• {parts[-3]} / {parts[-2]}")
+            school = parts[-3]
+            dept = parts[-2]
+            display = f"{school} / {get_dept_display_name(dept)}"
+            source_options.append(display)
+    if source_options:
+        with st.expander(f"数据来源（{len(source_options)} 个院系）"):
+            for s in source_options:
+                st.caption(f"• {s}")
+    else:
+        st.caption("数据来源：无")
 
     # 管理员登录
     st.divider()
@@ -430,7 +685,18 @@ with daily_tab:
     st.title("⭐ 每日好课")
     st.caption(f"今日推荐 · {date.today().strftime('%Y年%m月%d日')}")
 
-    eligible = get_eligible_courses(courses, evals_df, overrides_df)
+    # 加载每日过滤设置
+    allowed_depts, allowed_levels, filter_exists = load_daily_filter()
+    if filter_exists:
+        # 文件存在：用其中的设置；空集合 = 全禁
+        eligible = get_eligible_courses(
+            courses, evals_df, overrides_df,
+            allowed_depts=allowed_depts,
+            allowed_levels=allowed_levels,
+        )
+    else:
+        # 默认：无过滤（当前行为）
+        eligible = get_eligible_courses(courses, evals_df, overrides_df)
 
     # 管理员可以"换一个"，用 salt 重新选；普通用户不受影响
     if st.session_state.get("is_admin"):
@@ -724,3 +990,87 @@ if admin_tab is not None:
                 for col in show_df.columns:
                     show_df[col] = show_df[col].fillna("").astype(str).replace("", "—")
                 st.dataframe(show_df, hide_index=True, use_container_width=True)
+
+        # ─── 每日好课过滤设置 ─────────────────────────────────────────────────
+        st.divider()
+        st.subheader("⭐ 每日好课筛选范围")
+        st.caption("控制「每日好课」可以从哪些院系和课程级别中抽取课程。"
+                   "默认全选 = 当前行为（不过滤）。")
+
+        # 收集数据中实际出现的所有 dept codes
+        all_depts_in_data = set()
+        for code, _ in courses:
+            d = code_to_dept_code(code)
+            if d:
+                all_depts_in_data.add(d)
+        all_depts_sorted = sorted(all_depts_in_data)
+
+        # 加载已存的过滤设置（如有）
+        saved_depts, saved_levels, has_filter = load_daily_filter()
+        if not has_filter:
+            # 默认全选
+            cur_depts = set(all_depts_sorted)
+            cur_levels = set(LEVEL_BUCKETS)
+        else:
+            # 文件存在：用文件里的设置；如果数据里有新 dept 而文件没记录，默认包含
+            saved_depts = saved_depts or set()
+            saved_levels = saved_levels or set()
+            cur_depts = saved_depts | (all_depts_in_data - _read_known_depts(DAILY_FILTER_FILE))
+            cur_levels = saved_levels | (set(LEVEL_BUCKETS) - _read_known_levels(DAILY_FILTER_FILE))
+
+        with st.form("daily_filter_form"):
+            st.markdown("**院系（多选）**")
+            # 给 multiselect 一个易读的格式
+            dept_format = lambda d: get_dept_display_name(d)
+            selected_depts = st.multiselect(
+                "选择允许出现在「每日好课」的院系",
+                options=all_depts_sorted,
+                default=[d for d in all_depts_sorted if d in cur_depts],
+                format_func=dept_format,
+                key="filter_depts",
+            )
+
+            st.markdown("**课程级别（多选）**")
+            st.caption("课号百位分组：100s = 100-199, 200s = 200-299, etc.")
+            selected_levels = st.multiselect(
+                "选择允许的课程级别",
+                options=LEVEL_BUCKETS,
+                default=[l for l in LEVEL_BUCKETS if l in cur_levels],
+                key="filter_levels",
+            )
+
+            col_save, col_reset = st.columns(2)
+            with col_save:
+                save_clicked = st.form_submit_button(
+                    "💾 保存筛选设置", type="primary", use_container_width=True,
+                )
+            with col_reset:
+                reset_clicked = st.form_submit_button(
+                    "🔄 重置为全选（默认）", use_container_width=True,
+                )
+
+        if save_clicked:
+            save_daily_filter(
+                set(selected_depts), set(selected_levels),
+                all_depts_sorted, LEVEL_BUCKETS,
+            )
+            st.success(
+                f"已保存：{len(selected_depts)}/{len(all_depts_sorted)} 院系，"
+                f"{len(selected_levels)}/{len(LEVEL_BUCKETS)} 级别"
+            )
+            st.rerun()
+
+        if reset_clicked:
+            if os.path.exists(DAILY_FILTER_FILE):
+                os.remove(DAILY_FILTER_FILE)
+            st.success("已重置为默认（全选，不过滤）")
+            st.rerun()
+
+        # 预览：当前筛选下能选的合格课程数
+        preview_eligible = get_eligible_courses(
+            courses, evals_df, overrides_df,
+            allowed_depts=set(selected_depts) if selected_depts != all_depts_sorted else None,
+            allowed_levels=set(selected_levels) if selected_levels != LEVEL_BUCKETS else None,
+        )
+        st.caption(f"📊 当前筛选下「每日好课」可选池："
+                   f"**{len(preview_eligible)} 门课程**")

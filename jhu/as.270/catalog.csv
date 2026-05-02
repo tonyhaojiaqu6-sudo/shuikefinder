@@ -1,0 +1,631 @@
+code,title,credits,description,fa_tags,distribution,prereq_codes,prereq_text,restrictions,raw_description
+AS.270.103,Introduction to Global Environmental Change,3,"A broad survey of the Earth as a planet, with emphasis on the processes that control global changes. Topics include: the structure, formation, and evolution of the Earth, the atmosphere, oceans, continents, and biosphere. Special attention is given to present-day issues, such as global climate change, natural hazards, air pollution, resource depletion, human population growth, habitat destruction, and loss of biodiversity. Open to all undergraduates.","FA2, FA5",Natural Sciences,,,,"AS.270.103.
+Introduction to Global Environmental Change.
+3 Credits.
+A broad survey of the Earth as a planet, with emphasis on the processes that control global changes. Topics include: the structure, formation, and evolution of the Earth, the atmosphere, oceans, continents, and biosphere. Special attention is given to present-day issues, such as global climate change, natural hazards, air pollution, resource depletion, human population growth, habitat destruction, and loss of biodiversity. Open to all undergraduates.
+Distribution Area: Natural Sciences
+AS Foundational Abilities: Science and Data (FA2),
+Ethics and Foundations (FA5)"
+AS.270.111,The Story of Earth,1,The four and a half billion year story of Earth's global changes focusing on the co-evolution of Earth and Life.,FA2,Natural Sciences,,,,"AS.270.111.
+The Story of Earth.
+1 Credit.
+The four and a half billion year story of Earth's global changes focusing on the co-evolution of Earth and Life.
+Distribution Area: Natural Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+AS.270.114,Guided Tour: The Planets,3,"An introduction to planetary science and planetary exploration primarily for non-science majors.  A survey of concepts from astronomy, chemistry, geology, and physics applied to the study of the solar system.",FA2,Natural Sciences,,,,"AS.270.114.
+Guided Tour: The Planets.
+3 Credits.
+An introduction to planetary science and planetary exploration primarily for non-science majors.  A survey of concepts from astronomy, chemistry, geology, and physics applied to the study of the solar system.
+Distribution Area: Natural Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+AS.270.202,Introduction to Ecology,3,"Ecology is the study of organisms and their environment. This course focuses on the patterns of distribution and abundance of organisms. Topics include population dynamics and regulation, competition, predation, host-parasite interactions, patterns of species diversity, community succession, the flow of energy and matter through ecosystems. We will also discuss the role of natural and human disturbances in shaping communities.",FA2,Natural Sciences,"AS.270.103, AS.020.151","AS.270.103
+OR
+AS.020.151",,"AS.270.202.
+Introduction to Ecology.
+3 Credits.
+Ecology is the study of organisms and their environment. This course focuses on the patterns of distribution and abundance of organisms. Topics include population dynamics and regulation, competition, predation, host-parasite interactions, patterns of species diversity, community succession, the flow of energy and matter through ecosystems. We will also discuss the role of natural and human disturbances in shaping communities.
+Prerequisite(s):
+AS.270.103
+OR
+AS.020.151
+Distribution Area: Natural Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+AS.270.205,Introduction to Geographic Information Systems and Geospatial Analysis,3,"The course provides a broad introduction to the principles and practice of Geographic Information Systems (GIS) and related tools of Geospatial Analysis. Topics will include history of GIS, GIS data structures, data acquisition and merging, database management, spatial analysis, and GIS applications. In addition, students will get hands-on experience working with GIS software.",FA2,"Engineering, Natural Sciences",,,,"AS.270.205.
+Introduction to Geographic Information Systems and Geospatial Analysis.
+3 Credits.
+The course provides a broad introduction to the principles and practice of Geographic Information Systems (GIS) and related tools of Geospatial Analysis. Topics will include history of GIS, GIS data structures, data acquisition and merging, database management, spatial analysis, and GIS applications. In addition, students will get hands-on experience working with GIS software.
+Distribution Area: Engineering, Natural Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+AS.270.220,The Dynamic Earth: An Introduction to Geology,3,"Basic concepts in geology, including plate tectonics; Earth’s internal structure; geologic time; minerals; formation of igneous, sedimentary, and metamorphic rocks; development of faults, folds and earthquakes; geomagnetism. Corequisite (for EPS Majors):
+AS.270.221
+; optional for others. The course is introductory and open to undergraduates at all levels; freshmen are encouraged to enroll.",FA2,Natural Sciences,,,,"AS.270.220.
+The Dynamic Earth: An Introduction to Geology.
+3 Credits.
+Basic concepts in geology, including plate tectonics; Earth’s internal structure; geologic time; minerals; formation of igneous, sedimentary, and metamorphic rocks; development of faults, folds and earthquakes; geomagnetism. Corequisite (for EPS Majors):
+AS.270.221
+; optional for others. The course is introductory and open to undergraduates at all levels; freshmen are encouraged to enroll.
+Distribution Area: Natural Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+AS.270.221,The Dynamic Earth Laboratory,2,"This course is a hands-on learning experience for introductory geological concepts and techniques using geological tools, such as mineral/rock samples, microscopes, and maps. A Saturday fieldtrip in late Sep/early Oct is an essential part. The course is open to undergraduates at all levels; freshmen who wish to get their hands (and boots) dirty are encouraged to enroll.",FA2,Natural Sciences,AS.270.220,"AS.270.220
+, credit earned or concurrent enrollment",,"AS.270.221.
+The Dynamic Earth Laboratory.
+2 Credits.
+This course is a hands-on learning experience for introductory geological concepts and techniques using geological tools, such as mineral/rock samples, microscopes, and maps. A Saturday fieldtrip in late Sep/early Oct is an essential part. The course is open to undergraduates at all levels; freshmen who wish to get their hands (and boots) dirty are encouraged to enroll.
+Prerequisite(s):
+AS.270.220
+, credit earned or concurrent enrollment
+Distribution Area: Natural Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+AS.270.222,Mineralogy,4,"Introduction to the classification, crystallography, and physical properties of minerals. Weekly lab topics include field identification, crystal morphology and symmetry, optical microscopy and Raman spectroscopy. One field trip to the Smithsonian National Museum of History and Research Archives is planned.",FA2,Natural Sciences,,"Students must have completed Lab Safety training prior to registering for this class. To access the tutorial, login to myLearning and enter 458083 in the Search box to locate the appropriate module.",,"AS.270.222.
+Mineralogy.
+4 Credits.
+Introduction to the classification, crystallography, and physical properties of minerals. Weekly lab topics include field identification, crystal morphology and symmetry, optical microscopy and Raman spectroscopy. One field trip to the Smithsonian National Museum of History and Research Archives is planned.
+Prerequisite(s):
+Students must have completed Lab Safety training prior to registering for this class. To access the tutorial, login to myLearning and enter 458083 in the Search box to locate the appropriate module.
+Distribution Area: Natural Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+AS.270.224,Oceans & Atmospheres,3,"A broad survey of the Earth’s oceans and atmospheres, and their role in the environment and climate.  Topics covered include waves, tides, ocean and atmosphere circulation, weather systems, tornadoes and hurricanes, El Niño, and climate change. For science and engineering majors",FA2,Natural Sciences,,,,"AS.270.224.
+Oceans & Atmospheres.
+3 Credits.
+A broad survey of the Earth’s oceans and atmospheres, and their role in the environment and climate.  Topics covered include waves, tides, ocean and atmosphere circulation, weather systems, tornadoes and hurricanes, El Niño, and climate change. For science and engineering majors
+Distribution Area: Natural Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+AS.270.302,Aqueous Geochemistry,3,"Modeling the chemistry of water-rock interactions from weathering and riverine development at Earth’s surface to hot springs at depth, fluids in subduction zones in Earth’s interior, and the ancient fluids preserved in fluid inclusions. Thermodynamic basis for the calculation of equilibria and irreversible chemical mass transfer involving minerals and aqueous species at low and high temperatures and pressures. The course culminates with practical examples of research interest to individual participants.",FA2,Natural Sciences,"AS.030.101, AS.030.102, AS.270.220, AS.270.221","(
+AS.030.101
+AND
+AS.030.102
+) AND (
+AS.270.220
+AND
+AS.270.221
+) or equivalents.",,"AS.270.302.
+Aqueous Geochemistry.
+3 Credits.
+Modeling the chemistry of water-rock interactions from weathering and riverine development at Earth’s surface to hot springs at depth, fluids in subduction zones in Earth’s interior, and the ancient fluids preserved in fluid inclusions. Thermodynamic basis for the calculation of equilibria and irreversible chemical mass transfer involving minerals and aqueous species at low and high temperatures and pressures. The course culminates with practical examples of research interest to individual participants.
+Prerequisite(s):
+(
+AS.030.101
+AND
+AS.030.102
+) AND (
+AS.270.220
+AND
+AS.270.221
+) or equivalents.
+Distribution Area: Natural Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+AS.270.303,Earth History,3,"This course will explore the evolution of life in the context of environmental, ecological, and geological changes to the Earth surface system. The goal of the class is to provide students with an understanding of how geological and paleontological records provide insight into the origin(s) of life, oxygenation of the atmosphere, the evolution of multicellularity, evolutionary radiations and extinctions, and modern global change.",FA2,Natural Sciences,"AS.270.103, AS.270.220, AS.270.224","AS.270.103
+OR
+AS.270.220
+OR
+AS.270.224
+; or permission of the instructor.",,"AS.270.303.
+Earth History.
+3 Credits.
+This course will explore the evolution of life in the context of environmental, ecological, and geological changes to the Earth surface system. The goal of the class is to provide students with an understanding of how geological and paleontological records provide insight into the origin(s) of life, oxygenation of the atmosphere, the evolution of multicellularity, evolutionary radiations and extinctions, and modern global change.
+Prerequisite(s):
+AS.270.103
+OR
+AS.270.220
+OR
+AS.270.224
+; or permission of the instructor.
+Distribution Area: Natural Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+AS.270.305,Energy Resources in the Modern World,3,"This in-depth survey will inform students on the non-renewable and renewable energy resources of the world and the future prospects. Topics include petroleum, natural gas, coal, nuclear, hydroelectric, geothermal, solar, wind, biomass, and ocean energy. Global production, distribution, usage, and impacts of these resources will be discussed.",FA2,Natural Sciences,,,,"AS.270.305.
+Energy Resources in the Modern World.
+3 Credits.
+This in-depth survey will inform students on the non-renewable and renewable energy resources of the world and the future prospects. Topics include petroleum, natural gas, coal, nuclear, hydroelectric, geothermal, solar, wind, biomass, and ocean energy. Global production, distribution, usage, and impacts of these resources will be discussed.
+Distribution Area: Natural Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+AS.270.306,Urban Ecology,3,"Urban ecology has been called the ecology in, of, and for cities. In this course, we will explore how ecological concepts are applied to urban ecosystems and the different approaches to urban ecological research. Topics will include: Biodiversity, water dynamics, energy and heat island effects, and nutrient cycling, urban metabolism, design of greenspace, and sustainability of cities. We will use Baltimore as a case study for studying cities.","FA1, FA2, FA6",Natural Sciences,"AS.270.202, EN.570.201","AS.270.202
+OR
+EN.570.201",Writing Intensive,"AS.270.306.
+Urban Ecology.
+3 Credits.
+Urban ecology has been called the ecology in, of, and for cities. In this course, we will explore how ecological concepts are applied to urban ecosystems and the different approaches to urban ecological research. Topics will include: Biodiversity, water dynamics, energy and heat island effects, and nutrient cycling, urban metabolism, design of greenspace, and sustainability of cities. We will use Baltimore as a case study for studying cities.
+Prerequisite(s):
+AS.270.202
+OR
+EN.570.201
+Distribution Area: Natural Sciences
+AS Foundational Abilities: Writing and Communication (FA1),
+Science and Data (FA2),
+Projects and Methods (FA6)
+Writing Intensive"
+AS.270.307,Geoscience Modeling,4,"An introduction to modern ways to interpret observations in the context of a conceptual model.  Topics include model building, hypothesis testing, and inverse methods.  Practical examples from geophysics, engineering, and medical physics will be featured.","FA2, FA6",Natural Sciences,,,,"AS.270.307.
+Geoscience Modeling.
+4 Credits.
+An introduction to modern ways to interpret observations in the context of a conceptual model.  Topics include model building, hypothesis testing, and inverse methods.  Practical examples from geophysics, engineering, and medical physics will be featured.
+Distribution Area: Natural Sciences
+AS Foundational Abilities: Science and Data (FA2),
+Projects and Methods (FA6)"
+AS.270.310,Evolution and Development of the Vertebrates,3,"Modern vertebrates (animals with backbones) are the products of a more than 500-million-year evolutionary history.  This course surveys that history and uses it to explore such core evolutionary concepts as adaptive radiation, convergence, extinction, homology, phylogenetic taxonomy, and tree thinking. Emphasis will be placed on the origins of the modern vertebrate fauna and how fossils are being integrated with developmental biology to better understand major transitions in the vertebrate body plan.",FA2,Natural Sciences,,,,"AS.270.310.
+Evolution and Development of the Vertebrates.
+3 Credits.
+Modern vertebrates (animals with backbones) are the products of a more than 500-million-year evolutionary history.  This course surveys that history and uses it to explore such core evolutionary concepts as adaptive radiation, convergence, extinction, homology, phylogenetic taxonomy, and tree thinking. Emphasis will be placed on the origins of the modern vertebrate fauna and how fossils are being integrated with developmental biology to better understand major transitions in the vertebrate body plan.
+Distribution Area: Natural Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+AS.270.311,Geobiology,3,"Geobiology is the study of the interaction between rocks and life. Geobiologists investigate questions ranging from how organisms obtain energy from rocks to how evidence of life is preserved in rocks and informs us about the evolution of life on our planet and beyond. It is a rapidly expanding field because of its relevance to astrobiology, microbiology, paleontology, and reconstructing environmental change during ancient periods climate change with implications for evaluating our future under elevated atmospheric carbon dioxide levels. In this course, students will learn about how organisms drive major elemental cycles that impact climate and habitability, how major evolutionary radiations have affected the trajectory of Earth surface environments, and the tools that are used to ask fundamental questions about why life has thrived on this planet and how we might detect if other planets support life.",FA2,,"AS.270.103, AS.270.220, AS.270.224","AS.270.103
+OR
+AS.270.220
+OR
+AS.270.224",,"AS.270.311.
+Geobiology.
+3 Credits.
+Geobiology is the study of the interaction between rocks and life. Geobiologists investigate questions ranging from how organisms obtain energy from rocks to how evidence of life is preserved in rocks and informs us about the evolution of life on our planet and beyond. It is a rapidly expanding field because of its relevance to astrobiology, microbiology, paleontology, and reconstructing environmental change during ancient periods climate change with implications for evaluating our future under elevated atmospheric carbon dioxide levels. In this course, students will learn about how organisms drive major elemental cycles that impact climate and habitability, how major evolutionary radiations have affected the trajectory of Earth surface environments, and the tools that are used to ask fundamental questions about why life has thrived on this planet and how we might detect if other planets support life.
+Prerequisite(s):
+AS.270.103
+OR
+AS.270.220
+OR
+AS.270.224
+AS Foundational Abilities: Science and Data (FA2)"
+AS.270.312,Mammalian Evolution,3,"An introduction to the evolutionary history and diversity of mammals, with emphasis on the first half of the Cenozoic  - the beginning of the Age of Mammals.  The course will focus primarily on the adaptive radiation of mammals (including our own order primates) that followed the extinction of the dinosaurs, exploring the origins and relationships of the major groups of mammals as well as the anatomical and ecological reasons for their success.  Lectures will be supplemented with relevant fossils and recent specimens.",FA2,Natural Sciences,,,,"AS.270.312.
+Mammalian Evolution.
+3 Credits.
+An introduction to the evolutionary history and diversity of mammals, with emphasis on the first half of the Cenozoic  - the beginning of the Age of Mammals.  The course will focus primarily on the adaptive radiation of mammals (including our own order primates) that followed the extinction of the dinosaurs, exploring the origins and relationships of the major groups of mammals as well as the anatomical and ecological reasons for their success.  Lectures will be supplemented with relevant fossils and recent specimens.
+Distribution Area: Natural Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+AS.270.316,Agroecology: A Global Perspective,3,"How can we balance the increasing global food demand with sustainable ecological practices?How are the agricultural, ecological, and socio-economic aspects of food productionintertwined? This course addresses these questions and enables students to critically evaluateexisting agroecosystems around the world, with special attention paid to the challenges of globalenvironmental change. Students will be introduced to the principles of agroecology, and theywill examine interactions between biodiversity, soil, and people through case studies, peerreviewed scientific papers, and a field trip to a local agroecosystem",,Natural Sciences,,,,"AS.270.316.
+Agroecology: A Global Perspective.
+3 Credits.
+How can we balance the increasing global food demand with sustainable ecological practices?How are the agricultural, ecological, and socio-economic aspects of food productionintertwined? This course addresses these questions and enables students to critically evaluateexisting agroecosystems around the world, with special attention paid to the challenges of globalenvironmental change. Students will be introduced to the principles of agroecology, and theywill examine interactions between biodiversity, soil, and people through case studies, peerreviewed scientific papers, and a field trip to a local agroecosystem
+Distribution Area: Natural Sciences"
+AS.270.317,Conservation Biology,3,"In this course, students examine the meaning and implications of biodiversity with a focus on disciplines associated with conservation biology, wildlife conservation and wildlife management, including taxonomy, genetics, small population biology, chemical and restoration ecology, and marine biology. This includes exploring how conservation biology differs from other natural sciences in theory and in application. Students learn the major threats to biodiversity and what natural and social science methods and alternatives are used to mitigate, stop, or reverse these threats. The course also includes the economic and cultural tradeoffs associated with each conservation measure at the global, national, regional, and local levels. One required field trip.","FA1, FA2, FA5",Natural Sciences,,,Writing Intensive,"AS.270.317.
+Conservation Biology.
+3 Credits.
+In this course, students examine the meaning and implications of biodiversity with a focus on disciplines associated with conservation biology, wildlife conservation and wildlife management, including taxonomy, genetics, small population biology, chemical and restoration ecology, and marine biology. This includes exploring how conservation biology differs from other natural sciences in theory and in application. Students learn the major threats to biodiversity and what natural and social science methods and alternatives are used to mitigate, stop, or reverse these threats. The course also includes the economic and cultural tradeoffs associated with each conservation measure at the global, national, regional, and local levels. One required field trip.
+Distribution Area: Natural Sciences
+AS Foundational Abilities: Writing and Communication (FA1),
+Science and Data (FA2),
+Ethics and Foundations (FA5)
+Writing Intensive"
+AS.270.318,Remote Sensing of the Environment,3,"This course is an introduction to the use of remote sensing technology to study Earth’s physical and biochemical processes. Topics covered include remote sensing of the atmosphere, land and oceans, as well as remote sensing as a tool for policy makers. Also offered as 270.618.","FA2, FA6",Natural Sciences,,,,"AS.270.318.
+Remote Sensing of the Environment.
+3 Credits.
+This course is an introduction to the use of remote sensing technology to study Earth’s physical and biochemical processes. Topics covered include remote sensing of the atmosphere, land and oceans, as well as remote sensing as a tool for policy makers. Also offered as 270.618.
+Distribution Area: Natural Sciences
+AS Foundational Abilities: Science and Data (FA2),
+Projects and Methods (FA6)"
+AS.270.319,Rocks as Clocks,3,"Introduction to radioisotope geo/thermochronology and mantle stable and radioisotope geochemistry. Course covers: (1) methods for dating of rocks and geologic processes using long-half-life radioisotope systems, including the various isotope systems available and their applicability; (2) radioisotope techniques for investigation of the geochemical evolution of the crust and mantle; (3) isotope fractionation and utility of traditional and novel stable isotope geochemistry for interrogating high-temperature processes, and (4) thermochronology and methods for interrogating upper-crustal processes. Recommended course background:
+AS.270.220
+and
+AS.270.221
+, or instructor permission.","FA2, FA6",,,,,"AS.270.319.
+Rocks as Clocks.
+3 Credits.
+Introduction to radioisotope geo/thermochronology and mantle stable and radioisotope geochemistry. Course covers: (1) methods for dating of rocks and geologic processes using long-half-life radioisotope systems, including the various isotope systems available and their applicability; (2) radioisotope techniques for investigation of the geochemical evolution of the crust and mantle; (3) isotope fractionation and utility of traditional and novel stable isotope geochemistry for interrogating high-temperature processes, and (4) thermochronology and methods for interrogating upper-crustal processes. Recommended course background:
+AS.270.220
+and
+AS.270.221
+, or instructor permission.
+AS Foundational Abilities: Science and Data (FA2),
+Projects and Methods (FA6)"
+AS.270.323,Ocean Biogeochemical Cycles,3,"This course will examine the cycling of trace chemicals in the ocean, consider what we can learn from the distributions of these chemicals about the ocean circulation, and ocean ecosystems.  Topics covered will include oceanic biological productivity, open water cycling of nutrients and oxygen, ocean acidification and sediment cycling.","FA1, FA2",Natural Sciences,,,Writing Intensive,"AS.270.323.
+Ocean Biogeochemical Cycles.
+3 Credits.
+This course will examine the cycling of trace chemicals in the ocean, consider what we can learn from the distributions of these chemicals about the ocean circulation, and ocean ecosystems.  Topics covered will include oceanic biological productivity, open water cycling of nutrients and oxygen, ocean acidification and sediment cycling.
+Distribution Area: Natural Sciences
+AS Foundational Abilities: Writing and Communication (FA1),
+Science and Data (FA2)
+Writing Intensive"
+AS.270.325,Introductory Oceanography,3,"This class is an introduction to a wide range of physical, chemical, and biological phenomena in the world’s oceans.  Underlying basic principles are exposed wherever possible.  Topics covered include:  seawater, waves, tides, ocean circulation, chemical oceanography, biogeochemical ocean processes, and remote sensing of the oceans.","FA1, FA2",Natural Sciences,,,Writing Intensive,"AS.270.325.
+Introductory Oceanography.
+3 Credits.
+This class is an introduction to a wide range of physical, chemical, and biological phenomena in the world’s oceans.  Underlying basic principles are exposed wherever possible.  Topics covered include:  seawater, waves, tides, ocean circulation, chemical oceanography, biogeochemical ocean processes, and remote sensing of the oceans. Recommended Course Background: freshman Physics, Chemistry, Calculus through ordinary differential equations.
+Distribution Area: Natural Sciences
+AS Foundational Abilities: Writing and Communication (FA1),
+Science and Data (FA2)
+Writing Intensive"
+AS.270.332,Soil Ecology,3,"The course introduces basic aspects of cycles and flows in the soil ecosystem, and provides students with an overview of the higher groups of soil organisms. Laboratory and field surveying methods are also covered.","FA1, FA2, FA6",Natural Sciences,,"Students must have completed Lab Safety training prior to registering for this class. To access the tutorial, login to myLearning and enter ASEN in the Search Box to access the proper course.
+Click here to access the Laboratory Safety Introductory Course",,"AS.270.332.
+Soil Ecology.
+3 Credits.
+The course introduces basic aspects of cycles and flows in the soil ecosystem, and provides students with an overview of the higher groups of soil organisms. Laboratory and field surveying methods are also covered.
+Prerequisite(s):
+Students must have completed Lab Safety training prior to registering for this class. To access the tutorial, login to myLearning and enter ASEN in the Search Box to access the proper course.
+Click here to access the Laboratory Safety Introductory Course
+Distribution Area: Natural Sciences
+AS Foundational Abilities: Writing and Communication (FA1),
+Science and Data (FA2),
+Projects and Methods (FA6)"
+AS.270.336,Freshwater Systems,3,"A study of streams, lakes, and groundwater with a focus on aspects of water quality, hydrology, geomorphology, and aquatic ecology that are relevant to human impacts on freshwater systems.  US environmental policies and water resource management agencies will also be examined in the context of issues such as dams, cattle grazing, climate change, and water allocation.",FA2,Natural Sciences,"AS.270.103, AS.271.107","AS.270.103
+OR
+AS.271.107
+or permission of the instructor.",,"AS.270.336.
+Freshwater Systems.
+3 Credits.
+A study of streams, lakes, and groundwater with a focus on aspects of water quality, hydrology, geomorphology, and aquatic ecology that are relevant to human impacts on freshwater systems.  US environmental policies and water resource management agencies will also be examined in the context of issues such as dams, cattle grazing, climate change, and water allocation.
+Prerequisite(s):
+AS.270.103
+OR
+AS.271.107
+or permission of the instructor.
+Distribution Area: Natural Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+AS.270.337,Freshwater Systems Lab,1,"A hands-on investigation of the water quality, hydrology, geomorphology, and aquatic ecology of streams and other freshwater bodies.  Includes field trips to water-related facilities such as drinking water and wastewater treatment plants.",FA2,Natural Sciences,,"Students must have completed Lab Safety training prior to registering for this class. To access the tutorial, login to myLearning and enter 458083 in the Search box to locate the appropriate module.",,"AS.270.337.
+Freshwater Systems Lab.
+1 Credit.
+A hands-on investigation of the water quality, hydrology, geomorphology, and aquatic ecology of streams and other freshwater bodies.  Includes field trips to water-related facilities such as drinking water and wastewater treatment plants.
+Prerequisite(s):
+Students must have completed Lab Safety training prior to registering for this class. To access the tutorial, login to myLearning and enter 458083 in the Search box to locate the appropriate module.
+Distribution Area: Natural Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+AS.270.338,Field Methods in Ecology,3,"This course will introduce student to methods used in field-based ecological research addressing population, community and ecosystem-level questions. Outdoor fieldwork is an essential part of the course. Field activities will center around the riparian ecosystem adjacent to the Homewood campus and on the urban ecology of the greater Baltimore region. Students will build skills in data collection, analysis, synthesis, and presentation. Basic statistical instruction in R will be taught to aid data analysis.","FA1, FA2, FA6",,AS.270.202,"Click here to access the Laboratory Safety Introductory Course
+;
+AS.270.202",,"AS.270.338.
+Field Methods in Ecology.
+3 Credits.
+This course will introduce student to methods used in field-based ecological research addressing population, community and ecosystem-level questions. Outdoor fieldwork is an essential part of the course. Field activities will center around the riparian ecosystem adjacent to the Homewood campus and on the urban ecology of the greater Baltimore region. Students will build skills in data collection, analysis, synthesis, and presentation. Basic statistical instruction in R will be taught to aid data analysis.
+Prerequisite(s):
+Click here to access the Laboratory Safety Introductory Course
+;
+AS.270.202
+AS Foundational Abilities: Writing and Communication (FA1),
+Science and Data (FA2),
+Projects and Methods (FA6)"
+AS.270.340,Structural Geology Field Methods,4,"This field-based course will put into practice the methods and concepts learned in the co-requisite course, Structural Geology Seminar. The field course will focus on the use of compass, map and pencil/tablet, and will be geared toward learning traditional methods that require a complete understanding of geometric and cross-cutting/overprinting relationships as they are recorded in outcrop. Field areas will include Hutton's unconformity at Siccar Point, Barrow's isograds in the Scottish Highlands, and coastal exposures surrounding Stonehaven, Aberdeenshire and Portsoy, Banffshire.","FA2, FA6",Natural Sciences,AS.270.346,AS.270.346,,"AS.270.340.
+Structural Geology Field Methods.
+4 Credits.
+This field-based course will put into practice the methods and concepts learned in the co-requisite course, Structural Geology Seminar. The field course will focus on the use of compass, map and pencil/tablet, and will be geared toward learning traditional methods that require a complete understanding of geometric and cross-cutting/overprinting relationships as they are recorded in outcrop. Field areas will include Hutton's unconformity at Siccar Point, Barrow's isograds in the Scottish Highlands, and coastal exposures surrounding Stonehaven, Aberdeenshire and Portsoy, Banffshire.
+Prerequisite(s):
+AS.270.346
+Distribution Area: Natural Sciences
+AS Foundational Abilities: Science and Data (FA2),
+Projects and Methods (FA6)"
+AS.270.345,Metamorphic Petrology,3,"Introduction to metamorphic geology and the concepts on which it is built. Ideas and techniques that underpin metamorphic petrology are introduced. Focus is on utility of metamorphic geology in understanding petrogenesis crustal processes and plate tectonics. Local field trip(s) to explore the metamorphic geology of the Baltimore region. Recommended course background:
+AS.270.220
+and
+AS.270.221
+, or instructor permission",FA2,Natural Sciences,"AS.270.220, AS.270.221","AS.270.220
+AND
+AS.270.221",,"AS.270.345.
+Metamorphic Petrology.
+3 Credits.
+Introduction to metamorphic geology and the concepts on which it is built. Ideas and techniques that underpin metamorphic petrology are introduced. Focus is on utility of metamorphic geology in understanding petrogenesis crustal processes and plate tectonics. Local field trip(s) to explore the metamorphic geology of the Baltimore region. Recommended course background:
+AS.270.220
+and
+AS.270.221
+, or instructor permission
+Prerequisite(s):
+AS.270.220
+AND
+AS.270.221
+Distribution Area: Natural Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+AS.270.346,Structural Geology Seminar,1,"Seminar class on fundamentals of structural geology. Involves weekly readings/practical exercises on: (1) rock mechanics and deformation processes; (2) commonly-encountered deformation products/structures; (3) deformation style and associated fabrics/textures/structure; (4) metamorphism and deformation; (5) techniques for describing and measuring structures; (6) interpretation of structural data on maps and cross-sections; (7) approaches for inferring large-scale structure from limited data, and (8) methods for visualizing and analyzing structure. Recommended course background:
+AS.270.220
+, or instructor permission.",FA2,,AS.270.220,AS.270.220,,"AS.270.346.
+Structural Geology Seminar.
+1 Credit.
+Seminar class on fundamentals of structural geology. Involves weekly readings/practical exercises on: (1) rock mechanics and deformation processes; (2) commonly-encountered deformation products/structures; (3) deformation style and associated fabrics/textures/structure; (4) metamorphism and deformation; (5) techniques for describing and measuring structures; (6) interpretation of structural data on maps and cross-sections; (7) approaches for inferring large-scale structure from limited data, and (8) methods for visualizing and analyzing structure. Recommended course background:
+AS.270.220
+, or instructor permission.
+Prerequisite(s):
+AS.270.220
+AS Foundational Abilities: Science and Data (FA2)"
+AS.270.350,Sedimentary Geology,4,"Sedimentary rocks are the historical records of the Earth, documenting climate change, mass extinctions, and the evolution of life.  This course will provide an introduction to sedimentary processes and sedimentary rocks. Focus is placed on linking physical observations to the ancient environments in which sedimentary rocks once formed.  Fundamental tools for interpreting the sedimentary rock record, such as depositional models, geochronology, and chemostratigraphy will be reviewed. Two 1-day weekend field trips will occur over the course of the semester. There will also be weekly 1-hour labs.  Lab and field trip times will be determined in the first week of class. Graduate and advanced undergraduate level.","FA2, FA6",Natural Sciences,,,,"AS.270.350.
+Sedimentary Geology.
+4 Credits.
+Sedimentary rocks are the historical records of the Earth, documenting climate change, mass extinctions, and the evolution of life.  This course will provide an introduction to sedimentary processes and sedimentary rocks. Focus is placed on linking physical observations to the ancient environments in which sedimentary rocks once formed.  Fundamental tools for interpreting the sedimentary rock record, such as depositional models, geochronology, and chemostratigraphy will be reviewed. Two 1-day weekend field trips will occur over the course of the semester. There will also be weekly 1-hour labs.  Lab and field trip times will be determined in the first week of class. Graduate and advanced undergraduate level. Recommended Course Background:
+AS.270.220
+or instructor permission.
+Distribution Area: Natural Sciences
+AS Foundational Abilities: Science and Data (FA2),
+Projects and Methods (FA6)"
+AS.270.353,Forested Landscapes and Ecology,3,"Forests are critical global ecosystems that provide not only timber and wood products, but an array of services including habitat for wildlife, water filtration, carbon storage, and recreational opportunities.  This integrated seminar-based course features an interdisciplinary approach to understanding forested landscapes that stresses not only inventorying the biotic and abiotic components, but examining how these pieces are distributed in the landscape (patterns) and what forces drive these patterns (processes).  Topics focus on the biological, geological, climatological, cultural, and historical underpinnings needed to observe, interpret, and analyze forest communities.  It will cover aspects of biogeography, climate forcing of vegetation dynamics, effects of invasive species, land use change and creation of urban forests.  This course has an associated 1- credit field trip that counts as a lab requirement for ENVS majors.
+Corequisite(s):
+Students must enroll in
+AS.270.355
+[C]","FA2, FA4",Natural Sciences,,,,"AS.270.353.
+Forested Landscapes and Ecology.
+3 Credits.
+Forests are critical global ecosystems that provide not only timber and wood products, but an array of services including habitat for wildlife, water filtration, carbon storage, and recreational opportunities.  This integrated seminar-based course features an interdisciplinary approach to understanding forested landscapes that stresses not only inventorying the biotic and abiotic components, but examining how these pieces are distributed in the landscape (patterns) and what forces drive these patterns (processes).  Topics focus on the biological, geological, climatological, cultural, and historical underpinnings needed to observe, interpret, and analyze forest communities.  It will cover aspects of biogeography, climate forcing of vegetation dynamics, effects of invasive species, land use change and creation of urban forests.  This course has an associated 1- credit field trip that counts as a lab requirement for ENVS majors.
+Corequisite(s):
+Students must enroll in
+AS.270.355
+[C]
+Distribution Area: Natural Sciences
+AS Foundational Abilities: Science and Data (FA2),
+Citizens and Society (FA4)"
+AS.270.354,Stable Isotope Geochemistry,3,"Stable isotope measurements are used to probe fundamental questions in the Earth and environmental sciences because they can be used to extract information about chemical, physical, and biological processes associated with the formation of geomaterials. Stable isotope patterns have been used for applications ranging from tracking the rise of oxygen on the early Earth to studying human diet. The majority of the course will focus on light isotope systems (O, C, S, etc.) and low-temperature applications, including: (1) tracing sources and sinks of fluids, sediments, biological materials, and contaminants, (2) studying rates and mechanisms of biochemical reactions, and (3) paleoenvironmental reconstructions. We will also review novel stable isotope applications including heavy isotope systems and mass independent fractionations. At the end of the course, students will be able to make interpretations about how stable isotope patterns inform our knowledge of how geomaterials are formed and provide information about the Earth system.",FA2,,"AS.270.220, AS.270.224","AS.270.220
+OR
+AS.270.224",,"AS.270.354.
+Stable Isotope Geochemistry.
+3 Credits.
+Stable isotope measurements are used to probe fundamental questions in the Earth and environmental sciences because they can be used to extract information about chemical, physical, and biological processes associated with the formation of geomaterials. Stable isotope patterns have been used for applications ranging from tracking the rise of oxygen on the early Earth to studying human diet. The majority of the course will focus on light isotope systems (O, C, S, etc.) and low-temperature applications, including: (1) tracing sources and sinks of fluids, sediments, biological materials, and contaminants, (2) studying rates and mechanisms of biochemical reactions, and (3) paleoenvironmental reconstructions. We will also review novel stable isotope applications including heavy isotope systems and mass independent fractionations. At the end of the course, students will be able to make interpretations about how stable isotope patterns inform our knowledge of how geomaterials are formed and provide information about the Earth system.
+Prerequisite(s):
+AS.270.220
+OR
+AS.270.224
+AS Foundational Abilities: Science and Data (FA2)"
+AS.270.355,Forested Landscapes and Ecology Lab,1,"This field oriented lab focuses on hands-on learning experiences in forest ecology. Efforts focus on foundational topics in forest ecology including: physiography and site quality; forest soils and nutrient cycling; ecological succession; forest dynamics; community structure; natural disturbance; and invasive/non-native species. Labs feature visits to local forest sites and one long weekend trip.
+Corequisite(s):
+Students must enroll in
+AS.270.353
+[C]","FA2, FA6",,,,,"AS.270.355.
+Forested Landscapes and Ecology Lab.
+1 Credit.
+This field oriented lab focuses on hands-on learning experiences in forest ecology. Efforts focus on foundational topics in forest ecology including: physiography and site quality; forest soils and nutrient cycling; ecological succession; forest dynamics; community structure; natural disturbance; and invasive/non-native species. Labs feature visits to local forest sites and one long weekend trip.
+Corequisite(s):
+Students must enroll in
+AS.270.353
+[C]
+AS Foundational Abilities: Science and Data (FA2),
+Projects and Methods (FA6)"
+AS.270.359,"Critical Minerals: Origin, Distribution, and Impacts on Society and Climate Action",3,"What makes a resource critical? Where do these critical resources come from? This course will provide an understanding of the origin and distribution of mineral deposits that are essential for climate action, particularly in meeting our rapidly growing clean energy needs—from wind turbines and solar panels to electric vehicles. But are these essential minerals sustainable? How does the extraction of these minerals impact the environment and society? Throughout the course, we will explore how geological processes, driven by plate tectonics, form critical mineral deposits and examine their role in the clean energy transition. Through case studies and debates, we will explore the environmental and societal impacts of mineral extraction. A short field trip around Baltimore, combined with the examination of ore and rock samples in class, will help connect the course material to real-world applications. The course will also cover mineral exploration techniques and resource estimation methods.",FA2,Natural Sciences,,,,"AS.270.359.
+Critical Minerals: Origin, Distribution, and Impacts on Society and Climate Action.
+3 Credits.
+What makes a resource critical? Where do these critical resources come from? This course will provide an understanding of the origin and distribution of mineral deposits that are essential for climate action, particularly in meeting our rapidly growing clean energy needs—from wind turbines and solar panels to electric vehicles. But are these essential minerals sustainable? How does the extraction of these minerals impact the environment and society? Throughout the course, we will explore how geological processes, driven by plate tectonics, form critical mineral deposits and examine their role in the clean energy transition. Through case studies and debates, we will explore the environmental and societal impacts of mineral extraction. A short field trip around Baltimore, combined with the examination of ore and rock samples in class, will help connect the course material to real-world applications. The course will also cover mineral exploration techniques and resource estimation methods.
+Distribution Area: Natural Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+AS.270.363,How to Live Forever: The Making of the Geologic Record of Life,3,"Everything we know about the origins and evolution of life comes from the geologic record: bones and shells, stromatolites, ancient DNA, and subtle variations in the chemical and isotopic composition of rocks. But what processes — biological and abiological — determine which living things really do “live forever” as fossil biosignatures, and which are lost to the sands of time? In this course, students will learn how researchers read and interpret the geologic record of life and quantify its limitations, to better understand how life came to be and how it has changed through time. They will learn how organisms’ lifestyles and metabolisms affect the chemical and physical properties of their environment and how the process of fossilization is facilitated by physiology, ecological relationships, and diagenesis. Students will engage with a wide range of content, from interdisciplinary academic research articles to speculative science fiction, and work with geologic samples and chemical and isotopic datasets.",FA2,,,,,"AS.270.363.
+How to Live Forever: The Making of the Geologic Record of Life.
+3 Credits.
+Everything we know about the origins and evolution of life comes from the geologic record: bones and shells, stromatolites, ancient DNA, and subtle variations in the chemical and isotopic composition of rocks. But what processes — biological and abiological — determine which living things really do “live forever” as fossil biosignatures, and which are lost to the sands of time? In this course, students will learn how researchers read and interpret the geologic record of life and quantify its limitations, to better understand how life came to be and how it has changed through time. They will learn how organisms’ lifestyles and metabolisms affect the chemical and physical properties of their environment and how the process of fossilization is facilitated by physiology, ecological relationships, and diagenesis. Students will engage with a wide range of content, from interdisciplinary academic research articles to speculative science fiction, and work with geologic samples and chemical and isotopic datasets.
+AS Foundational Abilities: Science and Data (FA2)"
+AS.270.365,Magmatic and Volcanic Systems on Earth and Other Planets,3,"This course will present the fundamental concepts of igneous petrology—the study of rocks that solidify from magmas—which is used to understand how crust is generated on Earth and other planetary bodies. From the generation of ocean floor basalts to granites of the upper continental crust, we will look at the Earth’s dynamic structure and the connections between its mantle and surface. Topics such as the effects of volcanic eruptions on climate, or the role of large igneous provinces on biological mass extinctions will be investigated, linking microscopic details of rocks to major events of Earth history. An overview of the main geochemical tools used by the igneous petrologist will enable students to evaluate the geochemical and petrological variety of igneous systems.This course is intended for both undergraduate and graduate students in the EPS department. There are no pre-requisites, but some background in introductory geology (e.g. Dynamic Earth) and mineralogy will be helpful.",FA2,Natural Sciences,,,,"AS.270.365.
+Magmatic and Volcanic Systems on Earth and Other Planets.
+3 Credits.
+This course will present the fundamental concepts of igneous petrology—the study of rocks that solidify from magmas—which is used to understand how crust is generated on Earth and other planetary bodies. From the generation of ocean floor basalts to granites of the upper continental crust, we will look at the Earth’s dynamic structure and the connections between its mantle and surface. Topics such as the effects of volcanic eruptions on climate, or the role of large igneous provinces on biological mass extinctions will be investigated, linking microscopic details of rocks to major events of Earth history. An overview of the main geochemical tools used by the igneous petrologist will enable students to evaluate the geochemical and petrological variety of igneous systems.This course is intended for both undergraduate and graduate students in the EPS department. There are no pre-requisites, but some background in introductory geology (e.g. Dynamic Earth) and mineralogy will be helpful.
+Distribution Area: Natural Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+AS.270.366,Spacecraft Instrumentation Project,3,"Investigation into the content relevant to an ongoing spacecraft instrumentation project.  An interdisciplinary team will enhance the skills and knowledge of science and engineering students.  Topics include mission background, planetary science, sensor design, spacecraft systems, and mission planning, and sensor fabrication, calibration, integration, and testing, data analysis and interpretation, scientific/technical writing and publication.","FA2, FA6","Engineering, Natural Sciences",,,,"AS.270.366.
+Spacecraft Instrumentation Project.
+3 Credits.
+Investigation into the content relevant to an ongoing spacecraft instrumentation project.  An interdisciplinary team will enhance the skills and knowledge of science and engineering students.  Topics include mission background, planetary science, sensor design, spacecraft systems, and mission planning, and sensor fabrication, calibration, integration, and testing, data analysis and interpretation, scientific/technical writing and publication.
+Distribution Area: Engineering, Natural Sciences
+AS Foundational Abilities: Science and Data (FA2),
+Projects and Methods (FA6)"
+AS.270.368,Geology of Baltimore Area,2,"This is a weekly reading seminar and fieldwork course focused on the bedrock geology and tectonic history of the Baltimore area. The course is majority fieldwork, with four local, half-day fieldtrips replacing four of the 1h classroom sessions. The course will consider the following four elements of Baltimore’s hard rock geology: (1) the Grenville-age basement gneisses; (2) Baltimore Terrane stratigraphy associated with rifting of Rodinia and subsequent tectonic activation of the passive margin; (3) Baltimore Mafic Complex record of subduction initiation in the ancient Iapetus Ocean; and (4) metamorphism and magmatism during the Appalachian Orogeny. For each of the four geological elements studied we will first read research papers on their age, origin and significance, before taking a fieldtrip to see associated outcrops.",FA2,,AS.270.220,AS.270.220,,"AS.270.368.
+Geology of Baltimore Area.
+2 Credits.
+This is a weekly reading seminar and fieldwork course focused on the bedrock geology and tectonic history of the Baltimore area. The course is majority fieldwork, with four local, half-day fieldtrips replacing four of the 1h classroom sessions. The course will consider the following four elements of Baltimore’s hard rock geology: (1) the Grenville-age basement gneisses; (2) Baltimore Terrane stratigraphy associated with rifting of Rodinia and subsequent tectonic activation of the passive margin; (3) Baltimore Mafic Complex record of subduction initiation in the ancient Iapetus Ocean; and (4) metamorphism and magmatism during the Appalachian Orogeny. For each of the four geological elements studied we will first read research papers on their age, origin and significance, before taking a fieldtrip to see associated outcrops.
+Prerequisite(s):
+AS.270.220
+AS Foundational Abilities: Science and Data (FA2)"
+AS.270.378,Present and Future Climate,3,"Intended for majors who are interested in the science that underlies the current debate on global warming, the focus is on recent observations one can glean from model simulations. Meets with
+AS.270.641
+.",FA2,Natural Sciences,"AS.270.378, AS.270.641","Student may not receive credit for both
+AS.270.378
+and
+AS.270.641
+.",,"AS.270.378.
+Present and Future Climate.
+3 Credits.
+Intended for majors who are interested in the science that underlies the current debate on global warming, the focus is on recent observations one can glean from model simulations. Meets with
+AS.270.641
+. Recommended Course Background:
+AS.110.108
+-
+AS.110.109
+and
+AS.171.101
+-
+AS.171.102
+Prerequisite(s):
+Student may not receive credit for both
+AS.270.378
+and
+AS.270.641
+.
+Distribution Area: Natural Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+AS.270.379,Atmospheric Science,3,"A survey of core topics in atmospheric science, including dynamics, thermodynamics, radiative transfer, and chemistry. The course addresses both basic principles and applications to weather and climate.  Recommended pre-requisites: General Calculus and Physics I and/or Oceans and Atmospheres.",FA2,Natural Sciences,,,,"AS.270.379.
+Atmospheric Science.
+3 Credits.
+A survey of core topics in atmospheric science, including dynamics, thermodynamics, radiative transfer, and chemistry. The course addresses both basic principles and applications to weather and climate.  Recommended pre-requisites: General Calculus and Physics I and/or Oceans and Atmospheres.
+Distribution Area: Natural Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+AS.270.399,Climate and Infectious Disease,3,"This course is an introduction to the interdisciplinary study of climate and infectious diseases. We will examine how variability in climate factors (such as temperature and rainfall) influences the incidence of climate-sensitive infectious diseases (e.g., malaria, dengue, meningitis, influenza), learning techniques for analyzing climate data and modeling climatic impacts on disease. A major focus of the course is on scientific communication via a course project involving scientific writing and data visualization. This course is primarily targeted towards upper-level undergraduates who are comfortable with their quantitative skills. Prior content knowledge in climate science and public health is not required. Prior coding experience is not required, but would be helpful.","FA1, FA2",,,,Writing Intensive,"AS.270.399.
+Climate and Infectious Disease.
+3 Credits.
+This course is an introduction to the interdisciplinary study of climate and infectious diseases. We will examine how variability in climate factors (such as temperature and rainfall) influences the incidence of climate-sensitive infectious diseases (e.g., malaria, dengue, meningitis, influenza), learning techniques for analyzing climate data and modeling climatic impacts on disease. A major focus of the course is on scientific communication via a course project involving scientific writing and data visualization. This course is primarily targeted towards upper-level undergraduates who are comfortable with their quantitative skills. Prior content knowledge in climate science and public health is not required. Prior coding experience is not required, but would be helpful.
+AS Foundational Abilities: Writing and Communication (FA1),
+Science and Data (FA2)
+Writing Intensive"
+AS.270.404,Planetary Interiors,3,"This course investigates the physical processes occurring in planetary interiors.  Topics include formation and differentiation of planetary bodies, planetary structure, thermal evolution, convection, and dynamo generation of magnetic fields.  Standard remote sensing methods used to investigate planetary interiors and results from recent planetary satellite missions will also be discussed.Recommended: Knowledge of vector calculus, PDEs and introductory physics.",FA2,Natural Sciences,,,,"AS.270.404.
+Planetary Interiors.
+3 Credits.
+This course investigates the physical processes occurring in planetary interiors.  Topics include formation and differentiation of planetary bodies, planetary structure, thermal evolution, convection, and dynamo generation of magnetic fields.  Standard remote sensing methods used to investigate planetary interiors and results from recent planetary satellite missions will also be discussed.Recommended: Knowledge of vector calculus, PDEs and introductory physics.
+Distribution Area: Natural Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+AS.270.406,Deciphering the History of Life,3,"The majority of Life that existed on our planet is extinct, and the small and biased number of lineages that survived into the present cannot tell a complete story of Life’s evolutionary history. To fill these blank pages, we need to explore the fossil record on Earth (and elsewhere in the solar system) for information that can be directly integrated with data for living organisms. However, modern biology is mostly a molecular science – and we know that biomolecules experience drastic chemical alteration during fossilization.This course tackles the ‘Molecular Gap’ between past and present life forms from a practical and research-oriented perspective! We will survey the various chemical approaches that allow to extract biologically meaningful information from modern and fossil samples, and explore their individual strengths and limitations. Then we will move on to cover the nature of different biological signatures encoding diagnostic traits across the tree of Life, and explore the importance of corrections for evolutionary relationships when integrating data. Lastly, we will discuss the potential of multivariate statistics in the systematic extraction of meaningful biosignatures from notoriously noisy modern and fossil biological data. We will use prepared training data sets during guided in-session exercises, and students will go through the complete cross-disciplinary process of developing a biosignature – translational skills, that will enable them to conduct independent research on the topic.",FA2,,,,,"AS.270.406.
+Deciphering the History of Life.
+3 Credits.
+The majority of Life that existed on our planet is extinct, and the small and biased number of lineages that survived into the present cannot tell a complete story of Life’s evolutionary history. To fill these blank pages, we need to explore the fossil record on Earth (and elsewhere in the solar system) for information that can be directly integrated with data for living organisms. However, modern biology is mostly a molecular science – and we know that biomolecules experience drastic chemical alteration during fossilization.This course tackles the ‘Molecular Gap’ between past and present life forms from a practical and research-oriented perspective! We will survey the various chemical approaches that allow to extract biologically meaningful information from modern and fossil samples, and explore their individual strengths and limitations. Then we will move on to cover the nature of different biological signatures encoding diagnostic traits across the tree of Life, and explore the importance of corrections for evolutionary relationships when integrating data. Lastly, we will discuss the potential of multivariate statistics in the systematic extraction of meaningful biosignatures from notoriously noisy modern and fossil biological data. We will use prepared training data sets during guided in-session exercises, and students will go through the complete cross-disciplinary process of developing a biosignature – translational skills, that will enable them to conduct independent research on the topic.  Recommended Course Background: Three Upper Level Science Courses.
+AS Foundational Abilities: Science and Data (FA2)"
+AS.270.410,Planetary Surface Processes,3,"This course explores processes that influence the evolution of planetary surfaces, including impact cratering, tectonics, volcanism, weathering, and sediment transport. These processes manifest themselves as structural deformation of planetary crusts due to loading by volcanoes, formation of craters by asteroid impacts, modification of surfaces by flowing landslides, rivers and glaciers, and the accumulation and transport of sand in dune fields on various planets. Emphasis is on the relationship to similar Earth processes, and the integrated geologic histories of the terrestrial planets, satellites, and asteroids. The focus will be on developing a physical understanding of these processes to interpret the surface characteristics and evolution of planets, satellites, asteroids, and comets from both qualitative assessments and quantitative measurements obtained from spacecraft data. A key component of the class will be the interpretation of these observations from recent and current planetary missions to the Moon, Mars, and other terrestrial bodies.",FA2,Natural Sciences,,,,"AS.270.410.
+Planetary Surface Processes.
+3 Credits.
+This course explores processes that influence the evolution of planetary surfaces, including impact cratering, tectonics, volcanism, weathering, and sediment transport. These processes manifest themselves as structural deformation of planetary crusts due to loading by volcanoes, formation of craters by asteroid impacts, modification of surfaces by flowing landslides, rivers and glaciers, and the accumulation and transport of sand in dune fields on various planets. Emphasis is on the relationship to similar Earth processes, and the integrated geologic histories of the terrestrial planets, satellites, and asteroids. The focus will be on developing a physical understanding of these processes to interpret the surface characteristics and evolution of planets, satellites, asteroids, and comets from both qualitative assessments and quantitative measurements obtained from spacecraft data. A key component of the class will be the interpretation of these observations from recent and current planetary missions to the Moon, Mars, and other terrestrial bodies.Recommended Course Background:  A sound knowledge of Calculus and Introductory Physics, and some prior knowledge of Earth and/or Planetary Science.
+Distribution Area: Natural Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+AS.270.412,Spring seminar: Geological Field Studies in California,2,"Field experience is an integral part of a geology student’s education. During this course, students will learn to digitize, synthesize, and interpret the observations they made during the January field-based class to interpret the geologic history and structure of southern California. Study USA: Geological Field Studies in California is a co-requisite for this course.For Spring 2020, the focus of the field work and course will be on applying concepts and techniques covered in Dynamic Earth (
+AS.270.220
+/1), Sedimentary Geology (
+AS.270.350
+), Earth History (
+AS.270.303
+), Planets, Life and the Universe (AS.020.334), and Isotope Geochemistry (AS.270.331). Sedimentary rocks are spectacularly exposed in this region and record over a billion years of key events in Earth history. Students will learn how these rocks have shaped our understanding of major evolutionary and environmental shifts in Earth’s past, while also learning how to map these units’ regional geographic distribution. Finally, students will also learn about the different tectonic events that have shaped the landscape that we see today in the western United States. The class is designed for upper level E&PS majors and E&PS graduate students.","FA1, FA2",,AS.270.344,AS.270.344,Writing Intensive,"AS.270.412.
+Spring seminar: Geological Field Studies in California.
+2 Credits.
+Field experience is an integral part of a geology student’s education. During this course, students will learn to digitize, synthesize, and interpret the observations they made during the January field-based class to interpret the geologic history and structure of southern California. Study USA: Geological Field Studies in California is a co-requisite for this course.For Spring 2020, the focus of the field work and course will be on applying concepts and techniques covered in Dynamic Earth (
+AS.270.220
+/1), Sedimentary Geology (
+AS.270.350
+), Earth History (
+AS.270.303
+), Planets, Life and the Universe (AS.020.334), and Isotope Geochemistry (AS.270.331). Sedimentary rocks are spectacularly exposed in this region and record over a billion years of key events in Earth history. Students will learn how these rocks have shaped our understanding of major evolutionary and environmental shifts in Earth’s past, while also learning how to map these units’ regional geographic distribution. Finally, students will also learn about the different tectonic events that have shaped the landscape that we see today in the western United States. The class is designed for upper level E&PS majors and E&PS graduate students.
+Prerequisite(s):
+AS.270.344
+AS Foundational Abilities: Writing and Communication (FA1),
+Science and Data (FA2)
+Writing Intensive"
+AS.270.415,Seminar in Ecology,1,This is a discussion-based course in current research in ecology. Each week a student will lead a discussion of a published paper in the field of ecology.,FA2,Natural Sciences,AS.270.202,AS.270.202,,"AS.270.415.
+Seminar in Ecology.
+1 Credit.
+This is a discussion-based course in current research in ecology. Each week a student will lead a discussion of a published paper in the field of ecology.
+Prerequisite(s):
+AS.270.202
+Distribution Area: Natural Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+AS.270.423,Planetary Atmospheres,3,"Fundamental concepts and basic principles of chemistry and physics applied to the study of planetary atmospheres. Vertical structure of planetary atmospheres. Atmospheric radiation, thermodynamics, and transport. Principles of photochemistry. Planetary spectroscopy and remote sensing. Upper atmospheres and ionospheres. Evolution and stability of planetary atmospheres.",FA2,Natural Sciences,,,,"AS.270.423.
+Planetary Atmospheres.
+3 Credits.
+Fundamental concepts and basic principles of chemistry and physics applied to the study of planetary atmospheres. Vertical structure of planetary atmospheres. Atmospheric radiation, thermodynamics, and transport. Principles of photochemistry. Planetary spectroscopy and remote sensing. Upper atmospheres and ionospheres. Evolution and stability of planetary atmospheres. Recommended Course Background: basic physics, chemistry and calculus
+Distribution Area: Natural Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+AS.270.425,Earth and Planetary Fluids,3,"An introductory course on the properties, flow, and transport characteristics of fluids throughout the Earth and planets. Topics covered include: constitutive relationships, fluid rheology, hydrostatics, dimensional analysis, low Reynolds number flow, porous media, waves, stratified and rotating fluids, plus heat, mass, and tracer transport. Illustrative examples and problems are drawn from the atmosphere, ocean, crust, mantle, and core of the Earth and other Planets. Open to graduate and advanced undergraduate students.",FA2,Natural Sciences,,,,"AS.270.425.
+Earth and Planetary Fluids.
+3 Credits.
+An introductory course on the properties, flow, and transport characteristics of fluids throughout the Earth and planets. Topics covered include: constitutive relationships, fluid rheology, hydrostatics, dimensional analysis, low Reynolds number flow, porous media, waves, stratified and rotating fluids, plus heat, mass, and tracer transport. Illustrative examples and problems are drawn from the atmosphere, ocean, crust, mantle, and core of the Earth and other Planets. Open to graduate and advanced undergraduate students. Recommended Course Background: Basic Physics, Calculus, and familiarity with ordinary differential equations.
+Distribution Area: Natural Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+AS.270.431,Tectonics Seminar,1,"Introduction to plate tectonics and its ""framework"" role in understanding the Earth. Kay papers will be discussed in a weekly seminar class. Focus will be on early works that helped establish the theory, in addition to recent breakthrough contributions that have led to modifications and improvements to the theory of plate tectonics.",FA2,,,,,"AS.270.431.
+Tectonics Seminar.
+1 Credit.
+Introduction to plate tectonics and its ""framework"" role in understanding the Earth. Kay papers will be discussed in a weekly seminar class. Focus will be on early works that helped establish the theory, in addition to recent breakthrough contributions that have led to modifications and improvements to the theory of plate tectonics.
+AS Foundational Abilities: Science and Data (FA2)"
+AS.270.603,Geochemistry Seminar,1,A variety of topics of current interest involving mineral-fluid interactions will be reviewed.,,,,,,"AS.270.603.
+Geochemistry Seminar.
+1 Credit.
+A variety of topics of current interest involving mineral-fluid interactions will be reviewed."
+AS.270.605,EPS Colloquium,2,A weekly seminar series in which graduate students present their latest research results and attend Departmental seminars. This course is required for all graduate students in the Department of Earth and Planetary Sciences.,,,,,,"AS.270.605.
+EPS Colloquium.
+2 Credits.
+A weekly seminar series in which graduate students present their latest research results and attend Departmental seminars. This course is required for all graduate students in the Department of Earth and Planetary Sciences."
+AS.270.606,EPS Colloquium,2,A weekly seminar series in which graduate students present their latest research results and attend Departmental seminars.  This course is required for all graduate students in the Department of Earth and Planetary Sciences.,,,,,,"AS.270.606.
+EPS Colloquium.
+2 Credits.
+A weekly seminar series in which graduate students present their latest research results and attend Departmental seminars.  This course is required for all graduate students in the Department of Earth and Planetary Sciences."
+AS.270.607,Urban Ecology,3,"Urban ecology has been called the ecology in, of, and for cities. In this course, we will explore how ecological concepts are applied to urban ecosystems and the different approaches to urban ecological research. Topics will include: Biodiversity, water dynamics, energy and heat island effects, and nutrient cycling, urban metabolism, design of greenspace, and sustainability of cities. We will use Baltimore as a case study for studying cities.",,Natural Sciences,,,,"AS.270.607.
+Urban Ecology.
+3 Credits.
+Urban ecology has been called the ecology in, of, and for cities. In this course, we will explore how ecological concepts are applied to urban ecosystems and the different approaches to urban ecological research. Topics will include: Biodiversity, water dynamics, energy and heat island effects, and nutrient cycling, urban metabolism, design of greenspace, and sustainability of cities. We will use Baltimore as a case study for studying cities.
+Distribution Area: Natural Sciences"
+AS.270.614,Atmosphere and Oceanic Vortices,2,"Vortices are observed in the Earth's atmosphere and oceans and in the atmospheres of other planets. Examples are polar vortices in Earth, Mars and Titan's atmospheres, Spots on Jupiter, Saturn, and Neptune, Gulf Stream rings, and eddies throughout the oceans. These vortices are often the most dominant feature of the regional circulation, and understanding their structure and evolution dynamics is necessary to understand the dynamics and transport of atmospheres and oceans. In this course we focus on the structure and dynamics of long-lived vortices, i.e., vortices that exist for longer than typical wave periods. The first section of the course will consist of lectures examining the fundamental dynamics of vortices in rapidly rotating, stratified fluids, while the second section will be seminars discussing more detailed aspects of specific vortices occurring in nature. It is suggested that you have taken 270.425 Earth and Planetary Fluids or another similar introductory fluids class.",,,,,,"AS.270.614.
+Atmosphere and Oceanic Vortices.
+2 Credits.
+Vortices are observed in the Earth's atmosphere and oceans and in the atmospheres of other planets. Examples are polar vortices in Earth, Mars and Titan's atmospheres, Spots on Jupiter, Saturn, and Neptune, Gulf Stream rings, and eddies throughout the oceans. These vortices are often the most dominant feature of the regional circulation, and understanding their structure and evolution dynamics is necessary to understand the dynamics and transport of atmospheres and oceans. In this course we focus on the structure and dynamics of long-lived vortices, i.e., vortices that exist for longer than typical wave periods. The first section of the course will consist of lectures examining the fundamental dynamics of vortices in rapidly rotating, stratified fluids, while the second section will be seminars discussing more detailed aspects of specific vortices occurring in nature. It is suggested that you have taken 270.425 Earth and Planetary Fluids or another similar introductory fluids class."
+AS.270.615,Inversion Modeling & Data Assimilation,3,"This graduate class will introduce modern inverse modeling and data assimilation techniques.  These powerful methods are used in atmospheric science, oceanography, and geophysics and are growing more widespread.  Topics will include:  singular value decomposition, Green’s function inversions, Kalman filtering, and variational data assimilation.  The class will include lectures on concepts and theory, and practical experience in the computer laboratory.Permission of Instructor Required",,,,,,"AS.270.615.
+Inversion Modeling & Data Assimilation.
+3 Credits.
+This graduate class will introduce modern inverse modeling and data assimilation techniques.  These powerful methods are used in atmospheric science, oceanography, and geophysics and are growing more widespread.  Topics will include:  singular value decomposition, Green’s function inversions, Kalman filtering, and variational data assimilation.  The class will include lectures on concepts and theory, and practical experience in the computer laboratory.Permission of Instructor Required"
+AS.270.617,Seminar in Geosciences,1,This is a discussion-based course in which students take turns leading the discussion of geoscience science journal articles and other relevant publications.,,,,,,"AS.270.617.
+Seminar in Geosciences.
+1 Credit.
+This is a discussion-based course in which students take turns leading the discussion of geoscience science journal articles and other relevant publications."
+AS.270.618,Remote Sensing of the Environment,3,"This course is an introduction to the use of remote sensing technology to study Earth’s physical and biochemical processes. Topics covered include remote sensing of the atmosphere, land and oceans, as well as remote sensing as a tool for policy makers. Also offered as 270.318.",,Natural Sciences,,,,"AS.270.618.
+Remote Sensing of the Environment.
+3 Credits.
+This course is an introduction to the use of remote sensing technology to study Earth’s physical and biochemical processes. Topics covered include remote sensing of the atmosphere, land and oceans, as well as remote sensing as a tool for policy makers. Also offered as 270.318.
+Distribution Area: Natural Sciences"
+AS.270.626,Ocean General Circulation,3,The aim of this course is to achieve conceptual understanding of the large scale low frequency ocean general circulation.  The role of the ocean circulation in earth's climate is emphasized throughout.,,,,,,"AS.270.626.
+Ocean General Circulation.
+3 Credits.
+The aim of this course is to achieve conceptual understanding of the large scale low frequency ocean general circulation.  The role of the ocean circulation in earth's climate is emphasized throughout."
+AS.270.628,Seminar in regional field geology,1,This course focuses on select regional geology or ecology sites and involves a weekend field trip to explore key locations. Students are required to prepare short presentations on field trip stops in advance of the weekend trip. Attendance at organizational meetings is required. Open to E&PS graduate students and upper level EPS or ENVS undergraduate majors/minors. The focus area will the Inner Piedmont and Blue Ridge of North Carolina. Two meetings to be scheduled prior to trip.,,,,,,"AS.270.628.
+Seminar in regional field geology.
+1 Credit.
+This course focuses on select regional geology or ecology sites and involves a weekend field trip to explore key locations. Students are required to prepare short presentations on field trip stops in advance of the weekend trip. Attendance at organizational meetings is required. Open to E&PS graduate students and upper level EPS or ENVS undergraduate majors/minors. The focus area will the Inner Piedmont and Blue Ridge of North Carolina. Two meetings to be scheduled prior to trip."
+AS.270.630,Physics and Chemistry of Aerosols,3,"This course will cover fundamentals of aerosol physics and chemistry.  Topics covered will include aerodynamics and diffusion of aerosol particles, condensation and evaporation, particle size distributions, optics of small particles, characterization of particle composition, and the diversity of aerosols found in planetary atmospheres.",,,,,,"AS.270.630.
+Physics and Chemistry of Aerosols.
+3 Credits.
+This course will cover fundamentals of aerosol physics and chemistry.  Topics covered will include aerodynamics and diffusion of aerosol particles, condensation and evaporation, particle size distributions, optics of small particles, characterization of particle composition, and the diversity of aerosols found in planetary atmospheres.Recommended Course Background: Basic Physics and Chemistry.  Calculus."
+AS.270.633,Seminar on the IPCC Sixth Assessment,1,This course will discuss the contents of the Working Group I contribution to the sixth assessment report (AR6) of the Intergovernmental Panel on Climate Change (IPCC).,,Natural Sciences,,,,"AS.270.633.
+Seminar on the IPCC Sixth Assessment.
+1 Credit.
+This course will discuss the contents of the Working Group I contribution to the sixth assessment report (AR6) of the Intergovernmental Panel on Climate Change (IPCC).
+Distribution Area: Natural Sciences"
+AS.270.634,Seminar in Urban Systems Science,1,"This seminar will provide a review of the current state of urban systems science via weekly seminars and readings by current experts in the increasingly important field of urban environmental and social sciences research. The seminar is a joint offering being coordinated by Johns Hopkins, Penn State, and Morgan State Universities. Given the distance between campuses, the course will be held in hybrid mode. Students enrolled in the course for credit will write three reflections on seminar topics over the course of the semester.",,,,,,"AS.270.634.
+Seminar in Urban Systems Science.
+1 Credit.
+This seminar will provide a review of the current state of urban systems science via weekly seminars and readings by current experts in the increasingly important field of urban environmental and social sciences research. The seminar is a joint offering being coordinated by Johns Hopkins, Penn State, and Morgan State Universities. Given the distance between campuses, the course will be held in hybrid mode. Students enrolled in the course for credit will write three reflections on seminar topics over the course of the semester."
+AS.270.641,Present and Future Climate,3,"Meets with
+AS.270.378
+.",,Natural Sciences,"AS.270.378, AS.270.641","Student may not receive credit for both
+AS.270.378
+and
+AS.270.641
+.",,"AS.270.641.
+Present and Future Climate.
+3 Credits.
+Meets with
+AS.270.378
+.
+Prerequisite(s):
+Student may not receive credit for both
+AS.270.378
+and
+AS.270.641
+.
+Distribution Area: Natural Sciences"
+AS.270.644,Physics of Climate Variability,3,"Earth’s climate varies over a wide range of time scales. Some of these variations, like rainy or dry summers, are a familiar part of daily life. Others, like the ice ages, have profoundly shaped the evolution of culture and ecosystems, but are largely invisible to us today. Climate variability complicates our ability to detect and attribute changes due to anthropogenic impacts. However, building systems that are resilient to variability may also help with mitigating such impacts.    This course covers a range of climate variations, focusing on understanding the mechanisms and impacts of particular modes of variability.",,Natural Sciences,,,Writing Intensive,"AS.270.644.
+Physics of Climate Variability.
+3 Credits.
+Earth’s climate varies over a wide range of time scales. Some of these variations, like rainy or dry summers, are a familiar part of daily life. Others, like the ice ages, have profoundly shaped the evolution of culture and ecosystems, but are largely invisible to us today. Climate variability complicates our ability to detect and attribute changes due to anthropogenic impacts. However, building systems that are resilient to variability may also help with mitigating such impacts.    This course covers a range of climate variations, focusing on understanding the mechanisms and impacts of particular modes of variability.
+Distribution Area: Natural Sciences
+Writing Intensive"
+AS.270.653,Earth and Planetary Fluids II,3,"A sequel to
+AS.270.425
+concentrating on planetary-scale atmospheric and oceanic circulation.  Physical understanding of the underlying fluid dynamics will be emphasized.",,,,,,"AS.270.653.
+Earth and Planetary Fluids II.
+3 Credits.
+A sequel to
+AS.270.425
+concentrating on planetary-scale atmospheric and oceanic circulation.  Physical understanding of the underlying fluid dynamics will be emphasized."
+AS.270.654,Environmental Data Analysis,3,"Environmental data is often messy-contaminated with noise, fundamental nonlinear, potentially stationary. This course will build on Menke and menke's Environmental Data Analysis with Matlab to examine methods of analyzing environmental data that don't lead us to confuse noise with signal. Topics covered will include significance testing, spectral estimation, nonparametric methods, multivariate data analysis. Applications will be tailored to the student interest.",,,,,,"AS.270.654.
+Environmental Data Analysis.
+3 Credits.
+Environmental data is often messy-contaminated with noise, fundamental nonlinear, potentially stationary. This course will build on Menke and menke's Environmental Data Analysis with Matlab to examine methods of analyzing environmental data that don't lead us to confuse noise with signal. Topics covered will include significance testing, spectral estimation, nonparametric methods, multivariate data analysis. Applications will be tailored to the student interest."
+AS.270.655,Baltimore Environmental Data Analysis,3,"The Baltimore Social-Environmental Collaborative (BSEC) aims to develop climate action plans for Baltimore that also improve the well-being of those who live in historically underserved neighborhoods. To achieve this goal an extensive and diverse range of environmental measurements are being made in and around Baltimore City. This course will introduce the science within BSEC, the measurements being made to address this science, and approaches used to analyze these data, including time series, spatial, and multivariate analysis. Students will perform data analysis projects using the BSEC and other data for Baltimore. Topics will be tailored to the student interest. No previous connection with BSEC required.",,,,,,"AS.270.655.
+Baltimore Environmental Data Analysis.
+3 Credits.
+The Baltimore Social-Environmental Collaborative (BSEC) aims to develop climate action plans for Baltimore that also improve the well-being of those who live in historically underserved neighborhoods. To achieve this goal an extensive and diverse range of environmental measurements are being made in and around Baltimore City. This course will introduce the science within BSEC, the measurements being made to address this science, and approaches used to analyze these data, including time series, spatial, and multivariate analysis. Students will perform data analysis projects using the BSEC and other data for Baltimore. Topics will be tailored to the student interest. No previous connection with BSEC required."
+AS.270.656,Geochemical modeling of water-rock interactions in the deep Earth,3,"Thermodynamic basis for the modeling of irreversible chemical mass transfer involving minerals and aqueous species at elevated temperatures and pressures. Reading will start with classic papers by Helgeson and co-workers and proceed to applications in the literature involving hydrothermal ore deposits, subduction zones, and diamond formation in the upper mantle. The course focusses on developing specific projects of research interest to individual participants.",,,,,,"AS.270.656.
+Geochemical modeling of water-rock interactions in the deep Earth.
+3 Credits.
+Thermodynamic basis for the modeling of irreversible chemical mass transfer involving minerals and aqueous species at elevated temperatures and pressures. Reading will start with classic papers by Helgeson and co-workers and proceed to applications in the literature involving hydrothermal ore deposits, subduction zones, and diamond formation in the upper mantle. The course focusses on developing specific projects of research interest to individual participants.Recommended Course Background:
+AS.030.101
+and
+AS.030.102
+or equivalent, AND
+AS.270.220
+AND
+AS.270.221
+or equivalent, AND
+AS.270.302
+or equivalent."
+AS.270.662,Seminar in Planetary Science,1,This is a discussion-based course in which students take turns leading the discussion of planetary science journal articles and other relevant publications.,,,,,,"AS.270.662.
+Seminar in Planetary Science.
+1 Credit.
+This is a discussion-based course in which students take turns leading the discussion of planetary science journal articles and other relevant publications."
+AS.270.667,Seminar in Soil Ecology,1,"This weekly seminar explores current research focusing on soil physical, chemical, and biological properties, soil functions, and the interactions among soils, microbes, plants, and fauna.  Emphasis is on human impacted soils, such as urban and agricultural ecosystems.",,Natural Sciences,,,,"AS.270.667.
+Seminar in Soil Ecology.
+1 Credit.
+This weekly seminar explores current research focusing on soil physical, chemical, and biological properties, soil functions, and the interactions among soils, microbes, plants, and fauna.  Emphasis is on human impacted soils, such as urban and agricultural ecosystems.
+Distribution Area: Natural Sciences"
+AS.270.668,Geobiology Seminar,2,"Geobiology is the study of interactions between life and rocks. In this class we will explore how organisms impact sedimentary records both directly, by leaving behind biosignatures, or indirectly, by affecting their surroundings in a way that promotes formation of certain types of minerals. This will serve as a guide for interpreting geological records during the early evolution of life on Earth, the rise of animals, and major mass extinctions.",,Natural Sciences,,,,"AS.270.668.
+Geobiology Seminar.
+2 Credits.
+Geobiology is the study of interactions between life and rocks. In this class we will explore how organisms impact sedimentary records both directly, by leaving behind biosignatures, or indirectly, by affecting their surroundings in a way that promotes formation of certain types of minerals. This will serve as a guide for interpreting geological records during the early evolution of life on Earth, the rise of animals, and major mass extinctions.
+Distribution Area: Natural Sciences"
+AS.270.675,Communication for Scientists,3,"Communication for Scientists” and the description is “This course will cover the various ways in which scientists are expected to communicate throughout the life of a project. Topics will include writing proposals, preparing impactful figures, writing press releases, interacting with the press (press conferences, radio/TV, interviews, etc.), writing for and speaking to the public, social media, and interacting with policy makers.""",,,,,,"AS.270.675.
+Communication for Scientists.
+3 Credits.
+Communication for Scientists” and the description is “This course will cover the various ways in which scientists are expected to communicate throughout the life of a project. Topics will include writing proposals, preparing impactful figures, writing press releases, interacting with the press (press conferences, radio/TV, interviews, etc.), writing for and speaking to the public, social media, and interacting with policy makers."""
+AS.270.679,Atmospheric Science,3,"A survey of core topics in atmospheric science, including dynamics, thermodynamics, radiative transfer, and chemistry. The course addresses both basic principles and applications to weather and climate.  Recommended pre-requisites: General Calculus and Physics I and/or Oceans and Atmospheres.",,Natural Sciences,,,,"AS.270.679.
+Atmospheric Science.
+3 Credits.
+A survey of core topics in atmospheric science, including dynamics, thermodynamics, radiative transfer, and chemistry. The course addresses both basic principles and applications to weather and climate.  Recommended pre-requisites: General Calculus and Physics I and/or Oceans and Atmospheres.
+Distribution Area: Natural Sciences"
+AS.270.688,Exoplanets and their Atmospheres,3,"This course covers the basic theory of planetary atmospheres as applied to extrasolar planets.  The fundamental physical processes related to the structure, composition, radiative transfer, chemistry and dynamics of planetary atmospheres are covered, with an emphasis on those related to observable exoplanet properties.  We also provide an overview of the observational techniques of exoplanetary atmospheres and discuss the habitability of exoplanets.",,,,,,"AS.270.688.
+Exoplanets and their Atmospheres.
+3 Credits.
+This course covers the basic theory of planetary atmospheres as applied to extrasolar planets.  The fundamental physical processes related to the structure, composition, radiative transfer, chemistry and dynamics of planetary atmospheres are covered, with an emphasis on those related to observable exoplanet properties.  We also provide an overview of the observational techniques of exoplanetary atmospheres and discuss the habitability of exoplanets."
+AS.270.695,Graduate Skills in Earth and Planetary Sciences,1,"This seminar-style course will enable graduate students in Earth and Planetary Sciences to discuss issues and develop skills relevant to working in earth and planetary science fields. Topics will vary each iteration and may include graduate school expectations, research and communication methods, grant and funding procedures, stress management, organization and management methods, critical conversations, work-life balance, career paths, and JEDI issues and resources in the geosciences.  Course open to EPS Graduate Students or by Instructor Permission",,,,,,"AS.270.695.
+Graduate Skills in Earth and Planetary Sciences.
+1 Credit.
+This seminar-style course will enable graduate students in Earth and Planetary Sciences to discuss issues and develop skills relevant to working in earth and planetary science fields. Topics will vary each iteration and may include graduate school expectations, research and communication methods, grant and funding procedures, stress management, organization and management methods, critical conversations, work-life balance, career paths, and JEDI issues and resources in the geosciences.  Course open to EPS Graduate Students or by Instructor Permission"

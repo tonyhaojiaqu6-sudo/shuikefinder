@@ -1,0 +1,106 @@
+course_code,course_title,instructor,instructors_full,term,department,workload_avg,teaching_avg,intellectual_avg
+EN.560.100.01.FA24,Civilization Engineered: Structures and Systems,"Sangree, Rachel","Sangree, Rachel",2024 Fall,Civil Engineering,3.17,4.39,4.00
+EN.560.100.01.FA25,Civilization Engineered: Structures and Systems,"Sangree, Rachel","Sangree, Rachel",2025 Fall,Civil Engineering,3.55,4.90,4.65
+EN.560.101.01.SP25,Civilization Engineered: Data-driven Solutions for Communities,"Tilashalski, Melissa","Tilashalski, Melissa",2025 Spring,Civil Engineering,2.72,4.33,4.29
+EN.560.192.01.SP24,CaSE Design,Sangree + Tilashalski,"Sangree, Rachel + Tilashalski, Melissa",2024 Spring,Civil Engineering,2.75,4.75,4.13
+EN.560.192.01.SP25,CaSE Cornerstone Design Project,"Sangree, Rachel","Sangree, Rachel",2025 Spring,Civil Engineering,2.86,4.64,4.07
+EN.560.192.01.SP25,CaSE Cornerstone Design Project,"Tilashalski, Melissa","Tilashalski, Melissa",2025 Spring,Civil Engineering,2.86,4.75,4.07
+EN.560.201.05.FA24,Statics & Mechanics of Materials,"Sangree, Rachel","Sangree, Rachel",2024 Fall,Civil Engineering,3.31,4.57,4.07
+EN.560.201.03.FA24,Statics & Mechanics of Materials,"Sangree, Rachel","Sangree, Rachel",2024 Fall,Civil Engineering,3.41,4.35,4.12
+EN.560.201.01.FA24,Statics & Mechanics of Materials,"Sangree, Rachel","Sangree, Rachel",2024 Fall,Civil Engineering,3.72,4.17,3.78
+EN.560.201.02.FA24,Statics & Mechanics of Materials,"Sangree, Rachel","Sangree, Rachel",2024 Fall,Civil Engineering,3.61,4.44,4.28
+EN.560.201.04.FA24,Statics & Mechanics of Materials,"Sangree, Rachel","Sangree, Rachel",2024 Fall,Civil Engineering,3.60,4.44,3.94
+EN.560.201.05.FA25,Statics & Mechanics of Materials,"Sangree, Rachel","Sangree, Rachel",2025 Fall,Civil Engineering,3.39,4.78,4.00
+EN.560.201.03.FA25,Statics & Mechanics of Materials,"Sangree, Rachel","Sangree, Rachel",2025 Fall,Civil Engineering,3.13,4.65,4.31
+EN.560.201.01.FA25,Statics & Mechanics of Materials,"Sangree, Rachel","Sangree, Rachel",2025 Fall,Civil Engineering,3.35,4.50,4.16
+EN.560.201.02.FA25,Statics & Mechanics of Materials,"Sangree, Rachel","Sangree, Rachel",2025 Fall,Civil Engineering,3.53,4.68,4.26
+EN.560.201.04.FA25,Statics & Mechanics of Materials,"Sangree, Rachel","Sangree, Rachel",2025 Fall,Civil Engineering,3.47,4.81,4.31
+EN.560.211.07.FA24,Statics and Mechanics of Materials Laboratory,"Sangree, Rachel","Sangree, Rachel",2024 Fall,Civil Engineering,3.30,3.71,3.50
+EN.560.211.03.FA24,Statics and Mechanics of Materials Laboratory,"Sangree, Rachel","Sangree, Rachel",2024 Fall,Civil Engineering,3.00,4.30,4.00
+EN.560.211.05.FA24,Statics and Mechanics of Materials Laboratory,"Sangree, Rachel","Sangree, Rachel",2024 Fall,Civil Engineering,3.33,4.27,4.33
+EN.560.211.01.FA24,Statics and Mechanics of Materials Laboratory,"Sangree, Rachel","Sangree, Rachel",2024 Fall,Civil Engineering,3.73,4.08,4.08
+EN.560.211.06.FA24,Statics and Mechanics of Materials Laboratory,"Sangree, Rachel","Sangree, Rachel",2024 Fall,Civil Engineering,3.09,4.10,3.75
+EN.560.211.04.FA24,Statics and Mechanics of Materials Laboratory,"Sangree, Rachel","Sangree, Rachel",2024 Fall,Civil Engineering,3.56,4.25,3.78
+EN.560.211.02.FA24,Statics and Mechanics of Materials Laboratory,"Sangree, Rachel","Sangree, Rachel",2024 Fall,Civil Engineering,3.40,3.75,3.70
+EN.560.211.08.FA24,Statics and Mechanics of Materials Laboratory,"Sangree, Rachel","Sangree, Rachel",2024 Fall,Civil Engineering,3.29,4.67,4.29
+EN.560.211.08.FA25,Statics & Mechanics of Materials Laboratory,"Sangree, Rachel","Sangree, Rachel",2025 Fall,Civil Engineering,3.30,4.78,4.60
+EN.560.211.06.FA25,Statics & Mechanics of Materials Laboratory,"Sangree, Rachel","Sangree, Rachel",2025 Fall,Civil Engineering,3.25,3.00,3.50
+EN.560.211.04.FA25,Statics & Mechanics of Materials Laboratory,"Sangree, Rachel","Sangree, Rachel",2025 Fall,Civil Engineering,2.55,4.00,3.50
+EN.560.211.05.FA25,Statics & Mechanics of Materials Laboratory,"Sangree, Rachel","Sangree, Rachel",2025 Fall,Civil Engineering,3.00,4.00,4.13
+EN.560.211.09.FA25,Statics & Mechanics of Materials Laboratory,"Sangree, Rachel","Sangree, Rachel",2025 Fall,Civil Engineering,2.80,4.60,4.20
+EN.560.211.07.FA25,Statics & Mechanics of Materials Laboratory,"Sangree, Rachel","Sangree, Rachel",2025 Fall,Civil Engineering,3.08,4.55,4.42
+EN.560.211.03.FA25,Statics & Mechanics of Materials Laboratory,"Sangree, Rachel","Sangree, Rachel",2025 Fall,Civil Engineering,3.25,4.22,3.67
+EN.560.211.02.FA25,Statics & Mechanics of Materials Laboratory,"Sangree, Rachel","Sangree, Rachel",2025 Fall,Civil Engineering,2.92,4.75,4.08
+EN.560.211.01.FA25,Statics & Mechanics of Materials Laboratory,"Sangree, Rachel","Sangree, Rachel",2025 Fall,Civil Engineering,3.10,4.73,3.91
+EN.560.240.01.FA24,"Uncertainty, Reliability and Decision-making","Shields, Michael","Shields, Michael",2024 Fall,Civil Engineering,2.90,4.00,3.90
+EN.560.240.01.FA25,"Uncertainty, Reliability and Decision-making","Shields, Michael","Shields, Michael",2025 Fall,Civil Engineering,2.53,4.33,4.33
+EN.560.250.01.SP24,Intro to Mathematical Decision Making,"Zelickman, Yakov","Zelickman, Yakov",2024 Spring,Civil Engineering,3.00,3.80,4.40
+EN.560.250.01.SP25,Intro to Mathematical Decision Making,"Zelickman, Yakov","Zelickman, Yakov",2025 Spring,Civil Engineering,3.27,4.00,4.00
+EN.560.291.01.FA24,CaSE Coding,"Tilashalski, Melissa","Tilashalski, Melissa",2024 Fall,Civil Engineering,2.70,4.33,4.20
+EN.560.292.01.SP24,CaSE Research,"Ghobadi, Kimia","Ghobadi, Kimia",2024 Spring,Civil Engineering,2.43,4.57,3.86
+EN.560.292.01.SP25,CaSE Research,"Ghobadi, Kimia","Ghobadi, Kimia",2025 Spring,Civil Engineering,3.14,3.00,3.14
+EN.560.301.01.SP25,Structural Systems I,"Moen, Cristopher","Moen, Cristopher",2025 Spring,Civil Engineering,2.80,4.87,4.53
+EN.560.302.01.FA25,Structural Systems II,"Gernay, Thomas","Gernay, Thomas",2025 Fall,Civil Engineering,3.00,4.90,4.70
+EN.560.305.01.SP24,Soil Mechanics,"De Melo, Lucas","De Melo, Lucas",2024 Spring,Civil Engineering,3.17,4.83,4.67
+EN.560.305.01.SP25,Soil Mechanics,"De Melo, Lucas","De Melo, Lucas",2025 Spring,Civil Engineering,2.89,4.13,4.11
+EN.560.330.01.FA24,Foundation Design,"De Melo, Lucas","De Melo, Lucas",2024 Fall,Civil Engineering,3.00,5.00,4.50
+EN.560.330.01.FA25,Foundation Design,"Carroll, Julia","Carroll, Julia",2025 Fall,Civil Engineering,2.86,4.00,4.14
+EN.560.355.01.FA25,Dynamical Systems,"Tilashalski, Melissa","Tilashalski, Melissa",2025 Fall,Civil Engineering,2.88,4.75,4.13
+EN.560.362.01.SP24,Engineering Mechanics and Materials,"Mueller, Jochen","Mueller, Jochen",2024 Spring,Civil Engineering,2.80,4.40,4.60
+EN.560.362.01.SP25,Engineering Mechanics and Materials,"Xu, Tingting","Xu, Tingting",2025 Spring,Civil Engineering,2.71,4.00,4.29
+EN.560.391.01.FA24,CaSE Careers I,"Moen, Cristopher","Moen, Cristopher",2024 Fall,Civil Engineering,2.83,4.50,4.00
+EN.560.391.01.FA25,CaSE Careers I,"Sangree, Rachel","Sangree, Rachel",2025 Fall,Civil Engineering,1.86,4.77,3.77
+EN.560.391.01.FA25,CaSE Careers I,"Tilashalski, Melissa","Tilashalski, Melissa",2025 Fall,Civil Engineering,1.86,4.67,3.77
+EN.560.392.01.SP24,CaSE Careers II,Sangree + Tilashalski,"Sangree, Rachel + Tilashalski, Melissa",2024 Spring,Civil Engineering,2.13,4.38,4.14
+EN.560.392.01.SP25,CaSE Careers II,"Sangree, Rachel","Sangree, Rachel",2025 Spring,Civil Engineering,1.50,4.75,4.00
+EN.560.392.01.SP25,CaSE Careers II,"Tilashalski, Melissa","Tilashalski, Melissa",2025 Spring,Civil Engineering,1.50,4.80,4.00
+EN.560.401.01.FA24,Design Theory and Practice,"Sangree, Rachel","Sangree, Rachel",2024 Fall,Civil Engineering,2.43,4.86,4.14
+EN.560.401.01.FA25,Design Theory and Practice,"Carroll, Julia","Carroll, Julia",2025 Fall,Civil Engineering,2.33,4.33,3.67
+EN.560.402.01.SP24,Integrated Design Project,"Matteo, John","Matteo, John",2024 Spring,Civil Engineering,3.33,2.83,3.33
+EN.560.402.01.SP25,Integrated Design Project,"Igusa, Takeru","Igusa, Takeru",2025 Spring,Civil Engineering,3.71,5.00,4.43
+EN.560.402.01.SP25,Integrated Design Project,"Matteo, John","Matteo, John",2025 Spring,Civil Engineering,3.71,4.80,4.43
+EN.560.462.01.FA24,Failure Mechanics in Materials,"Goswami, Somdatta","Goswami, Somdatta",2024 Fall,Civil Engineering,3.00,5.00,5.00
+EN.560.601.01.SP24,Applied Math for Engineers,"Giovanis, Dimitrios","Giovanis, Dimitrios",2024 Spring,Civil Engineering,2.54,4.46,4.23
+EN.560.601.01.SP25,Applied Math for Engineers,"Giovanis, Dimitrios","Giovanis, Dimitrios",2025 Spring,Civil Engineering,2.83,4.22,4.39
+EN.560.604.01.FA25,Introduction to Solid Mechanics,"Moen, Cristopher","Moen, Cristopher",2025 Fall,Civil Engineering,2.85,4.62,4.38
+EN.560.610.01.FA25,Drivers of Technological Change,"Klemun, Magdalena","Klemun, Magdalena",2025 Fall,Civil Engineering,3.25,4.56,4.56
+EN.560.617.01.SP24,Deep Learning for Physical Systems,"Goswami, Somdatta","Goswami, Somdatta",2024 Spring,Civil Engineering,3.50,4.07,4.40
+EN.560.617.01.SP25,Deep Learning for Physical Systems,"Goswami, Somdatta","Goswami, Somdatta",2025 Spring,Civil Engineering,3.83,4.50,4.82
+EN.560.618.01.FA24,Probabilistic Methods in Civil Engineering and Mechanics,"Giovanis, Dimitrios","Giovanis, Dimitrios",2024 Fall,Civil Engineering,3.20,4.07,4.53
+EN.560.618.01.FA25,Probabilistic Methods in Civil Engineering and Mechanics,"Sharma, Adwait","Sharma, Adwait",2025 Fall,Civil Engineering,3.13,4.13,4.19
+EN.560.619.01.FA24,Advanced Structural Analysis,"Guest, Jamie","Guest, Jamie",2024 Fall,Civil Engineering,3.67,5.00,4.67
+EN.560.619.01.FA25,Advanced Structural Analysis,"Guest, Jamie","Guest, Jamie",2025 Fall,Civil Engineering,3.82,4.83,4.76
+EN.560.621.01.FA24,"Architectural Engineering - Form, Function and Technology","Matteo, John","Matteo, John",2024 Fall,Civil Engineering,3.17,4.67,4.67
+EN.560.621.01.FA25,"Architectural Engineering - Form, Function and Technology","Matteo, John","Matteo, John",2025 Fall,Civil Engineering,3.17,4.17,4.33
+EN.560.624.01.SP25,Renewable Energy Structures,"Schafer, Ben","Schafer, Ben",2025 Spring,Civil Engineering,3.73,4.82,4.55
+EN.560.629.01.FA25,Preservation Engineering I:  Theory and Practice,Farmer + Meade,"Farmer, Matthew + Meade, Edmund",2025 Fall,Civil Engineering,4.20,4.40,4.60
+EN.560.633.01.FA24,"Investigations, Diagnosis, and Rehabilitation",Dondrea + Rogers,"Dondrea,  Anthony + Rogers, Joe",2024 Fall,Civil Engineering,3.33,4.89,4.56
+EN.560.633.01.FA25,"Investigations, Diagnosis, and Rehabilitation",Dondrea + Rogers,"Dondrea, Anthony + Rogers, Joe",2025 Fall,Civil Engineering,3.00,5.00,4.57
+EN.560.634.01.SP24,Structural Fire Engineering,"Gernay, Thomas","Gernay, Thomas",2024 Spring,Civil Engineering,3.44,5.00,4.78
+EN.560.634.01.SP25,Structural Fire Engineering,"Gernay, Thomas","Gernay, Thomas",2025 Spring,Civil Engineering,3.62,5.00,4.85
+EN.560.636.01.SP24,Lateral Forces: Analysis and Design of Building Structures,"Bonetti, Santiago","Bonetti, Santiago",2024 Spring,Civil Engineering,2.71,4.14,4.29
+EN.560.636.01.SP25,Lateral Forces: Analysis and Design of Building Structures,"Bonetti, Santiago","Bonetti, Santiago",2025 Spring,Civil Engineering,3.25,5.00,4.88
+EN.560.647.01.FA24,Probabilistic Graphical Models and Causal Inference for Networked Systems,"Xu, Susu","Xu, Susu",2024 Fall,Civil Engineering,3.23,4.77,4.69
+EN.560.648.01.FA25,Energy Systems and Policy,"Kammen, Daniel","Kammen, Daniel",2025 Fall,Civil Engineering,2.92,4.60,4.38
+EN.560.649.01.FA24,Energy Systems,"Dvorkin, Yury","Dvorkin, Yury",2024 Fall,Civil Engineering,3.29,4.00,4.38
+EN.560.649.01.FA25,Energy Systems,"Dvorkin, Yury","Dvorkin, Yury",2025 Fall,Civil Engineering,3.65,4.22,4.39
+EN.560.650.01.FA24,Operations Research,"Ghobadi, Kimia","Ghobadi, Kimia",2024 Fall,Civil Engineering,3.00,5.00,4.80
+EN.560.650.01.FA25,Operations Research,"Ghobadi, Kimia","Ghobadi, Kimia",2025 Fall,Civil Engineering,3.73,4.64,4.60
+EN.560.651.01.SP25,Smart Transportation and Autonomous Vehicles,"Yang, Hao Frank","Yang, Hao Frank",2025 Spring,Civil Engineering,3.12,4.78,4.72
+EN.560.652.01.FA25,"Scientific Machine Learning for Modeling, Optimization, and Control of Dynamical Systems","Drgona, Jan","Drgona, Jan",2025 Fall,Civil Engineering,3.31,4.58,4.68
+EN.560.653.01.FA24,An Introduction to Network Modeling,"Gardner, Lauren","Gardner, Lauren",2024 Fall,Civil Engineering,3.33,4.67,4.42
+EN.560.653.01.FA25,An Introduction to Network Modeling,"Gardner, Lauren","Gardner, Lauren",2025 Fall,Civil Engineering,3.16,4.57,4.38
+EN.560.654.01.SP25,Introduction to Machine Learning and Control for Building Energy Systems,"Drgona, Jan","Drgona, Jan",2025 Spring,Civil Engineering,2.89,5.00,4.44
+EN.560.657.01.SP24,System Dynamics,"Pita, Gonzalo","Pita, Gonzalo",2024 Spring,Civil Engineering,3.88,4.22,4.16
+EN.560.657.01.SP25,System Dynamics,"Pita, Gonzalo","Pita, Gonzalo",2025 Spring,Civil Engineering,3.26,4.54,4.33
+EN.560.658.01.SP24,Natural Disaster Risk Modeling,"Pita, Gonzalo","Pita, Gonzalo",2024 Spring,Civil Engineering,3.38,4.88,4.50
+EN.560.658.01.SP25,Natural Disaster Risk Modeling,"Pita, Gonzalo","Pita, Gonzalo",2025 Spring,Civil Engineering,3.50,4.75,4.58
+EN.560.659.01.SP25,Production Systems Analysis,"Tilashalski, Melissa","Tilashalski, Melissa",2025 Spring,Civil Engineering,3.22,4.67,4.56
+EN.560.659.01.FA25,Production Systems Analysis,"Tilashalski, Melissa","Tilashalski, Melissa",2025 Fall,Civil Engineering,2.92,4.75,4.33
+EN.560.661.01.FA24,Additive Manufacturing and Design,"Mueller, Jochen","Mueller, Jochen",2024 Fall,Civil Engineering,2.40,4.57,4.33
+EN.560.661.01.FA25,Additive Manufacturing and Design,"Mueller, Jochen","Mueller, Jochen",2025 Fall,Civil Engineering,2.76,4.77,4.34
+EN.560.730.01.FA24,Finite Element Methods,"Gaitanaros,  Stavros","Gaitanaros,  Stavros",2024 Fall,Civil Engineering,3.78,4.67,4.67
+EN.560.730.01.FA25,Finite Element Methods,"Ghosh, Somnath","Ghosh, Somnath",2025 Fall,Civil Engineering,3.33,4.14,4.33
+EN.560.733.01.SP24,Thin-walled Members,"Adany, Sandor","Adany, Sandor",2024 Spring,Civil Engineering,3.71,4.63,4.75
+EN.560.762.01.SP25,Mechanics of Architected Materials,"Gaitanaros, Stavros","Gaitanaros, Stavros",2025 Spring,Civil Engineering,2.63,4.88,4.88
+EN.560.772.01.SP24,Non-Linear Finite Elements,"Ghosh, Somnath","Ghosh, Somnath",2024 Spring,Civil Engineering,2.67,4.50,4.50

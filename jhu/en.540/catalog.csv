@@ -1,0 +1,1095 @@
+code,title,credits,description,fa_tags,distribution,prereq_codes,prereq_text,restrictions,raw_description
+EN.540.101,Chemical Engineering Today,1,"A series of weekly lectures to introduce students to chemical and biomolecular engineering and its role as a profession in addressing contemporary technological, social, ethical, and economic issues in today’s world. The lectures will include examples of how chemical and biomolecular engineers apply the principles of physics and chemistry to develop new products, improve process efficiencies, and alleviate the strain on the ecosystem through the design of novel environmentally conscious processes. In addition, the lectures will highlight exciting new areas now being advanced by chemical and biomolecular engineers, such as biochemical engineering, tissue engineering, nanoparticle fabrication, and processing smart polymers for applications in computer technology and as sensors. Freshmen Only.",,Engineering,,,Freshmen Only.,"EN.540.101.
+Chemical Engineering Today.
+1 Credit.
+A series of weekly lectures to introduce students to chemical and biomolecular engineering and its role as a profession in addressing contemporary technological, social, ethical, and economic issues in today’s world. The lectures will include examples of how chemical and biomolecular engineers apply the principles of physics and chemistry to develop new products, improve process efficiencies, and alleviate the strain on the ecosystem through the design of novel environmentally conscious processes. In addition, the lectures will highlight exciting new areas now being advanced by chemical and biomolecular engineers, such as biochemical engineering, tissue engineering, nanoparticle fabrication, and processing smart polymers for applications in computer technology and as sensors. Freshmen Only.
+Distribution Area: Engineering"
+EN.540.202,Introduction to Chemical & Biological Process Analysis,4,"Introduction to chemical and biomolecular engineering and the fundamental principles of chemical process analysis. Formulation and solution of material and energy balances on chemical processes. Reductionist approaches to the solution of complex, multi-unit processes will be emphasized. Introduction to the basic concepts of thermodynamics as well as chemical and biochemical reactions.",FA2,Engineering,"AS.030.101, AS.030.103, AS.030.102, AS.110.109, AS.171.102, AS.171.108, AS.171.101, AS.171.107","(
+AS.030.101
+OR
+AS.030.103
+) AND (
+AS.030.102
+OR
+AS.030.103
+OR
+AS.110.109
+OR
+AS.171.102
+OR
+AS.171.108
+);
+AS.171.101
+OR
+AS.171.107
+, concurrent allowed",,"EN.540.202.
+Introduction to Chemical & Biological Process Analysis.
+4 Credits.
+Introduction to chemical and biomolecular engineering and the fundamental principles of chemical process analysis. Formulation and solution of material and energy balances on chemical processes. Reductionist approaches to the solution of complex, multi-unit processes will be emphasized. Introduction to the basic concepts of thermodynamics as well as chemical and biochemical reactions.
+Prerequisite(s):
+(
+AS.030.101
+OR
+AS.030.103
+) AND (
+AS.030.102
+OR
+AS.030.103
+OR
+AS.110.109
+OR
+AS.171.102
+OR
+AS.171.108
+);
+AS.171.101
+OR
+AS.171.107
+, concurrent allowed
+Distribution Area: Engineering
+AS Foundational Abilities: Science and Data (FA2)"
+EN.540.203,Engineering Thermodynamics,3,"Formulation and solution of material, energy, and entropy balances with an emphasis on open systems. A systematic problem-solving approach is developed for chemical and biomolecular process-related systems. Extensive use is made of classical thermodynamic relationships and constitutive equations for one and two component systems. Applications include the analysis and design of engines, refrigerators, heat pumps, compressors, and turbines.",FA2,Engineering,"EN.540.202, AS.110.202, EN.540.203","EN.540.202
+;
+AS.110.202
+- Calculus III - can be taken prior to, or at the same time as,
+EN.540.203
+.",,"EN.540.203.
+Engineering Thermodynamics.
+3 Credits.
+Formulation and solution of material, energy, and entropy balances with an emphasis on open systems. A systematic problem-solving approach is developed for chemical and biomolecular process-related systems. Extensive use is made of classical thermodynamic relationships and constitutive equations for one and two component systems. Applications include the analysis and design of engines, refrigerators, heat pumps, compressors, and turbines.
+Prerequisite(s):
+EN.540.202
+;
+AS.110.202
+- Calculus III - can be taken prior to, or at the same time as,
+EN.540.203
+.
+Distribution Area: Engineering
+AS Foundational Abilities: Science and Data (FA2)"
+EN.540.205,Mathematical Methods in ChemBE 1,1,"This course introduces some fundamental concepts of linear algebra with an emphasis on chemical engineering applications. Topics include vector spaces; linear independence, span, basis, and dimension; linear maps; and the study of eigenvalues, eigenvectors, and diagonalization.",FA2,"Engineering, Natural Sciences","EN.540.205, AS.110.201, AS.110.107, AS.110.109, AS.110.113, AS.110.202, AS.110.211","Students can receive credit for
+EN.540.205
+or
+AS.110.201
+, but not both.;Grade of C- or better in
+AS.110.107
+OR
+AS.110.109
+OR
+AS.110.113
+OR
+AS.110.202
+OR
+AS.110.211
+, or a 5 on the AP BC exam.",,"EN.540.205.
+Mathematical Methods in ChemBE 1.
+1 Credit.
+This course introduces some fundamental concepts of linear algebra with an emphasis on chemical engineering applications. Topics include vector spaces; linear independence, span, basis, and dimension; linear maps; and the study of eigenvalues, eigenvectors, and diagonalization.
+Prerequisite(s):
+Students can receive credit for
+EN.540.205
+or
+AS.110.201
+, but not both.;Grade of C- or better in
+AS.110.107
+OR
+AS.110.109
+OR
+AS.110.113
+OR
+AS.110.202
+OR
+AS.110.211
+, or a 5 on the AP BC exam.
+Distribution Area: Engineering, Natural Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+EN.540.206,Mathematical Methods in ChemBE 2,3,"The course covers methods for solving first- and second-order ordinary differential equations, as well as systems of ordinary differential equations. Fourier series, eigenfunction expansions and special functions (e.g. Gamma, Bessel and Legendre functions) that arise in engineering and physics are introduced. Also, the solutions of partial differential equations using separation of variables in Cartesian, cylindrical, and spherical coordinates are described.",FA2,"Engineering, Natural Sciences","EN.540.206, AS.110.302, AS.110.107, AS.110.109, AS.110.113, AS.110.202, AS.110.211, AS.110.201, AS.110.212, EN.540.205","Students can receive credit for
+EN.540.206
+or
+AS.110.302
+, but not both.;Prereq is grade of C- or better in [
+AS.110.107
+OR
+AS.110.109
+OR
+AS.110.113
+OR
+AS.110.202
+OR
+AS.110.211
+OR 5 on AP BC Exam]AND [
+AS.110.201
+OR
+AS.110.212
+OR
+EN.540.205
+]
+EN.540.205
+concurrent is allowed.;Prereq is grade of C- or better in [
+AS.110.107
+OR
+AS.110.109
+OR
+AS.110.113
+OR
+AS.110.202
+OR
+AS.110.211
+OR 5 on AP BC Exam]AND [
+AS.110.201
+OR
+AS.110.212
+OR
+EN.540.205
+]
+EN.540.205
+concurrent is allowed.",,"EN.540.206.
+Mathematical Methods in ChemBE 2.
+3 Credits.
+The course covers methods for solving first- and second-order ordinary differential equations, as well as systems of ordinary differential equations. Fourier series, eigenfunction expansions and special functions (e.g. Gamma, Bessel and Legendre functions) that arise in engineering and physics are introduced. Also, the solutions of partial differential equations using separation of variables in Cartesian, cylindrical, and spherical coordinates are described.
+Prerequisite(s):
+Students can receive credit for
+EN.540.206
+or
+AS.110.302
+, but not both.;Prereq is grade of C- or better in [
+AS.110.107
+OR
+AS.110.109
+OR
+AS.110.113
+OR
+AS.110.202
+OR
+AS.110.211
+OR 5 on AP BC Exam]AND [
+AS.110.201
+OR
+AS.110.212
+OR
+EN.540.205
+]
+EN.540.205
+concurrent is allowed.;Prereq is grade of C- or better in [
+AS.110.107
+OR
+AS.110.109
+OR
+AS.110.113
+OR
+AS.110.202
+OR
+AS.110.211
+OR 5 on AP BC Exam]AND [
+AS.110.201
+OR
+AS.110.212
+OR
+EN.540.205
+]
+EN.540.205
+concurrent is allowed.
+Distribution Area: Engineering, Natural Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+EN.540.301,Kinetic Processes,4,"Review of numerical methods applied to kinetic phenomena and reactor design in chemical and biological processes. Homogeneous kinetics and interpretation of reaction rate data. Batch, plug flow, and stirred tank reactor analyses, including reactors in parallel and in series. Selectivity and optimization considerations in multiple reaction systems. Non isothermal reactors. Elements of heterogeneous kinetics, including adsorption isotherms and heterogeneous catalysis. Coupled transport and chemical/biological reaction rates.",FA2,Engineering,"EN.540.203, EN.540.303","EN.540.203
+AND
+EN.540.303",,"EN.540.301.
+Kinetic Processes.
+4 Credits.
+Review of numerical methods applied to kinetic phenomena and reactor design in chemical and biological processes. Homogeneous kinetics and interpretation of reaction rate data. Batch, plug flow, and stirred tank reactor analyses, including reactors in parallel and in series. Selectivity and optimization considerations in multiple reaction systems. Non isothermal reactors. Elements of heterogeneous kinetics, including adsorption isotherms and heterogeneous catalysis. Coupled transport and chemical/biological reaction rates.
+Prerequisite(s):
+EN.540.203
+AND
+EN.540.303
+Distribution Area: Engineering
+AS Foundational Abilities: Science and Data (FA2)"
+EN.540.303,Transport Phenomena I,3,"Molecular mechanisms of momentum transport (viscous flow), energy transport (heat conduction), and mass transport (diffusion). Isothermal equations of change (continuity, motion, and energy). The development of the Navier Stokes equation. The development of non isothermal and multi component equations of change for heat and mass transfer. Exact solutions to steady state, isothermal unidirectional flow problems, to steady state heat and mass transfer problems. The analogies between heat, mass, and momentum transfer are emphasized throughout the course.",FA2,Engineering,"AS.110.302, EN.553.291, AS.171.101, AS.171.107","(
+AS.110.302
+OR
+EN.553.291
+) AND (
+AS.171.101
+OR
+AS.171.107
+)",,"EN.540.303.
+Transport Phenomena I.
+3 Credits.
+Molecular mechanisms of momentum transport (viscous flow), energy transport (heat conduction), and mass transport (diffusion). Isothermal equations of change (continuity, motion, and energy). The development of the Navier Stokes equation. The development of non isothermal and multi component equations of change for heat and mass transfer. Exact solutions to steady state, isothermal unidirectional flow problems, to steady state heat and mass transfer problems. The analogies between heat, mass, and momentum transfer are emphasized throughout the course.
+Prerequisite(s):
+(
+AS.110.302
+OR
+EN.553.291
+) AND (
+AS.171.101
+OR
+AS.171.107
+)
+Distribution Area: Engineering
+AS Foundational Abilities: Science and Data (FA2)"
+EN.540.304,Transport Phenomena II,4,"Dimensional analysis and dimensionless groups. Laminar boundary layers, introduction to turbulent flow. Definition of the friction factor. Macroscopic mass, momentum and mechanical energy balances (Bernouilli’s equation). Metering of fluids. Convective heat and mass transfer. Heat and mass transfer in boundary layers. Correlations for convective heat and mass transfer. Boiling and condensation. Interphase mass transfer.",FA2,Engineering,"EN.540.303, EN.500.113, EN.500.133","EN.540.303
+AND (
+EN.500.113
+OR
+EN.500.133
+)",,"EN.540.304.
+Transport Phenomena II.
+4 Credits.
+Dimensional analysis and dimensionless groups. Laminar boundary layers, introduction to turbulent flow. Definition of the friction factor. Macroscopic mass, momentum and mechanical energy balances (Bernouilli’s equation). Metering of fluids. Convective heat and mass transfer. Heat and mass transfer in boundary layers. Correlations for convective heat and mass transfer. Boiling and condensation. Interphase mass transfer.
+Prerequisite(s):
+EN.540.303
+AND (
+EN.500.113
+OR
+EN.500.133
+)
+Distribution Area: Engineering
+AS Foundational Abilities: Science and Data (FA2)"
+EN.540.306,Chemical & Biomolecular Separations,4,"This course covers staged and continuous-contacting separations processes critical to the chemical and biochemical industries. Separations technologies studied include distillation, liquid-liquid extraction, gas absorption, membrane ultrafiltration, reverse osmosis, dialysis, adsorption, and chromatography. Particular emphasis is placed on the biochemical uses of these processes and consequently on how the treatment of these processes differs from the more traditional approach.",FA2,Engineering,"EN.540.203, EN.540.303, EN.500.113, EN.500.133","Students must have completed Lab Safety training prior to registering for this class. To access the tutorial, login to myLearning and enter ASEN in the Search Box to access the proper course.
+Click here to access the Laboratory Safety Introductory Course
+;
+EN.540.203
+AND
+EN.540.303
+AND (
+EN.500.113
+OR
+EN.500.133
+)",,"EN.540.306.
+Chemical & Biomolecular Separations.
+4 Credits.
+This course covers staged and continuous-contacting separations processes critical to the chemical and biochemical industries. Separations technologies studied include distillation, liquid-liquid extraction, gas absorption, membrane ultrafiltration, reverse osmosis, dialysis, adsorption, and chromatography. Particular emphasis is placed on the biochemical uses of these processes and consequently on how the treatment of these processes differs from the more traditional approach.
+Prerequisite(s):
+Students must have completed Lab Safety training prior to registering for this class. To access the tutorial, login to myLearning and enter ASEN in the Search Box to access the proper course.
+Click here to access the Laboratory Safety Introductory Course
+;
+EN.540.203
+AND
+EN.540.303
+AND (
+EN.500.113
+OR
+EN.500.133
+)
+Distribution Area: Engineering
+AS Foundational Abilities: Science and Data (FA2)"
+EN.540.307,Cell Biology for Engineers,3,"This course explores fundamental structural details and molecular functions of different parts of the cell. Considerable emphasis is placed on experimental/quantitative approaches to answering these questions. Topics include Central dogma and the nucleus; protein trafficking; ion transporters; cytoskeleton; molecular motors; cell cycle and cell division; signal transduction, cell growth and cancer; cell death, the extracellular matrix; cell adhesion, cell junctions and epithelium; and muscle contraction, cell motility and morphogenesis.",FA2,Natural Sciences,"AS.020.306, AS.020.305","Cell Biology restriction: students who have completed
+AS.020.306
+may not enroll.;
+AS.020.305","Prerequisite(s):
+Cell Biology restriction: students who have completed
+AS.020.306
+may not enroll.","EN.540.307.
+Cell Biology for Engineers.
+3 Credits.
+This course explores fundamental structural details and molecular functions of different parts of the cell. Considerable emphasis is placed on experimental/quantitative approaches to answering these questions. Topics include Central dogma and the nucleus; protein trafficking; ion transporters; cytoskeleton; molecular motors; cell cycle and cell division; signal transduction, cell growth and cancer; cell death, the extracellular matrix; cell adhesion, cell junctions and epithelium; and muscle contraction, cell motility and morphogenesis.
+Prerequisite(s):
+Cell Biology restriction: students who have completed
+AS.020.306
+may not enroll.;
+AS.020.305
+Distribution Area: Natural Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+EN.540.309,Product Design Part 1,3,"This course is designed to give students in ChemBE the requisite skills to generate and screen ideas for new venture creation and then prepare a business plan for an innovative technology of their own design. These skills include the ability to incorporate into a formal business case all necessary requirements, including needs identification and validation; business and financial models; and, market strategies and plans. This course is the first part of a two-semester sequence that optionally can be taken instead of 540.314; the second part will be directed by ChemBE faculty and focus on the actual construction/programming of the business idea. Note that students must take 540.310 to complete this sequence. Restricted to Juniors and Seniors majoring in ChemBE or by permission of instructor. Pre-req: 540.301 (kinetics), 540.303 (transport 1), 540.306 (Separations), 540.490 (Process Safety).",FA2,Engineering,"EN.540.303, EN.540.490, EN.540.306, EN.540.301","Students must have completed Lab Safety training prior to registering for this class. To access the tutorial, login to myLearning and enter Laboratory Safety Introductory Course in the Search Box to access the proper course.
+Click here to access the Laboratory Safety Introductory Course
+;
+EN.540.303
+AND
+EN.540.490
+;
+EN.540.306
+AND
+EN.540.301",,"EN.540.309.
+Product Design Part 1.
+3 Credits.
+This course is designed to give students in ChemBE the requisite skills to generate and screen ideas for new venture creation and then prepare a business plan for an innovative technology of their own design. These skills include the ability to incorporate into a formal business case all necessary requirements, including needs identification and validation; business and financial models; and, market strategies and plans. This course is the first part of a two-semester sequence that optionally can be taken instead of 540.314; the second part will be directed by ChemBE faculty and focus on the actual construction/programming of the business idea. Note that students must take 540.310 to complete this sequence. Restricted to Juniors and Seniors majoring in ChemBE or by permission of instructor. Pre-req: 540.301 (kinetics), 540.303 (transport 1), 540.306 (Separations), 540.490 (Process Safety).
+Prerequisite(s):
+Students must have completed Lab Safety training prior to registering for this class. To access the tutorial, login to myLearning and enter Laboratory Safety Introductory Course in the Search Box to access the proper course.
+Click here to access the Laboratory Safety Introductory Course
+;
+EN.540.303
+AND
+EN.540.490
+;
+EN.540.306
+AND
+EN.540.301
+Distribution Area: Engineering
+AS Foundational Abilities: Science and Data (FA2)"
+EN.540.310,Product Design Part 2,3,"This course is the second part of a two semester sequence (with
+EN.540.309
+) that optionally can be taken instead of
+EN.540.314
+Chemical and Biomolecular Engineering Product Design. In this sequel course the student groups, directed by ChemBE faculty, will implement the product and business idea which was developed in the first course and will present the implementations and business plans to an outside panel made up of practitioners, industry representatives, and venture capitalists. Note that both courses,
+EN.540.309
+and
+EN.540.310
+must be taken to satisfy the Undergraduate degree requirement of the Chemical and Biomolecular Engineering program. Pre-req: 540.309",,Engineering,EN.540.309,"Students must have completed Lab Safety training prior to registering for this class. To access the tutorial, login to myLearning and enter ASEN in the Search Box to access the proper course.
+Click here to access the Laboratory Safety Introductory Course
+;
+EN.540.309",,"EN.540.310.
+Product Design Part 2.
+3 Credits.
+This course is the second part of a two semester sequence (with
+EN.540.309
+) that optionally can be taken instead of
+EN.540.314
+Chemical and Biomolecular Engineering Product Design. In this sequel course the student groups, directed by ChemBE faculty, will implement the product and business idea which was developed in the first course and will present the implementations and business plans to an outside panel made up of practitioners, industry representatives, and venture capitalists. Note that both courses,
+EN.540.309
+and
+EN.540.310
+must be taken to satisfy the Undergraduate degree requirement of the Chemical and Biomolecular Engineering program. Pre-req: 540.309
+Prerequisite(s):
+Students must have completed Lab Safety training prior to registering for this class. To access the tutorial, login to myLearning and enter ASEN in the Search Box to access the proper course.
+Click here to access the Laboratory Safety Introductory Course
+;
+EN.540.309
+Distribution Area: Engineering"
+EN.540.311,Projects in ChemE Unit Operations with Experiments,4,"This course challenges students with laboratory projects that are not well-defined.  Students work in groups to develop an effective approach to experiments. They identify the important operating variables, decide how best to obtain them using measured or calculated values. Based on their results they predict, carryout, analyze and improve experiments. Each student analyzes three of the following projects: distillation, gas absorption, and one of the projects in
+EN.540.313
+. In addition to technical objectives, this course stresses oral and written communication.In addition to technical objectives, this course stresses oral and written communication. Students will have additional meeting times with the instructors and outside of class.",FA2,Engineering,"EN.540.301, EN.540.304, EN.540.306, EN.661.315, EN.540.490","Students must have completed Lab Safety training prior to registering for this class. To access the tutorial, login to myLearning and enter Laboratory Safety Introductory Course in the Search Box to access the proper course.
+Click here to access the Laboratory Safety Introductory Course
+;
+EN.540.301
+AND
+EN.540.304
+AND
+EN.540.306
+AND
+EN.661.315
+;
+EN.540.490",Writing Intensive,"EN.540.311.
+Projects in ChemE Unit Operations with Experiments.
+4 Credits.
+This course challenges students with laboratory projects that are not well-defined.  Students work in groups to develop an effective approach to experiments. They identify the important operating variables, decide how best to obtain them using measured or calculated values. Based on their results they predict, carryout, analyze and improve experiments. Each student analyzes three of the following projects: distillation, gas absorption, and one of the projects in
+EN.540.313
+. In addition to technical objectives, this course stresses oral and written communication.In addition to technical objectives, this course stresses oral and written communication. Students will have additional meeting times with the instructors and outside of class.
+Prerequisite(s):
+Students must have completed Lab Safety training prior to registering for this class. To access the tutorial, login to myLearning and enter Laboratory Safety Introductory Course in the Search Box to access the proper course.
+Click here to access the Laboratory Safety Introductory Course
+;
+EN.540.301
+AND
+EN.540.304
+AND
+EN.540.306
+AND
+EN.661.315
+;
+EN.540.490
+Distribution Area: Engineering
+AS Foundational Abilities: Science and Data (FA2)
+Writing Intensive"
+EN.540.313,Projects in ChemBE Unit Operations with Experiments,4,"This course challenges students with laboratory projects that are not well-defined. Students work in groups to develop an effective approach to experiments. They identify the important operating variables, decide how best to obtain them using measured or calculated values. Based on their results they predict, carryout, analyze and improve experiments. Each student analyzes at least two of the following biomolecular projects: bioreactor, biocatalysis and membrane separation and one of the projects in
+EN.540.311
+. In addition to technical objectives, this course stresses oral and written communication. In addition to technical objectives, this course stresses oral and written communication. Students will have additional meeting times with the instructors and outside of class.",FA2,Engineering,"EN.540.301, EN.540.304, EN.540.306, EN.661.315, EN.540.490, EN.540.313","Students must have completed Lab Safety training prior to registering for this class. To access the tutorial, login to myLearning and enter Laboratory Safety Introductory Course in the Search Box to access the proper course.
+Click here to access the Laboratory Safety Introductory Course
+;
+EN.540.301
+AND
+EN.540.304
+AND
+EN.540.306
+AND
+EN.661.315
+;
+EN.540.490
+can be taken concurrently with
+EN.540.313",Writing Intensive,"EN.540.313.
+Projects in ChemBE Unit Operations with Experiments.
+4 Credits.
+This course challenges students with laboratory projects that are not well-defined. Students work in groups to develop an effective approach to experiments. They identify the important operating variables, decide how best to obtain them using measured or calculated values. Based on their results they predict, carryout, analyze and improve experiments. Each student analyzes at least two of the following biomolecular projects: bioreactor, biocatalysis and membrane separation and one of the projects in
+EN.540.311
+. In addition to technical objectives, this course stresses oral and written communication. In addition to technical objectives, this course stresses oral and written communication. Students will have additional meeting times with the instructors and outside of class.
+Prerequisite(s):
+Students must have completed Lab Safety training prior to registering for this class. To access the tutorial, login to myLearning and enter Laboratory Safety Introductory Course in the Search Box to access the proper course.
+Click here to access the Laboratory Safety Introductory Course
+;
+EN.540.301
+AND
+EN.540.304
+AND
+EN.540.306
+AND
+EN.661.315
+;
+EN.540.490
+can be taken concurrently with
+EN.540.313
+Distribution Area: Engineering
+AS Foundational Abilities: Science and Data (FA2)
+Writing Intensive"
+EN.540.314,ChemBE Product Design,3,"This course guides the student through the steps of a project in product design. Product design concerns the recognition of customer needs, the creation of suitable specifications, and the selection of best products to fulfill the needs. It includes the design of a manufacturing process for the product and an estimation of the economic profitability of the concept. Students work in small teams to complete a major project demonstrating their understanding of and proficiency in the primary objectives of the course. Students report several times both orally and in writing on their accomplishments.",FA2,Engineering,"EN.540.301, EN.540.303, EN.540.306, EN.540.311, EN.540.313, EN.540.490","EN.540.301
+AND
+EN.540.303
+AND
+EN.540.306
+AND (
+EN.540.311
+OR
+EN.540.313
+) AND
+EN.540.490",,"EN.540.314.
+ChemBE Product Design.
+3 Credits.
+This course guides the student through the steps of a project in product design. Product design concerns the recognition of customer needs, the creation of suitable specifications, and the selection of best products to fulfill the needs. It includes the design of a manufacturing process for the product and an estimation of the economic profitability of the concept. Students work in small teams to complete a major project demonstrating their understanding of and proficiency in the primary objectives of the course. Students report several times both orally and in writing on their accomplishments.
+Prerequisite(s):
+EN.540.301
+AND
+EN.540.303
+AND
+EN.540.306
+AND (
+EN.540.311
+OR
+EN.540.313
+) AND
+EN.540.490
+Distribution Area: Engineering
+AS Foundational Abilities: Science and Data (FA2)"
+EN.540.315,Process Design with Aspen,3,The course guides the students through process design where they study the production of a chemical compound.  They select a preferred process and create a flowsheet of the production process.  They use Aspen simulation to evaluate the major unit operations of their process.  They will carry out a hazard operations analysis on the process and perform an economic analysis when appropriate.  Students work in small teams to complete their project and write a report on their work and conclusions.,FA2,Engineering,"EN.540.301, EN.540.303, EN.540.306, EN.540.311, EN.540.313, EN.540.490","EN.540.301
+AND
+EN.540.303
+AND
+EN.540.306
+AND (
+EN.540.311
+OR
+EN.540.313
+) AND
+EN.540.490",,"EN.540.315.
+Process Design with Aspen.
+3 Credits.
+The course guides the students through process design where they study the production of a chemical compound.  They select a preferred process and create a flowsheet of the production process.  They use Aspen simulation to evaluate the major unit operations of their process.  They will carry out a hazard operations analysis on the process and perform an economic analysis when appropriate.  Students work in small teams to complete their project and write a report on their work and conclusions.
+Prerequisite(s):
+EN.540.301
+AND
+EN.540.303
+AND
+EN.540.306
+AND (
+EN.540.311
+OR
+EN.540.313
+) AND
+EN.540.490
+Distribution Area: Engineering
+AS Foundational Abilities: Science and Data (FA2)"
+EN.540.382,Statistical Modeling and Analysis with Python,3,"The course introduces several statistical methods, used to analyze and extract useful information from data. Topics covered include descriptive statistics, basic probability theory, error analysis, confidence intervals, hypothesis testing, regression, design of experiments and an introduction to Bayesian Statistics. Students will also learn to perform statistical analysis of data using Python libraries.",FA2,"Engineering, Quantitative and Mathematical Sciences","EN.500.113, EN.500.133, AS.110.202, AS.110.302","(
+EN.500.113
+OR
+EN.500.133
+) AND
+AS.110.202
+AND
+AS.110.302",,"EN.540.382.
+Statistical Modeling and Analysis with Python.
+3 Credits.
+The course introduces several statistical methods, used to analyze and extract useful information from data. Topics covered include descriptive statistics, basic probability theory, error analysis, confidence intervals, hypothesis testing, regression, design of experiments and an introduction to Bayesian Statistics. Students will also learn to perform statistical analysis of data using Python libraries.
+Prerequisite(s):
+(
+EN.500.113
+OR
+EN.500.133
+) AND
+AS.110.202
+AND
+AS.110.302
+Distribution Area: Engineering, Quantitative and Mathematical Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+EN.540.402,Metabolic Systems Biotechnology,3,"The aim of this course is to provide a fundamental understanding of the quantitative principles and methodologies of systems biology and biochemical engineering of metabolism. This includes concepts of  cellular growth, cellular stoichiometric models,  metabolic networks, metabolite fluxes, and genome-scale metabolic models. Quantitative methods and systems biology approaches for metabolic flux analysis and metabolic control theory will be included as well as an analysis of biochemical systems and bioreactors including a consideration of mass transport processes.",,Engineering,"AS.110.302, EN.553.291, AS.020.305, EN.580.221, EN.540.402","AS.110.302
+OR
+EN.553.291
+;
+AS.020.305
+OR
+EN.580.221
+may be taken prior to enrolling in
+EN.540.402
+OR at the same time as
+EN.540.402
+.",,"EN.540.402.
+Metabolic Systems Biotechnology.
+3 Credits.
+The aim of this course is to provide a fundamental understanding of the quantitative principles and methodologies of systems biology and biochemical engineering of metabolism. This includes concepts of  cellular growth, cellular stoichiometric models,  metabolic networks, metabolite fluxes, and genome-scale metabolic models. Quantitative methods and systems biology approaches for metabolic flux analysis and metabolic control theory will be included as well as an analysis of biochemical systems and bioreactors including a consideration of mass transport processes.
+Prerequisite(s):
+AS.110.302
+OR
+EN.553.291
+;
+AS.020.305
+OR
+EN.580.221
+may be taken prior to enrolling in
+EN.540.402
+OR at the same time as
+EN.540.402
+.
+Distribution Area: Engineering"
+EN.540.403,Colloids and Nanoparticles,3,"Fundamental principles related to interactions, dynamics, and structure in colloidal, nanoparticle, and interfacial systems. Concepts covered include hdrodynamics, Brownian motion, diffusion, sedimentation, electrophoresis, colloidal and surface forces, polymeric forces, aggregation, deposition, and experimental methods. Modern topics related to colloids in nano- science and technology will be discussed throughout the course with frequent references to recent literature. Meets with
+EN.540.603",FA2,"Engineering, Natural Sciences",,,,"EN.540.403.
+Colloids and Nanoparticles.
+3 Credits.
+Fundamental principles related to interactions, dynamics, and structure in colloidal, nanoparticle, and interfacial systems. Concepts covered include hdrodynamics, Brownian motion, diffusion, sedimentation, electrophoresis, colloidal and surface forces, polymeric forces, aggregation, deposition, and experimental methods. Modern topics related to colloids in nano- science and technology will be discussed throughout the course with frequent references to recent literature. Meets with
+EN.540.603
+Distribution Area: Engineering, Natural Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+EN.540.405,Modern Data Analysis and Machine Learning for ChemBEs,3,"This class will provide an introduction for chemical and biomolecular engineering students to modern methods of measuring and testing hypotheses using experimental or computational data. The course will cover methods of regression and data analysis such as linear and nonlinear regression, Bayesian analysis and principal or independent component analysis. The course will introduce concepts of machine learning including linear and nonlinear separation, neural networks, Gaussian processes and will provide exposure to deep learning concepts. The course will focus generally on image data and will consider topics of image processing, feature extraction and will cover for general data dimensionality reduction. Familiarity with computer programming (ideally Python), statistics and linear algebra are prerequisites.",FA2,"Engineering, Natural Sciences",,,,"EN.540.405.
+Modern Data Analysis and Machine Learning for ChemBEs.
+3 Credits.
+This class will provide an introduction for chemical and biomolecular engineering students to modern methods of measuring and testing hypotheses using experimental or computational data. The course will cover methods of regression and data analysis such as linear and nonlinear regression, Bayesian analysis and principal or independent component analysis. The course will introduce concepts of machine learning including linear and nonlinear separation, neural networks, Gaussian processes and will provide exposure to deep learning concepts. The course will focus generally on image data and will consider topics of image processing, feature extraction and will cover for general data dimensionality reduction. Familiarity with computer programming (ideally Python), statistics and linear algebra are prerequisites.
+Distribution Area: Engineering, Natural Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+EN.540.407,Renewable Energy Technologies,3,"This course will discuss the recent progress of renewable energy technologies, emphasizing a perspective from chemical engineering. Engineering principles in terms of mass and energy balance, phase equilibrium, kinetics and catalysis, transport, etc. will be applied to analyze the performance of new energy conversion and storage technologies. Topics of interest include solar cells, fuel cells, batteries and biofuels.",FA2,Engineering,,,,"EN.540.407.
+Renewable Energy Technologies.
+3 Credits.
+This course will discuss the recent progress of renewable energy technologies, emphasizing a perspective from chemical engineering. Engineering principles in terms of mass and energy balance, phase equilibrium, kinetics and catalysis, transport, etc. will be applied to analyze the performance of new energy conversion and storage technologies. Topics of interest include solar cells, fuel cells, batteries and biofuels.
+Distribution Area: Engineering
+AS Foundational Abilities: Science and Data (FA2)"
+EN.540.409,Dynamic Modeling and Control,4,"Introduction to modeling, dynamics, and control. Unsteady state analysis of biomolecular and chemical process control systems.  State space and Laplace transform techniques, block diagram algebra, and transfer functions.  Feedback and feedforward control. Frequency response and stability analysis.  Applications in chemical engineering (chemical reactors and separative processes) as well as biomolecular engineering (biosynthesis, pharmacokinetic modeling and biomolecular modeling based upon central dogma/gene expression). Introduction to nonlinear dynamics.",FA2,"Engineering, Quantitative and Mathematical Sciences","EN.540.301, EN.540.306","EN.540.301
+AND
+EN.540.306",,"EN.540.409.
+Dynamic Modeling and Control.
+4 Credits.
+Introduction to modeling, dynamics, and control. Unsteady state analysis of biomolecular and chemical process control systems.  State space and Laplace transform techniques, block diagram algebra, and transfer functions.  Feedback and feedforward control. Frequency response and stability analysis.  Applications in chemical engineering (chemical reactors and separative processes) as well as biomolecular engineering (biosynthesis, pharmacokinetic modeling and biomolecular modeling based upon central dogma/gene expression). Introduction to nonlinear dynamics.
+Prerequisite(s):
+EN.540.301
+AND
+EN.540.306
+Distribution Area: Engineering, Quantitative and Mathematical Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+EN.540.414,Computational Protein Structure Prediction and Design,3,"The 2024 Nobel Prize in Chemistry was awarded for protein structure prediction and design.  With recent research, it is now possible to blindly predict most protein structures and to design many new structures from scratch. This class will introduce the fundamental concepts in protein structure, biophysics, optimization and deep learning that have enabled the breakthroughs in computational structure prediction and design.  Problems covered will include protein folding and docking, design of proteins and interfaces, and physical and deep learning methods.  Class will consist of lectures and hands-on computer workshops.  Students will learn to use molecular visualization tools, write programs with the PyRosetta protein structure software suite, use deep learning programs (e.g. AlphaFold2, ESM, IgLM, ProteinMPNN, RFDiffusion), review recent literature, and complete a project.",FA2,Engineering,"AS.020.305, EN.540.203, EN.500.113","AS.020.305
+OR EN.580.221AND
+EN.540.203
+OR EN.580.241AND
+EN.500.113
+or equivalent programming experience.",,"EN.540.414.
+Computational Protein Structure Prediction and Design.
+3 Credits.
+The 2024 Nobel Prize in Chemistry was awarded for protein structure prediction and design.  With recent research, it is now possible to blindly predict most protein structures and to design many new structures from scratch. This class will introduce the fundamental concepts in protein structure, biophysics, optimization and deep learning that have enabled the breakthroughs in computational structure prediction and design.  Problems covered will include protein folding and docking, design of proteins and interfaces, and physical and deep learning methods.  Class will consist of lectures and hands-on computer workshops.  Students will learn to use molecular visualization tools, write programs with the PyRosetta protein structure software suite, use deep learning programs (e.g. AlphaFold2, ESM, IgLM, ProteinMPNN, RFDiffusion), review recent literature, and complete a project.
+Prerequisite(s):
+AS.020.305
+OR EN.580.221AND
+EN.540.203
+OR EN.580.241AND
+EN.500.113
+or equivalent programming experience.
+Distribution Area: Engineering
+AS Foundational Abilities: Science and Data (FA2)"
+EN.540.415,Interfacial Science with Applications to Nanoscale Systems,3,"Nanostructured materials intrinsically possess large surface area (interface area) to volume ratios. It is this large interfacial area that gives rise to many of the amazing properties and technologies associated with nanotechnology. In this class we will examine how the properties of surfaces, interfaces, and nanoscale features differ from their macroscopic behavior. We will compare and contrast fluid-fluid interfaces with solid-fluid and solid-solid interfaces, discussing fundamental interfacial physics and chemistry, as well as touching on state-of-the-art technologies.",FA2,Engineering,,,,"EN.540.415.
+Interfacial Science with Applications to Nanoscale Systems.
+3 Credits.
+Nanostructured materials intrinsically possess large surface area (interface area) to volume ratios. It is this large interfacial area that gives rise to many of the amazing properties and technologies associated with nanotechnology. In this class we will examine how the properties of surfaces, interfaces, and nanoscale features differ from their macroscopic behavior. We will compare and contrast fluid-fluid interfaces with solid-fluid and solid-solid interfaces, discussing fundamental interfacial physics and chemistry, as well as touching on state-of-the-art technologies.
+Distribution Area: Engineering
+AS Foundational Abilities: Science and Data (FA2)"
+EN.540.418,Projects in the Design of a Chemical Car,2,"Ready to put those concepts from class into practice? Members work over the course of the semester to design and build a chemically powered vehicle that will compete with other college teams at the American Institute of Chemical Engineers ( AIChE) Regional Conference. In this course, the students work in small groups to design and construct the chassis along with chemically powered propulsion and break mechanisms within the constraints of the competition. In addition, students will give oral presentation, write reports, and do thorough safety analysis of their prototypes. Both semesters (
+EN.540.418
+and
+EN.540.419
+) must be completed with passing grades to receive credit. This course may be repeated.",FA2,Engineering,,"Students must have completed Lab Safety training prior to registering for this class. To access the tutorial, login to myLearning and enter 458083 in the Search box to locate the appropriate module.",,"EN.540.418.
+Projects in the Design of a Chemical Car.
+2 Credits.
+Ready to put those concepts from class into practice? Members work over the course of the semester to design and build a chemically powered vehicle that will compete with other college teams at the American Institute of Chemical Engineers ( AIChE) Regional Conference. In this course, the students work in small groups to design and construct the chassis along with chemically powered propulsion and break mechanisms within the constraints of the competition. In addition, students will give oral presentation, write reports, and do thorough safety analysis of their prototypes. Both semesters (
+EN.540.418
+and
+EN.540.419
+) must be completed with passing grades to receive credit. This course may be repeated.
+Prerequisite(s):
+Students must have completed Lab Safety training prior to registering for this class. To access the tutorial, login to myLearning and enter 458083 in the Search box to locate the appropriate module.
+Distribution Area: Engineering
+AS Foundational Abilities: Science and Data (FA2)"
+EN.540.419,Projects in the Design of a Chemical Car,2,"Ready to put those concepts from class into practice? Members work over the course ofthe semester to design and build a chemically powered vehicle that will compete with other college teams at the American Institute of Chemical Engineers (AIChE) Regional Conference. In this course, the students work in small groups to design and construct the chassis along with chemically powered propulsion and break mechanisms within the constraints of the competition. In addition, students will give oral presentation, write reports, and do thorough safety analysis of their prototypes. Both semesters (
+EN.540.418
+and
+EN.540.419
+) must be completed with passing grades to receive credit.",FA2,"Engineering, Natural Sciences",,,,"EN.540.419.
+Projects in the Design of a Chemical Car.
+2 Credits.
+Ready to put those concepts from class into practice? Members work over the course ofthe semester to design and build a chemically powered vehicle that will compete with other college teams at the American Institute of Chemical Engineers (AIChE) Regional Conference. In this course, the students work in small groups to design and construct the chassis along with chemically powered propulsion and break mechanisms within the constraints of the competition. In addition, students will give oral presentation, write reports, and do thorough safety analysis of their prototypes. Both semesters (
+EN.540.418
+and
+EN.540.419
+) must be completed with passing grades to receive credit.
+Distribution Area: Engineering, Natural Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+EN.540.421,Project in Design: Pharmacodynamics,3,"This is continuation of 540.400 Project in Design: Pharmacokinetics.  It is a design course in which the design projects will be to develop pharmacodynamic models of the human body that can be used to understand the physiologic effects of drugs on the body.  The course (and software to be developed) will cover the spectrum of ways in which pharmaceuticals affect human physiology. The goal is to develop process models of the human body that will predict pharmaceutical effects as a function of time and organ (or cell) type that will work for a wide variety of pharmaceuticals including small molecules, biologics, and chemotherapy agents. This course is organized to replicate group project work as it is practiced in industry. The class is divided into groups (typically 3 or 4 students) and each group will meet separately each week with the instructor. Hence, there is no regularly scheduled class times; student groups sign up for weekly meeting times using Starfish in Blackboard. These meetings typically will be 90 minutes long. The expectations and assignments for this course are quite different from most other courses. There are no weekly lectures by the instructor. Rather, each week each group will make a PowerPoint presentation on the week's topic or their progress on their project.Prerequisites540.421 has a prerequisite of 540.400 Pharmacokinetics",FA2,"Engineering, Natural Sciences","EN.540.433, EN.540.633, EN.540.421, EN.540.432","Students who have taken or are enrolled in
+EN.540.433
+OR
+EN.540.633
+are not eligible to take
+EN.540.421
+.;
+EN.540.432",,"EN.540.421.
+Project in Design: Pharmacodynamics.
+3 Credits.
+This is continuation of 540.400 Project in Design: Pharmacokinetics.  It is a design course in which the design projects will be to develop pharmacodynamic models of the human body that can be used to understand the physiologic effects of drugs on the body.  The course (and software to be developed) will cover the spectrum of ways in which pharmaceuticals affect human physiology. The goal is to develop process models of the human body that will predict pharmaceutical effects as a function of time and organ (or cell) type that will work for a wide variety of pharmaceuticals including small molecules, biologics, and chemotherapy agents. This course is organized to replicate group project work as it is practiced in industry. The class is divided into groups (typically 3 or 4 students) and each group will meet separately each week with the instructor. Hence, there is no regularly scheduled class times; student groups sign up for weekly meeting times using Starfish in Blackboard. These meetings typically will be 90 minutes long. The expectations and assignments for this course are quite different from most other courses. There are no weekly lectures by the instructor. Rather, each week each group will make a PowerPoint presentation on the week's topic or their progress on their project.Prerequisites540.421 has a prerequisite of 540.400 Pharmacokinetics
+Prerequisite(s):
+Students who have taken or are enrolled in
+EN.540.433
+OR
+EN.540.633
+are not eligible to take
+EN.540.421
+.;
+EN.540.432
+Distribution Area: Engineering, Natural Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+EN.540.422,Introduction to Polymeric Materials,3,"Polymeric materials are ubiquitous in our society from Nature-made proteins and polysaccharides to synthetic plastics and fibers.  Their applications range from day-to-day consumables to high performance materials used in critically demanding areas, such as aviation, aerospace and medical devices.  The objective of this course is to provide an introductory overview on the field of polymer science and engineering.  Students will learn some basic concepts in polymer synthesis, characterization, and processing.  With the basic concepts established, industrial applications of polymeric materials will be discussed in two categories: structural polymers and functional polymers.  Structural polymers, including plastics, fibers, rubbers, coatings, adhesives, and composites, will be discussed in terms of their structure, processing, and property relationship with a flavor of industrial relevant products and applications.  Future trends in developing environmentally friendly polymers from renewable resources (“green polymer chemistry”) will also be covered.  Lectures on functional polymers will be focused on their unique properties that are enabled by rational molecular design, controlled synthesis and processing (e.g. supramolecular assembly, and microfabrication).   This class of specialty materials can find their use in high performance photovoltaics, batteries, membranes, and composites, and can also serve as “smart” materials for use in coatings, sensors, medical devices, and biomimicry.",FA2,Engineering,,,,"EN.540.422.
+Introduction to Polymeric Materials.
+3 Credits.
+Polymeric materials are ubiquitous in our society from Nature-made proteins and polysaccharides to synthetic plastics and fibers.  Their applications range from day-to-day consumables to high performance materials used in critically demanding areas, such as aviation, aerospace and medical devices.  The objective of this course is to provide an introductory overview on the field of polymer science and engineering.  Students will learn some basic concepts in polymer synthesis, characterization, and processing.  With the basic concepts established, industrial applications of polymeric materials will be discussed in two categories: structural polymers and functional polymers.  Structural polymers, including plastics, fibers, rubbers, coatings, adhesives, and composites, will be discussed in terms of their structure, processing, and property relationship with a flavor of industrial relevant products and applications.  Future trends in developing environmentally friendly polymers from renewable resources (“green polymer chemistry”) will also be covered.  Lectures on functional polymers will be focused on their unique properties that are enabled by rational molecular design, controlled synthesis and processing (e.g. supramolecular assembly, and microfabrication).   This class of specialty materials can find their use in high performance photovoltaics, batteries, membranes, and composites, and can also serve as “smart” materials for use in coatings, sensors, medical devices, and biomimicry.
+Distribution Area: Engineering
+AS Foundational Abilities: Science and Data (FA2)"
+EN.540.426,Fundamentals of Cell Bioengineering,3,"This course focuses on the application of engineering fundamentals along with concepts and techniques from molecular cell biology and biophysics to understand normal physiology and pathological disorders. Class lectures will include an overview of molecular cell biology principles and engineering approaches to cell biology, an extensive discussion on extracellular matrix, cell cytoskeleton and basics of adhesion molecules, followed by topics on cell-cell and cell-matrix interactions from both experimental and theoretical perspectives. Lectures will also cover the effects of physical (e.g. fluid shear stress, confinement), chemical (e.g. growth factors) and electrical cues on cell function, emphasizing topics on gene regulation and signal transduction processes. Moreover, topics in cancer metastasis and current therapeutic strategies will be discussed.",FA2,"Engineering, Natural Sciences","EN.540.303, AS.020.306, EN.540.307","EN.540.303
+;
+AS.020.306
+OR
+EN.540.307",,"EN.540.426.
+Fundamentals of Cell Bioengineering.
+3 Credits.
+This course focuses on the application of engineering fundamentals along with concepts and techniques from molecular cell biology and biophysics to understand normal physiology and pathological disorders. Class lectures will include an overview of molecular cell biology principles and engineering approaches to cell biology, an extensive discussion on extracellular matrix, cell cytoskeleton and basics of adhesion molecules, followed by topics on cell-cell and cell-matrix interactions from both experimental and theoretical perspectives. Lectures will also cover the effects of physical (e.g. fluid shear stress, confinement), chemical (e.g. growth factors) and electrical cues on cell function, emphasizing topics on gene regulation and signal transduction processes. Moreover, topics in cancer metastasis and current therapeutic strategies will be discussed.
+Prerequisite(s):
+EN.540.303
+;
+AS.020.306
+OR
+EN.540.307
+Distribution Area: Engineering, Natural Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+EN.540.428,Supramolecular Materials and Nanomedicine,3,"Nanomedicine is a quickly growing area that exploits the novel chemical, physical, and biological properties of nanostructures and nanostructured materials for medical treatments. This course presents basic design principles of constructing nanomaterials for use in drug delivery, disease diagnosis and imaging, and tissue engineering. Three major topics will be discussed, including 1) nanocarriers for drug delivery that are formed through soft matter assembly (e.g., surfactants, lipids, block copolymers, DNA, polyelectrolytes, peptides), 2) inorganic nanostructures for disease diagnosis and imaging (e.g., nanoparticles of gold and silver, quantum dots and carbon nanotubes), and 3) supramolecular scaffolds for tissue engineering and regenerative medicine. Students are expected to learn the physical, chemical and biological properties of each nanomaterial, the underlying physics and chemistry of fabricating such material, as well as their advantages and potential issues when used for biomedical applications. This course will also provide students opportunities for case studies on commercialized nanomedicine products. After this class, students should gain a deeper understanding of current challenges in translating nanoscience and nanotechnology.",FA2,Engineering,AS.020.305,AS.020.305,,"EN.540.428.
+Supramolecular Materials and Nanomedicine.
+3 Credits.
+Nanomedicine is a quickly growing area that exploits the novel chemical, physical, and biological properties of nanostructures and nanostructured materials for medical treatments. This course presents basic design principles of constructing nanomaterials for use in drug delivery, disease diagnosis and imaging, and tissue engineering. Three major topics will be discussed, including 1) nanocarriers for drug delivery that are formed through soft matter assembly (e.g., surfactants, lipids, block copolymers, DNA, polyelectrolytes, peptides), 2) inorganic nanostructures for disease diagnosis and imaging (e.g., nanoparticles of gold and silver, quantum dots and carbon nanotubes), and 3) supramolecular scaffolds for tissue engineering and regenerative medicine. Students are expected to learn the physical, chemical and biological properties of each nanomaterial, the underlying physics and chemistry of fabricating such material, as well as their advantages and potential issues when used for biomedical applications. This course will also provide students opportunities for case studies on commercialized nanomedicine products. After this class, students should gain a deeper understanding of current challenges in translating nanoscience and nanotechnology.
+Prerequisite(s):
+AS.020.305
+Distribution Area: Engineering
+AS Foundational Abilities: Science and Data (FA2)"
+EN.540.432,Project in Design: Pharmacokinetics,3,"This is a design course in which the design projects will be to develop pharmacokinetic models of the human body that can be used to understand the temporal distribution, spatial distribution and bioavailability of pharmaceutical drugs. The course (and software to be developed) will cover the spectrum of factors affecting pharmaceutical bioavailability including drug formulation, mode of dosing and dosing rate, metabolism and metabolic cascades, storage in fatty tissues, and diffusional limitations (such as in crossing the blood-brain barrier or diffusional differences between normal and cancerous cells). The goal is to develop process models of the human body that will predict pharmaceutical bioavailability as a function of time and organ (or cell) type that will work for a wide variety of pharmaceuticals including small molecules, biologics, and chemotherapy agents. This course is organized to replicate group project work as it is practiced in industry. The class is divided into groups (typically 3 or 4 students) and each group will meet separately each week with the instructor.  Hence, there is no regularly scheduled class times; student groups sign up for weekly meeting times using Starfish in Blackboard.  These meetings typically will be 90 minutes long.  The expectations and assignments for this course are quite different from most other courses. There are no weekly lectures by the instructor. Rather, each week each group will make a PowerPoint presentation on the week's topic or their progress on their project.",FA2,"Engineering, Natural Sciences","EN.540.433, EN.540.633, EN.540.432","Students who have taken or are enrolled in
+EN.540.433
+OR
+EN.540.633
+are not eligible to take
+EN.540.432
+.",,"EN.540.432.
+Project in Design: Pharmacokinetics.
+3 Credits.
+This is a design course in which the design projects will be to develop pharmacokinetic models of the human body that can be used to understand the temporal distribution, spatial distribution and bioavailability of pharmaceutical drugs. The course (and software to be developed) will cover the spectrum of factors affecting pharmaceutical bioavailability including drug formulation, mode of dosing and dosing rate, metabolism and metabolic cascades, storage in fatty tissues, and diffusional limitations (such as in crossing the blood-brain barrier or diffusional differences between normal and cancerous cells). The goal is to develop process models of the human body that will predict pharmaceutical bioavailability as a function of time and organ (or cell) type that will work for a wide variety of pharmaceuticals including small molecules, biologics, and chemotherapy agents. This course is organized to replicate group project work as it is practiced in industry. The class is divided into groups (typically 3 or 4 students) and each group will meet separately each week with the instructor.  Hence, there is no regularly scheduled class times; student groups sign up for weekly meeting times using Starfish in Blackboard.  These meetings typically will be 90 minutes long.  The expectations and assignments for this course are quite different from most other courses. There are no weekly lectures by the instructor. Rather, each week each group will make a PowerPoint presentation on the week's topic or their progress on their project.
+Prerequisite(s):
+Students who have taken or are enrolled in
+EN.540.433
+OR
+EN.540.633
+are not eligible to take
+EN.540.432
+.
+Distribution Area: Engineering, Natural Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+EN.540.433,Pharmacokinetics and Pharmacodynamics,3,"This is a one-semester version of the courses in Pharmacokinetics and Pharmacodynamics that were offered as a two-semester sequence in the past. The course (and software to be developed) will cover the spectrum of ways in which pharmaceuticals affect human physiology. The goal is to develop process models of the human body that will predict pharmaceutical effects as a function of time and organ (or cell) type that will work for a wide variety of pharmaceuticals including small molecules, biologics, and chemotherapy agents. This course is organized to replicate group project work as it is practiced in industry. The class is divided into groups (typically 3 or 4 students) and each group meets separately each week with the instructor. Hence, there is no regularly scheduled class times; student groups sign up for a weekly meeting time at the beginning of the semester.  These meetings typically will be 90 minutes long. The expectations and assignments for this course are quite different from most other courses. There are no weekly lectures by the instructor. Rather, each week each group will make a PowerPoint presentation on the week's topic or their progress on their project. This section may be cross-listed with other sections in the same course. Sections are cross-listed to enrich student learning and enhance collaboration opportunities.",FA2,"Engineering, Natural Sciences","EN.540.421, EN.540.432, EN.540.633, EN.540.433, EN.540.301","Students who have taken or are enrolled in
+EN.540.421
+OR
+EN.540.432
+OR
+EN.540.633
+cannot take
+EN.540.433
+.;
+EN.540.301",This section may be cross-listed with other sections in the same course. | Sections are cross-listed to enrich student learning and enhance collaboration opportunities.,"EN.540.433.
+Pharmacokinetics and Pharmacodynamics.
+3 Credits.
+This is a one-semester version of the courses in Pharmacokinetics and Pharmacodynamics that were offered as a two-semester sequence in the past. The course (and software to be developed) will cover the spectrum of ways in which pharmaceuticals affect human physiology. The goal is to develop process models of the human body that will predict pharmaceutical effects as a function of time and organ (or cell) type that will work for a wide variety of pharmaceuticals including small molecules, biologics, and chemotherapy agents. This course is organized to replicate group project work as it is practiced in industry. The class is divided into groups (typically 3 or 4 students) and each group meets separately each week with the instructor. Hence, there is no regularly scheduled class times; student groups sign up for a weekly meeting time at the beginning of the semester.  These meetings typically will be 90 minutes long. The expectations and assignments for this course are quite different from most other courses. There are no weekly lectures by the instructor. Rather, each week each group will make a PowerPoint presentation on the week's topic or their progress on their project. This section may be cross-listed with other sections in the same course. Sections are cross-listed to enrich student learning and enhance collaboration opportunities.
+Prerequisite(s):
+Students who have taken or are enrolled in
+EN.540.421
+OR
+EN.540.432
+OR
+EN.540.633
+cannot take
+EN.540.433
+.;
+EN.540.301
+Distribution Area: Engineering, Natural Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+EN.540.438,Advanced Topics in Pharmacokinetics and Pharmacodynamics I,3,This course involves a semester-long project in pharmacodynamics. Topics are chosen in consultation with instructor.,FA2,"Engineering, Natural Sciences","EN.540.421, EN.540.432, EN.540.433","(
+EN.540.421
+AND
+EN.540.432
+) OR
+EN.540.433",,"EN.540.438.
+Advanced Topics in Pharmacokinetics and Pharmacodynamics I.
+3 Credits.
+This course involves a semester-long project in pharmacodynamics. Topics are chosen in consultation with instructor.
+Prerequisite(s):
+(
+EN.540.421
+AND
+EN.540.432
+) OR
+EN.540.433
+Distribution Area: Engineering, Natural Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+EN.540.440,Micro/Nanotechnology: The Science and Engineering of Small Structures,3,"The field of micro / nanotechnology has been gaining tremendous momentum as evidenced by an explosive rise in the number of publications, patents and commercial activities. This is an introductory course intended to expose students to the field as well as real world applications. Lectures will include an overview of scaling of material properties at the nanoscale, micro and nanofabrication methods and essential analytical tools of relevance to the field. All through the course, we will go over electronic, optical and biological applications of emerging micro and nanoscale devices and materials. Co-listed with
+EN.540.640
+. Only Undergraduate Seniors and Graduate students may join the course.",FA2,Engineering,,,,"EN.540.440.
+Micro/Nanotechnology: The Science and Engineering of Small Structures.
+3 Credits.
+The field of micro / nanotechnology has been gaining tremendous momentum as evidenced by an explosive rise in the number of publications, patents and commercial activities. This is an introductory course intended to expose students to the field as well as real world applications. Lectures will include an overview of scaling of material properties at the nanoscale, micro and nanofabrication methods and essential analytical tools of relevance to the field. All through the course, we will go over electronic, optical and biological applications of emerging micro and nanoscale devices and materials. Co-listed with
+EN.540.640
+. Only Undergraduate Seniors and Graduate students may join the course.
+Distribution Area: Engineering
+AS Foundational Abilities: Science and Data (FA2)"
+EN.540.445,Junk Food Junkies,3,"This is a course about how the food we eat affects our health. In particular, the major non-communicable illnesses all are caused by the food we eat causing metabolic dysfunction and metabolic diseases. Currently 70% of the people in the US have metabolic dysfunction and over 50% of us will die from a non-communicable metabolic disease. This course also is about how food companies addict us to eat certain foods and why these addictive foods lead to metabolic dysfunction.",FA2,"Engineering, Natural Sciences",,,,"EN.540.445.
+Junk Food Junkies.
+3 Credits.
+This is a course about how the food we eat affects our health. In particular, the major non-communicable illnesses all are caused by the food we eat causing metabolic dysfunction and metabolic diseases. Currently 70% of the people in the US have metabolic dysfunction and over 50% of us will die from a non-communicable metabolic disease. This course also is about how food companies addict us to eat certain foods and why these addictive foods lead to metabolic dysfunction.
+Distribution Area: Engineering, Natural Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+EN.540.458,Modeling and Design of Sustainable Chemical Processes,3,"This course will survey many of the techniques used to design catalysts and adsorbents using theory and atomistic simulations applicable to both computational and experimental students. The techniques covered include Density Functional Theory (DFT), Monte Carlo, Molecular Dynamics, and Microkinetic Modeling. Linear free energy relationships, Bronsted-Evans-Polanyi relationships, entropy scaling relationships, and new data-science approaches will be used to describe how optimal catalysts/adsorbents can be designed from atomistic simulations.",FA2,Engineering,"EN.540.301, AS.030.301, AS.030.449","EN.540.301
+AND (
+AS.030.301
+OR
+AS.030.449
+)",,"EN.540.458.
+Modeling and Design of Sustainable Chemical Processes.
+3 Credits.
+This course will survey many of the techniques used to design catalysts and adsorbents using theory and atomistic simulations applicable to both computational and experimental students. The techniques covered include Density Functional Theory (DFT), Monte Carlo, Molecular Dynamics, and Microkinetic Modeling. Linear free energy relationships, Bronsted-Evans-Polanyi relationships, entropy scaling relationships, and new data-science approaches will be used to describe how optimal catalysts/adsorbents can be designed from atomistic simulations.
+Prerequisite(s):
+EN.540.301
+AND (
+AS.030.301
+OR
+AS.030.449
+)
+Distribution Area: Engineering
+AS Foundational Abilities: Science and Data (FA2)"
+EN.540.460,Polymer Physics,3,"This course will discuss theoretical concepts on the physics of polymer systems. Topics include scaling behavior of chains under different conditions, mixing thermodynamics, networks and gelation, polymer dynamics, including reptation and entanglements. Special topics will also include nanocomposites and polymeric brushes",FA2,Engineering,EN.540.301,EN.540.301,,"EN.540.460.
+Polymer Physics.
+3 Credits.
+This course will discuss theoretical concepts on the physics of polymer systems. Topics include scaling behavior of chains under different conditions, mixing thermodynamics, networks and gelation, polymer dynamics, including reptation and entanglements. Special topics will also include nanocomposites and polymeric brushes
+Prerequisite(s):
+EN.540.301
+Distribution Area: Engineering
+AS Foundational Abilities: Science and Data (FA2)"
+EN.540.461,Future Food Manufacturing,3,"Future Food Manufacturing will cover the engineering principles, motivations, and scientific obstacles behind foods that are to replace traditionally animal-derived ingredients such as meat and dairy. Concepts include 3D printing and extrusion of plant-based proteins, biophysics of proteins and fats, fermentation of genetically engineered microbes, and tissue engineering in cultured meat applications. This interdisciplinary course will consist of guest lecturers from multiple departments to encompass the multiple manufacturing angles by which to ensure food security in decades to come. This class will have no exams, instead students will be connected to existing alt protein companies and they will propose solutions for a major pain point in their manufacturing process.",FA2,Engineering,,,,"EN.540.461.
+Future Food Manufacturing.
+3 Credits.
+Future Food Manufacturing will cover the engineering principles, motivations, and scientific obstacles behind foods that are to replace traditionally animal-derived ingredients such as meat and dairy. Concepts include 3D printing and extrusion of plant-based proteins, biophysics of proteins and fats, fermentation of genetically engineered microbes, and tissue engineering in cultured meat applications. This interdisciplinary course will consist of guest lecturers from multiple departments to encompass the multiple manufacturing angles by which to ensure food security in decades to come. This class will have no exams, instead students will be connected to existing alt protein companies and they will propose solutions for a major pain point in their manufacturing process.
+Distribution Area: Engineering
+AS Foundational Abilities: Science and Data (FA2)"
+EN.540.465,Engineering Principles of Drug Delivery,3,"Fundamental concepts in drug delivery from an engineering perspective. Biological organisms are viewed as highly interconnected networks where the surfaces/interfaces can be activated or altered ‘chemically’ and ‘physically/mechanically’. The importance of intermolecular and interfacial interactions on drug delivery carriers is the focal point of this course. Topics include: drug delivery mechanisms (passive, targeted); therapeutic modalities and mechanisms of action; engineering principles of controlled release and quantitative understanding of drug transport (diffusion, convection); effects of electrostatics, macromolecular conformation, and molecular dynamics on interfacial interactions; thermodynamic principles of self-assembly; chemical and physical characteristics of delivery molecules and assemblies (polymer based, lipid based); significance of biodistributions and pharmacokinetic models; toxicity issues and immune responses.",FA2,"Engineering, Natural Sciences","EN.540.465, EN.540.665, EN.540.303","Students may take
+EN.540.465
+or
+EN.540.665
+, but not both.;
+EN.540.303",,"EN.540.465.
+Engineering Principles of Drug Delivery.
+3 Credits.
+Fundamental concepts in drug delivery from an engineering perspective. Biological organisms are viewed as highly interconnected networks where the surfaces/interfaces can be activated or altered ‘chemically’ and ‘physically/mechanically’. The importance of intermolecular and interfacial interactions on drug delivery carriers is the focal point of this course. Topics include: drug delivery mechanisms (passive, targeted); therapeutic modalities and mechanisms of action; engineering principles of controlled release and quantitative understanding of drug transport (diffusion, convection); effects of electrostatics, macromolecular conformation, and molecular dynamics on interfacial interactions; thermodynamic principles of self-assembly; chemical and physical characteristics of delivery molecules and assemblies (polymer based, lipid based); significance of biodistributions and pharmacokinetic models; toxicity issues and immune responses.
+Prerequisite(s):
+Students may take
+EN.540.465
+or
+EN.540.665
+, but not both.;
+EN.540.303
+Distribution Area: Engineering, Natural Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+EN.540.490,Introduction to Chemical Process Safety,1,"This course covers topics in chemical process safety. Chemical process safety concerns itself with discovery, analysis, and control of risks arising from chemical processes. Starting with the definition of risk and ethical principles that apply to safety-critical situations, we will progress to several types of hazard analysis, discussion of the safety implications of construction materials, incident investigation, fire, toxicity, and the technique called Inherently Safer Design). The ePortfolio tag(s) on this course signify that there are one or more assignments offered in the course that provide students with the opportunity to be assessed for proficiency in completion of the relevant ePortfolio requirement(s).",FA2,Engineering,"EN.540.203, EN.540.303","Students must have completed Lab Safety training prior to registering for this class. To access the tutorial, login to myLearning and enter ASEN in the Search Box to access the proper course.
+Click here to access the Laboratory Safety Introductory Course
+;
+EN.540.203
+AND
+EN.540.303",,"EN.540.490.
+Introduction to Chemical Process Safety.
+1 Credit.
+This course covers topics in chemical process safety. Chemical process safety concerns itself with discovery, analysis, and control of risks arising from chemical processes. Starting with the definition of risk and ethical principles that apply to safety-critical situations, we will progress to several types of hazard analysis, discussion of the safety implications of construction materials, incident investigation, fire, toxicity, and the technique called Inherently Safer Design). The ePortfolio tag(s) on this course signify that there are one or more assignments offered in the course that provide students with the opportunity to be assessed for proficiency in completion of the relevant ePortfolio requirement(s).
+Prerequisite(s):
+Students must have completed Lab Safety training prior to registering for this class. To access the tutorial, login to myLearning and enter ASEN in the Search Box to access the proper course.
+Click here to access the Laboratory Safety Introductory Course
+;
+EN.540.203
+AND
+EN.540.303
+Distribution Area: Engineering
+AS Foundational Abilities: Science and Data (FA2)
+EN Foundational Abilities: Ethical Reflection ePortfolio (FA5eP)"
+EN.540.495,Special Topics in Chemical and Biomolecular Engineering,3,"This course will focus on Special Topics of current interest in Chemical and Biomolecular Engineering and reflect the breadth of expertise in the department. This course is repeatable.; however, students may not take the same topic more than once. Co-listed with
+EN.540.695",,"Engineering, Natural Sciences","EN.540.695, EN.540.495","Students who have already taken, or are currently enrolled in
+EN.540.695
+, are not eligible to take
+EN.540.495
+.",,"EN.540.495.
+Special Topics in Chemical and Biomolecular Engineering.
+3 Credits.
+This course will focus on Special Topics of current interest in Chemical and Biomolecular Engineering and reflect the breadth of expertise in the department. This course is repeatable.; however, students may not take the same topic more than once. Co-listed with
+EN.540.695
+Prerequisite(s):
+Students who have already taken, or are currently enrolled in
+EN.540.695
+, are not eligible to take
+EN.540.495
+.
+Distribution Area: Engineering, Natural Sciences"
+EN.540.600,Chemical and Biomolecular Engineering Seminar I,1,Lectures are presented on current subjects relevant to chemical engineering. Attendance at 80% of departmental seminars is required to receive credit for this class.,,Engineering,,,,"EN.540.600.
+Chemical and Biomolecular Engineering Seminar I.
+1 Credit.
+Lectures are presented on current subjects relevant to chemical engineering. Attendance at 80% of departmental seminars is required to receive credit for this class.
+Distribution Area: Engineering"
+EN.540.601,Chemical and Biomolecular Engineering Seminar II,1,Lectures are presented on current subjects relevant to chemical engineering. Attendance at 80% of departmental seminars is required to receive credit for this class.,,Engineering,,,,"EN.540.601.
+Chemical and Biomolecular Engineering Seminar II.
+1 Credit.
+Lectures are presented on current subjects relevant to chemical engineering. Attendance at 80% of departmental seminars is required to receive credit for this class.
+Distribution Area: Engineering"
+EN.540.602,Metabolic Systems Biotechnology,3,"The aim of this course is to provide a fundamental understanding of the quantitative principles and methodologies of systems biology and biochemical engineering of metabolism. This includes concepts of  cellular growth, cellular stoichiometric models,  metabolic networks, metabolite fluxes, and genome-scale metabolic models. Quantitative methods and systems biology approaches for metabolic flux analysis and metabolic control theory will be included as well as an analysis of biochemical systems and bioreactors including a consideration of mass transport processes.",,Engineering,,,,"EN.540.602.
+Metabolic Systems Biotechnology.
+3 Credits.
+The aim of this course is to provide a fundamental understanding of the quantitative principles and methodologies of systems biology and biochemical engineering of metabolism. This includes concepts of  cellular growth, cellular stoichiometric models,  metabolic networks, metabolite fluxes, and genome-scale metabolic models. Quantitative methods and systems biology approaches for metabolic flux analysis and metabolic control theory will be included as well as an analysis of biochemical systems and bioreactors including a consideration of mass transport processes.
+Distribution Area: Engineering"
+EN.540.603,Colloids and Nanoparticles,3,"Fundamental principles related to interactions, dynamics, and structure in colloidal, nanoparticle, and interfacial systems. Concepts covered include hdrodynamics, Brownian motion, diffusion, sedimentation, electrophoresis, colloidal and surface forces, polymeric forces, aggregation, deposition, and experimental methods. Modern topics related to colloids in nano- science and technology will be discussed throughout the course with frequent references to recent literature. Meets with
+EN.540.403",,Engineering,,,,"EN.540.603.
+Colloids and Nanoparticles.
+3 Credits.
+Fundamental principles related to interactions, dynamics, and structure in colloidal, nanoparticle, and interfacial systems. Concepts covered include hdrodynamics, Brownian motion, diffusion, sedimentation, electrophoresis, colloidal and surface forces, polymeric forces, aggregation, deposition, and experimental methods. Modern topics related to colloids in nano- science and technology will be discussed throughout the course with frequent references to recent literature. Meets with
+EN.540.403
+Distribution Area: Engineering"
+EN.540.604,Transport Phenomena in Practice,3,"Required course for ChemBE Masters students. This course will provide a review of core concepts of Transport Phenomena (momentum, heat, and mass transfer). Advanced chemical and biomolecular engineering problems that are relevant in the area of engineering applications and biological systems will be discussed.",,"Engineering, Quantitative and Mathematical Sciences",,,,"EN.540.604.
+Transport Phenomena in Practice.
+3 Credits.
+Required course for ChemBE Masters students. This course will provide a review of core concepts of Transport Phenomena (momentum, heat, and mass transfer). Advanced chemical and biomolecular engineering problems that are relevant in the area of engineering applications and biological systems will be discussed.
+Distribution Area: Engineering, Quantitative and Mathematical Sciences"
+EN.540.605,Modern Data Analysis and Machine Learning for ChemBEs,3,"This class will provide an introduction for chemical and biomolecular engineering students to modern methods of measuring and testing hypotheses using experimental or computational data.  The course will cover methods of regression and data analysis such as linear and nonlinear regression, Bayesian analysis and principal or independent component analysis.    The course will introduce concepts of machine learning including linear and nonlinear separation, neural networks, Gaussian processes and will provide exposure to deep learning concepts.  The course will focus generally on image data and will consider topics of image processing, feature extraction and will cover for general data dimensionality reduction.    Familiarity with computer programming (ideally Python), statistics and linear algebra are prerequisites.",,Engineering,,,,"EN.540.605.
+Modern Data Analysis and Machine Learning for ChemBEs.
+3 Credits.
+This class will provide an introduction for chemical and biomolecular engineering students to modern methods of measuring and testing hypotheses using experimental or computational data.  The course will cover methods of regression and data analysis such as linear and nonlinear regression, Bayesian analysis and principal or independent component analysis.    The course will introduce concepts of machine learning including linear and nonlinear separation, neural networks, Gaussian processes and will provide exposure to deep learning concepts.  The course will focus generally on image data and will consider topics of image processing, feature extraction and will cover for general data dimensionality reduction.    Familiarity with computer programming (ideally Python), statistics and linear algebra are prerequisites.
+Distribution Area: Engineering"
+EN.540.607,Renewable Energy Technologies,3,"This course will discuss the recent progress of renewable energy technologies, emphasizing a perspective from chemical engineering. Engineering principles in terms of mass and energy balance, phase equilibrium, kinetics and catalysis, transport, etc. will be applied to analyze the performance of new energy conversion and storage technologies. Topics of interest include solar cells, fuel cells, batteries and biofuels.",,Engineering,,,,"EN.540.607.
+Renewable Energy Technologies.
+3 Credits.
+This course will discuss the recent progress of renewable energy technologies, emphasizing a perspective from chemical engineering. Engineering principles in terms of mass and energy balance, phase equilibrium, kinetics and catalysis, transport, etc. will be applied to analyze the performance of new energy conversion and storage technologies. Topics of interest include solar cells, fuel cells, batteries and biofuels.
+Distribution Area: Engineering"
+EN.540.614,Computational Protein Structure Prediction and Design,3,"This class will introduce the fundamental concepts in protein structure, biophysics, optimization and informatics that have enabled the breakthroughs in computational structure prediction and design.  Problems covered will include protein folding and docking, design of ligand-binding sites, design of turns and folds, design of protein interfaces.  Class will consist of lectures and hands-on computer workshops.  Students will learn to use molecular visualization tools and write programs with the PyRosetta protein structure software suite, including a computational project.  Programming experience is recommended.",,Engineering,,,,"EN.540.614.
+Computational Protein Structure Prediction and Design.
+3 Credits.
+This class will introduce the fundamental concepts in protein structure, biophysics, optimization and informatics that have enabled the breakthroughs in computational structure prediction and design.  Problems covered will include protein folding and docking, design of ligand-binding sites, design of turns and folds, design of protein interfaces.  Class will consist of lectures and hands-on computer workshops.  Students will learn to use molecular visualization tools and write programs with the PyRosetta protein structure software suite, including a computational project.  Programming experience is recommended.
+Distribution Area: Engineering"
+EN.540.615,Interfacial Science with Applications to Nanoscale Systems,3,"Nanostructured materials intrinsically possess large surface area (interface area) to volume ratios. It is this large interfacial area that gives rise to many of the amazing properties and technologies associated with nanotechnology. In this class we will examine how the properties of surfaces, interfaces, and nanoscale features differ from their macroscopic behavior. We will compare and contrast fluid-fluid interfaces with solid-fluid and solid-solid interfaces, discussing fundamental interfacial physics and chemistry, as well as touching on state-of-the-art technologies.",,Engineering,,,,"EN.540.615.
+Interfacial Science with Applications to Nanoscale Systems.
+3 Credits.
+Nanostructured materials intrinsically possess large surface area (interface area) to volume ratios. It is this large interfacial area that gives rise to many of the amazing properties and technologies associated with nanotechnology. In this class we will examine how the properties of surfaces, interfaces, and nanoscale features differ from their macroscopic behavior. We will compare and contrast fluid-fluid interfaces with solid-fluid and solid-solid interfaces, discussing fundamental interfacial physics and chemistry, as well as touching on state-of-the-art technologies.
+Distribution Area: Engineering"
+EN.540.618,Cancer Metabolism,3,"This course will cover the principles of metabolism in cellular, organismal, and systemic levels and the mechanisms of how metabolic dysfunctions are associated with diseases, including diabetes and cancer. The topics will include but are not limited to the Warburg effect, signaling and metabolism, metabolic crosstalk, metabolic targets for cancer therapy, and state-of-the-art techniques for metabolic analyses. Students must have an understanding of undergraduate-level biochemistry. The grade will be based on attendance, participation in the discussions, and presentations.",,Engineering,,,,"EN.540.618.
+Cancer Metabolism.
+3 Credits.
+This course will cover the principles of metabolism in cellular, organismal, and systemic levels and the mechanisms of how metabolic dysfunctions are associated with diseases, including diabetes and cancer. The topics will include but are not limited to the Warburg effect, signaling and metabolism, metabolic crosstalk, metabolic targets for cancer therapy, and state-of-the-art techniques for metabolic analyses. Students must have an understanding of undergraduate-level biochemistry. The grade will be based on attendance, participation in the discussions, and presentations.
+Distribution Area: Engineering"
+EN.540.621,Project in Design: Pharmacodynamics,3,"This is continuation of 540.400 Project in Design: Pharmacokinetics. It is a design course in which the design projects will be to develop pharmacodynamic models of the human body that can be used to understand the physiologic effects of drugs on the body. The course (and software to be developed) will cover the spectrum of ways in which pharmaceuticals affect human physiology. The goal is to develop process models of the human body that will predict pharmaceutical effects as a function of time and organ (or cell) type that will work for a wide variety of pharmaceuticals including small molecules, biologics, and chemotherapy agents. This course is organized to replicate group project work as it is practiced in industry. The class is divided into groups (typically 3 or 4 students) and each group will meet separately each week with the instructor. Hence, there is no regularly scheduled class times; student groups sign up for weekly meeting times using Starfish in Blackboard. These meetings typically will be 90 minutes long. The expectations and assignments for this course are quite different from most other courses. There are no weekly lectures by the instructor. Rather, each week each group will make a PowerPoint presentation on the week's topic or their progress on their project. Prerequisites 540.421 has a prerequisite of Pharmacokinetics .",,"Engineering, Natural Sciences","EN.540.633, EN.540.433, EN.540.621, EN.540.632","Students who have taken or are enrolled in
+EN.540.633
+OR
+EN.540.433
+are not eligible to take
+EN.540.621
+.;
+EN.540.632",,"EN.540.621.
+Project in Design: Pharmacodynamics.
+3 Credits.
+This is continuation of 540.400 Project in Design: Pharmacokinetics. It is a design course in which the design projects will be to develop pharmacodynamic models of the human body that can be used to understand the physiologic effects of drugs on the body. The course (and software to be developed) will cover the spectrum of ways in which pharmaceuticals affect human physiology. The goal is to develop process models of the human body that will predict pharmaceutical effects as a function of time and organ (or cell) type that will work for a wide variety of pharmaceuticals including small molecules, biologics, and chemotherapy agents. This course is organized to replicate group project work as it is practiced in industry. The class is divided into groups (typically 3 or 4 students) and each group will meet separately each week with the instructor. Hence, there is no regularly scheduled class times; student groups sign up for weekly meeting times using Starfish in Blackboard. These meetings typically will be 90 minutes long. The expectations and assignments for this course are quite different from most other courses. There are no weekly lectures by the instructor. Rather, each week each group will make a PowerPoint presentation on the week's topic or their progress on their project. Prerequisites 540.421 has a prerequisite of Pharmacokinetics .
+Prerequisite(s):
+Students who have taken or are enrolled in
+EN.540.633
+OR
+EN.540.433
+are not eligible to take
+EN.540.621
+.;
+EN.540.632
+Distribution Area: Engineering, Natural Sciences"
+EN.540.622,Introduction to Polymeric Materials,3,"Polymeric materials are ubiquitous in our society from Nature-made proteins and polysaccharides to synthetic plastics and fibers.  Their applications range from day-to-day consumables to high performance materials used in critically demanding areas, such as aviation, aerospace and medical devices.  The objective of this course is to provide an introductory overview on the field of polymer science and engineering.  Students will learn some basic concepts in polymer synthesis, characterization, and processing.  With the basic concepts established, industrial applications of polymeric materials will be discussed in two categories: structural polymers and functional polymers.  Structural polymers, including plastics, fibers, rubbers, coatings, adhesives, and composites, will be discussed in terms of their structure, processing, and property relationship with a flavor of industrial relevant products and applications.  Future trends in developing environmentally friendly polymers from renewable resources (“green polymer chemistry”) will also be covered.  Lectures on functional polymers will be focused on their unique properties that are enabled by rational molecular design, controlled synthesis and processing (e.g. supramolecular assembly, and microfabrication).   This class of specialty materials can find their use in high performance photovoltaics, batteries, membranes, and composites, and can also serve as “smart” materials for use in coatings, sensors, medical devices, and biomimicry.",,Engineering,,,,"EN.540.622.
+Introduction to Polymeric Materials.
+3 Credits.
+Polymeric materials are ubiquitous in our society from Nature-made proteins and polysaccharides to synthetic plastics and fibers.  Their applications range from day-to-day consumables to high performance materials used in critically demanding areas, such as aviation, aerospace and medical devices.  The objective of this course is to provide an introductory overview on the field of polymer science and engineering.  Students will learn some basic concepts in polymer synthesis, characterization, and processing.  With the basic concepts established, industrial applications of polymeric materials will be discussed in two categories: structural polymers and functional polymers.  Structural polymers, including plastics, fibers, rubbers, coatings, adhesives, and composites, will be discussed in terms of their structure, processing, and property relationship with a flavor of industrial relevant products and applications.  Future trends in developing environmentally friendly polymers from renewable resources (“green polymer chemistry”) will also be covered.  Lectures on functional polymers will be focused on their unique properties that are enabled by rational molecular design, controlled synthesis and processing (e.g. supramolecular assembly, and microfabrication).   This class of specialty materials can find their use in high performance photovoltaics, batteries, membranes, and composites, and can also serve as “smart” materials for use in coatings, sensors, medical devices, and biomimicry.
+Distribution Area: Engineering"
+EN.540.628,Supramolecular Materials and Nanomedicine,3,"Nanomedicine is a quickly growing area that exploits the novel chemical, physical, and biological properties of nanostructures and nanostructured materials for medical treatments. This course presents basic design principles of constructing nanomaterials for use in drug delivery, disease diagnosis and imaging, and tissue engineering. Three major topics will be discussed, including 1) nanocarriers for drug delivery that are formed through soft matter assembly (e.g., surfactants, lipids, block copolymers, DNA, polyelectrolytes, peptides), 2) inorganic nanostructures for disease diagnosis and imaging (e.g., nanoparticles of gold and silver, quantum dots and carbon nanotubes), and 3) supramolecular scaffolds for tissue engineering and regenerative medicine. Students are expected to learn the physical, chemical and biological properties of each nanomaterial, the underlying physics and chemistry of fabricating such material, as well as their advantages and potential issues when used for biomedical applications. This course will also provide students opportunities for case studies on commercialized nanomedicine products. After this class, students should gain a deeper understanding of current challenges in translating nanoscience and nanotechnology into medical therapies.",,"Engineering, Natural Sciences",,,,"EN.540.628.
+Supramolecular Materials and Nanomedicine.
+3 Credits.
+Nanomedicine is a quickly growing area that exploits the novel chemical, physical, and biological properties of nanostructures and nanostructured materials for medical treatments. This course presents basic design principles of constructing nanomaterials for use in drug delivery, disease diagnosis and imaging, and tissue engineering. Three major topics will be discussed, including 1) nanocarriers for drug delivery that are formed through soft matter assembly (e.g., surfactants, lipids, block copolymers, DNA, polyelectrolytes, peptides), 2) inorganic nanostructures for disease diagnosis and imaging (e.g., nanoparticles of gold and silver, quantum dots and carbon nanotubes), and 3) supramolecular scaffolds for tissue engineering and regenerative medicine. Students are expected to learn the physical, chemical and biological properties of each nanomaterial, the underlying physics and chemistry of fabricating such material, as well as their advantages and potential issues when used for biomedical applications. This course will also provide students opportunities for case studies on commercialized nanomedicine products. After this class, students should gain a deeper understanding of current challenges in translating nanoscience and nanotechnology into medical therapies.
+Distribution Area: Engineering, Natural Sciences"
+EN.540.630,Thermodynamics & Statistical Mechanics,3,"In this course we will aim for understanding the thermodynamics of chemical and bio-molecular systems. We will first review classical, macroscopic thermodynamics covering concepts such as equilibrium, stability and the role of thermodynamic potentials. Our goal will be to gain a feel for the generality of thermodynamics. Statistical mechanics provides a link between the mechanics of atoms and macroscopic thermodynamics. We will introduce this branch in two distinct ways: 1) following standard methods of developing concepts such as ensembles and partition functions, and 2) where we will treat the basis of statistical mechanics as a problem in inference. With this foundation, we will consider concepts relevant to understanding the liquid state. Chemical transformations in a liquid are of importance in much of chemistry and biology; quasi-chemical generalizations of the potential distribution theorem will be introduced to present these ideas. We hope to give an overview of modern developments relating equilibrium work to non-equilibrium work, as these are of increasing importance in studies on single molecule systems. Course is open to Chemical and Biomolecular Engineering BS/MS Concurrent and MSE students.",,Engineering,,,,"EN.540.630.
+Thermodynamics & Statistical Mechanics.
+3 Credits.
+In this course we will aim for understanding the thermodynamics of chemical and bio-molecular systems. We will first review classical, macroscopic thermodynamics covering concepts such as equilibrium, stability and the role of thermodynamic potentials. Our goal will be to gain a feel for the generality of thermodynamics. Statistical mechanics provides a link between the mechanics of atoms and macroscopic thermodynamics. We will introduce this branch in two distinct ways: 1) following standard methods of developing concepts such as ensembles and partition functions, and 2) where we will treat the basis of statistical mechanics as a problem in inference. With this foundation, we will consider concepts relevant to understanding the liquid state. Chemical transformations in a liquid are of importance in much of chemistry and biology; quasi-chemical generalizations of the potential distribution theorem will be introduced to present these ideas. We hope to give an overview of modern developments relating equilibrium work to non-equilibrium work, as these are of increasing importance in studies on single molecule systems. Course is open to Chemical and Biomolecular Engineering BS/MS Concurrent and MSE students.
+Distribution Area: Engineering"
+EN.540.632,Project in Design: Pharmacokinetics,3,"This is a design course in which the design projects will be to develop pharmacokinetic models of the human body that can be used to understand the temporal distribution, spatial distribution and bioavailability of pharmaceutical drugs. The course (and software to be developed) will cover the spectrum of factors affecting pharmaceutical bioavailability including drug formulation, mode of dosing and dosing rate, metabolism and metabolic cascades, storage in fatty tissues, and diffusional limitations (such as in crossing the blood-brain barrier or diffusional differences between normal and cancerous cells). The goal is to develop process models of the human body that will predict pharmaceutical bioavailability as a function of time and organ (or cell) type that will work for a wide variety of pharmaceuticals including small molecules, biologics, and chemotherapy agents. This course is organized to replicate group project work as it is practiced in industry. The class is divided into groups (typically 3 or 4 students) and each group will meet separately each week with the instructor.  Hence, there is no regularly scheduled class times; student groups sign up for weekly meeting times using Starfish in Blackboard.  These meetings typically will be 90 minutes long.  The expectations and assignments for this course are quite different from most other courses. There are no weekly lectures by the instructor. Rather, each week each group will make a PowerPoint presentation on the week's topic or their progress on their project.",,"Engineering, Natural Sciences","EN.540.633, EN.540.433, EN.540.632","Students who have taken
+EN.540.633
+OR
+EN.540.433
+are not eligible to take
+EN.540.632
+.",,"EN.540.632.
+Project in Design: Pharmacokinetics.
+3 Credits.
+This is a design course in which the design projects will be to develop pharmacokinetic models of the human body that can be used to understand the temporal distribution, spatial distribution and bioavailability of pharmaceutical drugs. The course (and software to be developed) will cover the spectrum of factors affecting pharmaceutical bioavailability including drug formulation, mode of dosing and dosing rate, metabolism and metabolic cascades, storage in fatty tissues, and diffusional limitations (such as in crossing the blood-brain barrier or diffusional differences between normal and cancerous cells). The goal is to develop process models of the human body that will predict pharmaceutical bioavailability as a function of time and organ (or cell) type that will work for a wide variety of pharmaceuticals including small molecules, biologics, and chemotherapy agents. This course is organized to replicate group project work as it is practiced in industry. The class is divided into groups (typically 3 or 4 students) and each group will meet separately each week with the instructor.  Hence, there is no regularly scheduled class times; student groups sign up for weekly meeting times using Starfish in Blackboard.  These meetings typically will be 90 minutes long.  The expectations and assignments for this course are quite different from most other courses. There are no weekly lectures by the instructor. Rather, each week each group will make a PowerPoint presentation on the week's topic or their progress on their project.
+Prerequisite(s):
+Students who have taken
+EN.540.633
+OR
+EN.540.433
+are not eligible to take
+EN.540.632
+.
+Distribution Area: Engineering, Natural Sciences"
+EN.540.633,Pharmacokinetics and Pharmacodynamics,3,"This is a one-semester version of the courses in Pharmacokinetics and Pharmacodynamics that were offered as a two-semester sequence in the past. The course (and software to be developed) will cover the spectrum of ways in which pharmaceuticals affect human physiology. The goal is to develop process models of the human body that will predict pharmaceutical effects as a function of time and organ (or cell) type that will work for a wide variety of pharmaceuticals including small molecules, biologics, and chemotherapy agents. This course is organized to replicate group project work as it is practiced in industry. The class is divided into groups (typically 3 or 4 students) and each group meets separately each week with the instructor. Hence, there is no regularly scheduled class times; student groups sign up for a weekly meeting time at the beginning of the semester.  These meetings typically will be 90 minutes long. The expectations and assignments for this course are quite different from most other courses. There are no weekly lectures by the instructor. Rather, each week each group will make a PowerPoint presentation on the week's topic or their progress on their project.This section may be cross-listed with other sections in the same course. Sections are cross-listed to enrich student learning and enhance collaboration opportunities.",,"Engineering, Natural Sciences","EN.540.621, EN.540.632, EN.540.433, EN.540.633","Students who have taken or are enrolled in
+EN.540.621
+OR
+EN.540.632
+OR
+EN.540.433
+cannot take
+EN.540.633
+.",This section may be cross-listed with other sections in the same course. | Sections are cross-listed to enrich student learning and enhance collaboration opportunities.,"EN.540.633.
+Pharmacokinetics and Pharmacodynamics.
+3 Credits.
+This is a one-semester version of the courses in Pharmacokinetics and Pharmacodynamics that were offered as a two-semester sequence in the past. The course (and software to be developed) will cover the spectrum of ways in which pharmaceuticals affect human physiology. The goal is to develop process models of the human body that will predict pharmaceutical effects as a function of time and organ (or cell) type that will work for a wide variety of pharmaceuticals including small molecules, biologics, and chemotherapy agents. This course is organized to replicate group project work as it is practiced in industry. The class is divided into groups (typically 3 or 4 students) and each group meets separately each week with the instructor. Hence, there is no regularly scheduled class times; student groups sign up for a weekly meeting time at the beginning of the semester.  These meetings typically will be 90 minutes long. The expectations and assignments for this course are quite different from most other courses. There are no weekly lectures by the instructor. Rather, each week each group will make a PowerPoint presentation on the week's topic or their progress on their project.This section may be cross-listed with other sections in the same course. Sections are cross-listed to enrich student learning and enhance collaboration opportunities.Recommended Course Background:
+EN.540.301
+- Kinetic Processes or Equivalent
+Prerequisite(s):
+Students who have taken or are enrolled in
+EN.540.621
+OR
+EN.540.632
+OR
+EN.540.433
+cannot take
+EN.540.633
+.
+Distribution Area: Engineering, Natural Sciences"
+EN.540.635,Software Carpentry,3,"A 'crash course' intended to teach new graduate students the fundamentals of programming and practical coding skills that will accelerate facility with computational aspects of graduate research. The course covers how computers work from the inside out, with an introduction to the Linux operating system. Programming will be taught primarily in Python, with an emphasis on solving research-related problems. This peer-taught course will cover variables, conditionals, loops, functions, classes, plotting, data structures and algorithms, with some advanced topics (C++, gradient-based minimization, Procrustes, eigenvalue/vector data analysis, embarrassingly parallel `for' loops). No prior programming skills are required, but experience with an introductory computing language will be helpful.  Familiarity with differential equations and linear algebra will be assumed.",,Engineering,,,,"EN.540.635.
+Software Carpentry.
+3 Credits.
+A 'crash course' intended to teach new graduate students the fundamentals of programming and practical coding skills that will accelerate facility with computational aspects of graduate research. The course covers how computers work from the inside out, with an introduction to the Linux operating system. Programming will be taught primarily in Python, with an emphasis on solving research-related problems. This peer-taught course will cover variables, conditionals, loops, functions, classes, plotting, data structures and algorithms, with some advanced topics (C++, gradient-based minimization, Procrustes, eigenvalue/vector data analysis, embarrassingly parallel `for' loops). No prior programming skills are required, but experience with an introductory computing language will be helpful.  Familiarity with differential equations and linear algebra will be assumed.
+Distribution Area: Engineering"
+EN.540.637,Application of Molecular Evolution to Biotechnology,3,"One of the most promising strategies for successfully designing complex biomolecular functions is to exploit nature's principles of evolution. This course provides an overview of the basics of molecular evolution as well as its experimental implementation. Current research problems in evolution-based biomolecular engineering will be used to illustrate principles in the design of biomolecules (i.e. protein engineering, RNA/DNA engineering), genetic circuits and complex biological systems including cells. A course in Biochemistry or Molecular Biology is recommendedMeets with EN.540.437Undergraduates with the appropriate background can take the course with permission of the instructor.",,"Engineering, Natural Sciences",,,,"EN.540.637.
+Application of Molecular Evolution to Biotechnology.
+3 Credits.
+One of the most promising strategies for successfully designing complex biomolecular functions is to exploit nature's principles of evolution. This course provides an overview of the basics of molecular evolution as well as its experimental implementation. Current research problems in evolution-based biomolecular engineering will be used to illustrate principles in the design of biomolecules (i.e. protein engineering, RNA/DNA engineering), genetic circuits and complex biological systems including cells. A course in Biochemistry or Molecular Biology is recommendedMeets with EN.540.437Undergraduates with the appropriate background can take the course with permission of the instructor.
+Distribution Area: Engineering, Natural Sciences"
+EN.540.638,Advanced Topics in Pharmacokinetics and Pharmacodynamics I,3,This course involves a semester-long project in pharmacodynamics.  Topics are chosen in consultation with instructor.,,"Engineering, Natural Sciences",,,,"EN.540.638.
+Advanced Topics in Pharmacokinetics and Pharmacodynamics I.
+3 Credits.
+This course involves a semester-long project in pharmacodynamics.  Topics are chosen in consultation with instructor.
+Distribution Area: Engineering, Natural Sciences"
+EN.540.639,Advanced Topics in Pharmacokinetics and Pharmacodynamics II,3,This course involves a semester-long project in pharmacodynamics. Topics are chosen in consultation with instructor.,,"Engineering, Natural Sciences",EN.540.638,EN.540.638,,"EN.540.639.
+Advanced Topics in Pharmacokinetics and Pharmacodynamics II.
+3 Credits.
+This course involves a semester-long project in pharmacodynamics. Topics are chosen in consultation with instructor.
+Prerequisite(s):
+EN.540.638
+Distribution Area: Engineering, Natural Sciences"
+EN.540.640,Micro/Nanotechnology: The Science and Engineering of Small Structures,3,"The field of micro / nanotechnology has been gaining tremendous momentum as evidenced by an explosive rise in the number of publications, patents and commercial activities. This is an introductory course intended to expose students to the field as well as real world applications. Lectures will include an overview of scaling of material properties at the nanoscale, micro and nanofabrication methods and essential analytical tools of relevance to the field. All through the course, we will go over electronic, optical and biological applications of emerging micro and nanoscale devices and materials. Co-listed with
+EN.540.440
+.",,,,,,"EN.540.640.
+Micro/Nanotechnology: The Science and Engineering of Small Structures.
+3 Credits.
+The field of micro / nanotechnology has been gaining tremendous momentum as evidenced by an explosive rise in the number of publications, patents and commercial activities. This is an introductory course intended to expose students to the field as well as real world applications. Lectures will include an overview of scaling of material properties at the nanoscale, micro and nanofabrication methods and essential analytical tools of relevance to the field. All through the course, we will go over electronic, optical and biological applications of emerging micro and nanoscale devices and materials. Co-listed with
+EN.540.440
+."
+EN.540.652,Advanced Transport Phenomena,3,"It is the goal of this course to move the graduate student (and advanced undergraduate student) from the introductory level of transport phenomena (undergraduate) to a level that will allow them to be effective in researching transport-related topics in a variety of biomedical, chemical and biochemical engineering areas. The basic equations that govern mass, momentum, and energy transport will be derived and used to solve problems that demonstrate the physical insight necessary to apply these equations to original situations. Some topics include solution techniques utilizing expansions of harmonic functions, singularity solutions, lubrication theory for flow in confined geometries, boundary layer theory, Stokes flow, forced convection, buoyancy-driven flow, Taylor-Aris dispersion, and reaction-diffusion.  Open to PhD students as well as Chemical and Biomolecular Engineering BS/MSE Concurrent and MSE students.",,Engineering,,,,"EN.540.652.
+Advanced Transport Phenomena.
+3 Credits.
+It is the goal of this course to move the graduate student (and advanced undergraduate student) from the introductory level of transport phenomena (undergraduate) to a level that will allow them to be effective in researching transport-related topics in a variety of biomedical, chemical and biochemical engineering areas. The basic equations that govern mass, momentum, and energy transport will be derived and used to solve problems that demonstrate the physical insight necessary to apply these equations to original situations. Some topics include solution techniques utilizing expansions of harmonic functions, singularity solutions, lubrication theory for flow in confined geometries, boundary layer theory, Stokes flow, forced convection, buoyancy-driven flow, Taylor-Aris dispersion, and reaction-diffusion.  Open to PhD students as well as Chemical and Biomolecular Engineering BS/MSE Concurrent and MSE students.
+Distribution Area: Engineering"
+EN.540.658,Modeling and Design of Sustainable Chemical Processes,3,"This course will survey many of the techniques used to design catalysts and adsorbents using theory and atomistic simulations applicable to both computational and experimental students. The techniques covered include Density Functional Theory (DFT), Monte Carlo, Molecular Dynamics, and Microkinetic Modeling. Linear free energy relationships, Bronsted-Evans-Polanyi relationships, entropy scaling relationships, and new data-science approaches will be used to describe how optimal catalysts/adsorbents can be designed from atomistic simulations.",,Engineering,,,,"EN.540.658.
+Modeling and Design of Sustainable Chemical Processes.
+3 Credits.
+This course will survey many of the techniques used to design catalysts and adsorbents using theory and atomistic simulations applicable to both computational and experimental students. The techniques covered include Density Functional Theory (DFT), Monte Carlo, Molecular Dynamics, and Microkinetic Modeling. Linear free energy relationships, Bronsted-Evans-Polanyi relationships, entropy scaling relationships, and new data-science approaches will be used to describe how optimal catalysts/adsorbents can be designed from atomistic simulations.
+Distribution Area: Engineering"
+EN.540.660,Polymer Physics,3,"This course will discuss theoretical concepts on the physics of polymer systems. Topics include scaling behavior of chains under different conditions, mixing thermodynamics, networks and gelation, polymer dynamics, including reptation and entanglements. Special topics will also include nanocomposites and polymeric brushes.",,Engineering,,,,"EN.540.660.
+Polymer Physics.
+3 Credits.
+This course will discuss theoretical concepts on the physics of polymer systems. Topics include scaling behavior of chains under different conditions, mixing thermodynamics, networks and gelation, polymer dynamics, including reptation and entanglements. Special topics will also include nanocomposites and polymeric brushes.
+Distribution Area: Engineering"
+EN.540.665,Engineering Principles of Drug Delivery,3,"Fundamental concepts in drug delivery from an engineering perspective. Biological organisms are viewed as highly interconnected networks where the surfaces/interfaces can be activated or altered ‘chemically’ and ‘physically/mechanically’. The importance of intermolecular and interfacial interactions on drug delivery carriers is the focal point of this course. Topics include: drug delivery mechanisms (passive, targeted); therapeutic modalities and mechanisms of action; engineering principles of controlled release and quantitative understanding of drug transport (diffusion, convection); effects of electrostatics, macromolecular conformation, and molecular dynamics on interfacial interactions; thermodynamic principles of self-assembly; chemical and physical characteristics of delivery molecules and assemblies (polymer based, lipid based); significance of biodistributions and pharmacokinetic models; toxicity issues and immune responses.Recommended prerequisite: Transport Phenomena -
+EN.540.303
+or equivalent",,"Engineering, Natural Sciences","EN.540.465, EN.540.665","Students may take
+EN.540.465
+or
+EN.540.665
+, but not both.",,"EN.540.665.
+Engineering Principles of Drug Delivery.
+3 Credits.
+Fundamental concepts in drug delivery from an engineering perspective. Biological organisms are viewed as highly interconnected networks where the surfaces/interfaces can be activated or altered ‘chemically’ and ‘physically/mechanically’. The importance of intermolecular and interfacial interactions on drug delivery carriers is the focal point of this course. Topics include: drug delivery mechanisms (passive, targeted); therapeutic modalities and mechanisms of action; engineering principles of controlled release and quantitative understanding of drug transport (diffusion, convection); effects of electrostatics, macromolecular conformation, and molecular dynamics on interfacial interactions; thermodynamic principles of self-assembly; chemical and physical characteristics of delivery molecules and assemblies (polymer based, lipid based); significance of biodistributions and pharmacokinetic models; toxicity issues and immune responses.Recommended prerequisite: Transport Phenomena -
+EN.540.303
+or equivalent
+Prerequisite(s):
+Students may take
+EN.540.465
+or
+EN.540.665
+, but not both.
+Distribution Area: Engineering, Natural Sciences"
+EN.540.667,Targeted Drug Delivery: Mechanistic Concepts,3,"This course provides an introduction to targeted drug delivery and will explore the following concepts: forces that influence self-assembly and examples of self-assembled nanoparticles, controlled and targeted drug delivery, mechanisms of cellular internalization, pharmacokinetics and biodistribution of nanoparticles and nucleic acid delivery. The course is based on critical analysis of scientific literature.",,Engineering,,,,"EN.540.667.
+Targeted Drug Delivery: Mechanistic Concepts.
+3 Credits.
+This course provides an introduction to targeted drug delivery and will explore the following concepts: forces that influence self-assembly and examples of self-assembled nanoparticles, controlled and targeted drug delivery, mechanisms of cellular internalization, pharmacokinetics and biodistribution of nanoparticles and nucleic acid delivery. The course is based on critical analysis of scientific literature.
+Distribution Area: Engineering"
+EN.540.671,Advanced Thermodynamics in Practice,3,"In this course, we will discuss the important role that thermodynamics plays in chemical engineering practice.  After a short review of the first and second laws, we will examine how thermodynamic concepts affect mass and energy balances. We will discuss the properties of systems containing pure species and mixtures and how to analyze the behavior of ideal and real systems.  We will estimate heat effects associated with temperature change, phase change, and chemical reaction.  The theory associated with properties of pure fluids will be discussed along its application to flow processes.  We will present the framework for understanding solution thermodynamics and mixing. Applications of thermodynamics especially important to chemical engineers, such as vapor-liquid equilibrium in distillation and chemical reaction equilibrium in kinetics and reaction engineering, will be discussed.  Examples will serve to illustrate how thermodynamic calculations are an integral part of the design and optimization of chemical processes.",,Engineering,,,,"EN.540.671.
+Advanced Thermodynamics in Practice.
+3 Credits.
+In this course, we will discuss the important role that thermodynamics plays in chemical engineering practice.  After a short review of the first and second laws, we will examine how thermodynamic concepts affect mass and energy balances. We will discuss the properties of systems containing pure species and mixtures and how to analyze the behavior of ideal and real systems.  We will estimate heat effects associated with temperature change, phase change, and chemical reaction.  The theory associated with properties of pure fluids will be discussed along its application to flow processes.  We will present the framework for understanding solution thermodynamics and mixing. Applications of thermodynamics especially important to chemical engineers, such as vapor-liquid equilibrium in distillation and chemical reaction equilibrium in kinetics and reaction engineering, will be discussed.  Examples will serve to illustrate how thermodynamic calculations are an integral part of the design and optimization of chemical processes.
+Distribution Area: Engineering"
+EN.540.673,Advanced Chemical Reaction Engineering in Practice,3,"Chemical reaction engineering deals with the analysis on data and the design of equipment in which reactions occur.  Reactors may contain one or more phases and be used to conduct chemical or biochemical transformations.  The course will cover the fundamental aspects of kinetics, data acquisition, data interpretation, heterogeneous catalysis and heat and mass transfer for each type of reactor.  Special emphasis will be placed on the practical application of reaction engineering in the petrochemical, chemical, biochemical and materials industries.  The course will make student aware of the needs and opportunities for chemical reaction engineering in industry.",,"Engineering, Quantitative and Mathematical Sciences",,,,"EN.540.673.
+Advanced Chemical Reaction Engineering in Practice.
+3 Credits.
+Chemical reaction engineering deals with the analysis on data and the design of equipment in which reactions occur.  Reactors may contain one or more phases and be used to conduct chemical or biochemical transformations.  The course will cover the fundamental aspects of kinetics, data acquisition, data interpretation, heterogeneous catalysis and heat and mass transfer for each type of reactor.  Special emphasis will be placed on the practical application of reaction engineering in the petrochemical, chemical, biochemical and materials industries.  The course will make student aware of the needs and opportunities for chemical reaction engineering in industry.
+Distribution Area: Engineering, Quantitative and Mathematical Sciences"
+EN.540.674,Advanced Separation and Purification Processes in Practice,3,"This course covers separation and purification processes (adsorption, absorption, membranes, distillation, chromatography, etc.) critical to the production of chemicals, materials, clean water, safe food, energy and pharmaceuticals. It also covers separations as applied in recycling and reuse and in mitigation of pollution. Integration of separation processes with reactors for intensified processes and reactive separations are also discussed. Emphasis is given on fundamentals of mass transfer processes and how they can be integrated for process design and process scale assessment.",,Engineering,"EN.540.303, EN.540.203","EN.540.303
+AND
+EN.540.203",,"EN.540.674.
+Advanced Separation and Purification Processes in Practice.
+3 Credits.
+This course covers separation and purification processes (adsorption, absorption, membranes, distillation, chromatography, etc.) critical to the production of chemicals, materials, clean water, safe food, energy and pharmaceuticals. It also covers separations as applied in recycling and reuse and in mitigation of pollution. Integration of separation processes with reactors for intensified processes and reactive separations are also discussed. Emphasis is given on fundamentals of mass transfer processes and how they can be integrated for process design and process scale assessment.
+Prerequisite(s):
+EN.540.303
+AND
+EN.540.203
+Distribution Area: Engineering"
+EN.540.681,Molecular Kinetics and Catalysis,3,"This course discusses chemical reaction kinetics, with an emphasis on understanding the macroscopic reaction phenomena (reaction rates, activation energies, rate constants, etc.) from microscopic molecular dynamics. Topics of interest include reacting chemical mixtures, molecular collision theory, potential energy surfaces, transition state theory, uni- or bi-molecular reaction dynamics, etc. Catalytic mechanisms will be discussed in terms of heterogeneous reactions at solid-gas interface and homogeneous reactions in solution phase. Scenarios of applications will cover examples drawn from petroleum and chemical industries, pharmaceutics, renewable energy technologies (e.g., fuel cells), and biomedicine (enzymatic catalysis).",,Engineering,,,,"EN.540.681.
+Molecular Kinetics and Catalysis.
+3 Credits.
+This course discusses chemical reaction kinetics, with an emphasis on understanding the macroscopic reaction phenomena (reaction rates, activation energies, rate constants, etc.) from microscopic molecular dynamics. Topics of interest include reacting chemical mixtures, molecular collision theory, potential energy surfaces, transition state theory, uni- or bi-molecular reaction dynamics, etc. Catalytic mechanisms will be discussed in terms of heterogeneous reactions at solid-gas interface and homogeneous reactions in solution phase. Scenarios of applications will cover examples drawn from petroleum and chemical industries, pharmaceutics, renewable energy technologies (e.g., fuel cells), and biomedicine (enzymatic catalysis).
+Distribution Area: Engineering"
+EN.540.691,Product Design 1,3,"This course is designed to give students in ChemBE the requisite skills to generate and screen ideas for new venture creation and then prepare a business plan for an innovative technology of their own design. These skills include the ability to incorporate into a formal business case all necessary requirements, including needs identification and validation; business cases; and, market strategies and plans. This course is the first part of a two-semester sequence; the second part will be directed by ChemBE faculty and focus on the actual construction/programming of the business idea. Students should have STEM background and knowledge of material and energy balances. Note that students must take 540.610 to complete this sequence.",,"Engineering, Natural Sciences",,,,"EN.540.691.
+Product Design 1.
+3 Credits.
+This course is designed to give students in ChemBE the requisite skills to generate and screen ideas for new venture creation and then prepare a business plan for an innovative technology of their own design. These skills include the ability to incorporate into a formal business case all necessary requirements, including needs identification and validation; business cases; and, market strategies and plans. This course is the first part of a two-semester sequence; the second part will be directed by ChemBE faculty and focus on the actual construction/programming of the business idea. Students should have STEM background and knowledge of material and energy balances. Note that students must take 540.610 to complete this sequence.
+Distribution Area: Engineering, Natural Sciences"
+EN.540.693,Product Design 3,3,"This course is the third of a two, three or four semester sequence in Product Design. It is intended for students in the ChemBE master’s program. This course guides the student through the complex process of new product design. Product design concerns the recognition of customer needs, the creation of suitable specifications, and the selection of best products to fulfill needs. It also requires consideration of safety of product production workers, public safety and environment impact. Students work in small teams to develop a new product idea, design the product and then iterate on prototype development. Students report weekly both orally and in writing on their accomplishments. Time is allowed so that laboratory tests can be performed and/or prototypes can be built. Note that generally at least two courses, 540.691 and 540.692, must be taken to complete the prototype development. These courses can be started in any term.",,Engineering,,,,"EN.540.693.
+Product Design 3.
+3 Credits.
+This course is the third of a two, three or four semester sequence in Product Design. It is intended for students in the ChemBE master’s program. This course guides the student through the complex process of new product design. Product design concerns the recognition of customer needs, the creation of suitable specifications, and the selection of best products to fulfill needs. It also requires consideration of safety of product production workers, public safety and environment impact. Students work in small teams to develop a new product idea, design the product and then iterate on prototype development. Students report weekly both orally and in writing on their accomplishments. Time is allowed so that laboratory tests can be performed and/or prototypes can be built. Note that generally at least two courses, 540.691 and 540.692, must be taken to complete the prototype development. These courses can be started in any term.
+Distribution Area: Engineering"
+EN.540.694,Product Design 4,3,"This course is the fourth of a two, three or four semester sequence in Product Design. It is intended for students in the ChemBE master’s program. This course guides the student through the complex process of new product design. Product design concerns the recognition of customer needs, the creation of suitable specifications, and the selection of best products to fulfill needs. It also requires consideration of safety of product production workers, public safety and environment impact. Students work in small teams to develop a new product idea, design the product and then iterate on prototype development. Students report weekly both orally and in writing on their accomplishments. Time is allowed so that laboratory tests can be performed and/or prototypes can be built. Note that generally at least two courses, 540.691 and 540.692, must be taken to complete the prototype development. These courses can be started in any term.",,Engineering,,,,"EN.540.694.
+Product Design 4.
+3 Credits.
+This course is the fourth of a two, three or four semester sequence in Product Design. It is intended for students in the ChemBE master’s program. This course guides the student through the complex process of new product design. Product design concerns the recognition of customer needs, the creation of suitable specifications, and the selection of best products to fulfill needs. It also requires consideration of safety of product production workers, public safety and environment impact. Students work in small teams to develop a new product idea, design the product and then iterate on prototype development. Students report weekly both orally and in writing on their accomplishments. Time is allowed so that laboratory tests can be performed and/or prototypes can be built. Note that generally at least two courses, 540.691 and 540.692, must be taken to complete the prototype development. These courses can be started in any term.
+Distribution Area: Engineering"
+EN.540.695,Special Topics in Chemical and Biomolecular Engineering,3,"This course will focus on Special Topics of current interest in Chemical and Biomolecular Engineering and reflect the breadth of expertise in the department. This course is repeatable.; however, students may not take the same topic more than once. Mixing is an important, and in some cases critical, unit operation for the process industries yet it is rarely included in the chemical engineering curriculum. The aim of this course is to introduce students to the basic concepts of mixing principles and their application to specific mixing operations. These will include blending of fluids in the turbulent and laminar regimes, including the effects of non-Newtonian behavior; multi-phase mixing including aerobic bioreactors; and the role of mixing in complex chemical reactions. Homework and exam problems will involve the design of mixing equipment.",,,"EN.540.495, EN.540.695","Students who have taken, or are currently enrolled in
+EN.540.495
+, are not eligible to take
+EN.540.695
+.",,"EN.540.695.
+Special Topics in Chemical and Biomolecular Engineering.
+3 Credits.
+This course will focus on Special Topics of current interest in Chemical and Biomolecular Engineering and reflect the breadth of expertise in the department. This course is repeatable.; however, students may not take the same topic more than once. Mixing is an important, and in some cases critical, unit operation for the process industries yet it is rarely included in the chemical engineering curriculum. The aim of this course is to introduce students to the basic concepts of mixing principles and their application to specific mixing operations. These will include blending of fluids in the turbulent and laminar regimes, including the effects of non-Newtonian behavior; multi-phase mixing including aerobic bioreactors; and the role of mixing in complex chemical reactions. Homework and exam problems will involve the design of mixing equipment.
+Prerequisite(s):
+Students who have taken, or are currently enrolled in
+EN.540.495
+, are not eligible to take
+EN.540.695
+."
+EN.540.699,ChemBE - PhD Program Information Sessions,1,"The course introduces primarily course-related and research-related informational sessions for first year PhD students with the aim to best serve their onboarding to the ChemBE PhD program. The information sessions include, but are not limited to: ChemBE faculty research talks, expectations and advice for annual reviews, preparation for NSF Grad Fellowship (and other fellowship) applications, hands-on ethics situations, leadership exercises, safety, graduate student community meetings, etc.",,,,,,"EN.540.699.
+ChemBE - PhD Program Information Sessions.
+1 Credit.
+The course introduces primarily course-related and research-related informational sessions for first year PhD students with the aim to best serve their onboarding to the ChemBE PhD program. The information sessions include, but are not limited to: ChemBE faculty research talks, expectations and advice for annual reviews, preparation for NSF Grad Fellowship (and other fellowship) applications, hands-on ethics situations, leadership exercises, safety, graduate student community meetings, etc."
+EN.540.804,Graduate Internship,9,"This course is for ChemBE graduate students who have received approval to pursue an internship that is relevant to the students' academic program. Requires approval from advisor, DGS, and OIS (if applicable). Students will be required to produce a written report at the conclusion of the internship.",,,,,,"EN.540.804.
+Graduate Internship.
+9 Credits.
+This course is for ChemBE graduate students who have received approval to pursue an internship that is relevant to the students' academic program. Requires approval from advisor, DGS, and OIS (if applicable). Students will be required to produce a written report at the conclusion of the internship."

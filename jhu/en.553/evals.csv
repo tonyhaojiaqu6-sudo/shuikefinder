@@ -1,0 +1,418 @@
+course_code,course_title,instructor,instructors_full,term,department,workload_avg,teaching_avg,intellectual_avg
+EN.553.101.01.FA24,Freshman Experience in Applied Mathematics & Statistics,"Naiman, Dan","Naiman, Dan",2024 Fall,Applied Mathematics and Statistics,1.25,4.80,4.60
+EN.553.111.01.SP24,Statistical Analysis I,"Titi, Aseel","Titi, Aseel",2024 Spring,Applied Mathematics and Statistics,3.06,4.00,3.94
+EN.553.111.02.SP24,Statistical Analysis I,"Titi, Aseel","Titi, Aseel",2024 Spring,Applied Mathematics and Statistics,3.10,4.50,4.50
+EN.553.111.02.FA24,Statistical Analysis I,"Vandecasteele, Hannes","Vandecasteele, Hannes",2024 Fall,Applied Mathematics and Statistics,2.94,4.47,4.12
+EN.553.111.01.FA24,Statistical Analysis I,"Vandecasteele, Hannes","Vandecasteele, Hannes",2024 Fall,Applied Mathematics and Statistics,3.18,4.27,4.18
+EN.553.111.02.SP25,Statistical Analysis I,"Vandecasteele, Hannes","Vandecasteele, Hannes",2025 Spring,Applied Mathematics and Statistics,2.88,4.44,4.31
+EN.553.111.01.SP25,Statistical Analysis I,"Vandecasteele, Hannes","Vandecasteele, Hannes",2025 Spring,Applied Mathematics and Statistics,3.21,3.67,3.92
+EN.553.111.01.FA25,Statistical Analysis I,"Acharyya, Aranyak","Acharyya, Aranyak",2025 Fall,Applied Mathematics and Statistics,2.67,3.00,2.80
+EN.553.111.02.FA25,Statistical Analysis I,"Acharyya, Aranyak","Acharyya, Aranyak",2025 Fall,Applied Mathematics and Statistics,2.83,4.00,3.83
+EN.553.171.03.SP24,Discrete Mathematics,"Khalife, Sammy","Khalife, Sammy",2024 Spring,Applied Mathematics and Statistics,2.92,4.17,4.31
+EN.553.171.01.SP24,Discrete Mathematics,"Khalife, Sammy","Khalife, Sammy",2024 Spring,Applied Mathematics and Statistics,2.88,4.13,3.75
+EN.553.171.02.SP24,Discrete Mathematics,"Khalife, Sammy","Khalife, Sammy",2024 Spring,Applied Mathematics and Statistics,3.18,4.05,4.27
+EN.553.171.02.FA24,Discrete Mathematics,"Nakade, Apurva","Nakade, Apurva",2024 Fall,Applied Mathematics and Statistics,3.86,3.71,4.43
+EN.553.171.01.FA24,Discrete Mathematics,"Nakade, Apurva","Nakade, Apurva",2024 Fall,Applied Mathematics and Statistics,3.42,4.42,4.25
+EN.553.171.03.FA24,Discrete Mathematics,"Nakade, Apurva","Nakade, Apurva",2024 Fall,Applied Mathematics and Statistics,4.00,4.58,4.42
+EN.553.171.02.SP25,Discrete Mathematics,"Nakade, Apurva","Nakade, Apurva",2025 Spring,Applied Mathematics and Statistics,3.56,4.44,4.38
+EN.553.171.01.SP25,Discrete Mathematics,"Nakade, Apurva","Nakade, Apurva",2025 Spring,Applied Mathematics and Statistics,3.13,4.75,3.63
+EN.553.171.02.FA25,Discrete Mathematics,"Nakade, Apurva","Nakade, Apurva",2025 Fall,Applied Mathematics and Statistics,3.76,4.48,4.38
+EN.553.171.01.FA25,Discrete Mathematics,"Nakade, Apurva","Nakade, Apurva",2025 Fall,Applied Mathematics and Statistics,3.48,4.48,4.30
+EN.553.172.01.FA24,Honors Discrete Mathematics,"Hong, Su Ji","Hong, Su Ji",2024 Fall,Applied Mathematics and Statistics,3.46,4.31,4.15
+EN.553.172.02.FA24,Honors Discrete Mathematics,"Hong, Su Ji","Hong, Su Ji",2024 Fall,Applied Mathematics and Statistics,3.50,4.77,4.55
+EN.553.172.01.SP25,Honors Discrete Mathematics,"Hong, Su Ji","Hong, Su Ji",2025 Spring,Applied Mathematics and Statistics,2.86,4.57,4.00
+EN.553.172.01.FA25,Honors Discrete Mathematics,"Gnang, DrG","Gnang, DrG",2025 Fall,Applied Mathematics and Statistics,4.18,4.11,4.50
+EN.553.172.02.FA25,Honors Discrete Mathematics,"Hong, Su Ji","Hong, Su Ji",2025 Fall,Applied Mathematics and Statistics,3.72,4.44,4.50
+EN.553.211.05.SP24,Probability and Statistics for the Life Sciences,"O'Hare, Kaiying","O'Hare, Kaiying",2024 Spring,Applied Mathematics and Statistics,3.13,3.13,3.86
+EN.553.211.02.SP24,Probability and Statistics for the Life Sciences,"Jones, Taylor","Jones, Taylor",2024 Spring,Applied Mathematics and Statistics,3.71,3.64,3.64
+EN.553.211.03.SP24,Probability and Statistics for the Life Sciences,"Zheng, Runbing","Zheng, Runbing",2024 Spring,Applied Mathematics and Statistics,3.63,3.30,4.00
+EN.553.211.08.SP24,Probability and Statistics for the Life Sciences,"Jones, Taylor","Jones, Taylor",2024 Spring,Applied Mathematics and Statistics,3.61,4.00,4.26
+EN.553.211.07.SP24,Probability and Statistics for the Life Sciences,"Jones, Taylor","Jones, Taylor",2024 Spring,Applied Mathematics and Statistics,3.84,4.35,4.50
+EN.553.211.01.SP24,Probability and Statistics for the Life Sciences,"Jones, Taylor","Jones, Taylor",2024 Spring,Applied Mathematics and Statistics,3.28,3.76,3.80
+EN.553.211.06.SP24,Probability and Statistics for the Life Sciences,"O'Hare, Kaiying","O'Hare, Kaiying",2024 Spring,Applied Mathematics and Statistics,3.56,3.37,4.10
+EN.553.211.04.SP24,Probability and Statistics for the Life Sciences,"Zheng, Runbing","Zheng, Runbing",2024 Spring,Applied Mathematics and Statistics,3.23,3.08,4.08
+EN.553.211.08.FA24,Probability and Statistics for the Life Sciences,"Zheng,  Runbing","Zheng,  Runbing",2024 Fall,Applied Mathematics and Statistics,3.59,3.00,4.00
+EN.553.211.07.FA24,Probability and Statistics for the Life Sciences,"Zheng,  Runbing","Zheng,  Runbing",2024 Fall,Applied Mathematics and Statistics,3.55,2.91,3.73
+EN.553.211.05.FA24,Probability and Statistics for the Life Sciences,"Zheng,  Runbing","Zheng,  Runbing",2024 Fall,Applied Mathematics and Statistics,3.56,2.78,4.00
+EN.553.211.03.FA24,Probability and Statistics for the Life Sciences,"Zheng,  Runbing","Zheng,  Runbing",2024 Fall,Applied Mathematics and Statistics,3.60,3.00,4.20
+EN.553.211.03.FA24,Probability and Statistics for the Life Sciences,"Jones, Taylor","Jones, Taylor",2024 Fall,Applied Mathematics and Statistics,3.60,3.75,4.20
+EN.553.211.01.FA24,Probability and Statistics for the Life Sciences,"Zheng,  Runbing","Zheng,  Runbing",2024 Fall,Applied Mathematics and Statistics,3.75,4.25,4.25
+EN.553.211.01.FA24,Probability and Statistics for the Life Sciences,"Jones, Taylor","Jones, Taylor",2024 Fall,Applied Mathematics and Statistics,3.75,3.95,4.25
+EN.553.211.04.FA24,Probability and Statistics for the Life Sciences,"Zheng,  Runbing","Zheng,  Runbing",2024 Fall,Applied Mathematics and Statistics,3.52,1.00,4.25
+EN.553.211.04.FA24,Probability and Statistics for the Life Sciences,"Jones, Taylor","Jones, Taylor",2024 Fall,Applied Mathematics and Statistics,3.52,3.67,4.25
+EN.553.211.06.FA24,Probability and Statistics for the Life Sciences,"Zheng,  Runbing","Zheng,  Runbing",2024 Fall,Applied Mathematics and Statistics,3.61,2.91,3.95
+EN.553.211.02.FA24,Probability and Statistics for the Life Sciences,"Zheng,  Runbing","Zheng,  Runbing",2024 Fall,Applied Mathematics and Statistics,3.55,4.14,3.95
+EN.553.211.02.FA24,Probability and Statistics for the Life Sciences,"Jones, Taylor","Jones, Taylor",2024 Fall,Applied Mathematics and Statistics,3.55,4.13,3.95
+EN.553.211.07.SP25,Probability and Statistics for the Life Sciences,"Zheng, Runbing","Zheng, Runbing",2025 Spring,Applied Mathematics and Statistics,3.73,3.91,4.18
+EN.553.211.03.SP25,Probability and Statistics for the Life Sciences,"Acharyya, Aranyak","Acharyya, Aranyak",2025 Spring,Applied Mathematics and Statistics,3.57,2.36,3.64
+EN.553.211.05.SP25,Probability and Statistics for the Life Sciences,"Acharyya, Aranyak","Acharyya, Aranyak",2025 Spring,Applied Mathematics and Statistics,3.77,2.35,4.13
+EN.553.211.01.SP25,Probability and Statistics for the Life Sciences,"Jones, Taylor","Jones, Taylor",2025 Spring,Applied Mathematics and Statistics,3.55,3.38,3.68
+EN.553.211.02.SP25,Probability and Statistics for the Life Sciences,"Jones, Taylor","Jones, Taylor",2025 Spring,Applied Mathematics and Statistics,3.68,4.00,4.00
+EN.553.211.04.SP25,Probability and Statistics for the Life Sciences,"Acharyya, Aranyak","Acharyya, Aranyak",2025 Spring,Applied Mathematics and Statistics,3.60,2.11,3.70
+EN.553.211.06.SP25,Probability and Statistics for the Life Sciences,"Acharyya, Aranyak","Acharyya, Aranyak",2025 Spring,Applied Mathematics and Statistics,3.50,2.46,3.65
+EN.553.211.08.SP25,Probability and Statistics for the Life Sciences,"Zheng, Runbing","Zheng, Runbing",2025 Spring,Applied Mathematics and Statistics,3.86,3.14,3.29
+EN.553.211.08.FA25,Probability and Statistics for the Life Sciences,"Zheng, Runbing","Zheng, Runbing",2025 Fall,Applied Mathematics and Statistics,3.50,3.53,4.24
+EN.553.211.07.FA25,Probability and Statistics for the Life Sciences,"Zheng, Runbing","Zheng, Runbing",2025 Fall,Applied Mathematics and Statistics,3.35,3.31,4.13
+EN.553.211.05.FA25,Probability and Statistics for the Life Sciences,"Zheng, Runbing","Zheng, Runbing",2025 Fall,Applied Mathematics and Statistics,3.81,3.50,4.05
+EN.553.211.04.FA25,Probability and Statistics for the Life Sciences,"Zheng, Runbing","Zheng, Runbing",2025 Fall,Applied Mathematics and Statistics,3.50,3.00,4.44
+EN.553.211.04.FA25,Probability and Statistics for the Life Sciences,"Jones, Taylor","Jones, Taylor",2025 Fall,Applied Mathematics and Statistics,3.50,3.82,4.44
+EN.553.211.03.FA25,Probability and Statistics for the Life Sciences,Jones + Zheng,"Jones, Taylor + Zheng, Runbing",2025 Fall,Applied Mathematics and Statistics,3.07,3.50,3.88
+EN.553.211.02.FA25,Probability and Statistics for the Life Sciences,"Zheng, Runbing","Zheng, Runbing",2025 Fall,Applied Mathematics and Statistics,3.78,3.40,4.24
+EN.553.211.02.FA25,Probability and Statistics for the Life Sciences,"Jones, Taylor","Jones, Taylor",2025 Fall,Applied Mathematics and Statistics,3.78,3.65,4.24
+EN.553.211.01.FA25,Probability and Statistics for the Life Sciences,"Zheng, Runbing","Zheng, Runbing",2025 Fall,Applied Mathematics and Statistics,3.59,4.00,4.38
+EN.553.211.01.FA25,Probability and Statistics for the Life Sciences,"Jones, Taylor","Jones, Taylor",2025 Fall,Applied Mathematics and Statistics,3.59,3.88,4.38
+EN.553.211.06.FA25,Probability and Statistics for the Life Sciences,"Zheng, Runbing","Zheng, Runbing",2025 Fall,Applied Mathematics and Statistics,3.59,3.05,4.17
+EN.553.291.05.SP24,Linear Algebra and Differential Equations,"Nakade, Apurva","Nakade, Apurva",2024 Spring,Applied Mathematics and Statistics,4.43,4.67,4.71
+EN.553.291.01.SP24,Linear Algebra and Differential Equations,"Nakade, Apurva","Nakade, Apurva",2024 Spring,Applied Mathematics and Statistics,4.50,4.40,4.44
+EN.553.291.04.SP24,Linear Algebra and Differential Equations,"Micheli, Mario","Micheli, Mario",2024 Spring,Applied Mathematics and Statistics,4.59,4.67,4.81
+EN.553.291.06.SP24,Linear Algebra and Differential Equations,"Nakade, Apurva","Nakade, Apurva",2024 Spring,Applied Mathematics and Statistics,4.71,4.29,4.50
+EN.553.291.03.SP24,Linear Algebra and Differential Equations,"Micheli, Mario","Micheli, Mario",2024 Spring,Applied Mathematics and Statistics,4.60,4.48,4.57
+EN.553.291.02.SP24,Linear Algebra and Differential Equations,"Nakade, Apurva","Nakade, Apurva",2024 Spring,Applied Mathematics and Statistics,4.32,4.63,4.52
+EN.553.291.06.FA24,Linear Algebra and Differential Equations,"Titi, Aseel","Titi, Aseel",2024 Fall,Applied Mathematics and Statistics,4.22,3.89,4.67
+EN.553.291.02.FA24,Linear Algebra and Differential Equations,"Micheli, Mario","Micheli, Mario",2024 Fall,Applied Mathematics and Statistics,4.11,4.50,4.61
+EN.553.291.05.FA24,Linear Algebra and Differential Equations,"Titi, Aseel","Titi, Aseel",2024 Fall,Applied Mathematics and Statistics,4.27,3.67,4.46
+EN.553.291.01.FA24,Linear Algebra and Differential Equations,"Micheli, Mario","Micheli, Mario",2024 Fall,Applied Mathematics and Statistics,4.31,4.94,4.94
+EN.553.291.04.FA24,Linear Algebra and Differential Equations,"Micheli, Mario","Micheli, Mario",2024 Fall,Applied Mathematics and Statistics,4.06,4.88,4.88
+EN.553.291.03.FA24,Linear Algebra and Differential Equations,"Micheli, Mario","Micheli, Mario",2024 Fall,Applied Mathematics and Statistics,4.55,4.73,4.68
+EN.553.291.05.SP25,Linear Algebra and Differential Equations,"Yoon, TaeHo","Yoon, TaeHo",2025 Spring,Applied Mathematics and Statistics,3.80,3.40,4.40
+EN.553.291.01.SP25,Linear Algebra and Differential Equations,"Micheli, Mario","Micheli, Mario",2025 Spring,Applied Mathematics and Statistics,4.48,4.30,4.64
+EN.553.291.03.SP25,Linear Algebra and Differential Equations,"Titi, Aseel","Titi, Aseel",2025 Spring,Applied Mathematics and Statistics,4.53,3.53,4.60
+EN.553.291.06.SP25,Linear Algebra and Differential Equations,"Yoon, TaeHo","Yoon, TaeHo",2025 Spring,Applied Mathematics and Statistics,4.27,4.29,4.53
+EN.553.291.04.SP25,Linear Algebra and Differential Equations,"Titi, Aseel","Titi, Aseel",2025 Spring,Applied Mathematics and Statistics,4.56,3.65,4.56
+EN.553.291.02.SP25,Linear Algebra and Differential Equations,"Micheli, Mario","Micheli, Mario",2025 Spring,Applied Mathematics and Statistics,4.61,4.50,4.52
+EN.553.291.04.FA25,Linear Algebra and Differential Equations,"Yoon, TaeHo","Yoon, TaeHo",2025 Fall,Applied Mathematics and Statistics,4.00,3.75,4.25
+EN.553.291.06.FA25,Linear Algebra and Differential Equations,"Micheli, Mario","Micheli, Mario",2025 Fall,Applied Mathematics and Statistics,4.43,4.64,4.71
+EN.553.291.02.FA25,Linear Algebra and Differential Equations,"Micheli, Mario","Micheli, Mario",2025 Fall,Applied Mathematics and Statistics,4.32,4.57,4.83
+EN.553.291.03.FA25,Linear Algebra and Differential Equations,"Yoon, TaeHo","Yoon, TaeHo",2025 Fall,Applied Mathematics and Statistics,4.57,3.87,4.67
+EN.553.291.05.FA25,Linear Algebra and Differential Equations,"Micheli, Mario","Micheli, Mario",2025 Fall,Applied Mathematics and Statistics,4.39,4.50,4.72
+EN.553.291.01.FA25,Linear Algebra and Differential Equations,"Micheli, Mario","Micheli, Mario",2025 Fall,Applied Mathematics and Statistics,4.43,4.61,4.57
+EN.553.295.01.SP24,Linear Algebra for Data Science,"Micheli, Mario","Micheli, Mario",2024 Spring,Applied Mathematics and Statistics,4.32,4.84,4.68
+EN.553.295.02.SP24,Linear Algebra for Data Science,"Micheli, Mario","Micheli, Mario",2024 Spring,Applied Mathematics and Statistics,3.95,4.79,4.89
+EN.553.295.01.SP25,Linear Algebra for Data Science,"Micheli, Mario","Micheli, Mario",2025 Spring,Applied Mathematics and Statistics,4.44,4.83,4.89
+EN.553.295.03.SP25,Linear Algebra for Data Science,"Micheli, Mario","Micheli, Mario",2025 Spring,Applied Mathematics and Statistics,4.71,5.00,5.00
+EN.553.295.02.SP25,Linear Algebra for Data Science,"Micheli, Mario","Micheli, Mario",2025 Spring,Applied Mathematics and Statistics,4.33,4.50,4.42
+EN.553.295.02.FA25,Linear Algebra for Data Science,"Micheli, Mario","Micheli, Mario",2025 Fall,Applied Mathematics and Statistics,4.13,4.82,4.76
+EN.553.295.01.FA25,Linear Algebra for Data Science,"Micheli, Mario","Micheli, Mario",2025 Fall,Applied Mathematics and Statistics,4.29,4.75,4.94
+EN.553.311.08.SP24,Intermediate Probability and Statistics,"Pisano, Zachary","Pisano, Zachary",2024 Spring,Applied Mathematics and Statistics,4.31,3.82,4.47
+EN.553.311.06.SP24,Intermediate Probability and Statistics,"Pisano, Zachary","Pisano, Zachary",2024 Spring,Applied Mathematics and Statistics,4.11,3.15,4.11
+EN.553.311.05.SP24,Intermediate Probability and Statistics,"Pisano, Zachary","Pisano, Zachary",2024 Spring,Applied Mathematics and Statistics,3.90,3.24,4.05
+EN.553.311.03.SP24,Intermediate Probability and Statistics,"Tonelli Cueto, Josue","Tonelli Cueto, Josue",2024 Spring,Applied Mathematics and Statistics,3.62,2.05,4.10
+EN.553.311.01.SP24,Intermediate Probability and Statistics,"Jones, Taylor","Jones, Taylor",2024 Spring,Applied Mathematics and Statistics,3.71,4.11,4.12
+EN.553.311.02.SP24,Intermediate Probability and Statistics,"Pisano, Zachary","Pisano, Zachary",2024 Spring,Applied Mathematics and Statistics,4.10,3.85,4.50
+EN.553.311.04.SP24,Intermediate Probability and Statistics,"Tonelli Cueto, Josue","Tonelli Cueto, Josue",2024 Spring,Applied Mathematics and Statistics,3.73,2.77,4.10
+EN.553.311.07.SP24,Intermediate Probability and Statistics,"Pisano, Zachary","Pisano, Zachary",2024 Spring,Applied Mathematics and Statistics,3.71,4.00,4.29
+EN.553.311.06.FA24,Intermediate Probability and Statistics,"Jones, Taylor","Jones, Taylor",2024 Fall,Applied Mathematics and Statistics,3.41,4.50,4.35
+EN.553.311.02.FA24,Intermediate Probability and Statistics,"Tonelli Cueto, Josue","Tonelli Cueto, Josue",2024 Fall,Applied Mathematics and Statistics,3.41,2.35,4.00
+EN.553.311.04.FA24,Intermediate Probability and Statistics,"Tonelli Cueto, Josue","Tonelli Cueto, Josue",2024 Fall,Applied Mathematics and Statistics,3.41,2.41,4.00
+EN.553.311.08.FA24,Intermediate Probability and Statistics,"Tonelli Cueto, Josue","Tonelli Cueto, Josue",2024 Fall,Applied Mathematics and Statistics,3.88,2.13,4.38
+EN.553.311.05.FA24,Intermediate Probability and Statistics,"Jones, Taylor","Jones, Taylor",2024 Fall,Applied Mathematics and Statistics,3.76,4.19,4.24
+EN.553.311.01.FA24,Intermediate Probability and Statistics,"Tonelli Cueto, Josue","Tonelli Cueto, Josue",2024 Fall,Applied Mathematics and Statistics,3.67,2.50,4.00
+EN.553.311.03.FA24,Intermediate Probability and Statistics,"Tonelli Cueto, Josue","Tonelli Cueto, Josue",2024 Fall,Applied Mathematics and Statistics,3.94,2.78,3.72
+EN.553.311.07.FA24,Intermediate Probability and Statistics,"Tonelli Cueto, Josue","Tonelli Cueto, Josue",2024 Fall,Applied Mathematics and Statistics,3.50,3.00,3.71
+EN.553.311.10.SP25,Intermediate Probability and Statistics,"Hong, Su Ji","Hong, Su Ji",2025 Spring,Applied Mathematics and Statistics,3.88,4.50,4.38
+EN.553.311.08.SP25,Intermediate Probability and Statistics,"Hong, Su Ji","Hong, Su Ji",2025 Spring,Applied Mathematics and Statistics,4.11,3.40,4.44
+EN.553.311.06.SP25,Intermediate Probability and Statistics,"Nakade, Apurva","Nakade, Apurva",2025 Spring,Applied Mathematics and Statistics,3.73,3.90,4.40
+EN.553.311.04.SP25,Intermediate Probability and Statistics,"Jones, Taylor","Jones, Taylor",2025 Spring,Applied Mathematics and Statistics,3.67,4.59,4.50
+EN.553.311.02.SP25,Intermediate Probability and Statistics,"Jones, Taylor","Jones, Taylor",2025 Spring,Applied Mathematics and Statistics,3.88,4.25,4.53
+EN.553.311.09.SP25,Intermediate Probability and Statistics,"Hong, Su Ji","Hong, Su Ji",2025 Spring,Applied Mathematics and Statistics,3.71,3.86,3.86
+EN.553.311.05.SP25,Intermediate Probability and Statistics,"Nakade, Apurva","Nakade, Apurva",2025 Spring,Applied Mathematics and Statistics,3.86,4.29,4.14
+EN.553.311.07.SP25,Intermediate Probability and Statistics,"Hong, Su Ji","Hong, Su Ji",2025 Spring,Applied Mathematics and Statistics,4.06,3.74,3.95
+EN.553.311.03.SP25,Intermediate Probability and Statistics,"Jones, Taylor","Jones, Taylor",2025 Spring,Applied Mathematics and Statistics,3.75,3.95,4.15
+EN.553.311.01.SP25,Intermediate Probability and Statistics,"Jones, Taylor","Jones, Taylor",2025 Spring,Applied Mathematics and Statistics,3.59,4.05,4.29
+EN.553.311.07.FA25,Intermediate Probability and Statistics,"Jin, Ruhui","Jin, Ruhui",2025 Fall,Applied Mathematics and Statistics,4.00,3.00,4.21
+EN.553.311.05.FA25,Intermediate Probability and Statistics,"Hong, Su Ji","Hong, Su Ji",2025 Fall,Applied Mathematics and Statistics,3.55,4.43,4.52
+EN.553.311.03.FA25,Intermediate Probability and Statistics,"Jin, Ruhui","Jin, Ruhui",2025 Fall,Applied Mathematics and Statistics,3.56,3.72,4.21
+EN.553.311.01.FA25,Intermediate Probability and Statistics,"Hong, Su Ji","Hong, Su Ji",2025 Fall,Applied Mathematics and Statistics,3.33,4.55,4.43
+EN.553.311.08.FA25,Intermediate Probability and Statistics,"Jin, Ruhui","Jin, Ruhui",2025 Fall,Applied Mathematics and Statistics,3.40,3.29,4.50
+EN.553.311.06.FA25,Intermediate Probability and Statistics,"Hong, Su Ji","Hong, Su Ji",2025 Fall,Applied Mathematics and Statistics,3.89,4.30,4.47
+EN.553.311.02.FA25,Intermediate Probability and Statistics,"Hong, Su Ji","Hong, Su Ji",2025 Fall,Applied Mathematics and Statistics,3.81,4.12,4.44
+EN.553.311.04.FA25,Intermediate Probability and Statistics,"Jin, Ruhui","Jin, Ruhui",2025 Fall,Applied Mathematics and Statistics,3.75,3.00,3.95
+EN.553.312.01.SP24,Intermediate Probability and Statistics II,"Torcaso, Fred","Torcaso, Fred",2024 Spring,Applied Mathematics and Statistics,2.38,4.75,4.63
+EN.553.312.01.SP25,Intermediate Probability and Statistics II,"Torcaso, Fred","Torcaso, Fred",2025 Spring,Applied Mathematics and Statistics,2.57,5.00,4.43
+EN.553.335.01.SP24,Mathematics for a Better World,"Santosa, Fadil","Santosa, Fadil",2024 Spring,Applied Mathematics and Statistics,2.13,4.78,4.44
+EN.553.335.01.SP25,Mathematics for a Better World,"Santosa, Fadil","Santosa, Fadil",2025 Spring,Applied Mathematics and Statistics,2.25,4.65,4.17
+EN.553.361.02.SP24,Introduction to Optimization,"Zhang, Siqi","Zhang, Siqi",2024 Spring,Applied Mathematics and Statistics,3.46,3.46,4.15
+EN.553.361.01.SP24,Introduction to Optimization,"Zhang, Siqi","Zhang, Siqi",2024 Spring,Applied Mathematics and Statistics,3.33,3.47,4.36
+EN.553.361.06.FA24,Introduction to Optimization,"Fishkind, Donniell","Fishkind, Donniell",2024 Fall,Applied Mathematics and Statistics,2.93,4.40,4.00
+EN.553.361.02.FA24,Introduction to Optimization,"Fishkind, Donniell","Fishkind, Donniell",2024 Fall,Applied Mathematics and Statistics,2.86,4.35,3.91
+EN.553.361.04.FA24,Introduction to Optimization,"Fishkind, Donniell","Fishkind, Donniell",2024 Fall,Applied Mathematics and Statistics,3.54,4.52,4.24
+EN.553.361.05.FA24,Introduction to Optimization,"Fishkind, Donniell","Fishkind, Donniell",2024 Fall,Applied Mathematics and Statistics,3.13,4.50,4.19
+EN.553.361.01.FA24,Introduction to Optimization,"Fishkind, Donniell","Fishkind, Donniell",2024 Fall,Applied Mathematics and Statistics,3.00,4.45,4.05
+EN.553.361.03.FA24,Introduction to Optimization,"Fishkind, Donniell","Fishkind, Donniell",2024 Fall,Applied Mathematics and Statistics,3.09,4.77,4.23
+EN.553.361.02.SP25,Introduction to Optimization,"Wang, Yuqing","Wang, Yuqing",2025 Spring,Applied Mathematics and Statistics,3.60,4.24,4.35
+EN.553.361.01.SP25,Introduction to Optimization,"Wang, Yuqing","Wang, Yuqing",2025 Spring,Applied Mathematics and Statistics,3.00,3.89,4.00
+EN.553.361.03.FA25,Introduction to Optimization,"Fishkind, Donniell","Fishkind, Donniell",2025 Fall,Applied Mathematics and Statistics,3.39,4.59,4.28
+EN.553.361.01.FA25,Introduction to Optimization,"Fishkind, Donniell","Fishkind, Donniell",2025 Fall,Applied Mathematics and Statistics,3.13,4.48,3.87
+EN.553.361.02.FA25,Introduction to Optimization,"Fishkind, Donniell","Fishkind, Donniell",2025 Fall,Applied Mathematics and Statistics,3.41,4.13,4.22
+EN.553.361.04.FA25,Introduction to Optimization,"Fishkind, Donniell","Fishkind, Donniell",2025 Fall,Applied Mathematics and Statistics,3.30,4.04,4.09
+EN.553.362.01.SP24,Introduction to Optimization II,"Fishkind, Donniell","Fishkind, Donniell",2024 Spring,Applied Mathematics and Statistics,3.20,4.90,4.89
+EN.553.362.01.SP25,Introduction to Optimization II,"Fishkind, Donniell","Fishkind, Donniell",2025 Spring,Applied Mathematics and Statistics,3.14,4.71,4.86
+EN.553.371.01.SP24,Cryptology and Coding,"Fishkind, Donniell","Fishkind, Donniell",2024 Spring,Applied Mathematics and Statistics,2.71,4.92,4.52
+EN.553.371.01.SP25,Cryptology and Coding,"Fishkind, Donniell","Fishkind, Donniell",2025 Spring,Applied Mathematics and Statistics,3.22,4.94,4.83
+EN.553.385.02.SP24,Introduction to Computational Mathematics,"Kushnarev, Sergey","Kushnarev, Sergey",2024 Spring,Applied Mathematics and Statistics,3.37,4.35,4.25
+EN.553.385.03.SP24,Introduction to Computational Mathematics,"Kushnarev, Sergey","Kushnarev, Sergey",2024 Spring,Applied Mathematics and Statistics,3.13,4.25,3.88
+EN.553.385.01.SP24,Introduction to Computational Mathematics,"Kushnarev, Sergey","Kushnarev, Sergey",2024 Spring,Applied Mathematics and Statistics,3.19,4.33,4.22
+EN.553.385.02.FA24,Introduction to Computational Mathematics,"Grimmer, Ben","Grimmer, Ben",2024 Fall,Applied Mathematics and Statistics,3.72,4.11,4.06
+EN.553.385.01.FA24,Introduction to Computational Mathematics,"Grimmer, Ben","Grimmer, Ben",2024 Fall,Applied Mathematics and Statistics,3.24,4.06,4.18
+EN.553.385.02.SP25,Introduction to Computational Mathematics,"Grimmer, Ben","Grimmer, Ben",2025 Spring,Applied Mathematics and Statistics,3.41,4.50,4.14
+EN.553.385.01.SP25,Introduction to Computational Mathematics,"Grimmer, Ben","Grimmer, Ben",2025 Spring,Applied Mathematics and Statistics,3.50,4.11,4.17
+EN.553.385.02.FA25,Introduction to Computational Mathematics,"Grimmer, Ben","Grimmer, Ben",2025 Fall,Applied Mathematics and Statistics,3.05,4.48,3.90
+EN.553.385.01.FA25,Introduction to Computational Mathematics,"Grimmer, Ben","Grimmer, Ben",2025 Fall,Applied Mathematics and Statistics,3.25,4.50,4.38
+EN.553.400.01.SP25,Mathematical Modeling and Consulting,"Castello, Beryl","Castello, Beryl",2025 Spring,Applied Mathematics and Statistics,3.50,3.83,4.33
+EN.553.402.01.FA25,Research and Design in Applied Mathematics: Data Mining,"Kearsley, Anthony","Kearsley, Anthony",2025 Fall,Applied Mathematics and Statistics,2.75,4.38,4.00
+EN.553.413.01.FA24,Applied Statistics & Data Analysis I,"Kushnarev, Sergey","Kushnarev, Sergey",2024 Fall,Applied Mathematics and Statistics,3.53,4.50,4.44
+EN.553.413.01.SP25,Applied Statistics and Data Analysis I,"O'Hare, Kaiying","O'Hare, Kaiying",2025 Spring,Applied Mathematics and Statistics,3.86,4.07,4.50
+EN.553.413.01.FA25,Applied Statistics & Data Analysis I,"O'Hare, Kaiying","O'Hare, Kaiying",2025 Fall,Applied Mathematics and Statistics,3.73,4.00,4.40
+EN.553.420.03.SP24,Probability,"Torcaso, Fred","Torcaso, Fred",2024 Spring,Applied Mathematics and Statistics,4.50,4.50,4.83
+EN.553.420.01.SP24,Probability,"Torcaso, Fred","Torcaso, Fred",2024 Spring,Applied Mathematics and Statistics,4.22,4.50,5.00
+EN.553.420.02.SP24,Probability,"Torcaso, Fred","Torcaso, Fred",2024 Spring,Applied Mathematics and Statistics,4.63,4.38,4.81
+EN.553.420.03.FA24,Probability,"Torcaso, Fred","Torcaso, Fred",2024 Fall,Applied Mathematics and Statistics,4.24,4.29,4.57
+EN.553.420.01.FA24,Probability,"Torcaso, Fred","Torcaso, Fred",2024 Fall,Applied Mathematics and Statistics,4.33,4.69,4.75
+EN.553.420.02.FA24,Probability,"Torcaso, Fred","Torcaso, Fred",2024 Fall,Applied Mathematics and Statistics,4.36,4.28,4.72
+EN.553.420.04.FA24,Probability,"Torcaso, Fred","Torcaso, Fred",2024 Fall,Applied Mathematics and Statistics,4.50,4.00,4.67
+EN.553.420.02.SP25,Probability,"Torcaso, Fred","Torcaso, Fred",2025 Spring,Applied Mathematics and Statistics,3.86,4.00,5.00
+EN.553.420.01.SP25,Probability,"Torcaso, Fred","Torcaso, Fred",2025 Spring,Applied Mathematics and Statistics,4.00,4.67,4.67
+EN.553.420.03.SP25,Probability,"Torcaso, Fred","Torcaso, Fred",2025 Spring,Applied Mathematics and Statistics,3.89,4.33,4.44
+EN.553.420.04.FA25,Probability,"Torcaso, Fred","Torcaso, Fred",2025 Fall,Applied Mathematics and Statistics,4.06,4.32,4.63
+EN.553.420.03.FA25,Probability,"Torcaso, Fred","Torcaso, Fred",2025 Fall,Applied Mathematics and Statistics,4.35,3.95,4.45
+EN.553.420.01.FA25,Probability,"Torcaso, Fred","Torcaso, Fred",2025 Fall,Applied Mathematics and Statistics,4.21,4.60,4.87
+EN.553.420.02.FA25,Probability,"Torcaso, Fred","Torcaso, Fred",2025 Fall,Applied Mathematics and Statistics,4.00,4.14,4.48
+EN.553.421.01.FA24,Honors Probability,"Torcaso, Fred","Torcaso, Fred",2024 Fall,Applied Mathematics and Statistics,3.25,4.78,4.44
+EN.553.421.01.SP25,Honors Probability,"Torcaso, Fred","Torcaso, Fred",2025 Spring,Applied Mathematics and Statistics,3.82,4.45,4.91
+EN.553.421.01.FA25,Honors Probability,"Torcaso, Fred","Torcaso, Fred",2025 Fall,Applied Mathematics and Statistics,4.00,4.27,4.91
+EN.553.430.03.SP24,Mathematical Statistics,"Athreya, Avanti","Athreya, Avanti",2024 Spring,Applied Mathematics and Statistics,4.67,4.43,4.43
+EN.553.430.01.SP24,Mathematical Statistics,"Athreya, Avanti","Athreya, Avanti",2024 Spring,Applied Mathematics and Statistics,4.81,4.63,5.00
+EN.553.430.04.SP24,Mathematical Statistics,"Athreya, Avanti","Athreya, Avanti",2024 Spring,Applied Mathematics and Statistics,4.56,4.78,4.88
+EN.553.430.02.SP24,Mathematical Statistics,"Athreya, Avanti","Athreya, Avanti",2024 Spring,Applied Mathematics and Statistics,4.86,4.00,4.57
+EN.553.430.02.FA24,Mathematical Statistics,"Athreya, Avanti","Athreya, Avanti",2024 Fall,Applied Mathematics and Statistics,4.74,4.10,4.52
+EN.553.430.01.FA24,Mathematical Statistics,"Athreya, Avanti","Athreya, Avanti",2024 Fall,Applied Mathematics and Statistics,4.81,4.00,4.73
+EN.553.430.04.SP25,Mathematical Statistics,"Athreya, Avanti","Athreya, Avanti",2025 Spring,Applied Mathematics and Statistics,4.69,4.21,4.57
+EN.553.430.02.SP25,Mathematical Statistics,"Athreya, Avanti","Athreya, Avanti",2025 Spring,Applied Mathematics and Statistics,4.70,3.82,4.70
+EN.553.430.03.SP25,Mathematical Statistics,"Athreya, Avanti","Athreya, Avanti",2025 Spring,Applied Mathematics and Statistics,4.67,4.32,4.68
+EN.553.430.01.SP25,Mathematical Statistics,"Athreya, Avanti","Athreya, Avanti",2025 Spring,Applied Mathematics and Statistics,4.55,4.05,4.50
+EN.553.430.01.FA25,Mathematical Statistics,"Athreya, Avanti","Athreya, Avanti",2025 Fall,Applied Mathematics and Statistics,4.25,4.38,5.00
+EN.553.431.01.SP24,Honors Mathematical Statistics,"Athreya, Avanti","Athreya, Avanti",2024 Spring,Applied Mathematics and Statistics,4.93,4.86,4.86
+EN.553.431.01.FA24,Honors Mathematical Statistics,"Athreya, Avanti","Athreya, Avanti",2024 Fall,Applied Mathematics and Statistics,4.63,4.88,5.00
+EN.553.431.01.SP25,Honors Mathematical Statistics,"Athreya, Avanti","Athreya, Avanti",2025 Spring,Applied Mathematics and Statistics,4.67,4.33,4.42
+EN.553.432.01.SP25,Bayesian Statistics,"Zhang, Luhao","Zhang, Luhao",2025 Spring,Applied Mathematics and Statistics,3.38,2.93,4.07
+EN.553.432.01.FA25,Bayesian Statistics,"Wang, Yuqing","Wang, Yuqing",2025 Fall,Applied Mathematics and Statistics,3.40,3.64,4.00
+EN.553.433.01.FA24,Monte Carlo Methods,"Spall,  James","Spall,  James",2024 Fall,Applied Mathematics and Statistics,3.75,4.33,4.64
+EN.553.433.01.FA24,Monte Carlo Methods,"Nakade, Apurva","Nakade, Apurva",2024 Fall,Applied Mathematics and Statistics,3.75,4.00,4.64
+EN.553.433.01.FA25,Monte Carlo Methods,Nakade + Spall,"Nakade, Apurva + Spall, James",2025 Fall,Applied Mathematics and Statistics,3.00,4.67,4.07
+EN.553.436.02.SP24,Introduction to Data Science,"Villar, Soledad","Villar, Soledad",2024 Spring,Applied Mathematics and Statistics,2.64,3.13,3.56
+EN.553.436.01.SP24,Introduction to Data Science,"Villar, Soledad","Villar, Soledad",2024 Spring,Applied Mathematics and Statistics,2.72,3.15,3.58
+EN.553.436.03.SP24,Introduction to Data Science,"Villar, Soledad","Villar, Soledad",2024 Spring,Applied Mathematics and Statistics,3.04,3.54,4.20
+EN.553.436.01.FA24,Introduction to Data Science,"Budavari, Tamas","Budavari, Tamas",2024 Fall,Applied Mathematics and Statistics,2.77,3.95,4.05
+EN.553.436.02.FA24,Introduction to Data Science,"Budavari, Tamas","Budavari, Tamas",2024 Fall,Applied Mathematics and Statistics,2.81,3.67,3.81
+EN.553.436.02.SP25,Introduction to Data Science,"Budavari, Tamas","Budavari, Tamas",2025 Spring,Applied Mathematics and Statistics,2.62,3.96,4.00
+EN.553.436.01.SP25,Introduction to Data Science,"Budavari, Tamas","Budavari, Tamas",2025 Spring,Applied Mathematics and Statistics,2.44,3.47,3.89
+EN.553.436.03.FA25,Introduction to Data Science,"Budavari, Tamas","Budavari, Tamas",2025 Fall,Applied Mathematics and Statistics,3.00,4.33,4.40
+EN.553.436.01.FA25,Introduction to Data Science,"Budavari, Tamas","Budavari, Tamas",2025 Fall,Applied Mathematics and Statistics,2.53,4.28,4.06
+EN.553.436.02.FA25,Introduction to Data Science,"Budavari, Tamas","Budavari, Tamas",2025 Fall,Applied Mathematics and Statistics,2.82,4.25,4.38
+EN.553.442.01.FA24,Investment Science,"Miller,  John","Miller,  John",2024 Fall,Applied Mathematics and Statistics,3.20,4.50,4.00
+EN.553.442.01.FA24,Investment Science,"Acharya, Subas","Acharya, Subas",2024 Fall,Applied Mathematics and Statistics,3.20,3.50,4.00
+EN.553.444.01.FA24,Introduction to Financial Derivatives,"Galeeva, Roza","Galeeva, Roza",2024 Fall,Applied Mathematics and Statistics,2.60,2.60,4.00
+EN.553.444.01.FA25,Introduction to Financial Derivatives,"Audley, David","Audley, David",2025 Fall,Applied Mathematics and Statistics,3.17,3.75,4.25
+EN.553.447.01.SP24,Quantitative Portfolio Theory and Performance Analysis,"Audley, David","Audley, David",2024 Spring,Applied Mathematics and Statistics,3.00,4.17,3.83
+EN.553.447.01.SP25,Quantitative Portfolio Theory and Performance Analysis,"Audley, David","Audley, David",2025 Spring,Applied Mathematics and Statistics,3.11,4.55,4.20
+EN.553.453.01.SP24,Mathematical Game Theory,"Castello, Beryl","Castello, Beryl",2024 Spring,Applied Mathematics and Statistics,3.40,3.60,3.60
+EN.553.453.01.SP25,Mathematical Game Theory,"Castello, Beryl","Castello, Beryl",2025 Spring,Applied Mathematics and Statistics,3.40,3.80,4.00
+EN.553.488.01.FA24,Computing for Applied Mathematics,"Naiman, Dan","Naiman, Dan",2024 Fall,Applied Mathematics and Statistics,3.00,4.18,4.20
+EN.553.492.01.SP25,Mathematical Biology,"Bedekar, Prajakta Purushottam","Bedekar, Prajakta Purushottam",2025 Spring,Applied Mathematics and Statistics,3.00,4.43,4.00
+EN.553.600.01.SP24,Mathematical Modeling and Consulting,"Castello, Beryl","Castello, Beryl",2024 Spring,Applied Mathematics and Statistics,3.60,4.20,4.40
+EN.553.601.01.SP24,Introduction to Research,"Clark, Antwan","Clark, Antwan",2024 Spring,Applied Mathematics and Statistics,4.00,4.40,4.40
+EN.553.601.01.FA24,Introduction to Research in Applied Mathematics and Statistics,"Clark, Antwan","Clark, Antwan",2024 Fall,Applied Mathematics and Statistics,4.67,3.00,4.67
+EN.553.601.01.SP25,Introduction to Research in Applied Mathematics and Statistics,"Clark, Antwan","Clark, Antwan",2025 Spring,Applied Mathematics and Statistics,3.14,4.57,4.43
+EN.553.602.01.SP24,Research and Design in Applied Mathematics: Data Mining,"Kearsley, Anthony","Kearsley, Anthony",2024 Spring,Applied Mathematics and Statistics,3.10,4.67,4.53
+EN.553.602.02.SP24,Research and Design in Applied Mathematics: Data Mining,"Kearsley, Anthony","Kearsley, Anthony",2024 Spring,Applied Mathematics and Statistics,3.13,4.71,4.50
+EN.553.602.02.FA24,Research and Design in Applied Mathematics: Data Mining,"Kearsley, Anthony","Kearsley, Anthony",2024 Fall,Applied Mathematics and Statistics,3.00,4.86,4.57
+EN.553.602.01.FA24,Research and Design in Applied Mathematics: Data Mining,"Kearsley, Anthony","Kearsley, Anthony",2024 Fall,Applied Mathematics and Statistics,3.05,4.52,4.41
+EN.553.602.02.SP25,Research and Design in Applied Mathematics: Data Mining,"Kearsley, Anthony","Kearsley, Anthony",2025 Spring,Applied Mathematics and Statistics,3.06,4.35,4.24
+EN.553.602.01.SP25,Research and Design in Applied Mathematics: Data Mining,"Kearsley, Anthony","Kearsley, Anthony",2025 Spring,Applied Mathematics and Statistics,3.00,4.79,4.68
+EN.553.604.01.FA24,Foundational Methods in Applied Mathematics,"Athreya, Avanti","Athreya, Avanti",2024 Fall,Applied Mathematics and Statistics,3.40,5.00,4.80
+EN.553.604.01.FA25,Foundational Methods in Applied Mathematics,"Athreya, Avanti","Athreya, Avanti",2025 Fall,Applied Mathematics and Statistics,4.20,4.60,4.60
+EN.553.613.01.SP24,Applied Statistics & Data Analysis I,"Kushnarev, Sergey","Kushnarev, Sergey",2024 Spring,Applied Mathematics and Statistics,3.68,4.08,4.35
+EN.553.613.04.FA24,Applied Statistics & Data Analysis I,"O'Hare, Kaiying","O'Hare, Kaiying",2024 Fall,Applied Mathematics and Statistics,3.50,4.07,4.23
+EN.553.613.02.FA24,Applied Statistics & Data Analysis I,"O'Hare, Kaiying","O'Hare, Kaiying",2024 Fall,Applied Mathematics and Statistics,3.76,4.06,4.09
+EN.553.613.03.FA24,Applied Statistics & Data Analysis I,"O'Hare, Kaiying","O'Hare, Kaiying",2024 Fall,Applied Mathematics and Statistics,3.52,3.97,3.93
+EN.553.613.01.SP25,Applied Statistics & Data Analysis I,"O'Hare, Kaiying","O'Hare, Kaiying",2025 Spring,Applied Mathematics and Statistics,4.29,4.07,4.36
+EN.553.613.03.FA25,Applied Statistics & Data Analysis I,"Ruiz, Luana","Ruiz, Luana",2025 Fall,Applied Mathematics and Statistics,3.73,4.35,4.47
+EN.553.613.02.FA25,Applied Statistics & Data Analysis I,"Ruiz, Luana","Ruiz, Luana",2025 Fall,Applied Mathematics and Statistics,3.80,4.56,4.36
+EN.553.613.01.FA25,Applied Statistics & Data Analysis I,"Ruiz, Luana","Ruiz, Luana",2025 Fall,Applied Mathematics and Statistics,3.56,4.41,4.27
+EN.553.613.04.FA25,Applied Statistics & Data Analysis I,"Ruiz, Luana","Ruiz, Luana",2025 Fall,Applied Mathematics and Statistics,3.89,3.88,3.67
+EN.553.614.01.SP24,Applied Statistics and Data Analysis II,"O'Hare, Kaiying","O'Hare, Kaiying",2024 Spring,Applied Mathematics and Statistics,3.00,3.40,4.10
+EN.553.614.01.SP25,Applied Statistics and Data Analysis II,"Kushnarev, Sergey","Kushnarev, Sergey",2025 Spring,Applied Mathematics and Statistics,3.35,4.61,4.25
+EN.553.620.01.SP24,Probability,"Torcaso, Fred","Torcaso, Fred",2024 Spring,Applied Mathematics and Statistics,3.64,4.73,4.64
+EN.553.620.01.SP25,Probability,"Torcaso, Fred","Torcaso, Fred",2025 Spring,Applied Mathematics and Statistics,3.50,4.27,4.45
+EN.553.620.01.FA25,Probability,"Jones, Taylor","Jones, Taylor",2025 Fall,Applied Mathematics and Statistics,3.29,4.83,4.33
+EN.553.620.02.FA25,Probability,"Jones, Taylor","Jones, Taylor",2025 Fall,Applied Mathematics and Statistics,3.50,4.50,4.17
+EN.553.626.01.SP24,Introduction to Stochastic Processes,"O'Reilly, Eliza","O'Reilly, Eliza",2024 Spring,Applied Mathematics and Statistics,3.55,4.27,4.18
+EN.553.626.01.SP25,Introduction to Stochastic Processes,"O'Reilly, Eliza","O'Reilly, Eliza",2025 Spring,Applied Mathematics and Statistics,3.50,4.83,5.00
+EN.553.627.01.SP24,Stochastic Processes and Applications to Finance I,"Galeeva, Roza","Galeeva, Roza",2024 Spring,Applied Mathematics and Statistics,3.33,4.33,4.67
+EN.553.627.03.FA24,Stochastic Processes and Applications to Finance I,"Miller,  John","Miller,  John",2024 Fall,Applied Mathematics and Statistics,4.27,4.15,4.37
+EN.553.627.02.FA24,Stochastic Processes and Applications to Finance I,"Miller,  John","Miller,  John",2024 Fall,Applied Mathematics and Statistics,4.21,4.38,4.63
+EN.553.627.01.SP25,Stochastic Processes and Applications to Finance I,"Galeeva, Roza","Galeeva, Roza",2025 Spring,Applied Mathematics and Statistics,3.00,4.25,4.33
+EN.553.627.02.FA25,Stochastic Processes and Applications to Finance I,"Miller, John","Miller, John",2025 Fall,Applied Mathematics and Statistics,3.94,4.80,4.81
+EN.553.627.01.FA25,Stochastic Processes and Applications to Finance I,"Miller, John","Miller, John",2025 Fall,Applied Mathematics and Statistics,3.77,4.15,4.31
+EN.553.628.01.SP24,Stochastic Processes and Applications to Finance II,"Galeeva, Roza","Galeeva, Roza",2024 Spring,Applied Mathematics and Statistics,3.67,4.67,4.67
+EN.553.628.01.SP25,Stochastic Processes and Applications to Finance II,"Galeeva, Roza","Galeeva, Roza",2025 Spring,Applied Mathematics and Statistics,3.00,4.30,4.60
+EN.553.630.03.SP24,Mathematical Statistics,"Athreya, Avanti","Athreya, Avanti",2024 Spring,Applied Mathematics and Statistics,4.33,4.83,4.67
+EN.553.630.02.SP25,Mathematical Statistics,"Athreya, Avanti","Athreya, Avanti",2025 Spring,Applied Mathematics and Statistics,3.40,5.00,4.60
+EN.553.632.02.SP24,Bayesian Statistics,"Kushnarev, Sergey","Kushnarev, Sergey",2024 Spring,Applied Mathematics and Statistics,4.00,4.68,4.58
+EN.553.632.01.SP24,Bayesian Statistics,"Kushnarev, Sergey","Kushnarev, Sergey",2024 Spring,Applied Mathematics and Statistics,4.09,4.75,4.42
+EN.553.632.02.FA24,Bayesian Statistics,"Kushnarev, Sergey","Kushnarev, Sergey",2024 Fall,Applied Mathematics and Statistics,3.76,4.56,4.50
+EN.553.632.01.FA24,Bayesian Statistics,"Kushnarev, Sergey","Kushnarev, Sergey",2024 Fall,Applied Mathematics and Statistics,3.67,5.00,5.00
+EN.553.632.02.FA25,Bayesian Statistics,"Zhang, Luhao","Zhang, Luhao",2025 Fall,Applied Mathematics and Statistics,3.63,4.15,4.15
+EN.553.632.01.FA25,Bayesian Statistics,"Zhang, Luhao","Zhang, Luhao",2025 Fall,Applied Mathematics and Statistics,3.71,3.73,4.04
+EN.553.633.03.FA24,Monte Carlo Methods,"Spall,  James","Spall,  James",2024 Fall,Applied Mathematics and Statistics,3.80,4.73,4.73
+EN.553.633.02.FA24,Monte Carlo Methods,"Spall,  James","Spall,  James",2024 Fall,Applied Mathematics and Statistics,3.73,4.88,4.50
+EN.553.633.01.SP25,Monte Carlo Methods,"Nakade, Apurva","Nakade, Apurva",2025 Spring,Applied Mathematics and Statistics,3.25,4.58,4.08
+EN.553.633.01.FA25,Monte Carlo Methods,"Spall, James","Spall, James",2025 Fall,Applied Mathematics and Statistics,4.16,4.82,4.57
+EN.553.634.01.FA24,Elements of Statistical Learning,"Acharya, Subas","Acharya, Subas",2024 Fall,Applied Mathematics and Statistics,3.00,4.60,4.75
+EN.553.634.01.FA25,Elements of Statistical Learning,"Kushnarev, Sergey","Kushnarev, Sergey",2025 Fall,Applied Mathematics and Statistics,2.86,5.00,4.50
+EN.553.635.01.SP25,Bayesian Statistics for the Physical Sciences,"Wandelt, Benjamin","Wandelt, Benjamin",2025 Spring,Applied Mathematics and Statistics,2.50,4.83,4.50
+EN.553.636.06.SP24,Introduction to Data Science,"Budavari, Tamas","Budavari, Tamas",2024 Spring,Applied Mathematics and Statistics,3.06,4.22,3.94
+EN.553.636.02.SP24,Introduction to Data Science,"Budavari, Tamas","Budavari, Tamas",2024 Spring,Applied Mathematics and Statistics,3.20,4.47,3.87
+EN.553.636.05.SP24,Introduction to Data Science,"Budavari, Tamas","Budavari, Tamas",2024 Spring,Applied Mathematics and Statistics,3.20,4.24,4.14
+EN.553.636.01.SP24,Introduction to Data Science,"Budavari, Tamas","Budavari, Tamas",2024 Spring,Applied Mathematics and Statistics,3.00,4.08,4.08
+EN.553.636.04.SP24,Introduction to Data Science,"Budavari, Tamas","Budavari, Tamas",2024 Spring,Applied Mathematics and Statistics,3.20,4.40,4.40
+EN.553.636.03.SP24,Introduction to Data Science,"Budavari, Tamas","Budavari, Tamas",2024 Spring,Applied Mathematics and Statistics,2.80,4.40,4.40
+EN.553.636.08.FA24,Introduction to Data Science,"Budavari, Tamas","Budavari, Tamas",2024 Fall,Applied Mathematics and Statistics,3.27,4.18,4.27
+EN.553.636.06.FA24,Introduction to Data Science,"Budavari, Tamas","Budavari, Tamas",2024 Fall,Applied Mathematics and Statistics,3.04,3.67,3.71
+EN.553.636.04.FA24,Introduction to Data Science,"Budavari, Tamas","Budavari, Tamas",2024 Fall,Applied Mathematics and Statistics,3.08,4.11,3.85
+EN.553.636.02.FA24,Introduction to Data Science,"Budavari, Tamas","Budavari, Tamas",2024 Fall,Applied Mathematics and Statistics,3.00,4.18,4.21
+EN.553.636.09.FA24,Introduction to Data Science,"Budavari, Tamas","Budavari, Tamas",2024 Fall,Applied Mathematics and Statistics,3.50,4.83,4.17
+EN.553.636.05.FA24,Introduction to Data Science,"Budavari, Tamas","Budavari, Tamas",2024 Fall,Applied Mathematics and Statistics,2.87,3.33,3.73
+EN.553.636.07.FA24,Introduction to Data Science,"Budavari, Tamas","Budavari, Tamas",2024 Fall,Applied Mathematics and Statistics,2.88,4.23,4.00
+EN.553.636.03.FA24,Introduction to Data Science,"Budavari, Tamas","Budavari, Tamas",2024 Fall,Applied Mathematics and Statistics,3.27,3.73,3.79
+EN.553.636.01.SP25,Introduction to Data Science,"Budavari, Tamas","Budavari, Tamas",2025 Spring,Applied Mathematics and Statistics,3.19,4.38,4.23
+EN.553.636.03.SP25,Introduction to Data Science,"Budavari, Tamas","Budavari, Tamas",2025 Spring,Applied Mathematics and Statistics,3.00,5.00,4.75
+EN.553.636.05.SP25,Introduction to Data Science,"Budavari, Tamas","Budavari, Tamas",2025 Spring,Applied Mathematics and Statistics,3.25,4.17,4.08
+EN.553.636.02.SP25,Introduction to Data Science,"Budavari, Tamas","Budavari, Tamas",2025 Spring,Applied Mathematics and Statistics,3.33,4.61,4.50
+EN.553.636.08.FA25,Introduction to Data Science,"Budavari, Tamas","Budavari, Tamas",2025 Fall,Applied Mathematics and Statistics,3.42,3.75,4.33
+EN.553.636.06.FA25,Introduction to Data Science,"Budavari, Tamas","Budavari, Tamas",2025 Fall,Applied Mathematics and Statistics,3.25,4.55,4.45
+EN.553.636.04.FA25,Introduction to Data Science,"Budavari, Tamas","Budavari, Tamas",2025 Fall,Applied Mathematics and Statistics,2.96,4.20,3.92
+EN.553.636.02.FA25,Introduction to Data Science,"Budavari, Tamas","Budavari, Tamas",2025 Fall,Applied Mathematics and Statistics,3.28,4.33,4.19
+EN.553.636.07.FA25,Introduction to Data Science,"Budavari, Tamas","Budavari, Tamas",2025 Fall,Applied Mathematics and Statistics,2.70,3.90,3.60
+EN.553.636.01.FA25,Introduction to Data Science,"Budavari, Tamas","Budavari, Tamas",2025 Fall,Applied Mathematics and Statistics,2.92,4.08,4.00
+EN.553.636.05.FA25,Introduction to Data Science,"Budavari, Tamas","Budavari, Tamas",2025 Fall,Applied Mathematics and Statistics,3.29,4.21,3.93
+EN.553.636.03.FA25,Introduction to Data Science,"Budavari, Tamas","Budavari, Tamas",2025 Fall,Applied Mathematics and Statistics,3.25,4.19,4.36
+EN.553.639.01.SP24,Time Series Analysis,"Ruiz, Luana","Ruiz, Luana",2024 Spring,Applied Mathematics and Statistics,3.41,4.56,4.35
+EN.553.639.01.SP25,Time Series Analysis,"Kushnarev, Sergey","Kushnarev, Sergey",2025 Spring,Applied Mathematics and Statistics,3.50,4.69,4.44
+EN.553.639.02.SP25,Time Series Analysis,"Kushnarev, Sergey","Kushnarev, Sergey",2025 Spring,Applied Mathematics and Statistics,3.74,4.71,4.54
+EN.553.639.01.FA25,Time Series Analysis,"Kushnarev, Sergey","Kushnarev, Sergey",2025 Fall,Applied Mathematics and Statistics,3.25,4.82,4.35
+EN.553.640.01.SP24,Machine Learning in Finance,"Cao, Haoyang","Cao, Haoyang",2024 Spring,Applied Mathematics and Statistics,3.57,4.54,4.61
+EN.553.640.01.SP25,Machine Learning in Finance,"Cao, Haoyang","Cao, Haoyang",2025 Spring,Applied Mathematics and Statistics,3.33,4.36,4.68
+EN.553.640.02.SP25,Machine Learning in Finance,"Cao, Haoyang","Cao, Haoyang",2025 Spring,Applied Mathematics and Statistics,3.71,4.63,4.63
+EN.553.641.01.SP24,Equity Markets and Quantitative Trading,"Miller, John","Miller, John",2024 Spring,Applied Mathematics and Statistics,4.03,4.63,4.63
+EN.553.641.01.SP25,Equity Markets and Quantitative Trading,"Miller, John","Miller, John",2025 Spring,Applied Mathematics and Statistics,3.73,4.33,4.12
+EN.553.642.02.FA24,Investment Science,"Miller,  John","Miller,  John",2024 Fall,Applied Mathematics and Statistics,3.76,4.60,4.56
+EN.553.642.03.FA24,Investment Science,"Miller,  John","Miller,  John",2024 Fall,Applied Mathematics and Statistics,3.42,4.25,4.25
+EN.553.642.01.FA25,Investment Science,"Miller, John","Miller, John",2025 Fall,Applied Mathematics and Statistics,3.29,4.20,4.29
+EN.553.642.01.FA25,Investment Science,"Galeeva, Roza","Galeeva, Roza",2025 Fall,Applied Mathematics and Statistics,3.29,4.71,4.29
+EN.553.643.01.FA25,Energy Markets and Risk Management,"Han, Long","Han, Long",2025 Fall,Applied Mathematics and Statistics,3.11,4.00,4.10
+EN.553.644.02.FA24,Introduction to Financial Derivatives,"Audley, David","Audley, David",2024 Fall,Applied Mathematics and Statistics,3.19,4.67,4.57
+EN.553.644.03.FA24,Introduction to Financial Derivatives,"Audley, David","Audley, David",2024 Fall,Applied Mathematics and Statistics,3.19,4.68,4.41
+EN.553.644.02.FA25,Introduction to Financial Derivatives,"Audley, David","Audley, David",2025 Fall,Applied Mathematics and Statistics,3.19,4.78,4.48
+EN.553.644.01.FA25,Introduction to Financial Derivatives,"Audley, David","Audley, David",2025 Fall,Applied Mathematics and Statistics,3.44,4.81,4.69
+EN.553.645.04.SP24,Interest Rate and Credit Derivatives,"Audley, David","Audley, David",2024 Spring,Applied Mathematics and Statistics,3.13,4.75,5.00
+EN.553.645.03.SP24,Interest Rate and Credit Derivatives,"Audley, David","Audley, David",2024 Spring,Applied Mathematics and Statistics,3.00,4.00,4.00
+EN.553.645.02.SP24,Interest Rate and Credit Derivatives,"Audley, David","Audley, David",2024 Spring,Applied Mathematics and Statistics,2.86,4.71,4.57
+EN.553.645.01.SP24,Interest Rate and Credit Derivatives,"Audley, David","Audley, David",2024 Spring,Applied Mathematics and Statistics,3.15,4.76,4.65
+EN.553.645.02.SP25,Interest Rate and Credit Derivatives,"Audley, David","Audley, David",2025 Spring,Applied Mathematics and Statistics,3.63,4.88,4.57
+EN.553.645.01.SP25,Interest Rate and Credit Derivatives,"Audley, David","Audley, David",2025 Spring,Applied Mathematics and Statistics,3.18,4.43,4.39
+EN.553.646.01.FA24,Risk Measurement/Management in Financial Markets,"Audley, David","Audley, David",2024 Fall,Applied Mathematics and Statistics,3.06,4.71,4.76
+EN.553.646.02.FA24,Risk Measurement/Management in Financial Markets,"Audley, David","Audley, David",2024 Fall,Applied Mathematics and Statistics,3.33,4.62,4.69
+EN.553.646.01.FA25,Risk Measurement/Management in Financial Markets,"Audley, David","Audley, David",2025 Fall,Applied Mathematics and Statistics,3.55,4.73,4.64
+EN.553.646.02.FA25,Risk Measurement/Management in Financial Markets,"Audley, David","Audley, David",2025 Fall,Applied Mathematics and Statistics,3.11,4.56,4.28
+EN.553.647.02.SP24,Quantitative Portfolio Theory and Performance Analysis,"Audley, David","Audley, David",2024 Spring,Applied Mathematics and Statistics,3.33,4.67,4.50
+EN.553.647.03.SP24,Quantitative Portfolio Theory and Performance Analysis,"Audley, David","Audley, David",2024 Spring,Applied Mathematics and Statistics,3.00,4.71,4.00
+EN.553.647.01.SP24,Quantitative Portfolio Theory and Performance Analysis,"Audley, David","Audley, David",2024 Spring,Applied Mathematics and Statistics,3.22,4.57,4.61
+EN.553.647.02.SP25,Quantitative Portfolio Theory and Performance Analysis,"Audley, David","Audley, David",2025 Spring,Applied Mathematics and Statistics,3.17,4.50,4.50
+EN.553.647.01.SP25,Quantitative Portfolio Theory and Performance Analysis,"Audley, David","Audley, David",2025 Spring,Applied Mathematics and Statistics,3.13,4.60,4.38
+EN.553.649.01.FA24,Advanced Equity Derivatives,"Galeeva, Roza","Galeeva, Roza",2024 Fall,Applied Mathematics and Statistics,3.67,4.70,4.90
+EN.553.649.01.FA25,Advanced Equity Derivatives,"Galeeva, Roza","Galeeva, Roza",2025 Fall,Applied Mathematics and Statistics,3.50,4.44,4.67
+EN.553.653.01.SP24,Mathematical Game Theory,"Castello, Beryl","Castello, Beryl",2024 Spring,Applied Mathematics and Statistics,3.53,4.06,3.88
+EN.553.653.02.SP24,Mathematical Game Theory,"Castello, Beryl","Castello, Beryl",2024 Spring,Applied Mathematics and Statistics,3.50,4.67,3.67
+EN.553.653.02.SP25,Mathematical Game Theory,"Castello, Beryl","Castello, Beryl",2025 Spring,Applied Mathematics and Statistics,3.63,4.13,4.19
+EN.553.653.01.SP25,Mathematical Game Theory,"Castello, Beryl","Castello, Beryl",2025 Spring,Applied Mathematics and Statistics,3.50,4.04,4.23
+EN.553.661.01.FA24,Optimization in Finance,"Castello, Beryl","Castello, Beryl",2024 Fall,Applied Mathematics and Statistics,3.71,4.00,4.07
+EN.553.661.01.FA25,Optimization in Finance,"Castello, Beryl","Castello, Beryl",2025 Fall,Applied Mathematics and Statistics,3.73,4.43,4.50
+EN.553.662.01.FA24,Optimization for Data Science,"Loizou, Nicolas","Loizou, Nicolas",2024 Fall,Applied Mathematics and Statistics,3.71,4.12,4.67
+EN.553.663.01.SP24,Network Models in Operations Research,"Castello, Beryl","Castello, Beryl",2024 Spring,Applied Mathematics and Statistics,3.40,5.00,4.80
+EN.553.663.01.SP25,Network Models in Operations Research,"Castello, Beryl","Castello, Beryl",2025 Spring,Applied Mathematics and Statistics,4.33,4.67,4.00
+EN.553.665.01.SP24,Introduction to Convexity,"Basu, Amitabh","Basu, Amitabh",2024 Spring,Applied Mathematics and Statistics,3.28,4.22,4.06
+EN.553.665.01.FA24,Introduction to Convexity,"Basu, Amitabh","Basu, Amitabh",2024 Fall,Applied Mathematics and Statistics,3.43,4.32,4.49
+EN.553.665.01.SP25,Introduction to Convexity,"Basu, Amitabh","Basu, Amitabh",2025 Spring,Applied Mathematics and Statistics,3.58,4.34,4.43
+EN.553.665.01.FA25,Introduction to Convexity,"Basu, Amitabh","Basu, Amitabh",2025 Fall,Applied Mathematics and Statistics,3.20,4.68,4.32
+EN.553.671.01.FA24,Combinatorial Analysis,"Castello, Beryl","Castello, Beryl",2024 Fall,Applied Mathematics and Statistics,3.00,4.50,4.50
+EN.553.671.01.FA25,Combinatorial Analysis,"Castello, Beryl","Castello, Beryl",2025 Fall,Applied Mathematics and Statistics,3.00,4.63,4.38
+EN.553.672.01.SP24,Graph Theory,"Nakade, Apurva","Nakade, Apurva",2024 Spring,Applied Mathematics and Statistics,3.50,4.38,4.38
+EN.553.672.01.SP25,Graph Theory,"Gnang, DrG","Gnang, DrG",2025 Spring,Applied Mathematics and Statistics,4.50,3.83,4.67
+EN.553.680.01.FA24,Numerical Linear Algebra,"Micheli, Mario","Micheli, Mario",2024 Fall,Applied Mathematics and Statistics,2.80,4.70,4.27
+EN.553.680.01.FA25,Numerical Linear Algebra,"Eyink, Gregory","Eyink, Gregory",2025 Fall,Applied Mathematics and Statistics,3.75,4.25,4.00
+EN.553.681.01.SP24,Numerical Analysis,"Eyink, Gregory","Eyink, Gregory",2024 Spring,Applied Mathematics and Statistics,3.33,3.33,4.67
+EN.553.681.01.SP25,Numerical Analysis,"Eyink, Gregory","Eyink, Gregory",2025 Spring,Applied Mathematics and Statistics,4.14,3.29,4.17
+EN.553.683.01.SP24,Numerical Methods for Partial Differential Equations,"Eyink, Gregory","Eyink, Gregory",2024 Spring,Applied Mathematics and Statistics,4.33,4.67,5.00
+EN.553.688.01.SP24,Computing for Applied Mathematics,"Naiman, Dan","Naiman, Dan",2024 Spring,Applied Mathematics and Statistics,3.31,4.38,4.27
+EN.553.688.02.FA24,Computing for Applied Mathematics,"Naiman, Dan","Naiman, Dan",2024 Fall,Applied Mathematics and Statistics,3.40,4.66,4.38
+EN.553.688.01.SP25,Computing for Applied Mathematics,"Naiman, Dan","Naiman, Dan",2025 Spring,Applied Mathematics and Statistics,3.28,4.66,4.58
+EN.553.688.01.FA25,Computing for Applied Mathematics,"Naiman, Dan","Naiman, Dan",2025 Fall,Applied Mathematics and Statistics,3.36,4.25,4.14
+EN.553.689.01.FA24,Software Engineering for Data Science,"Wong, Kaze","Wong, Kaze",2024 Fall,Applied Mathematics and Statistics,2.50,4.59,4.24
+EN.553.691.01.FA24,Dynamical Systems,"Sukurdeep, Yashil","Sukurdeep, Yashil",2024 Fall,Applied Mathematics and Statistics,3.50,4.50,4.25
+EN.553.691.01.FA25,Dynamical Systems,"Eyink, Gregory","Eyink, Gregory",2025 Fall,Applied Mathematics and Statistics,3.67,4.33,4.00
+EN.553.692.01.SP24,Mathematical Biology,"Pisano, Zachary","Pisano, Zachary",2024 Spring,Applied Mathematics and Statistics,2.83,4.83,4.50
+EN.553.693.01.SP24,Mathematical Image Analysis,"Micheli, Mario","Micheli, Mario",2024 Spring,Applied Mathematics and Statistics,3.73,4.93,4.60
+EN.553.693.01.SP25,Mathematical Image Analysis,"Micheli, Mario","Micheli, Mario",2025 Spring,Applied Mathematics and Statistics,4.00,4.53,4.71
+EN.553.701.01.FA24,Real Analysis: Preparation for the Ph.D. Introductory Examination,"Cao, Haoyang","Cao, Haoyang",2024 Fall,Applied Mathematics and Statistics,3.29,3.44,4.25
+EN.553.701.01.FA25,Real Analysis: Preparation for the Ph.D. Introductory Examination,"Tonelli Cueto, Josue","Tonelli Cueto, Josue",2025 Fall,Applied Mathematics and Statistics,4.50,4.50,4.75
+EN.553.720.01.FA24,Probability Theory I,"Lee, Holden","Lee, Holden",2024 Fall,Applied Mathematics and Statistics,4.14,4.50,4.77
+EN.553.720.01.FA25,Probability Theory I,"Lee, Holden","Lee, Holden",2025 Fall,Applied Mathematics and Statistics,4.07,4.32,4.71
+EN.553.721.01.SP24,Probability Theory II,"Diaz Diaz, Mateo","Diaz Diaz, Mateo",2024 Spring,Applied Mathematics and Statistics,3.71,4.50,4.30
+EN.553.721.01.SP25,Probability Theory II,"Kunisky, Tim","Kunisky, Tim",2025 Spring,Applied Mathematics and Statistics,4.38,4.33,4.67
+EN.553.724.01.SP24,Probabilistic Machine Learning,"Lee, Holden","Lee, Holden",2024 Spring,Applied Mathematics and Statistics,4.00,4.14,4.57
+EN.553.724.01.SP25,Probabilistic Machine Learning,"Lee, Holden","Lee, Holden",2025 Spring,Applied Mathematics and Statistics,3.83,4.13,4.75
+EN.553.726.01.FA25,Point Processes and Stochastic Geometry,"O'Reilly, Eliza","O'Reilly, Eliza",2025 Fall,Applied Mathematics and Statistics,3.44,4.50,4.58
+EN.553.730.01.FA24,Statistical Theory I,"Priebe, Carey","Priebe, Carey",2024 Fall,Applied Mathematics and Statistics,2.55,4.52,4.55
+EN.553.730.02.FA25,Statistical Theory I,"Priebe, Carey","Priebe, Carey",2025 Fall,Applied Mathematics and Statistics,3.42,4.92,4.77
+EN.553.730.01.FA25,Statistical Theory I,"Priebe, Carey","Priebe, Carey",2025 Fall,Applied Mathematics and Statistics,2.72,4.72,4.73
+EN.553.733.01.FA24,Nonparametric Bayesian Statistics,"Xu, Yanxun","Xu, Yanxun",2024 Fall,Applied Mathematics and Statistics,3.00,4.70,4.80
+EN.553.736.01.SP24,System Identification and Likelihood Methods,"Spall, James","Spall, James",2024 Spring,Applied Mathematics and Statistics,3.75,5.00,4.75
+EN.553.738.01.SP24,"High-Dimensional Approximation, Probability, and Statistical Learning","Maggioni, Mauro","Maggioni, Mauro",2024 Spring,Applied Mathematics and Statistics,3.94,4.44,4.88
+EN.553.739.01.SP25,Statistical Pattern Recognition Theory & Methods,"Priebe, Carey","Priebe, Carey",2025 Spring,Applied Mathematics and Statistics,2.70,4.69,4.76
+EN.553.740.01.FA24,Machine Learning I,"Younes, Laurent","Younes, Laurent",2024 Fall,Applied Mathematics and Statistics,3.90,3.80,4.30
+EN.553.740.01.FA25,Machine Learning I,"Yang, Sichen","Yang, Sichen",2025 Fall,Applied Mathematics and Statistics,3.17,4.48,4.42
+EN.553.741.01.SP24,Machine Learning II,"Schmidt, James","Schmidt, James",2024 Spring,Applied Mathematics and Statistics,3.18,4.36,4.64
+EN.553.741.01.SP25,Machine Learning II,"Younes, Laurent","Younes, Laurent",2025 Spring,Applied Mathematics and Statistics,3.40,4.30,4.60
+EN.553.743.01.SP25,Equivariant Machine Learning,"Villar, Soledad","Villar, Soledad",2025 Spring,Applied Mathematics and Statistics,3.40,4.28,4.61
+EN.553.744.01.SP25,Data Science Methods for Large Scale Graphs,"Ruiz, Luana","Ruiz, Luana",2025 Spring,Applied Mathematics and Statistics,3.12,4.50,4.46
+EN.553.745.01.FA25,"Stochastic Controls, Games, and Learning I","Cao, Haoyang","Cao, Haoyang",2025 Fall,Applied Mathematics and Statistics,2.63,4.33,4.56
+EN.553.745.01.FA25,"Stochastic Controls, Games, and Learning I","Zhang, Luhao","Zhang, Luhao",2025 Fall,Applied Mathematics and Statistics,2.63,3.94,4.56
+EN.553.747.01.FA25,Mathematics of Data Science,"Diaz Diaz, Mateo","Diaz Diaz, Mateo",2025 Fall,Applied Mathematics and Statistics,3.33,4.61,4.56
+EN.553.749.01.FA24,Advanced Financial Theory,"Geman, Helyette","Geman, Helyette",2024 Fall,Applied Mathematics and Statistics,3.11,4.67,4.67
+EN.553.749.01.FA25,Advanced Financial Theory,"Geman, Helyette","Geman, Helyette",2025 Fall,Applied Mathematics and Statistics,3.69,4.44,4.63
+EN.553.753.01.SP24,"Three Key Aspects of Climate Change: Energy Transition, Critical Metals and Sustainable Agriculture","Geman, Helyette","Geman, Helyette",2024 Spring,Applied Mathematics and Statistics,3.46,4.57,4.57
+EN.553.753.01.SP25,"Commodity Markets: Electricity and Natural Gas, Oil, Metals, and Agriculturals","Geman, Helyette","Geman, Helyette",2025 Spring,Applied Mathematics and Statistics,2.88,4.41,4.24
+EN.553.753.01.SP25,"Commodity Markets: Electricity and Natural Gas, Oil, Metals, and Agriculturals","Galeeva, Roza","Galeeva, Roza",2025 Spring,Applied Mathematics and Statistics,2.88,4.50,4.24
+EN.553.761.01.FA24,Nonlinear Optimization I,"Diaz Diaz, Mateo","Diaz Diaz, Mateo",2024 Fall,Applied Mathematics and Statistics,3.55,4.58,4.55
+EN.553.761.01.FA25,Nonlinear Optimization I,"Grimmer, Ben","Grimmer, Ben",2025 Fall,Applied Mathematics and Statistics,3.51,4.64,4.64
+EN.553.762.01.SP24,Nonlinear Optimization II,"Grimmer, Ben","Grimmer, Ben",2024 Spring,Applied Mathematics and Statistics,3.63,4.44,4.56
+EN.553.762.01.SP25,Nonlinear Optimization II,"Diaz Diaz, Mateo","Diaz Diaz, Mateo",2025 Spring,Applied Mathematics and Statistics,4.15,4.47,4.67
+EN.553.763.01.SP24,Stochastic Search and Optimization,"Spall, James","Spall, James",2024 Spring,Applied Mathematics and Statistics,4.21,4.86,4.64
+EN.553.764.01.SP25,"Modeling, Simulation, and Monte Carlo","Spall, James","Spall, James",2025 Spring,Applied Mathematics and Statistics,4.07,4.86,4.50
+EN.553.766.01.SP24,Combinatorial Optimization,"Basu, Amitabh","Basu, Amitabh",2024 Spring,Applied Mathematics and Statistics,3.46,4.62,4.62
+EN.553.766.01.SP25,Combinatorial Optimization,"Basu, Amitabh","Basu, Amitabh",2025 Spring,Applied Mathematics and Statistics,3.54,4.62,4.69
+EN.553.767.01.SP24,Iterative Algorithms in Machine Learning: Theory and Applications,"Loizou, Nicolas","Loizou, Nicolas",2024 Spring,Applied Mathematics and Statistics,4.50,4.75,5.00
+EN.553.767.01.FA24,Iterative Algorithms in Machine Learning: Theory and Applications,"Loizou, Nicolas","Loizou, Nicolas",2024 Fall,Applied Mathematics and Statistics,3.80,4.20,5.00
+EN.553.780.01.FA25,Shape and Differential Geometry,"Younes, Laurent","Younes, Laurent",2025 Fall,Applied Mathematics and Statistics,4.57,4.75,4.75
+EN.553.786.01.FA25,Manifold Learning for Subsequent Inference,"Priebe, Carey","Priebe, Carey",2025 Fall,Applied Mathematics and Statistics,2.22,4.67,4.64
+EN.553.792.01.FA24,Matrix Analysis and Linear Algebra,"Fishkind, Donniell","Fishkind, Donniell",2024 Fall,Applied Mathematics and Statistics,3.55,4.90,4.90
+EN.553.792.02.FA24,Matrix Analysis and Linear Algebra,"Fishkind, Donniell","Fishkind, Donniell",2024 Fall,Applied Mathematics and Statistics,3.80,4.71,4.47
+EN.553.792.02.FA25,Matrix Analysis and Linear Algebra,"Fishkind, Donniell","Fishkind, Donniell",2025 Fall,Applied Mathematics and Statistics,3.44,4.67,4.33
+EN.553.792.01.FA25,Matrix Analysis and Linear Algebra,"Fishkind, Donniell","Fishkind, Donniell",2025 Fall,Applied Mathematics and Statistics,3.76,4.59,4.59
+EN.553.793.01.SP25,Turbulence Theory,"Eyink, Gregory","Eyink, Gregory",2025 Spring,Applied Mathematics and Statistics,3.50,4.40,4.80
+EN.553.796.01.FA24,Random Matrix Theory in Data Science and Statistics,"Kunisky, Tim","Kunisky, Tim",2024 Fall,Applied Mathematics and Statistics,3.76,4.94,4.94
+EN.553.796.01.FA25,Random Matrix Theory in Data Science and Statistics,"Kunisky, Tim","Kunisky, Tim",2025 Fall,Applied Mathematics and Statistics,4.00,4.94,4.81
+EN.553.797.01.SP24,Introduction to Control Theory and Optimal Control,"Younes, Laurent","Younes, Laurent",2024 Spring,Applied Mathematics and Statistics,3.21,4.07,4.57
+EN.553.797.01.SP25,Introduction to Control Theory and Optimal Control,"Sun, Ao","Sun, Ao",2025 Spring,Applied Mathematics and Statistics,3.93,3.50,4.63
+EN.553.798.01.FA25,Partial Differential Equations for Applied Mathematicians,"Yang, Jincheng","Yang, Jincheng",2025 Fall,Applied Mathematics and Statistics,2.67,4.67,4.83

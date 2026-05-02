@@ -1,0 +1,693 @@
+code,title,credits,description,fa_tags,distribution,prereq_codes,prereq_text,restrictions,raw_description
+EN.560.100,Civilization Engineered: Structures and Systems,3,"Civilizations rely on engineered structures and infrastructure systems to supply their basic needs, including water, energy, transportation, and shelter. This course will examine the past, present, and future of the engineering solutions on which civilizations rely, and the evolving technological, environmental, and societal challenges to which our current solutions must adapt. Through lectures and hands-on activities, students will learn fundamental engineering concepts and methods of graphical communication, as well as an introduction to physical and computational modeling of structures and infrastructure systems.",FA2,Engineering,,,,"EN.560.100.
+Civilization Engineered: Structures and Systems.
+3 Credits.
+Civilizations rely on engineered structures and infrastructure systems to supply their basic needs, including water, energy, transportation, and shelter. This course will examine the past, present, and future of the engineering solutions on which civilizations rely, and the evolving technological, environmental, and societal challenges to which our current solutions must adapt. Through lectures and hands-on activities, students will learn fundamental engineering concepts and methods of graphical communication, as well as an introduction to physical and computational modeling of structures and infrastructure systems.
+Distribution Area: Engineering
+AS Foundational Abilities: Science and Data (FA2)"
+EN.560.101,Civilization Engineered: Data-driven Solutions for Communities,3,"Modern civilizations are inundated with data, which presents challenges related to the quantity and quality of data, but also opportunities for engineers to improve people's lives through data-informed design. Increasingly, data is being leveraged to help create solutions for society's grand challenges in the areas of sustainable and resilient cities, human safety and security, decision-making in healthcare, future energy infrastructure, even space exploration and habitation. This course will take a deep-dive into data - how to collect, process, visualize, model, and interpret it – with the goal of designing and evaluating solutions for the grand challenges that will impact our collective future.  Coding will be emphasized in this class. The ePortfolio tag(s) on this course signify that there are one or more assignments offered in the course that provide students with the opportunity to be assessed for proficiency in completion of the relevant ePortfolio requirement(s).",,Engineering,"EN.500.113, EN.500.133","EN.500.113
+or
+EN.500.133",,"EN.560.101.
+Civilization Engineered: Data-driven Solutions for Communities.
+3 Credits.
+Modern civilizations are inundated with data, which presents challenges related to the quantity and quality of data, but also opportunities for engineers to improve people's lives through data-informed design. Increasingly, data is being leveraged to help create solutions for society's grand challenges in the areas of sustainable and resilient cities, human safety and security, decision-making in healthcare, future energy infrastructure, even space exploration and habitation. This course will take a deep-dive into data - how to collect, process, visualize, model, and interpret it – with the goal of designing and evaluating solutions for the grand challenges that will impact our collective future.  Coding will be emphasized in this class. The ePortfolio tag(s) on this course signify that there are one or more assignments offered in the course that provide students with the opportunity to be assessed for proficiency in completion of the relevant ePortfolio requirement(s).
+Prerequisite(s):
+EN.500.113
+or
+EN.500.133
+Distribution Area: Engineering
+EN Foundational Abilities: Oral Communication ePortfolio (FA1.2eP)"
+EN.560.191,CaSE Collaborative,0.5,"From sketching to 3D printing, students in this course will work directly with the tools that civil and systems engineers use to plan and communicate their ideas.  Hands-on learning activities will help students develop these skills, with an emphasis on communication and collaboration using graphical tools such as CAD and GIS software and physical specimens fabricated with manual construction and 3D printing.",FA2,"Engineering, Natural Sciences",,,,"EN.560.191.
+CaSE Collaborative.
+0.5 Credits.
+From sketching to 3D printing, students in this course will work directly with the tools that civil and systems engineers use to plan and communicate their ideas.  Hands-on learning activities will help students develop these skills, with an emphasis on communication and collaboration using graphical tools such as CAD and GIS software and physical specimens fabricated with manual construction and 3D printing.
+Distribution Area: Engineering, Natural Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+EN.560.192,CaSE Cornerstone Design Project,1,"Through a semester-long project, students in this course will practice the engineering design process as they work with a community partner to develop a proposal for the improvement or development of a parcel of land in Baltimore City (e.g. a vacant lot, parkland, etc.). Students will present their proposals at the Whiting School’s Design Day. The ePortfolio tag(s) on this course signify that there are one or more assignments offered in the course that provide students with the opportunity to be assessed for proficiency in completion of the relevant ePortfolio requirement(s).",,Engineering,,,,"EN.560.192.
+CaSE Cornerstone Design Project.
+1 Credit.
+Through a semester-long project, students in this course will practice the engineering design process as they work with a community partner to develop a proposal for the improvement or development of a parcel of land in Baltimore City (e.g. a vacant lot, parkland, etc.). Students will present their proposals at the Whiting School’s Design Day. The ePortfolio tag(s) on this course signify that there are one or more assignments offered in the course that provide students with the opportunity to be assessed for proficiency in completion of the relevant ePortfolio requirement(s).
+Distribution Area: Engineering
+EN Foundational Abilities: Conceiving of and Realizing Projects ePortfolio (FA6eP)"
+EN.560.201,Statics & Mechanics of Materials,3,"This course combines statics  - the basic principles of classical mechanics applied to the equilibrium of particles and rigid bodies at rest, under the influence of various force systems  - with mechanics of materials  - the study of deformable bodies and the relationships between stresses and deformations within those bodies.  Fundamental concepts in statics include the proper use of free body diagrams, the analysis of simple structures, centroids and centers of gravity, and moments of inertia.  The study of mechanics of materials will focus on the elastic analysis of axial force, torsion, and bending members to determine corresponding stresses and strains.  Stress transformations and principal stresses will be introduced.For most majors, students are required to register for both 560.201 Statics and Mechanics of Materials and 560.211 Statics and Mechanics of Materials Laboratory.",FA2,Engineering,"AS.171.101, AS.171.105, AS.171.107, EN.530.123, EN.530.124, EN.560.211","AS.171.101
+OR
+AS.171.105
+OR
+AS.171.107
+OR (
+EN.530.123
+AND
+EN.530.124
+) or instructor permission.
+Corequisite(s):
+EN.560.211",,"EN.560.201.
+Statics & Mechanics of Materials.
+3 Credits.
+This course combines statics  - the basic principles of classical mechanics applied to the equilibrium of particles and rigid bodies at rest, under the influence of various force systems  - with mechanics of materials  - the study of deformable bodies and the relationships between stresses and deformations within those bodies.  Fundamental concepts in statics include the proper use of free body diagrams, the analysis of simple structures, centroids and centers of gravity, and moments of inertia.  The study of mechanics of materials will focus on the elastic analysis of axial force, torsion, and bending members to determine corresponding stresses and strains.  Stress transformations and principal stresses will be introduced.For most majors, students are required to register for both 560.201 Statics and Mechanics of Materials and 560.211 Statics and Mechanics of Materials Laboratory.
+Prerequisite(s):
+AS.171.101
+OR
+AS.171.105
+OR
+AS.171.107
+OR (
+EN.530.123
+AND
+EN.530.124
+) or instructor permission.
+Corequisite(s):
+EN.560.211
+Distribution Area: Engineering
+AS Foundational Abilities: Science and Data (FA2)"
+EN.560.211,Statics and Mechanics of Materials Laboratory,1,"The complementary laboratory course for and required corequisite to
+EN.560.201
+Statics and Mechanics of Materials.  For most majors, students are required to register for both 560.201 Statics and Mechanics of Materials and 560.211 Statics and Mechanics of Materials Laboratory.",FA2,Engineering,EN.560.201,"Students must have completed Lab Safety training prior to registering for this class. To access the tutorial, login to myLearning and enter Laboratory Safety Introductory Course in the Search Box to access the proper course.
+Click here to access the Laboratory Safety Introductory Course
+Corequisite(s):
+EN.560.201",,"EN.560.211.
+Statics and Mechanics of Materials Laboratory.
+1 Credit.
+The complementary laboratory course for and required corequisite to
+EN.560.201
+Statics and Mechanics of Materials.  For most majors, students are required to register for both 560.201 Statics and Mechanics of Materials and 560.211 Statics and Mechanics of Materials Laboratory.
+Prerequisite(s):
+Students must have completed Lab Safety training prior to registering for this class. To access the tutorial, login to myLearning and enter Laboratory Safety Introductory Course in the Search Box to access the proper course.
+Click here to access the Laboratory Safety Introductory Course
+Corequisite(s):
+EN.560.201
+Distribution Area: Engineering
+AS Foundational Abilities: Science and Data (FA2)"
+EN.560.240,"Uncertainty, Reliability and Decision-making",3,"This course covers the essentials of probability and statistics with an emphasis on their use for reliability, risk, and decision making for civil and systems engineering applications. Topics include the basics of probability theory (random variables, moments, single and multi-variate distribution functions), an introduction to occurrence probabilities and extreme value statistics and their use in assessing risk of civil infrastructure systems, and introductory concepts in structural reliability and reliability-based design.",FA2,"Engineering, Quantitative and Mathematical Sciences",AS.110.109,AS.110.109,,"EN.560.240.
+Uncertainty, Reliability and Decision-making.
+3 Credits.
+This course covers the essentials of probability and statistics with an emphasis on their use for reliability, risk, and decision making for civil and systems engineering applications. Topics include the basics of probability theory (random variables, moments, single and multi-variate distribution functions), an introduction to occurrence probabilities and extreme value statistics and their use in assessing risk of civil infrastructure systems, and introductory concepts in structural reliability and reliability-based design.
+Prerequisite(s):
+AS.110.109
+Distribution Area: Engineering, Quantitative and Mathematical Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+EN.560.250,Intro to Mathematical Decision Making,3,"This first course in mathematical decision-making introduces optimization models and their role in solving complex problems. The methods are motivated by a set of real-world problems from various domains including Transportation, Energy, Health, Management, and Space, among others. The course covers linear and integer optimization formulations, solution algorithms, sensitivity analysis, network models, simulation examples, and hands-on solution techniques and coding.",FA2,"Engineering, Quantitative and Mathematical Sciences","EN.553.291, EN.500.113","EN.553.291
+AND
+EN.500.113",,"EN.560.250.
+Intro to Mathematical Decision Making.
+3 Credits.
+This first course in mathematical decision-making introduces optimization models and their role in solving complex problems. The methods are motivated by a set of real-world problems from various domains including Transportation, Energy, Health, Management, and Space, among others. The course covers linear and integer optimization formulations, solution algorithms, sensitivity analysis, network models, simulation examples, and hands-on solution techniques and coding.
+Prerequisite(s):
+EN.553.291
+AND
+EN.500.113
+Distribution Area: Engineering, Quantitative and Mathematical Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+EN.560.291,CaSE Coding,0.5,"Having learned basic Python programming skills in Gateway Computing, CaSE Coding will provide an opportunity for students to apply and further develop their coding skills by using them to analyze, interpret, and visualize real-world data from the materials, structures, and infrastructure systems that make up our built environment.",FA2,Engineering,"AS.110.109, EN.500.113","AS.110.109
+AND
+EN.500.113",,"EN.560.291.
+CaSE Coding.
+0.5 Credits.
+Having learned basic Python programming skills in Gateway Computing, CaSE Coding will provide an opportunity for students to apply and further develop their coding skills by using them to analyze, interpret, and visualize real-world data from the materials, structures, and infrastructure systems that make up our built environment.
+Prerequisite(s):
+AS.110.109
+AND
+EN.500.113
+Distribution Area: Engineering
+AS Foundational Abilities: Science and Data (FA2)"
+EN.560.292,CaSE Research,0.5,"An introduction to the research process, students in this project-based course will develop an appreciation for the role of research in our society and will learn the tools indispensable to researchers, including how to conduct literature reviews, how to read and write technical literature, as well as how to formulate and test a research hypothesis. Students will explore the research process through a variety of methods including as an exercise in uncertainty quantification.",FA2,Engineering,,,,"EN.560.292.
+CaSE Research.
+0.5 Credits.
+An introduction to the research process, students in this project-based course will develop an appreciation for the role of research in our society and will learn the tools indispensable to researchers, including how to conduct literature reviews, how to read and write technical literature, as well as how to formulate and test a research hypothesis. Students will explore the research process through a variety of methods including as an exercise in uncertainty quantification.
+Distribution Area: Engineering
+AS Foundational Abilities: Science and Data (FA2)"
+EN.560.301,Structural Systems I,3,"This course will introduce students to the structural design workflow from concept and ideation to structural modeling and analysis to member and connection design using the reliability-based limit states approach. This first course in a two-course sequence will focus on the analysis and design of structural systems composed primarily of axial force members (e.g. trusses, cables, and arches). Connections to mechanics-based principles will be emphasized and practical applications using common structural materials such as timber, steel, and reinforced concrete will be covered.",FA2,Engineering,EN.560.201,EN.560.201,,"EN.560.301.
+Structural Systems I.
+3 Credits.
+This course will introduce students to the structural design workflow from concept and ideation to structural modeling and analysis to member and connection design using the reliability-based limit states approach. This first course in a two-course sequence will focus on the analysis and design of structural systems composed primarily of axial force members (e.g. trusses, cables, and arches). Connections to mechanics-based principles will be emphasized and practical applications using common structural materials such as timber, steel, and reinforced concrete will be covered.
+Prerequisite(s):
+EN.560.201
+Distribution Area: Engineering
+AS Foundational Abilities: Science and Data (FA2)"
+EN.560.302,Structural Systems II,3,"This second course in the two-course structural systems sequence will reinforce the structural design workflow from concept and ideation to structural modeling and analysis to limit states design, but with a focus on the analysis and design of structural systems composed of bending members (e.g. frames). Connections to mechanics-based principles will again be emphasized and practical applications using common structural materials such as timber, steel, and reinforced concrete will be covered.",FA2,Engineering,EN.560.301,EN.560.301,,"EN.560.302.
+Structural Systems II.
+3 Credits.
+This second course in the two-course structural systems sequence will reinforce the structural design workflow from concept and ideation to structural modeling and analysis to limit states design, but with a focus on the analysis and design of structural systems composed of bending members (e.g. frames). Connections to mechanics-based principles will again be emphasized and practical applications using common structural materials such as timber, steel, and reinforced concrete will be covered.
+Prerequisite(s):
+EN.560.301
+Distribution Area: Engineering
+AS Foundational Abilities: Science and Data (FA2)"
+EN.560.305,Soil Mechanics,4,Basic principles of soil mechanics. Classification of soils. Compaction theory. Consolidation seepage and settlement analysis. Stress-strain and shear strength of soils. Introduction to earth pressure theories and slope stability analysis.,FA2,Engineering,"EN.560.201, EN.560.211","Students must have completed Lab Safety training prior to registering for this class. To access the tutorial, login to myLearning and enter ASEN in the Search Box to access the proper course.
+Click here to access the Laboratory Safety Introductory Course
+;
+EN.560.201
+AND
+EN.560.211",,"EN.560.305.
+Soil Mechanics.
+4 Credits.
+Basic principles of soil mechanics. Classification of soils. Compaction theory. Consolidation seepage and settlement analysis. Stress-strain and shear strength of soils. Introduction to earth pressure theories and slope stability analysis.
+Prerequisite(s):
+Students must have completed Lab Safety training prior to registering for this class. To access the tutorial, login to myLearning and enter ASEN in the Search Box to access the proper course.
+Click here to access the Laboratory Safety Introductory Course
+;
+EN.560.201
+AND
+EN.560.211
+Distribution Area: Engineering
+AS Foundational Abilities: Science and Data (FA2)"
+EN.560.312,Electromagnetism & Sensors Lab,1,"Electricity and magnetism underpins much of modern engineering, as an alternative or addendum to classical Physics this, largely, hands-on laboratory course exposes engineers to the principles of electromagnetism and how they are leveraged in the modern world with a focus on their application in infrastructure and sensor networks.",,"Engineering, Natural Sciences",,"Students must have completed Lab Safety training prior to registering for this class. To access the tutorial, login to myLearning and enter 458083 in the Search box to locate the appropriate module.",,"EN.560.312.
+Electromagnetism & Sensors Lab.
+1 Credit.
+Electricity and magnetism underpins much of modern engineering, as an alternative or addendum to classical Physics this, largely, hands-on laboratory course exposes engineers to the principles of electromagnetism and how they are leveraged in the modern world with a focus on their application in infrastructure and sensor networks.
+Prerequisite(s):
+Students must have completed Lab Safety training prior to registering for this class. To access the tutorial, login to myLearning and enter 458083 in the Search box to locate the appropriate module.
+Distribution Area: Engineering, Natural Sciences"
+EN.560.315,Data Science for Systems Engineers,3,"An advanced data analytics course intended for students who have previous experience with data science, probability, and statistics.  This course looks at the principles and techniques of data science tailored towards applications in systems engineering contexts, specifically those related to major societal challenges including resilient cities, human safety and security, decision-making and healthcare, future energy infrastructure, and space exploration and habitation.",,Engineering,EN.500.115,EN.500.115,,"EN.560.315.
+Data Science for Systems Engineers.
+3 Credits.
+An advanced data analytics course intended for students who have previous experience with data science, probability, and statistics.  This course looks at the principles and techniques of data science tailored towards applications in systems engineering contexts, specifically those related to major societal challenges including resilient cities, human safety and security, decision-making and healthcare, future energy infrastructure, and space exploration and habitation.
+Prerequisite(s):
+EN.500.115
+Distribution Area: Engineering"
+EN.560.330,Foundation Design,3,Application of soil mechanics theory and soil test results to the analysis and design of foundations for structures; retaining walls; embankments; design of pile and shallow footing foundations; slope stability.,FA2,Engineering,EN.560.305,EN.560.305,,"EN.560.330.
+Foundation Design.
+3 Credits.
+Application of soil mechanics theory and soil test results to the analysis and design of foundations for structures; retaining walls; embankments; design of pile and shallow footing foundations; slope stability.
+Prerequisite(s):
+EN.560.305
+Distribution Area: Engineering
+AS Foundational Abilities: Science and Data (FA2)"
+EN.560.355,Dynamical Systems,3,"This course will introduce students to the modeling and analysis of dynamical systems using analytical, numerical and qualitative (geometric) techniques. The course will focus on dynamical systems arising in mechanics and vibrations, global climate models and infectious disease modeling. The following topics will be covered: first order systems, phase space, bifurcations, numerical integration, second order linear systems, stability, finite differences, nonlinear systems, higher order systems, introduction to chaos.",,"Engineering, Quantitative and Mathematical Sciences","EN.553.291, AS.171.101, AS.171.105, AS.171.107","EN.553.291
+AND (
+AS.171.101
+OR
+AS.171.105
+OR
+AS.171.107
+)",,"EN.560.355.
+Dynamical Systems.
+3 Credits.
+This course will introduce students to the modeling and analysis of dynamical systems using analytical, numerical and qualitative (geometric) techniques. The course will focus on dynamical systems arising in mechanics and vibrations, global climate models and infectious disease modeling. The following topics will be covered: first order systems, phase space, bifurcations, numerical integration, second order linear systems, stability, finite differences, nonlinear systems, higher order systems, introduction to chaos.
+Prerequisite(s):
+EN.553.291
+AND (
+AS.171.101
+OR
+AS.171.105
+OR
+AS.171.107
+)
+Distribution Area: Engineering, Quantitative and Mathematical Sciences"
+EN.560.362,Engineering Mechanics and Materials,3,"This course will provide an in-depth exploration of the mechanics of solid and liquid materials with a focus on constitutive equations. The course will cover both linear and nonlinear equations and their applications to solid and liquid materials under various loading conditions.  Topics will include stress and strain, (visco-)elasticity and plasticity, failure criteria, and fluid mechanics. Students will study the derivation and use of constitutive equations for materials such as metals, polymers, and (non-)Newtonian liquids.",FA2,Engineering,"EN.553.291, EN.560.201","EN.553.291
+AND
+EN.560.201",,"EN.560.362.
+Engineering Mechanics and Materials.
+3 Credits.
+This course will provide an in-depth exploration of the mechanics of solid and liquid materials with a focus on constitutive equations. The course will cover both linear and nonlinear equations and their applications to solid and liquid materials under various loading conditions.  Topics will include stress and strain, (visco-)elasticity and plasticity, failure criteria, and fluid mechanics. Students will study the derivation and use of constitutive equations for materials such as metals, polymers, and (non-)Newtonian liquids.
+Prerequisite(s):
+EN.553.291
+AND
+EN.560.201
+Distribution Area: Engineering
+AS Foundational Abilities: Science and Data (FA2)"
+EN.560.391,CaSE Careers I,0.5,"CaSE Careers I provides students with opportunities to explore the wide range of career paths available to civil and systems engineering graduates (e.g. consulting, academia, government, industry, and construction) through invited speakers, field trips to design offices / construction sites, and attendance at professional society meetings. Topics related to engineering ethics, professional licensure, and other current professional issues are also discussed. The ePortfolio tag(s) on this course signify that there are one or more assignments offered in the course that provide students with the opportunity to be assessed for proficiency in completion of the relevant ePortfolio requirement(s).",,Engineering,,,,"EN.560.391.
+CaSE Careers I.
+0.5 Credits.
+CaSE Careers I provides students with opportunities to explore the wide range of career paths available to civil and systems engineering graduates (e.g. consulting, academia, government, industry, and construction) through invited speakers, field trips to design offices / construction sites, and attendance at professional society meetings. Topics related to engineering ethics, professional licensure, and other current professional issues are also discussed. The ePortfolio tag(s) on this course signify that there are one or more assignments offered in the course that provide students with the opportunity to be assessed for proficiency in completion of the relevant ePortfolio requirement(s).
+Distribution Area: Engineering
+EN Foundational Abilities: Writing ePortfolio (FA.1.1eP),
+Ethical Reflection ePortfolio (FA5eP)"
+EN.560.392,CaSE Careers II,0.5,"CaSE Careers II provides students with opportunities to explore the wide range of career paths available to civil and systems engineering graduates (e.g. consulting, academia, government, industry, and construction) through invited speakers, field trips to design offices / construction sites, and attendance at professional society meetings. Topics related to engineering economics and other current professional issues are also discussed.",,Engineering,,,,"EN.560.392.
+CaSE Careers II.
+0.5 Credits.
+CaSE Careers II provides students with opportunities to explore the wide range of career paths available to civil and systems engineering graduates (e.g. consulting, academia, government, industry, and construction) through invited speakers, field trips to design offices / construction sites, and attendance at professional society meetings. Topics related to engineering economics and other current professional issues are also discussed.
+Distribution Area: Engineering"
+EN.560.401,Design Theory and Practice,3,"First course in the two-course senior design capstone sequence for civil and systems engineering majors. Students will learn about various engineering design theories and their applications. They will also be assigned to small teams tasked with proposing engineering solutions to societal challenges in areas such as transportation, shelter, energy, and healthcare. The course will culminate in students’ formal design proposals that will be finalized in
+EN.560.402
+CaSE Capstone Design Project.",FA2,Engineering,,,,"EN.560.401.
+Design Theory and Practice.
+3 Credits.
+First course in the two-course senior design capstone sequence for civil and systems engineering majors. Students will learn about various engineering design theories and their applications. They will also be assigned to small teams tasked with proposing engineering solutions to societal challenges in areas such as transportation, shelter, energy, and healthcare. The course will culminate in students’ formal design proposals that will be finalized in
+EN.560.402
+CaSE Capstone Design Project.
+Distribution Area: Engineering
+AS Foundational Abilities: Science and Data (FA2)"
+EN.560.402,CaSE Capstone Design Project,3,"Second course in the two-course senior design capstone sequence for civil and systems engineering majors. Following 560.401 Design Theory and Practice, in
+EN.560.402
+students will finalize, document, and present their capstone design projects in small teams to fellow students, faculty, staff, and industry professionals at the Whiting School’s Design Day.",FA2,Engineering,EN.560.401,EN.560.401,,"EN.560.402.
+CaSE Capstone Design Project.
+3 Credits.
+Second course in the two-course senior design capstone sequence for civil and systems engineering majors. Following 560.401 Design Theory and Practice, in
+EN.560.402
+students will finalize, document, and present their capstone design projects in small teams to fellow students, faculty, staff, and industry professionals at the Whiting School’s Design Day.
+Prerequisite(s):
+EN.560.401
+Distribution Area: Engineering
+AS Foundational Abilities: Science and Data (FA2)"
+EN.560.410,Drivers of Technological Change,3,"Technological innovation is everywhere—from smartphones and ChatGPT to solar panels and electric vehicles—but how well do we understand the processes that turn novel ideas into widely adopted technologies? This interdisciplinary course introduces models of technological change and explores their implications for engineers, entrepreneurs, and policymakers seeking to advance energy and other infrastructure systems. Students will engage with conceptual and quantitative models that explain how technologies emerge, improve in performance (e.g., through cost reductions), diffuse, and contribute to economic growth and human development. Case studies on energy, transportation, and general-purpose technologies ground abstractions in practical contexts. Key course themes include: (a) how technological characteristics influence innovation pathways; (b) the opportunities and limitations of using historical trends to guide future innovation; and (c) how modeling choices shape efforts to manage and accelerate technological change.",,Engineering,,,,"EN.560.410.
+Drivers of Technological Change.
+3 Credits.
+Technological innovation is everywhere—from smartphones and ChatGPT to solar panels and electric vehicles—but how well do we understand the processes that turn novel ideas into widely adopted technologies? This interdisciplinary course introduces models of technological change and explores their implications for engineers, entrepreneurs, and policymakers seeking to advance energy and other infrastructure systems. Students will engage with conceptual and quantitative models that explain how technologies emerge, improve in performance (e.g., through cost reductions), diffuse, and contribute to economic growth and human development. Case studies on energy, transportation, and general-purpose technologies ground abstractions in practical contexts. Key course themes include: (a) how technological characteristics influence innovation pathways; (b) the opportunities and limitations of using historical trends to guide future innovation; and (c) how modeling choices shape efforts to manage and accelerate technological change.
+Distribution Area: Engineering"
+EN.560.421,"Architectural Engineering - Form, Function and Technology",3,"This course will cultivate broad knowledge of the use of engineering principles in the art of architecture. Fundamental definitions of architecture in the basic provision of shelter and social use are paired with aesthetics and cultural heritage. The course emphasizes structural frameworks and systems within the Civil Engineering curriculum, while expanding upon their critical intersections with the highly varied specialized components and systems of modern architecture, and the corresponding community of specialists that represent them. Topics include a historical view of the evolution of specialization in architecture, a quantitative review of loads and resistance systems, architectural and structural determinants of form, the function and aesthetics of building surface, and an introduction to environmental systems and their role in design sustainability. The class will include a trip to Fallingwater, the house designed by Frank Lloyd Wright, in western Pennsylvania, which stands as an iconic example of American architecture and a complex example of architectural engineering. This course is co-listed with?
+EN.560.621
+.",FA2,Engineering,EN.560.302,EN.560.302,,"EN.560.421.
+Architectural Engineering - Form, Function and Technology.
+3 Credits.
+This course will cultivate broad knowledge of the use of engineering principles in the art of architecture. Fundamental definitions of architecture in the basic provision of shelter and social use are paired with aesthetics and cultural heritage. The course emphasizes structural frameworks and systems within the Civil Engineering curriculum, while expanding upon their critical intersections with the highly varied specialized components and systems of modern architecture, and the corresponding community of specialists that represent them. Topics include a historical view of the evolution of specialization in architecture, a quantitative review of loads and resistance systems, architectural and structural determinants of form, the function and aesthetics of building surface, and an introduction to environmental systems and their role in design sustainability. The class will include a trip to Fallingwater, the house designed by Frank Lloyd Wright, in western Pennsylvania, which stands as an iconic example of American architecture and a complex example of architectural engineering. This course is co-listed with?
+EN.560.621
+.
+Prerequisite(s):
+EN.560.302
+Distribution Area: Engineering
+AS Foundational Abilities: Science and Data (FA2)"
+EN.560.424,Renewable Energy Structures,3,"This course provides an introduction to the structural engineering principles underlying renewable energy systems, focusing on both the demands placed on these structures and the capacity calculations necessary for their safe and efficient design. Students will explore the challenges involved in scaling up renewable energy infrastructure to meet national and global energy demands. The course will cover a wide variety of renewable energy structures including: dams, solar support structures, on- and off-shore wind energy structures, transmission structures, structures for energy storage, and other novel renewable energy structures (e.g. solar chimneys, structures for carbon capture, etc.). A significant portion of the course will be dedicated to a more open-ended design effort, where students will propose, design, and analyze a renewable energy structure, with an emphasis on novel or emerging technologies and/or scale-up.",,Engineering,,,,"EN.560.424.
+Renewable Energy Structures.
+3 Credits.
+This course provides an introduction to the structural engineering principles underlying renewable energy systems, focusing on both the demands placed on these structures and the capacity calculations necessary for their safe and efficient design. Students will explore the challenges involved in scaling up renewable energy infrastructure to meet national and global energy demands. The course will cover a wide variety of renewable energy structures including: dams, solar support structures, on- and off-shore wind energy structures, transmission structures, structures for energy storage, and other novel renewable energy structures (e.g. solar chimneys, structures for carbon capture, etc.). A significant portion of the course will be dedicated to a more open-ended design effort, where students will propose, design, and analyze a renewable energy structure, with an emphasis on novel or emerging technologies and/or scale-up.
+Distribution Area: Engineering"
+EN.560.429,Preservation Engineering: Theory and Practice,3,"The renovation of existing buildings often holds many advantages over new construction, including greater economy, improved sustainability, and the maintenance of engineering heritage and architectural character in our built environment. Yet, the renovation of existing structures presents many challenges to structural engineers. These challenges include structural materials that are no longer in widespread use (e.g., unreinforced masonry arches and vaults, cast iron, and wrought iron) as well as structural materials for which analysis and design practices have changed significantly over the last half-century (e.g., wood, steel, and reinforced concrete).This course will examine structures made of a wide variety of materials and instruct the student how to evaluate their condition, determine their existing capacity, and design repairs and/or reinforcement. The investigation and analysis procedures learned from this course may then be applied to create economical and durable structural alterations that allow for the reuse of older buildings. Site visits near Homewood campus will supplement lectures. Co-listed with 560.629.",FA2,Engineering,"EN.560.301, EN.560.302","EN.560.301
+AND
+EN.560.302",,"EN.560.429.
+Preservation Engineering: Theory and Practice.
+3 Credits.
+The renovation of existing buildings often holds many advantages over new construction, including greater economy, improved sustainability, and the maintenance of engineering heritage and architectural character in our built environment. Yet, the renovation of existing structures presents many challenges to structural engineers. These challenges include structural materials that are no longer in widespread use (e.g., unreinforced masonry arches and vaults, cast iron, and wrought iron) as well as structural materials for which analysis and design practices have changed significantly over the last half-century (e.g., wood, steel, and reinforced concrete).This course will examine structures made of a wide variety of materials and instruct the student how to evaluate their condition, determine their existing capacity, and design repairs and/or reinforcement. The investigation and analysis procedures learned from this course may then be applied to create economical and durable structural alterations that allow for the reuse of older buildings. Site visits near Homewood campus will supplement lectures. Co-listed with 560.629.
+Prerequisite(s):
+EN.560.301
+AND
+EN.560.302
+Distribution Area: Engineering
+AS Foundational Abilities: Science and Data (FA2)"
+EN.560.431,Preservation Engineering II: Theory and Practice,3,"Building on the content in Preservation Engineering I: Theory and Practice, this course will begin with materials introduced at the start of the Industrial Revolution--namely with the beginning of the use of iron materials as major structural elements within buildings. The course will continue with the introduction of cast iron, wrought iron, and finally, structural steel members. After introducing iron materials the course will continue with the early use of reinforced concrete as a major structural material. The course will discuss the historic structural analysis methods associated with such materials and contrast such methods with more modern analytical approaches. It will also discuss concrete deterioration and repair methods. Concepts related to masonry facade investigation and repair will be presented along with the analytical methods associated with thin-shell masonry construction from the 19th and 20th centuries. The course will conclude with a review of the assessment and retrofit of historic foundations.Course is co-listed with
+EN.560.631
+and
+EN.565.631
+.",FA2,Engineering,EN.560.429,"EN.560.429
+OR Permission from the instructor.",,"EN.560.431.
+Preservation Engineering II: Theory and Practice.
+3 Credits.
+Building on the content in Preservation Engineering I: Theory and Practice, this course will begin with materials introduced at the start of the Industrial Revolution--namely with the beginning of the use of iron materials as major structural elements within buildings. The course will continue with the introduction of cast iron, wrought iron, and finally, structural steel members. After introducing iron materials the course will continue with the early use of reinforced concrete as a major structural material. The course will discuss the historic structural analysis methods associated with such materials and contrast such methods with more modern analytical approaches. It will also discuss concrete deterioration and repair methods. Concepts related to masonry facade investigation and repair will be presented along with the analytical methods associated with thin-shell masonry construction from the 19th and 20th centuries. The course will conclude with a review of the assessment and retrofit of historic foundations.Course is co-listed with
+EN.560.631
+and
+EN.565.631
+.
+Prerequisite(s):
+EN.560.429
+OR Permission from the instructor.
+Distribution Area: Engineering
+AS Foundational Abilities: Science and Data (FA2)"
+EN.560.434,Structural Fire Engineering,3,"This course will discuss the analysis and design of structures exposed to fire. It will cover the fundamentals of fire behavior, heat transfer, the effects of fire loading on materials and structural systems, and the principles and design methods for fire resistance design. Particular emphasis will be placed on advanced methods and numerical modeling tools for performance-based design. Applications of innovative methods for structural fire design in buildings and other structures will also be presented. Course is co-listed with graduate-level
+EN.560.634
+.",FA2,Engineering,EN.560.302,EN.560.302,,"EN.560.434.
+Structural Fire Engineering.
+3 Credits.
+This course will discuss the analysis and design of structures exposed to fire. It will cover the fundamentals of fire behavior, heat transfer, the effects of fire loading on materials and structural systems, and the principles and design methods for fire resistance design. Particular emphasis will be placed on advanced methods and numerical modeling tools for performance-based design. Applications of innovative methods for structural fire design in buildings and other structures will also be presented. Course is co-listed with graduate-level
+EN.560.634
+.
+Prerequisite(s):
+EN.560.302
+Distribution Area: Engineering
+AS Foundational Abilities: Science and Data (FA2)"
+EN.560.445,Advanced Structural Analysis,3,"Matrix methods for the analysis of statistically indeterminate structures such as beams, plane and space trusses, and plane and space frames.  Stiffness and flexibility methods.  Linear elastic analysis and introduction to nonlinear analysis. Co-listed with
+EN.560.619
+.",FA2,Engineering,EN.560.301,EN.560.301,,"EN.560.445.
+Advanced Structural Analysis.
+3 Credits.
+Matrix methods for the analysis of statistically indeterminate structures such as beams, plane and space trusses, and plane and space frames.  Stiffness and flexibility methods.  Linear elastic analysis and introduction to nonlinear analysis. Co-listed with
+EN.560.619
+.
+Prerequisite(s):
+EN.560.301
+Distribution Area: Engineering
+AS Foundational Abilities: Science and Data (FA2)"
+EN.560.448,Energy Systems and Policy,3,"In this course, you will develop an understanding—and a technically- and socially-deep working knowledge—of our energy technologies, policies, and options.  This will include analysis of the different opportunities and impacts of energy systems that exist within and between groups defined by national, regional, household, ethnic, and gender distinctions.  Analysis of the range of current and future energy choices will be stressed, as well as the role of energy in determining local environmental conditions and the global climate.",,,,,,"EN.560.448.
+Energy Systems and Policy.
+3 Credits.
+In this course, you will develop an understanding—and a technically- and socially-deep working knowledge—of our energy technologies, policies, and options.  This will include analysis of the different opportunities and impacts of energy systems that exist within and between groups defined by national, regional, household, ethnic, and gender distinctions.  Analysis of the range of current and future energy choices will be stressed, as well as the role of energy in determining local environmental conditions and the global climate."
+EN.560.449,Energy Systems,3,"This course revolves around the grid integration of renewable energy systems and operations of energy systems with renewables. The main emphasis is on grid level effects of renewable energy, particularly solar and wind power systems, and how these effects can be analyzed using mathematical modeling and modern software tools. The course begins with an introduction to basic power system concepts (transmission/distribution system modeling, power transformers, conventional and renewable generation technologies) along with power flow analysis and optimization. Following that, the course considers applications of optimal power flow and its variants to electricity market operations. An important component of this course is a guided project that will be carried out by students in small groups; each group will choose a real-world energy system to research and analyze and will present their findings at the end of the semester. Prior knowledge of circuits (including operations with complex numbers), linear algebra, calculus, and optimization is helpful, but not required. This course is co-listed with
+EN.560.649
+.",FA2,"Engineering, Quantitative and Mathematical Sciences",AS.110.202,AS.110.202,,"EN.560.449.
+Energy Systems.
+3 Credits.
+This course revolves around the grid integration of renewable energy systems and operations of energy systems with renewables. The main emphasis is on grid level effects of renewable energy, particularly solar and wind power systems, and how these effects can be analyzed using mathematical modeling and modern software tools. The course begins with an introduction to basic power system concepts (transmission/distribution system modeling, power transformers, conventional and renewable generation technologies) along with power flow analysis and optimization. Following that, the course considers applications of optimal power flow and its variants to electricity market operations. An important component of this course is a guided project that will be carried out by students in small groups; each group will choose a real-world energy system to research and analyze and will present their findings at the end of the semester. Prior knowledge of circuits (including operations with complex numbers), linear algebra, calculus, and optimization is helpful, but not required. This course is co-listed with
+EN.560.649
+.
+Prerequisite(s):
+AS.110.202
+Distribution Area: Engineering, Quantitative and Mathematical Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+EN.560.450,Operations Research,3,"An introduction to operations research and its applications. The course will review the basics of mathematical modelling, linear programming, primal and dual Simplex methods, post-optimization analysis, decomposition methods, and heuristic methods along with sample applications. Recommended course background (
+EN.553.291
+or
+AS.110.201
+) and
+AS.110.109
+or equivalent. This course is co-listed with
+EN.560.650
+.",FA2,Engineering,"EN.560.650, EN.560.450","Students who have taken
+EN.560.650
+are not eligible to take
+EN.560.450
+.",,"EN.560.450.
+Operations Research.
+3 Credits.
+An introduction to operations research and its applications. The course will review the basics of mathematical modelling, linear programming, primal and dual Simplex methods, post-optimization analysis, decomposition methods, and heuristic methods along with sample applications. Recommended course background (
+EN.553.291
+or
+AS.110.201
+) and
+AS.110.109
+or equivalent. This course is co-listed with
+EN.560.650
+.
+Prerequisite(s):
+Students who have taken
+EN.560.650
+are not eligible to take
+EN.560.450
+.
+Distribution Area: Engineering
+AS Foundational Abilities: Science and Data (FA2)"
+EN.560.451,Smart Transportation and Autonomous Vehicles,3,"This course offers an in-depth exploration of the evolving landscape of smart transportation systems and autonomous vehicle technologies. Students will study the integration of intelligent transportation systems (ITS) and automation, with a focus on the development, challenges, and future of autonomous vehicles (AVs) within open-world traffic settings. Key topics include sensor technologies, data quality control and bias mitigation, data processing algorithms, machine learning, vehicle-to-everything (V2X) communication, human-machine interaction, and ethical considerations in technology deployment. Additionally, the course will cultivate students with advanced data processing skills and the role of data science in transportation, emphasizing data-driven solutions for safety, mobility, and sustainability. By the end of the course, students will have gained a comprehensive understanding of how smart technologies are shaping the future of transportation and the role of AVs in fostering safer, more efficient, and sustainable urban mobility systems.",,Engineering,"EN.560.651, EN.560.451","Students who are currently enrolled in, or have already completed
+EN.560.651
+, are not eligible to enroll in
+EN.560.451
+.",,"EN.560.451.
+Smart Transportation and Autonomous Vehicles.
+3 Credits.
+This course offers an in-depth exploration of the evolving landscape of smart transportation systems and autonomous vehicle technologies. Students will study the integration of intelligent transportation systems (ITS) and automation, with a focus on the development, challenges, and future of autonomous vehicles (AVs) within open-world traffic settings. Key topics include sensor technologies, data quality control and bias mitigation, data processing algorithms, machine learning, vehicle-to-everything (V2X) communication, human-machine interaction, and ethical considerations in technology deployment. Additionally, the course will cultivate students with advanced data processing skills and the role of data science in transportation, emphasizing data-driven solutions for safety, mobility, and sustainability. By the end of the course, students will have gained a comprehensive understanding of how smart technologies are shaping the future of transportation and the role of AVs in fostering safer, more efficient, and sustainable urban mobility systems.
+Prerequisite(s):
+Students who are currently enrolled in, or have already completed
+EN.560.651
+, are not eligible to enroll in
+EN.560.451
+.
+Distribution Area: Engineering"
+EN.560.453,An Introduction to Network Modeling,4,"Many real-world problems can be modeled using network structures, and solved using tools from network theory. For this reason, network modeling plays a critical role in various disciplines ranging from physics and mathematics, to biology and computer science, and almost all areas of social science. This course will provide an introduction to network theory, network flow algorithms, modeling processes on networks and examples of empirical network applications spanning transport, health and energy systems. Co-listed with
+EN.560.653
+.",FA2,"Engineering, Quantitative and Mathematical Sciences","EN.553.291, EN.500.113","EN.553.291
+AND
+EN.500.113",,"EN.560.453.
+An Introduction to Network Modeling.
+4 Credits.
+Many real-world problems can be modeled using network structures, and solved using tools from network theory. For this reason, network modeling plays a critical role in various disciplines ranging from physics and mathematics, to biology and computer science, and almost all areas of social science. This course will provide an introduction to network theory, network flow algorithms, modeling processes on networks and examples of empirical network applications spanning transport, health and energy systems. Co-listed with
+EN.560.653
+.
+Prerequisite(s):
+EN.553.291
+AND
+EN.500.113
+Distribution Area: Engineering, Quantitative and Mathematical Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+EN.560.457,System Dynamics,3,"System dynamics is a versatile analytical framework to understand and tackle problems which involve complex interactions among multiple variables and constraints. This course introduces the basics of systems thinking and system dynamics modeling and analysis. Qualitative and quantitative tools are discussed. Students will learn to identify and formulate system's structure and simulate their behavior using specialized software in order to develop potential intervention strategies. Fields of applications include engineering, climate change, resilience, logistics, public policy analysis, business, and decision-making.",FA2,"Engineering, Quantitative and Mathematical Sciences",AS.110.109,AS.110.109,,"EN.560.457.
+System Dynamics.
+3 Credits.
+System dynamics is a versatile analytical framework to understand and tackle problems which involve complex interactions among multiple variables and constraints. This course introduces the basics of systems thinking and system dynamics modeling and analysis. Qualitative and quantitative tools are discussed. Students will learn to identify and formulate system's structure and simulate their behavior using specialized software in order to develop potential intervention strategies. Fields of applications include engineering, climate change, resilience, logistics, public policy analysis, business, and decision-making.
+Prerequisite(s):
+AS.110.109
+Distribution Area: Engineering, Quantitative and Mathematical Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+EN.560.458,Natural Disaster Risk Modeling,3,"This course provides an in-depth discussion of the simulation of disaster risk on socio-technical systems (from countries to cities). The course covers the algorithmic structure of catastrophe models; modeling of the intensity fields of hurricanes, earthquakes, and floods; methods to develop building and infrastructure vulnerability functions, structure of exposure layers, and estimation of post-disaster injuries and casualties. The students learn to produce basic stochastic catalogs from where risk metrics are calculated. Finally, the risk-reduction policy formulation process is presented using as input the catastrophe model-generated information. The course has a strong real-life application side analyzing World Bank risk reduction projects. Students will gain introductory experience in the use of GIS, Matlab, and R. This course is co-listed with
+EN.560.658
+.",FA2,"Engineering, Quantitative and Mathematical Sciences",EN.560.240,EN.560.240,,"EN.560.458.
+Natural Disaster Risk Modeling.
+3 Credits.
+This course provides an in-depth discussion of the simulation of disaster risk on socio-technical systems (from countries to cities). The course covers the algorithmic structure of catastrophe models; modeling of the intensity fields of hurricanes, earthquakes, and floods; methods to develop building and infrastructure vulnerability functions, structure of exposure layers, and estimation of post-disaster injuries and casualties. The students learn to produce basic stochastic catalogs from where risk metrics are calculated. Finally, the risk-reduction policy formulation process is presented using as input the catastrophe model-generated information. The course has a strong real-life application side analyzing World Bank risk reduction projects. Students will gain introductory experience in the use of GIS, Matlab, and R. This course is co-listed with
+EN.560.658
+.
+Prerequisite(s):
+EN.560.240
+Distribution Area: Engineering, Quantitative and Mathematical Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+EN.560.459,Production Systems Analysis,3,"Planning for manufacturing and service industries is critical for efficiently utilizing resources to produce cost-effective goods and services. This course delves into the fundamentals, models, and techniques required for planning, controlling, and optimizing the performance of manufacturing systems. The curriculum focuses on the trade-offs between key measures, like costs, cycle time, throughput, capacity, work-in-process, inventory, and variability. The course utilizes analytical approaches (linear programming, simulation, probability, and statistics) and coding (Python). Co-listed with EN.560.679.",FA2,Engineering,"EN.560.479, EN.560.679, EN.500.113, EN.560.240","Students may take only EN.560.479 or EN.560.679, but not both.;
+EN.500.113
+AND
+EN.560.240",,"EN.560.459.
+Production Systems Analysis.
+3 Credits.
+Planning for manufacturing and service industries is critical for efficiently utilizing resources to produce cost-effective goods and services. This course delves into the fundamentals, models, and techniques required for planning, controlling, and optimizing the performance of manufacturing systems. The curriculum focuses on the trade-offs between key measures, like costs, cycle time, throughput, capacity, work-in-process, inventory, and variability. The course utilizes analytical approaches (linear programming, simulation, probability, and statistics) and coding (Python). Co-listed with EN.560.679.
+Prerequisite(s):
+Students may take only EN.560.479 or EN.560.679, but not both.;
+EN.500.113
+AND
+EN.560.240
+Distribution Area: Engineering
+AS Foundational Abilities: Science and Data (FA2)"
+EN.560.462,Failure Mechanics in Materials,3,This course provides an overview of the various modes of failure found in traditional and non-traditional structural materials. The concepts will be demonstrated through computational models and physical demonstrations. This is the second course in a two-semester engineering mechanics sequence that starts with 560.362 Engineering Mechanics and Materials. These courses may be taken out of sequence only with the instructor’s permission.,FA2,Engineering,EN.560.201,EN.560.201,,"EN.560.462.
+Failure Mechanics in Materials.
+3 Credits.
+This course provides an overview of the various modes of failure found in traditional and non-traditional structural materials. The concepts will be demonstrated through computational models and physical demonstrations. This is the second course in a two-semester engineering mechanics sequence that starts with 560.362 Engineering Mechanics and Materials. These courses may be taken out of sequence only with the instructor’s permission.
+Prerequisite(s):
+EN.560.201
+Distribution Area: Engineering
+AS Foundational Abilities: Science and Data (FA2)"
+EN.560.601,Applied Math for Engineers,3,"This course presents a broad survey of the basic mathematical methods used in the solution of ordinary and partial differential equations: linear algebra, power series, Fourier series, separation of variables, integral transforms.",,"Engineering, Quantitative and Mathematical Sciences",,,,"EN.560.601.
+Applied Math for Engineers.
+3 Credits.
+This course presents a broad survey of the basic mathematical methods used in the solution of ordinary and partial differential equations: linear algebra, power series, Fourier series, separation of variables, integral transforms.
+Distribution Area: Engineering, Quantitative and Mathematical Sciences"
+EN.560.604,Introduction to Solid Mechanics,3,"Basic solid mechanics for structural engineers. Stress, strain and constitutive laws. Linear elasticity and viscoelasticity. Introduction to nonlinear mechanics. Static, dynamic and thermal stresses. Specialization of theory to one- and two-dimensional cases: plane stress and plane strain, rods, and beams. Work and energy principles; variational formulations.",,,,,,"EN.560.604.
+Introduction to Solid Mechanics.
+3 Credits.
+Basic solid mechanics for structural engineers. Stress, strain and constitutive laws. Linear elasticity and viscoelasticity. Introduction to nonlinear mechanics. Static, dynamic and thermal stresses. Specialization of theory to one- and two-dimensional cases: plane stress and plane strain, rods, and beams. Work and energy principles; variational formulations."
+EN.560.610,Drivers of Technological Change,3,"Technological innovation is everywhere—from smartphones and ChatGPT to solar panels and electric vehicles—but how well do we understand the processes that turn novel ideas into widely adopted technologies? This interdisciplinary course introduces models of technological change and explores their implications for engineers, entrepreneurs, and policymakers seeking to advance energy and other infrastructure systems. Students will engage with conceptual and quantitative models that explain how technologies emerge, improve in performance (e.g., through cost reductions), diffuse, and contribute to economic growth and human development. Case studies on energy, transportation, and general-purpose technologies ground abstractions in practical contexts. Key course themes include: (a) how technological characteristics influence innovation pathways; (b) the opportunities and limitations of using historical trends to guide future innovation; and (c) how modeling choices shape efforts to manage and accelerate technological change.",,Engineering,,,,"EN.560.610.
+Drivers of Technological Change.
+3 Credits.
+Technological innovation is everywhere—from smartphones and ChatGPT to solar panels and electric vehicles—but how well do we understand the processes that turn novel ideas into widely adopted technologies? This interdisciplinary course introduces models of technological change and explores their implications for engineers, entrepreneurs, and policymakers seeking to advance energy and other infrastructure systems. Students will engage with conceptual and quantitative models that explain how technologies emerge, improve in performance (e.g., through cost reductions), diffuse, and contribute to economic growth and human development. Case studies on energy, transportation, and general-purpose technologies ground abstractions in practical contexts. Key course themes include: (a) how technological characteristics influence innovation pathways; (b) the opportunities and limitations of using historical trends to guide future innovation; and (c) how modeling choices shape efforts to manage and accelerate technological change.
+Distribution Area: Engineering"
+EN.560.617,Deep Learning for Physical Systems,3,"The primary objective of this course is to foster a deep and holistic comprehension of the concepts surrounding deep learning, as well as their practical applications within engineering systems. This course encompasses a broad spectrum of methodologies, notably emphasizing the utilization of physics-informed and data-driven techniques for both time-dependent and static Partial Differential Equations (PDEs) and Ordinary Differential Equations (ODEs). We delve into the study of multi-layer perceptrons, Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), and autoencoders, exploring their roles in discerning patterns within data, providing solutions even in scenarios with limited data availability, and learning a family of equations using one network architecture. Through this course, students will acquire the skills to proficiently employ these methods in tackling a wide-ranging spectrum of computational challenges prevalent in domains like solid mechanics, biomechanics, and systems engineering. Proficiency in Python coding is essential for this course. To make the most of this course, it's important to have a basic understanding of Linear Algebra and Probability.",,Engineering,,,,"EN.560.617.
+Deep Learning for Physical Systems.
+3 Credits.
+The primary objective of this course is to foster a deep and holistic comprehension of the concepts surrounding deep learning, as well as their practical applications within engineering systems. This course encompasses a broad spectrum of methodologies, notably emphasizing the utilization of physics-informed and data-driven techniques for both time-dependent and static Partial Differential Equations (PDEs) and Ordinary Differential Equations (ODEs). We delve into the study of multi-layer perceptrons, Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), and autoencoders, exploring their roles in discerning patterns within data, providing solutions even in scenarios with limited data availability, and learning a family of equations using one network architecture. Through this course, students will acquire the skills to proficiently employ these methods in tackling a wide-ranging spectrum of computational challenges prevalent in domains like solid mechanics, biomechanics, and systems engineering. Proficiency in Python coding is essential for this course. To make the most of this course, it's important to have a basic understanding of Linear Algebra and Probability.
+Distribution Area: Engineering"
+EN.560.618,Probabilistic Methods in Civil Engineering and Mechanics,3,"Covers probabilistic computational modeling in civil engineering and mechanics: Monte Carlo simulation, sampling methods and variance reduction techniques, simulation of stochastic processes and fields, and expansion methods. Applications to stochastic finite element, uncertainty quantification, reliability analysis, and model verification and validation.",,,,,,"EN.560.618.
+Probabilistic Methods in Civil Engineering and Mechanics.
+3 Credits.
+Covers probabilistic computational modeling in civil engineering and mechanics: Monte Carlo simulation, sampling methods and variance reduction techniques, simulation of stochastic processes and fields, and expansion methods. Applications to stochastic finite element, uncertainty quantification, reliability analysis, and model verification and validation."
+EN.560.619,Advanced Structural Analysis,3,"Matrix methods for the analysis of statistically indeterminate structures such as beams, plane and space trusses, and plane and space frames. Stiffness and flexibility methods. Linear elastic analysis and introduction to nonlinear analysis.",,Engineering,,,,"EN.560.619.
+Advanced Structural Analysis.
+3 Credits.
+Matrix methods for the analysis of statistically indeterminate structures such as beams, plane and space trusses, and plane and space frames. Stiffness and flexibility methods. Linear elastic analysis and introduction to nonlinear analysis.
+Distribution Area: Engineering"
+EN.560.621,"Architectural Engineering - Form, Function and Technology",3,"This course will cultivate broad knowledge of the use of engineering principles in the art of architecture. Fundamental definitions of architecture in the basic provision of shelter and social use are paired with aesthetics and cultural heritage. The course emphasizes structural frameworks and systems within the Civil Engineering curriculum, while expanding upon their critical intersections with the highly varied specialized components and systems of modern architecture, and the corresponding community of specialists that represent them. Topics include a historical view of the evolution of specialization in architecture, a quantitative review of loads and resistance systems, architectural and structural determinants of form, the function and aesthetics of building surface, and an introduction to environmental systems and their role in design sustainability. The class will include a trip to Fallingwater, the house designed by Frank Lloyd Wright, in western Pennsylvania, which stands as an iconic example of American architecture and a complex example of architectural engineering. This course is co-listed with
+EN.560.421
+.",,Engineering,,,,"EN.560.621.
+Architectural Engineering - Form, Function and Technology.
+3 Credits.
+This course will cultivate broad knowledge of the use of engineering principles in the art of architecture. Fundamental definitions of architecture in the basic provision of shelter and social use are paired with aesthetics and cultural heritage. The course emphasizes structural frameworks and systems within the Civil Engineering curriculum, while expanding upon their critical intersections with the highly varied specialized components and systems of modern architecture, and the corresponding community of specialists that represent them. Topics include a historical view of the evolution of specialization in architecture, a quantitative review of loads and resistance systems, architectural and structural determinants of form, the function and aesthetics of building surface, and an introduction to environmental systems and their role in design sustainability. The class will include a trip to Fallingwater, the house designed by Frank Lloyd Wright, in western Pennsylvania, which stands as an iconic example of American architecture and a complex example of architectural engineering. This course is co-listed with
+EN.560.421
+.
+Distribution Area: Engineering"
+EN.560.622,Introduction to Uncertainty Quantification,3,"The course introduces the theory and practice of uncertainty quantification. Methods for quantifying aleatory and epistemic uncertainty are considered, probabilistic and non-probabilistic approaches are discussed. The course introduces: propagation of uncertainty including statistical sampling methods, surrogate modeling, and numerical methods; inverse uncertainty quantification using Bayesian methods; global sensitivity analysis; and reliability/probability of failure analysis. The course is project-based and will require prior knowledge of both probability theory and coding (preferably in Python).",,Engineering,,,,"EN.560.622.
+Introduction to Uncertainty Quantification.
+3 Credits.
+The course introduces the theory and practice of uncertainty quantification. Methods for quantifying aleatory and epistemic uncertainty are considered, probabilistic and non-probabilistic approaches are discussed. The course introduces: propagation of uncertainty including statistical sampling methods, surrogate modeling, and numerical methods; inverse uncertainty quantification using Bayesian methods; global sensitivity analysis; and reliability/probability of failure analysis. The course is project-based and will require prior knowledge of both probability theory and coding (preferably in Python).
+Distribution Area: Engineering"
+EN.560.623,Bridge Engineering,3,"This course will explore bridge design and analysis by studying local bridges of various forms, materials, and load demands. Topics include an overview of the history of bridge engineering, an introduction to the AASHTO Standard Specifications for Highway Bridges, analysis techniques and load ratings, bridge details, and substructure design.",,Engineering,,,,"EN.560.623.
+Bridge Engineering.
+3 Credits.
+This course will explore bridge design and analysis by studying local bridges of various forms, materials, and load demands. Topics include an overview of the history of bridge engineering, an introduction to the AASHTO Standard Specifications for Highway Bridges, analysis techniques and load ratings, bridge details, and substructure design.
+Distribution Area: Engineering"
+EN.560.624,Renewable Energy Structures,3,"This course provides an introduction to the structural engineering principles underlying renewable energy systems, focusing on both the demands placed on these structures and the capacity calculations necessary for their safe and efficient design. Students will explore the challenges involved in scaling up renewable energy infrastructure to meet national and global energy demands. The course will cover a wide variety of renewable energy structures including: dams, solar support structures, on- and off-shore wind energy structures, transmission structures, structures for energy storage, and other novel renewable energy structures (e.g. solar chimneys, structures for carbon capture, etc.). A significant portion of the course will be dedicated to a more open-ended design effort, where students will propose, design, and analyze a renewable energy structure, with an emphasis on novel or emerging technologies and/or scale-up.",,Engineering,,,,"EN.560.624.
+Renewable Energy Structures.
+3 Credits.
+This course provides an introduction to the structural engineering principles underlying renewable energy systems, focusing on both the demands placed on these structures and the capacity calculations necessary for their safe and efficient design. Students will explore the challenges involved in scaling up renewable energy infrastructure to meet national and global energy demands. The course will cover a wide variety of renewable energy structures including: dams, solar support structures, on- and off-shore wind energy structures, transmission structures, structures for energy storage, and other novel renewable energy structures (e.g. solar chimneys, structures for carbon capture, etc.). A significant portion of the course will be dedicated to a more open-ended design effort, where students will propose, design, and analyze a renewable energy structure, with an emphasis on novel or emerging technologies and/or scale-up.
+Distribution Area: Engineering"
+EN.560.629,Preservation Engineering I:  Theory and Practice,3,"The renovation of existing buildings often holds many advantages over new construction, including greater economy, improved sustainability, and the maintenance of engineering heritage and architectural character in our built environment. Yet, the renovation of existing structures presents many challenges to structural engineers. These challenges include structural materials that are no longer in widespread use (e.g., unreinforced masonry arches and vaults, cast iron, and wrought iron) as well as structural materials for which analysis and design practices have changed significantly over the last half-century (e.g., wood, steel, and reinforced concrete).This course will examine structures made of a wide variety of materials and instruct the student how to evaluate their condition, determine their existing capacity, and design repairs and/or reinforcement. The investigation and analysis procedures learned from this course may then be applied to create economical and durable structural alterations that allow for the reuse of older buildings. Site visits near Homewood campus will supplement lectures. co-listed with 560.429.",,Engineering,,,,"EN.560.629.
+Preservation Engineering I:  Theory and Practice.
+3 Credits.
+The renovation of existing buildings often holds many advantages over new construction, including greater economy, improved sustainability, and the maintenance of engineering heritage and architectural character in our built environment. Yet, the renovation of existing structures presents many challenges to structural engineers. These challenges include structural materials that are no longer in widespread use (e.g., unreinforced masonry arches and vaults, cast iron, and wrought iron) as well as structural materials for which analysis and design practices have changed significantly over the last half-century (e.g., wood, steel, and reinforced concrete).This course will examine structures made of a wide variety of materials and instruct the student how to evaluate their condition, determine their existing capacity, and design repairs and/or reinforcement. The investigation and analysis procedures learned from this course may then be applied to create economical and durable structural alterations that allow for the reuse of older buildings. Site visits near Homewood campus will supplement lectures. co-listed with 560.429.
+Distribution Area: Engineering"
+EN.560.630,Structural Dynamics,3,Functional and computational examination of elastic and inelastic single degree of freedom systems with classical and non-classical damping subject to various input excitations including earthquakes with emphasis on the study of system response. Extension to multi-degree of freedom systems with emphasis on modal analysis and numerical methods. Use of the principles of structural dynamics in earthquake response.,,,,,,"EN.560.630.
+Structural Dynamics.
+3 Credits.
+Functional and computational examination of elastic and inelastic single degree of freedom systems with classical and non-classical damping subject to various input excitations including earthquakes with emphasis on the study of system response. Extension to multi-degree of freedom systems with emphasis on modal analysis and numerical methods. Use of the principles of structural dynamics in earthquake response."
+EN.560.631,Preservation Engineering II:  Theory and Practice,3,"Building on the content in Preservation Engineering I: Theory and Practice, this course will begin with materials introduced at the start of the Industrial Revolution--namely with the beginning of the use of iron materials as major structural elements within buildings. The course will continue with the introduction of cast iron, wrought iron, and finally, structural steel members. After introducing iron materials the course will continue with the early use of reinforced concrete as a major structural material. The course will discuss the historic structural analysis methods associated with such materials and contrast such methods with more modern analytical approaches. It will also discuss concrete deterioration and repair methods. Concepts related to masonry facade investigation and repair will be presented along with the analytical methods associated with thin-shell masonry construction from the 19th and 20th centuries. The course will conclude with a review of the assessment and retrofit of historic foundations.This course is co-listed with
+EN.560.431
+and
+EN.565.631
+.",,Engineering,,,,"EN.560.631.
+Preservation Engineering II:  Theory and Practice.
+3 Credits.
+Building on the content in Preservation Engineering I: Theory and Practice, this course will begin with materials introduced at the start of the Industrial Revolution--namely with the beginning of the use of iron materials as major structural elements within buildings. The course will continue with the introduction of cast iron, wrought iron, and finally, structural steel members. After introducing iron materials the course will continue with the early use of reinforced concrete as a major structural material. The course will discuss the historic structural analysis methods associated with such materials and contrast such methods with more modern analytical approaches. It will also discuss concrete deterioration and repair methods. Concepts related to masonry facade investigation and repair will be presented along with the analytical methods associated with thin-shell masonry construction from the 19th and 20th centuries. The course will conclude with a review of the assessment and retrofit of historic foundations.This course is co-listed with
+EN.560.431
+and
+EN.565.631
+.
+Distribution Area: Engineering"
+EN.560.632,Structural Stability,3,"Concepts of stability of equilibrium, stability criteria, work energy and variational methods. Elastic buckling of columns, beams, frames, and plates. Introduction to inelastic and dynamic buckling.",,,,,,"EN.560.632.
+Structural Stability.
+3 Credits.
+Concepts of stability of equilibrium, stability criteria, work energy and variational methods. Elastic buckling of columns, beams, frames, and plates. Introduction to inelastic and dynamic buckling."
+EN.560.633,"Investigations, Diagnosis, and Rehabilitation",3,"Why do buildings deteriorate, and how do we address this problem? This course examines the deterioration (by human and nature) of building materials and systems. Through lectures and a field trip, students will learn how to set up and execute an investigation, study the symptoms, diagnose the problems, determine what kinds of tests are needed, design the necessary repairs, and maintain existing systems.   This course is co-listed with Engineering for Professionals
+EN.565.633
+.",,Engineering,,,,"EN.560.633.
+Investigations, Diagnosis, and Rehabilitation.
+3 Credits.
+Why do buildings deteriorate, and how do we address this problem? This course examines the deterioration (by human and nature) of building materials and systems. Through lectures and a field trip, students will learn how to set up and execute an investigation, study the symptoms, diagnose the problems, determine what kinds of tests are needed, design the necessary repairs, and maintain existing systems.   This course is co-listed with Engineering for Professionals
+EN.565.633
+.
+Distribution Area: Engineering"
+EN.560.634,Structural Fire Engineering,3,"This course will discuss the analysis and design of structures exposed to fire. It will cover the fundamentals of fire behavior, heat transfer, the effects of fire loading on materials and structural systems, and the principles and design methods for fire resistance design. Particular emphasis will be placed on the advanced modeling and computational tools for performance-based design. Applications of innovative methods for fire resistance design in large structural engineering projects, such as stadiums and tall buildings, will also be presented.",,Engineering,,,,"EN.560.634.
+Structural Fire Engineering.
+3 Credits.
+This course will discuss the analysis and design of structures exposed to fire. It will cover the fundamentals of fire behavior, heat transfer, the effects of fire loading on materials and structural systems, and the principles and design methods for fire resistance design. Particular emphasis will be placed on the advanced modeling and computational tools for performance-based design. Applications of innovative methods for fire resistance design in large structural engineering projects, such as stadiums and tall buildings, will also be presented.
+Distribution Area: Engineering"
+EN.560.636,Lateral Forces: Analysis and Design of Building Structures,3,"From earthquakes to wind events, lateral forces constitute some of the most extreme loading conditions for which new and existing building structures must be analyzed and designed to resist.  This course provides a fundamental yet practical introduction to the development and application of earthquake and wind loadings on building structures, the dynamic response and behavior of structures to lateral forces, and the bases and requirements for ductile design and detailing of steel, concrete, wood, and masonry lateral force resisting elements.  The course will build on these analysis and design fundamentals to examine the technical considerations and methodologies for evaluating the lateral force resisting systems of existing, oftentimes monumental, building structures, and for designing and implementing repairs and retrofits to these lateral systems, including the application of Performance Based Design.   This course is co-listed with
+EN.565.636
+.",,Engineering,,,,"EN.560.636.
+Lateral Forces: Analysis and Design of Building Structures.
+3 Credits.
+From earthquakes to wind events, lateral forces constitute some of the most extreme loading conditions for which new and existing building structures must be analyzed and designed to resist.  This course provides a fundamental yet practical introduction to the development and application of earthquake and wind loadings on building structures, the dynamic response and behavior of structures to lateral forces, and the bases and requirements for ductile design and detailing of steel, concrete, wood, and masonry lateral force resisting elements.  The course will build on these analysis and design fundamentals to examine the technical considerations and methodologies for evaluating the lateral force resisting systems of existing, oftentimes monumental, building structures, and for designing and implementing repairs and retrofits to these lateral systems, including the application of Performance Based Design.   This course is co-listed with
+EN.565.636
+.
+Distribution Area: Engineering"
+EN.560.646,Smart Cities,3,"In recent years, sustainability progress has resulted mainly from developing and implementing smart, sustainable technology solutions. This course examines opportunities to drive sustainability through technology applications, deemed the “smart city”.  Smart city technology ranges from intelligent infrastructure in modern cities to mobile applications that enable the “sharing economy” and facilitate energy access in remote regions of East Africa.  This course will not only concern “first-world” problems; we will explore the transformative solutions currently driving growth in emerging markets and the developing world. Students will develop the skills to piece together a sustainable, smart city.",,Engineering,,,,"EN.560.646.
+Smart Cities.
+3 Credits.
+In recent years, sustainability progress has resulted mainly from developing and implementing smart, sustainable technology solutions. This course examines opportunities to drive sustainability through technology applications, deemed the “smart city”.  Smart city technology ranges from intelligent infrastructure in modern cities to mobile applications that enable the “sharing economy” and facilitate energy access in remote regions of East Africa.  This course will not only concern “first-world” problems; we will explore the transformative solutions currently driving growth in emerging markets and the developing world. Students will develop the skills to piece together a sustainable, smart city.
+Distribution Area: Engineering"
+EN.560.647,Probabilistic Graphical Models and Causal Inference for Networked Systems,3,"Many of the problems in civil and systems engineering, can be viewed as the search for a coherent global conclusion from local information. The probabilistic graphical model framework provides a unified view for this wide range of problems, enables efficient inference, decision-making and learning in problems with a very large number of attributes and huge datasets. This graduate-level course will provide you with a strong foundation for applying graphical models and causality to model complex networked engineering systems.",,Engineering,,,,"EN.560.647.
+Probabilistic Graphical Models and Causal Inference for Networked Systems.
+3 Credits.
+Many of the problems in civil and systems engineering, can be viewed as the search for a coherent global conclusion from local information. The probabilistic graphical model framework provides a unified view for this wide range of problems, enables efficient inference, decision-making and learning in problems with a very large number of attributes and huge datasets. This graduate-level course will provide you with a strong foundation for applying graphical models and causality to model complex networked engineering systems.
+Distribution Area: Engineering"
+EN.560.648,Energy Systems and Policy,3,"In this course, you will develop an understanding—and a technically- and socially-deep working knowledge—of our energy technologies, policies, and options.  This will include analysis of the different opportunities and impacts of energy systems that exist within and between groups defined by national, regional, household, ethnic, and gender distinctions.  Analysis of the range of current and future energy choices will be stressed, as well as the role of energy in determining local environmental conditions and the global climate.",,,,,,"EN.560.648.
+Energy Systems and Policy.
+3 Credits.
+In this course, you will develop an understanding—and a technically- and socially-deep working knowledge—of our energy technologies, policies, and options.  This will include analysis of the different opportunities and impacts of energy systems that exist within and between groups defined by national, regional, household, ethnic, and gender distinctions.  Analysis of the range of current and future energy choices will be stressed, as well as the role of energy in determining local environmental conditions and the global climate."
+EN.560.649,Energy Systems,3,"This course revolves around the grid integration of renewable energy systems and operations of energy systems with renewables. The main emphasis is on grid level effects of renewable energy, particularly solar and wind power systems, and how these effects can be analyzed using mathematical modeling and modern software tools. The course begins with an introduction to basic power system concepts (transmission/distribution system modeling, power transformers, conventional and renewable generation technologies) along with power flow analysis and optimization. Following that, the course considers applications of optimal power flow and its variants to electricity market operations. An important component of this course is a guided project that will be carried out by students in small groups; each group will choose a real-world energy system to research and analyze and will present their findings at the end of the semester. Prior knowledge of circuits (including operations with complex numbers), linear algebra, calculus, and optimization is helpful, but not required. This course is co-listed with
+EN.560.449
+.",,Engineering,,,,"EN.560.649.
+Energy Systems.
+3 Credits.
+This course revolves around the grid integration of renewable energy systems and operations of energy systems with renewables. The main emphasis is on grid level effects of renewable energy, particularly solar and wind power systems, and how these effects can be analyzed using mathematical modeling and modern software tools. The course begins with an introduction to basic power system concepts (transmission/distribution system modeling, power transformers, conventional and renewable generation technologies) along with power flow analysis and optimization. Following that, the course considers applications of optimal power flow and its variants to electricity market operations. An important component of this course is a guided project that will be carried out by students in small groups; each group will choose a real-world energy system to research and analyze and will present their findings at the end of the semester. Prior knowledge of circuits (including operations with complex numbers), linear algebra, calculus, and optimization is helpful, but not required. This course is co-listed with
+EN.560.449
+.
+Distribution Area: Engineering"
+EN.560.650,Operations Research,3,"An introduction to operations research and its applications. The course will review the basics of mathematical modelling, linear programming, primal and dual Simplex methods, post-optimization analysis, decomposition methods, and heuristic methods along with sample applications. Recommended course background (
+EN.553.291
+or
+AS.110.201
+) and
+AS.110.109
+or equivalent. This course is co-listed with
+EN.560.450
+.",,Engineering,"EN.560.450, EN.560.650","Students who have taken
+EN.560.450
+are not eligible to take
+EN.560.650
+.",,"EN.560.650.
+Operations Research.
+3 Credits.
+An introduction to operations research and its applications. The course will review the basics of mathematical modelling, linear programming, primal and dual Simplex methods, post-optimization analysis, decomposition methods, and heuristic methods along with sample applications. Recommended course background (
+EN.553.291
+or
+AS.110.201
+) and
+AS.110.109
+or equivalent. This course is co-listed with
+EN.560.450
+.
+Prerequisite(s):
+Students who have taken
+EN.560.450
+are not eligible to take
+EN.560.650
+.
+Distribution Area: Engineering"
+EN.560.651,Smart Transportation and Autonomous Vehicles,3,"This course offers an in-depth exploration of the evolving landscape of smart transportation systems and autonomous vehicle technologies. Students will study the integration of intelligent transportation systems (ITS) and automation, with a focus on the development, challenges, and future of autonomous vehicles (AVs) within open-world traffic settings. Key topics include sensor technologies, data quality control and bias mitigation, data processing algorithms, machine learning, vehicle-to-everything (V2X) communication, human-machine interaction, and ethical considerations in technology deployment. Additionally, the course will cultivate students with advanced data processing skills and the role of data science in transportation, emphasizing data-driven solutions for safety, mobility, and sustainability. By the end of the course, students will have gained a comprehensive understanding of how smart technologies are shaping the future of transportation and the role of AVs in fostering safer, more efficient, and sustainable urban mobility systems.",,Engineering,"EN.560.451, EN.560.651","Students who are currently enrolled in, or have already completed
+EN.560.451
+, are not eligible to take
+EN.560.651
+.",,"EN.560.651.
+Smart Transportation and Autonomous Vehicles.
+3 Credits.
+This course offers an in-depth exploration of the evolving landscape of smart transportation systems and autonomous vehicle technologies. Students will study the integration of intelligent transportation systems (ITS) and automation, with a focus on the development, challenges, and future of autonomous vehicles (AVs) within open-world traffic settings. Key topics include sensor technologies, data quality control and bias mitigation, data processing algorithms, machine learning, vehicle-to-everything (V2X) communication, human-machine interaction, and ethical considerations in technology deployment. Additionally, the course will cultivate students with advanced data processing skills and the role of data science in transportation, emphasizing data-driven solutions for safety, mobility, and sustainability. By the end of the course, students will have gained a comprehensive understanding of how smart technologies are shaping the future of transportation and the role of AVs in fostering safer, more efficient, and sustainable urban mobility systems.
+Prerequisite(s):
+Students who are currently enrolled in, or have already completed
+EN.560.451
+, are not eligible to take
+EN.560.651
+.
+Distribution Area: Engineering"
+EN.560.652,"Scientific Machine Learning for Modeling, Optimization, and Control of Dynamical Systems",3,"This course offers a scientific machine learning (SciML) approach to the modeling, optimization, and control of dynamical systems. Students will learn to systematically integrate physics-based models and constraints into deep learning architectures, and to leverage data-driven methods for accelerating the solution of large-scale optimization and optimal control problems. Key topics include physics-informed neural networks, learning to optimize, neural differential equations, neural operators, and differentiable control. The course also examines real-world applications of these emerging SciML techniques in domains such as building energy management, networked dynamical systems, and power systems. Emphasis will be placed on practical, hands-on coding exercises and project-based assessments to reinforce theoretical concepts through implementation.",,Engineering,,,,"EN.560.652.
+Scientific Machine Learning for Modeling, Optimization, and Control of Dynamical Systems.
+3 Credits.
+This course offers a scientific machine learning (SciML) approach to the modeling, optimization, and control of dynamical systems. Students will learn to systematically integrate physics-based models and constraints into deep learning architectures, and to leverage data-driven methods for accelerating the solution of large-scale optimization and optimal control problems. Key topics include physics-informed neural networks, learning to optimize, neural differential equations, neural operators, and differentiable control. The course also examines real-world applications of these emerging SciML techniques in domains such as building energy management, networked dynamical systems, and power systems. Emphasis will be placed on practical, hands-on coding exercises and project-based assessments to reinforce theoretical concepts through implementation.
+Distribution Area: Engineering"
+EN.560.653,An Introduction to Network Modeling,4,"Many real-world problems can be modeled using network structures, and solved using tools from network theory. For this reason, network modeling plays a critical role in various disciplines ranging from physics and mathematics, to biology and computer science, and almost all areas of social science. This course will provide an introduction to network theory, network flow algorithms, modeling processes on networks and examples of empirical network applications spanning transport, health and energy systems.",,"Engineering, Quantitative and Mathematical Sciences",,,,"EN.560.653.
+An Introduction to Network Modeling.
+4 Credits.
+Many real-world problems can be modeled using network structures, and solved using tools from network theory. For this reason, network modeling plays a critical role in various disciplines ranging from physics and mathematics, to biology and computer science, and almost all areas of social science. This course will provide an introduction to network theory, network flow algorithms, modeling processes on networks and examples of empirical network applications spanning transport, health and energy systems.
+Distribution Area: Engineering, Quantitative and Mathematical Sciences"
+EN.560.654,Introduction to Machine Learning and Control for Building Energy Systems,3,"This course introduces the principles of building energy optimization with a focus on the modeling and control of HVAC systems. The curriculum covers HVAC fundamentals, thermodynamics, and heat transfer, progressing to dynamic systems, control theory, and optimization techniques. Key topics include an introduction to system identification, machine learning, and optimal control applied to energy-efficient building management. The course concludes with hands-on coding assignments focusing on implementation of machine learning and control techniques for optimizing the energy efficiency of buildings using high-fidelity simulation frameworks. Students are required to posses prior knowledge in:• Differential calculus• Linear algebra• Optimization",,Engineering,,,,"EN.560.654.
+Introduction to Machine Learning and Control for Building Energy Systems.
+3 Credits.
+This course introduces the principles of building energy optimization with a focus on the modeling and control of HVAC systems. The curriculum covers HVAC fundamentals, thermodynamics, and heat transfer, progressing to dynamic systems, control theory, and optimization techniques. Key topics include an introduction to system identification, machine learning, and optimal control applied to energy-efficient building management. The course concludes with hands-on coding assignments focusing on implementation of machine learning and control techniques for optimizing the energy efficiency of buildings using high-fidelity simulation frameworks. Students are required to posses prior knowledge in:• Differential calculus• Linear algebra• Optimization
+Distribution Area: Engineering"
+EN.560.656,Space Systems Cybersecurity,3,"Our space systems are under attack. Cyberattacks are among the most prevalent threats to space assets. They are often stealthy, inexpensive and highly effective at achieving an adversary’s goal – be it data corruption, IP theft or physical destruction of the satellite. Given space systems are complex, composing ground stations, communications and satellites the surface area of attack is vast and considering the constrained computing capacity of space systems, many traditional security mechanisms are not applicable. This course introduces how an adversary would approach attacking a satellite, opportunities for systems engineers to develop cyber-resilient assets and relevant policies and best practices to support space system cybersecurity. Recommended classes - EP 675.600 and 675.601.",,Engineering,,,,"EN.560.656.
+Space Systems Cybersecurity.
+3 Credits.
+Our space systems are under attack. Cyberattacks are among the most prevalent threats to space assets. They are often stealthy, inexpensive and highly effective at achieving an adversary’s goal – be it data corruption, IP theft or physical destruction of the satellite. Given space systems are complex, composing ground stations, communications and satellites the surface area of attack is vast and considering the constrained computing capacity of space systems, many traditional security mechanisms are not applicable. This course introduces how an adversary would approach attacking a satellite, opportunities for systems engineers to develop cyber-resilient assets and relevant policies and best practices to support space system cybersecurity. Recommended classes - EP 675.600 and 675.601.
+Distribution Area: Engineering"
+EN.560.657,System Dynamics,3,"System dynamics is a versatile analytical framework to understand and tackle problems which involve complex interactions among multiple variables and constraints. This course introduces the basics of systems thinking and system dynamics modeling and analysis. Qualitative and quantitative tools are discussed. Students will learn to identify and formulate system's structure and simulate their behavior using specialized software in order to develop potential intervention strategies. Fields of applications include engineering, climate change, resilience, logistics, public policy analysis, business, and decision-making.",,Engineering,,,,"EN.560.657.
+System Dynamics.
+3 Credits.
+System dynamics is a versatile analytical framework to understand and tackle problems which involve complex interactions among multiple variables and constraints. This course introduces the basics of systems thinking and system dynamics modeling and analysis. Qualitative and quantitative tools are discussed. Students will learn to identify and formulate system's structure and simulate their behavior using specialized software in order to develop potential intervention strategies. Fields of applications include engineering, climate change, resilience, logistics, public policy analysis, business, and decision-making.
+Distribution Area: Engineering"
+EN.560.658,Natural Disaster Risk Modeling,3,"This course provides an in-depth discussion of the simulation of disaster risk on socio-technical systems (from countries to cities). The course covers the algorithmic structure of catastrophe models; modeling of the intensity fields of hurricanes, earthquakes, and floods; methods to develop building and infrastructure vulnerability functions, structure of exposure layers, and estimation of post-disaster injuries and casualties. The students learn to produce basic stochastic catalogs from where risk metrics are calculated. Finally, the risk-reduction policy formulation process is presented using as input the catastrophe model-generated information. The course has a strong real-life application side analyzing World Bank risk reduction projects. Students will gain introductory experience in the use of GIS, Matlab, and R. This course is co-listed with
+EN.560.458
+.",,"Engineering, Quantitative and Mathematical Sciences",,,,"EN.560.658.
+Natural Disaster Risk Modeling.
+3 Credits.
+This course provides an in-depth discussion of the simulation of disaster risk on socio-technical systems (from countries to cities). The course covers the algorithmic structure of catastrophe models; modeling of the intensity fields of hurricanes, earthquakes, and floods; methods to develop building and infrastructure vulnerability functions, structure of exposure layers, and estimation of post-disaster injuries and casualties. The students learn to produce basic stochastic catalogs from where risk metrics are calculated. Finally, the risk-reduction policy formulation process is presented using as input the catastrophe model-generated information. The course has a strong real-life application side analyzing World Bank risk reduction projects. Students will gain introductory experience in the use of GIS, Matlab, and R. This course is co-listed with
+EN.560.458
+.
+Distribution Area: Engineering, Quantitative and Mathematical Sciences"
+EN.560.659,Production Systems Analysis,3,"Planning for manufacturing and service industries is critical for efficiently utilizing resources to produce cost-effective goods and services. This course delves into the fundamentals, models, and techniques required for planning, controlling, and optimizing the performance of manufacturing systems. The curriculum focuses on the trade-offs between key measures, like costs, cycle time, throughput, capacity, work-in-process, inventory, and variability. The course utilizes analytical approaches (linear programming, simulation, probability, and statistics) and coding (Python). Co-listed EN.560.479. Recommended courses that cover topics on probability and coding.",,Engineering,"EN.560.479, EN.560.459, EN.560.679, EN.560.659","Students who have taken or are enrolled in EN.560.479 OR
+EN.560.459
+OR EN.560.679 are not eligible to take
+EN.560.659
+.",,"EN.560.659.
+Production Systems Analysis.
+3 Credits.
+Planning for manufacturing and service industries is critical for efficiently utilizing resources to produce cost-effective goods and services. This course delves into the fundamentals, models, and techniques required for planning, controlling, and optimizing the performance of manufacturing systems. The curriculum focuses on the trade-offs between key measures, like costs, cycle time, throughput, capacity, work-in-process, inventory, and variability. The course utilizes analytical approaches (linear programming, simulation, probability, and statistics) and coding (Python). Co-listed EN.560.479. Recommended courses that cover topics on probability and coding.
+Prerequisite(s):
+Students who have taken or are enrolled in EN.560.479 OR
+EN.560.459
+OR EN.560.679 are not eligible to take
+EN.560.659
+.
+Distribution Area: Engineering"
+EN.560.661,Additive Manufacturing and Design,3,"Additive Manufacturing (AM) removes many geometric constraints imposed by traditional manufacturing processes. Resultingly, systems can be designed to support and improve multiple design objectives, which has the potential to alter the way products are designed. While this allows for the fabrication of more complex and often unprecedented geometries, it also increases the complexity designers face. In addition, engineers must not only understand AM technologies and materials, they must also be able to synthesize its economic and environmental impacts on a manufacturing value chain. Additive Manufacturing and Design will provide an in-depth overview of the most common – and promising – AM technologies, materials, and design methods by including examples from state-of-the-art research. A particular emphasis is placed on Design for Additive Manufacturing (DfAM), where the different topics will converge to fully utilize the newly created design space.",,Engineering,,,Writing Intensive,"EN.560.661.
+Additive Manufacturing and Design.
+3 Credits.
+Additive Manufacturing (AM) removes many geometric constraints imposed by traditional manufacturing processes. Resultingly, systems can be designed to support and improve multiple design objectives, which has the potential to alter the way products are designed. While this allows for the fabrication of more complex and often unprecedented geometries, it also increases the complexity designers face. In addition, engineers must not only understand AM technologies and materials, they must also be able to synthesize its economic and environmental impacts on a manufacturing value chain. Additive Manufacturing and Design will provide an in-depth overview of the most common – and promising – AM technologies, materials, and design methods by including examples from state-of-the-art research. A particular emphasis is placed on Design for Additive Manufacturing (DfAM), where the different topics will converge to fully utilize the newly created design space.
+Distribution Area: Engineering
+Writing Intensive"
+EN.560.691,CaSE Graduate Seminar,1,Graduate students are expected to register for this course each semester. Both internal and outside speakers are included. The first three meetings are dedicated to presentations by the faculty from the Civil and Systems Engineering Department.,,,,,,"EN.560.691.
+CaSE Graduate Seminar.
+1 Credit.
+Graduate students are expected to register for this course each semester. Both internal and outside speakers are included. The first three meetings are dedicated to presentations by the faculty from the Civil and Systems Engineering Department."
+EN.560.692,Civil Engineering and Systems Engineering Graduate Seminar,1,Seminar series of speakers on various aspects of civil engineering. Different speakers are invited each semester.  Full time civil engineering graduate students must enroll in the seminar course every semester unless excused by the Department.,,,,,,"EN.560.692.
+Civil Engineering and Systems Engineering Graduate Seminar.
+1 Credit.
+Seminar series of speakers on various aspects of civil engineering. Different speakers are invited each semester.  Full time civil engineering graduate students must enroll in the seminar course every semester unless excused by the Department."
+EN.560.730,Finite Element Methods,3,"Variational methods and mathematical foundations, Direct and Iterative solvers, 1-D Problems formulation and boundary conditions, Trusses, 2-D/ 3D Problems, Triangular elements, QUAD4 elements, Higher Order Elements, Element Pathology, Improving Element Convergence, Dynamic Problems.",,,,,,"EN.560.730.
+Finite Element Methods.
+3 Credits.
+Variational methods and mathematical foundations, Direct and Iterative solvers, 1-D Problems formulation and boundary conditions, Trusses, 2-D/ 3D Problems, Triangular elements, QUAD4 elements, Higher Order Elements, Element Pathology, Improving Element Convergence, Dynamic Problems."
+EN.560.733,Thin-walled Members,3,"The Subject aims to discuss the behavior specific to thin-walled structural members (plated members in general, with a special focus on cold-formed steel members). Classic analytical solutions are presented, as well as numerical methods are discussed and employed (such as the Finite Strip Method and shell Finite Element Method). The main topics are as follows:  ·       Theory of thin plates.·       Buckling of thin plates.·       Thick plates with shear deformations.·       Plates with stiffeners, orthotropic plates.·       Design concepts for plate buckling.·       The finite strip method.·       Buckling of thin-walled members: global, local and distortional buckling.·       Design concepts for the buckling of thin-walled cold-formed steel members.·       Introduction to shell theories.·       Buckling of tubular members.·       Further phenomena specific to thin-walled members: web crippling, shear lag, flange curling.",,Engineering,,,,"EN.560.733.
+Thin-walled Members.
+3 Credits.
+The Subject aims to discuss the behavior specific to thin-walled structural members (plated members in general, with a special focus on cold-formed steel members). Classic analytical solutions are presented, as well as numerical methods are discussed and employed (such as the Finite Strip Method and shell Finite Element Method). The main topics are as follows:  ·       Theory of thin plates.·       Buckling of thin plates.·       Thick plates with shear deformations.·       Plates with stiffeners, orthotropic plates.·       Design concepts for plate buckling.·       The finite strip method.·       Buckling of thin-walled members: global, local and distortional buckling.·       Design concepts for the buckling of thin-walled cold-formed steel members.·       Introduction to shell theories.·       Buckling of tubular members.·       Further phenomena specific to thin-walled members: web crippling, shear lag, flange curling.
+Distribution Area: Engineering"
+EN.560.762,Mechanics of Architected Materials,3,"This upper level graduate course will focus on the linear and nonlinear mechanics of a wide range of architected materials; we aim to cover: linear elastic properties of 2D and 3D cellular solids, micromechanics and homogenization, localization, microscopic and macroscopic instabilities, natural architected materials (bone, wood, nacre), wave propagation in lattices and phononics, mechanical metamaterials, and nanostructured materials (carbon nanotubes pillars, DNA origami).",,Engineering,,,,"EN.560.762.
+Mechanics of Architected Materials.
+3 Credits.
+This upper level graduate course will focus on the linear and nonlinear mechanics of a wide range of architected materials; we aim to cover: linear elastic properties of 2D and 3D cellular solids, micromechanics and homogenization, localization, microscopic and macroscopic instabilities, natural architected materials (bone, wood, nacre), wave propagation in lattices and phononics, mechanical metamaterials, and nanostructured materials (carbon nanotubes pillars, DNA origami).
+Distribution Area: Engineering"
+EN.560.770,Advanced Finite Element Methods and Multi-Scale Methods,3,"Addresses advanced topics in various areas of the finite element methodology. Covers a range of topics, viz.  element stability and hourglass control, adaptive methods for linear and nonlinear problems, mixed and hybrid element technology, eigen-value problems, multi-scale modeling for composites and polycrystalline materials.",,,,,,"EN.560.770.
+Advanced Finite Element Methods and Multi-Scale Methods.
+3 Credits.
+Addresses advanced topics in various areas of the finite element methodology. Covers a range of topics, viz.  element stability and hourglass control, adaptive methods for linear and nonlinear problems, mixed and hybrid element technology, eigen-value problems, multi-scale modeling for composites and polycrystalline materials. Recommended Course Background: EN.530.730 or
+EN.560.730"
+EN.560.772,Non-Linear Finite Elements,3,"This course will discuss state of the art theoretical developments and modeling techniques in nonlinear computational mechanics, for problems with geometric and material nonlinearities.  Large deformation of elastic-plastic and visco-plastic materials, contact-friction and other heterogeneous materials like composites and porous materials will be considered. A wide variety of applications in different disciplines, e.g. metal forming, composite materials, polycrystalline materials will be considered.",,,,,,"EN.560.772.
+Non-Linear Finite Elements.
+3 Credits.
+This course will discuss state of the art theoretical developments and modeling techniques in nonlinear computational mechanics, for problems with geometric and material nonlinearities.  Large deformation of elastic-plastic and visco-plastic materials, contact-friction and other heterogeneous materials like composites and porous materials will be considered. A wide variety of applications in different disciplines, e.g. metal forming, composite materials, polycrystalline materials will be considered."

@@ -1,0 +1,998 @@
+code,title,credits,description,fa_tags,distribution,prereq_codes,prereq_text,restrictions,raw_description
+AS.050.102,Language and Mind,3,"Introductory course dealing with theory, methods, and current research topics in the study of language as a component of the mind. What it is to ""know"" a language: components of linguistic knowledge (phonetics, phonology, morphology, syntax, semantics) and the course of language acquisition. How linguistic knowledge is put to use: language and the brain and linguistic processing in various domains.","FA2, FA5","Natural Sciences, Social and Behavioral Sciences",,,,"AS.050.102.
+Language and Mind.
+3 Credits.
+Introductory course dealing with theory, methods, and current research topics in the study of language as a component of the mind. What it is to ""know"" a language: components of linguistic knowledge (phonetics, phonology, morphology, syntax, semantics) and the course of language acquisition. How linguistic knowledge is put to use: language and the brain and linguistic processing in various domains.
+Distribution Area: Natural Sciences, Social and Behavioral Sciences
+AS Foundational Abilities: Science and Data (FA2),
+Ethics and Foundations (FA5)"
+AS.050.105,Introduction to Cognitive Neuropsychology,3,"When the brain is damaged or fails to develop normally, even the most basic cognitive abilities (such as the ability to understand words, or perceive objects) may be disrupted, often in remarkable ways. This course explores a wide range of cognitive deficits, focusing on what these deficits can tell us about how the normal brain works. Topics include brain anatomy and causes of brain damage, reading and spelling deficits, unilateral spatial neglect, hemispheric disconnection, cortical plasticity, and visual perception of location and orientation. Students read primary sources: journal articles that report deficits and discuss their implications.","FA1, FA2, FA6","Natural Sciences, Social and Behavioral Sciences",,,Writing Intensive,"AS.050.105.
+Introduction to Cognitive Neuropsychology.
+3 Credits.
+When the brain is damaged or fails to develop normally, even the most basic cognitive abilities (such as the ability to understand words, or perceive objects) may be disrupted, often in remarkable ways. This course explores a wide range of cognitive deficits, focusing on what these deficits can tell us about how the normal brain works. Topics include brain anatomy and causes of brain damage, reading and spelling deficits, unilateral spatial neglect, hemispheric disconnection, cortical plasticity, and visual perception of location and orientation. Students read primary sources: journal articles that report deficits and discuss their implications.
+Distribution Area: Natural Sciences, Social and Behavioral Sciences
+AS Foundational Abilities: Writing and Communication (FA1),
+Science and Data (FA2),
+Projects and Methods (FA6)
+Writing Intensive"
+AS.050.116,Visual Cognition,3,"How do humans make sense of the visual world around them? This course will provide an introductory survey of current research, methods, and theories in visual cognition.  We will draw upon topics in cognitive psychology, cognitive neuroscience, cognitive neuropsychology, and artificial intelligence.","FA2, FA6","Natural Sciences, Social and Behavioral Sciences",,,,"AS.050.116.
+Visual Cognition.
+3 Credits.
+How do humans make sense of the visual world around them? This course will provide an introductory survey of current research, methods, and theories in visual cognition.  We will draw upon topics in cognitive psychology, cognitive neuroscience, cognitive neuropsychology, and artificial intelligence.
+Distribution Area: Natural Sciences, Social and Behavioral Sciences
+AS Foundational Abilities: Science and Data (FA2),
+Projects and Methods (FA6)"
+AS.050.135,Speech & Voice,3,"Course on human speech production and perception, covering topics including anatomy and physiology of the vocal tract, phonetic analysis, language acquisition and impairments, and speech technologies.","FA2, FA6","Natural Sciences, Social and Behavioral Sciences",,,,"AS.050.135.
+Speech & Voice.
+3 Credits.
+Course on human speech production and perception, covering topics including anatomy and physiology of the vocal tract, phonetic analysis, language acquisition and impairments, and speech technologies.
+Distribution Area: Natural Sciences, Social and Behavioral Sciences
+AS Foundational Abilities: Science and Data (FA2),
+Projects and Methods (FA6)"
+AS.050.202,Introduction to Computational Cognitive Science,3,"How does the mind work? Cognitive science addresses this question from a multidiscliplinary perspective, drawing upon methods and ideas from psychology, neurophysiology, neuroscience, philosophy, linguistics, and computer science. Within this framework, computational cognitive science has two related goals. The first is to create computational models of human cognition, computer programs that simulate certain aspects of the mind. The second is to understand how to produce intelligent behavior in machines, taking cues from humans. The computational frameworks we will discuss include symbolic structured representations, probabilistic inference and artificial neural networks, as applied to concept learning, language and vision. While this class does not have formal prerequisites, some programming experience (e.g., AS 250.205 Introduction to Computing or equivalent) and mathematical preparation (e.g.,
+AS.110.107
+Calculus II or equivalent) are essential.An optional, hands-on lab (
+AS.050.212
+) is offered to supplement this course.  It is highly recommended that students with less extensive computational and mathematical experience register for this lab.","FA2, FA6",Quantitative and Mathematical Sciences,,,,"AS.050.202.
+Introduction to Computational Cognitive Science.
+3 Credits.
+How does the mind work? Cognitive science addresses this question from a multidiscliplinary perspective, drawing upon methods and ideas from psychology, neurophysiology, neuroscience, philosophy, linguistics, and computer science. Within this framework, computational cognitive science has two related goals. The first is to create computational models of human cognition, computer programs that simulate certain aspects of the mind. The second is to understand how to produce intelligent behavior in machines, taking cues from humans. The computational frameworks we will discuss include symbolic structured representations, probabilistic inference and artificial neural networks, as applied to concept learning, language and vision. While this class does not have formal prerequisites, some programming experience (e.g., AS 250.205 Introduction to Computing or equivalent) and mathematical preparation (e.g.,
+AS.110.107
+Calculus II or equivalent) are essential.An optional, hands-on lab (
+AS.050.212
+) is offered to supplement this course.  It is highly recommended that students with less extensive computational and mathematical experience register for this lab.
+Distribution Area: Quantitative and Mathematical Sciences
+AS Foundational Abilities: Science and Data (FA2),
+Projects and Methods (FA6)"
+AS.050.203,Neuroscience: Cognitive,3,"This course surveys theory and research concerning how mental processes are carried out by the human brain. Currently a wide range of methods of probing the functioning brain are yielding insights into the nature of the relation between mental and neural events. Emphasis will be placed on developing an understanding of both the physiological bases of the techniques and the issues involved in relating measures of brain activity to cognitive functioning. Methods surveyed include electrophysiological recording techniques such as EEG, ERP, single/multiple unit recording and MEG; functional imaging techniques such as PET and fMRI; and methods that involve lesioning or disrupting neural activity such as cortical stimulation, animal lesion studies, and the study of brain-damaged individuals.  Also offered as
+AS.050.603
+.It’s strongly recommended that students have background in one of the following courses:
+AS.050.105
+OR
+AS.200.141
+.","FA2, FA5","Natural Sciences, Social and Behavioral Sciences",,,,"AS.050.203.
+Neuroscience: Cognitive.
+3 Credits.
+This course surveys theory and research concerning how mental processes are carried out by the human brain. Currently a wide range of methods of probing the functioning brain are yielding insights into the nature of the relation between mental and neural events. Emphasis will be placed on developing an understanding of both the physiological bases of the techniques and the issues involved in relating measures of brain activity to cognitive functioning. Methods surveyed include electrophysiological recording techniques such as EEG, ERP, single/multiple unit recording and MEG; functional imaging techniques such as PET and fMRI; and methods that involve lesioning or disrupting neural activity such as cortical stimulation, animal lesion studies, and the study of brain-damaged individuals.  Also offered as
+AS.050.603
+.It’s strongly recommended that students have background in one of the following courses:
+AS.050.105
+OR
+AS.200.141
+.
+Distribution Area: Natural Sciences, Social and Behavioral Sciences
+AS Foundational Abilities: Science and Data (FA2),
+Ethics and Foundations (FA5)"
+AS.050.206,Bilingualism,3,"How do we juggle multiple languages in our brain? Do children get confused when they grow up exposed to more than one language? Is it possible to forget one’s native language? Are the first and second languages processed in different areas of the brain? How does brain damage impact the different languages of a polyglot? Does knowing a second language affect non-linguistic cognitive processing? This course will address questions such as these through an exploration of cognitive and neural processes underlying bilingual and multilingual language processing. Also offered as
+AS.050.606
+.","FA1, FA2","Natural Sciences, Social and Behavioral Sciences",,,Writing Intensive,"AS.050.206.
+Bilingualism.
+3 Credits.
+How do we juggle multiple languages in our brain? Do children get confused when they grow up exposed to more than one language? Is it possible to forget one’s native language? Are the first and second languages processed in different areas of the brain? How does brain damage impact the different languages of a polyglot? Does knowing a second language affect non-linguistic cognitive processing? This course will address questions such as these through an exploration of cognitive and neural processes underlying bilingual and multilingual language processing. Also offered as
+AS.050.606
+.
+Distribution Area: Natural Sciences, Social and Behavioral Sciences
+AS Foundational Abilities: Writing and Communication (FA1),
+Science and Data (FA2)
+Writing Intensive"
+AS.050.212,Introduction to Computational Cognitive Science Lab,0.5,"This course is a hands-on lab supplement for
+AS.050.202
+Introduction to Computational Cognitive Science. While this lab is optional, it is highly recommended to students with less extensive computational and mathematical experience.
+Corequisite(s):
+Must be registered for
+AS.050.202
+in order to register for this optional lab.","FA2, FA6",,,,,"AS.050.212.
+Introduction to Computational Cognitive Science Lab.
+0.5 Credits.
+This course is a hands-on lab supplement for
+AS.050.202
+Introduction to Computational Cognitive Science. While this lab is optional, it is highly recommended to students with less extensive computational and mathematical experience.
+Corequisite(s):
+Must be registered for
+AS.050.202
+in order to register for this optional lab.
+AS Foundational Abilities: Science and Data (FA2),
+Projects and Methods (FA6)"
+AS.050.236,Neurolinguistics,3,"This course provides an introductory survey of the cognitive neuroscience of language – a multidisciplinary field in the intersection of Linguistics, Psycholinguistics, and Neuroscience. We will explore current research on the neural bases of the perception, production, and acquisition or human language in neuro-typical and impaired individuals.","FA1, FA2, FA6","Natural Sciences, Social and Behavioral Sciences",,,Writing Intensive,"AS.050.236.
+Neurolinguistics.
+3 Credits.
+This course provides an introductory survey of the cognitive neuroscience of language – a multidisciplinary field in the intersection of Linguistics, Psycholinguistics, and Neuroscience. We will explore current research on the neural bases of the perception, production, and acquisition or human language in neuro-typical and impaired individuals.
+Distribution Area: Natural Sciences, Social and Behavioral Sciences
+AS Foundational Abilities: Writing and Communication (FA1),
+Science and Data (FA2),
+Projects and Methods (FA6)
+Writing Intensive"
+AS.050.239,Cognitive Development,3,"This is a survey course in developmental psychology designed for individuals with some basic background in psychology or cognitive science, but little or none in development. The course is strongly theoretically oriented, with emphasis on issues of nature, and development psychology as well as relevant empirical evidence. The principle focus will be early development, i.e., from conception through middle childhood. The course is organized topically, covering biological and prenatal development, perceptual and cognitive development, the nature and development of intelligence, and language learning. Also offered as
+AS.050.639
+.","FA2, FA5","Natural Sciences, Social and Behavioral Sciences",,,,"AS.050.239.
+Cognitive Development.
+3 Credits.
+This is a survey course in developmental psychology designed for individuals with some basic background in psychology or cognitive science, but little or none in development. The course is strongly theoretically oriented, with emphasis on issues of nature, and development psychology as well as relevant empirical evidence. The principle focus will be early development, i.e., from conception through middle childhood. The course is organized topically, covering biological and prenatal development, perceptual and cognitive development, the nature and development of intelligence, and language learning. Also offered as
+AS.050.639
+.
+Distribution Area: Natural Sciences, Social and Behavioral Sciences
+AS Foundational Abilities: Science and Data (FA2),
+Ethics and Foundations (FA5)"
+AS.050.244,Cognitive Neuroscience Lab,3,"This course aims to provide a deeper understanding of cognitive neuroscience methods and theory on certain contemporary topics in the field through a series of labs and activities. Example labs include building psychophysical experiments using PsychoPy, exploring the brain using MRI images using MRIcron and developing artificial neural networks using simBrain. Basic cognitive neuroscience theories will be discussed in class before each lab/activity to bring everyone to the same page. Emphasis will be placed on developing a scientific mindset in approaching problems. You will build your own experiment from your own idea and execute it in-class. No pre-requisite required.","FA1, FA2, FA6","Natural Sciences, Social and Behavioral Sciences",,,Writing Intensive,"AS.050.244.
+Cognitive Neuroscience Lab.
+3 Credits.
+This course aims to provide a deeper understanding of cognitive neuroscience methods and theory on certain contemporary topics in the field through a series of labs and activities. Example labs include building psychophysical experiments using PsychoPy, exploring the brain using MRI images using MRIcron and developing artificial neural networks using simBrain. Basic cognitive neuroscience theories will be discussed in class before each lab/activity to bring everyone to the same page. Emphasis will be placed on developing a scientific mindset in approaching problems. You will build your own experiment from your own idea and execute it in-class. No pre-requisite required.
+Distribution Area: Natural Sciences, Social and Behavioral Sciences
+AS Foundational Abilities: Writing and Communication (FA1),
+Science and Data (FA2),
+Projects and Methods (FA6)
+Writing Intensive"
+AS.050.308,Acoustic Phonetics,3,"This course explores theories of speech sound generation in the human vocal system, in order to learn the relationships between discrete linguistic classes of sounds and their articulatory and acoustic manifestations. Foundations for these theories include an understanding of the anatomy employed during speech, as well as principles of airflow and pressure, which are united in the source-filter theory of speech production. As speech unfolds in time, the resulting acoustic signal is altered according to the vocal tract’s configuration, leading to characteristic acoustic manifestations for vowels and consonants. These phonetic cues, in turn, ground formal phonological representations via distinctive feature theory. The course includes a practical introduction to measurement of the acoustic correlates of speech sounds.","FA2, FA6",,"AS.050.102, AS.050.325","AS.050.102
+OR
+AS.050.325",,"AS.050.308.
+Acoustic Phonetics.
+3 Credits.
+This course explores theories of speech sound generation in the human vocal system, in order to learn the relationships between discrete linguistic classes of sounds and their articulatory and acoustic manifestations. Foundations for these theories include an understanding of the anatomy employed during speech, as well as principles of airflow and pressure, which are united in the source-filter theory of speech production. As speech unfolds in time, the resulting acoustic signal is altered according to the vocal tract’s configuration, leading to characteristic acoustic manifestations for vowels and consonants. These phonetic cues, in turn, ground formal phonological representations via distinctive feature theory. The course includes a practical introduction to measurement of the acoustic correlates of speech sounds.
+Prerequisite(s):
+AS.050.102
+OR
+AS.050.325
+AS Foundational Abilities: Science and Data (FA2),
+Projects and Methods (FA6)"
+AS.050.312,Cognitive Neuroimaging Methods in High-Level Vision,3,"This course is an advanced seminar and research practicum course. It will provide the opportunity to learn about fMRI methods used in the field of vision science and for students to have hands-on experience to develop, design and analyze a research study on topics in the cognitive neuroscience field of high-level vision. In the first part of the course students will read recent fMRI journal papers and learn about common fMRI designs and analysis methods; in the second part of the course students will conduct a research study to address a research question developed from readings. Students are expected to write a paper in a short journal article format at the end of the course and to present their results in front of the class. Research topics will vary but with special focus on topics in high-level visual processing.","FA2, FA6","Natural Sciences, Social and Behavioral Sciences","AS.050.105, AS.050.116, AS.050.203, AS.050.315, AS.050.332, AS.200.110","AS.050.105
+OR
+AS.050.116
+OR
+AS.050.203
+OR
+AS.050.315
+OR
+AS.050.332
+OR
+AS.200.110",,"AS.050.312.
+Cognitive Neuroimaging Methods in High-Level Vision.
+3 Credits.
+This course is an advanced seminar and research practicum course. It will provide the opportunity to learn about fMRI methods used in the field of vision science and for students to have hands-on experience to develop, design and analyze a research study on topics in the cognitive neuroscience field of high-level vision. In the first part of the course students will read recent fMRI journal papers and learn about common fMRI designs and analysis methods; in the second part of the course students will conduct a research study to address a research question developed from readings. Students are expected to write a paper in a short journal article format at the end of the course and to present their results in front of the class. Research topics will vary but with special focus on topics in high-level visual processing.
+Prerequisite(s):
+AS.050.105
+OR
+AS.050.116
+OR
+AS.050.203
+OR
+AS.050.315
+OR
+AS.050.332
+OR
+AS.200.110
+Distribution Area: Natural Sciences, Social and Behavioral Sciences
+AS Foundational Abilities: Science and Data (FA2),
+Projects and Methods (FA6)"
+AS.050.315,Cognitive Neuropsychology of Visual Perception: The Malfunctioning Visual Brain,3,"When we think about our ability to see, we tend to think about our eyes, but in fact vision happens mostly in the brain.  This course explores the remarkable perceptual deficits that occur when the visual regions of the brain are damaged or fail to develop normally, focusing on what these perceptual malfunctions tell us about normal visual perception. Topics include visual system anatomy and physiology; functional specialization in the lower visual system as revealed by  cerebral achromatopsia (color blindness resulting from brain damage) and akinetopsia (impaired motion perception);  cortical plasticity in the visual system; spatial deficits in perception and action; and the implications of high-level visual deficits, including prosopagnosia (impaired face recognition), Charles Bonnet syndrome (complex visual hallucinations in blind areas of the visual field), blindsight (accurate responding to visual stimuli despite apparent inability to see them), and aphantasia (lack of visual imagery).","FA1, FA2, FA6","Natural Sciences, Social and Behavioral Sciences","AS.050.105, AS.050.203, AS.080.203, AS.050.101, AS.200.110, AS.200.211","AS.050.105
+OR
+AS.050.203
+OR AS.080.203 OR AS.050.101 OR
+AS.200.110
+OR
+AS.200.211
+or instructor's permission.",Writing Intensive,"AS.050.315.
+Cognitive Neuropsychology of Visual Perception: The Malfunctioning Visual Brain.
+3 Credits.
+When we think about our ability to see, we tend to think about our eyes, but in fact vision happens mostly in the brain.  This course explores the remarkable perceptual deficits that occur when the visual regions of the brain are damaged or fail to develop normally, focusing on what these perceptual malfunctions tell us about normal visual perception. Topics include visual system anatomy and physiology; functional specialization in the lower visual system as revealed by  cerebral achromatopsia (color blindness resulting from brain damage) and akinetopsia (impaired motion perception);  cortical plasticity in the visual system; spatial deficits in perception and action; and the implications of high-level visual deficits, including prosopagnosia (impaired face recognition), Charles Bonnet syndrome (complex visual hallucinations in blind areas of the visual field), blindsight (accurate responding to visual stimuli despite apparent inability to see them), and aphantasia (lack of visual imagery).
+Prerequisite(s):
+AS.050.105
+OR
+AS.050.203
+OR AS.080.203 OR AS.050.101 OR
+AS.200.110
+OR
+AS.200.211
+or instructor's permission.
+Distribution Area: Natural Sciences, Social and Behavioral Sciences
+AS Foundational Abilities: Writing and Communication (FA1),
+Science and Data (FA2),
+Projects and Methods (FA6)
+Writing Intensive"
+AS.050.317,Semantics I,3,"This is an introduction to the study of meaning in natural language. We address the conceptual and empirical issues in semantic theory and introduce some formal machinery that has been developed to deal with such problems. After discussing foundational questions, we turn to formal semantics and pragmatics, as well as their interfaces with syntax and the lexicon. Specific topics include presupposition, type-driven composition, quantification, lexical aspect, argument structure, and lexical representations of meaning.","FA2, FA6","Natural Sciences, Social and Behavioral Sciences","AS.050.107, AS.050.102, AS.050.240","AS.050.107 OR
+AS.050.102
+or AS.050.240 or instructor's permission.",,"AS.050.317.
+Semantics I.
+3 Credits.
+This is an introduction to the study of meaning in natural language. We address the conceptual and empirical issues in semantic theory and introduce some formal machinery that has been developed to deal with such problems. After discussing foundational questions, we turn to formal semantics and pragmatics, as well as their interfaces with syntax and the lexicon. Specific topics include presupposition, type-driven composition, quantification, lexical aspect, argument structure, and lexical representations of meaning.
+Prerequisite(s):
+AS.050.107 OR
+AS.050.102
+or AS.050.240 or instructor's permission.
+Distribution Area: Natural Sciences, Social and Behavioral Sciences
+AS Foundational Abilities: Science and Data (FA2),
+Projects and Methods (FA6)"
+AS.050.320,Syntax I,3,"Introduces the basic methods and means of analysis used in contemporary syntax investigations, practicing with data from different languages. Also offered as
+AS.050.620
+.","FA2, FA6","Natural Sciences, Social and Behavioral Sciences","AS.050.102, AS.050.240","AS.050.102
+OR AS.050.240 or equivalent/see instructor.",,"AS.050.320.
+Syntax I.
+3 Credits.
+Introduces the basic methods and means of analysis used in contemporary syntax investigations, practicing with data from different languages. Also offered as
+AS.050.620
+.
+Prerequisite(s):
+AS.050.102
+OR AS.050.240 or equivalent/see instructor.
+Distribution Area: Natural Sciences, Social and Behavioral Sciences
+AS Foundational Abilities: Science and Data (FA2),
+Projects and Methods (FA6)"
+AS.050.321,Syntax II,3,"Building on
+AS.050.320
+, this course addresses and compares conceptions of syntactic theory that have emerged since the 1990s. Discussion focuses on both the substantive and formal properties of the fundamental principles of syntactic theory, as well as the cross-linguistic evidence that motivates them. In particular, we will contrast the Principles and Parameters view where syntactic theory relies on a set of inviolable principles whose form admits a certain amount of cross-linguistic variation, and the Optimality Theory view whereby constraints are invariant though violable, and cross-linguistic variation is determined by the relative importance of satisfying the various principles. When possible, connections will be made to other areas of linguistic inquiry such as processing, acquisition, and computation. Meets with
+AS.050.621
+.",,"Natural Sciences, Social and Behavioral Sciences",AS.050.320,"B or higher in
+AS.050.320
+Syntax I or equivalent or permission from the instructor",,"AS.050.321.
+Syntax II.
+3 Credits.
+Building on
+AS.050.320
+, this course addresses and compares conceptions of syntactic theory that have emerged since the 1990s. Discussion focuses on both the substantive and formal properties of the fundamental principles of syntactic theory, as well as the cross-linguistic evidence that motivates them. In particular, we will contrast the Principles and Parameters view where syntactic theory relies on a set of inviolable principles whose form admits a certain amount of cross-linguistic variation, and the Optimality Theory view whereby constraints are invariant though violable, and cross-linguistic variation is determined by the relative importance of satisfying the various principles. When possible, connections will be made to other areas of linguistic inquiry such as processing, acquisition, and computation. Meets with
+AS.050.621
+.
+Prerequisite(s):
+B or higher in
+AS.050.320
+Syntax I or equivalent or permission from the instructor
+Distribution Area: Natural Sciences, Social and Behavioral Sciences"
+AS.050.325,Phonology I,3,"An introduction to the basic principles underlying the mental representation and manipulation of language sounds and their relation to human perception and vocal articulation: how units of sound are both decomposable into elementary features and combined to form larger structures like syllables and words. The role of rules and constraints in a formal theory of phonological competence and in accounting for the range of variation among the world’s languages. Also offered as
+AS.050.625
+.","FA2, FA6","Natural Sciences, Social and Behavioral Sciences",,,,"AS.050.325.
+Phonology I.
+3 Credits.
+An introduction to the basic principles underlying the mental representation and manipulation of language sounds and their relation to human perception and vocal articulation: how units of sound are both decomposable into elementary features and combined to form larger structures like syllables and words. The role of rules and constraints in a formal theory of phonological competence and in accounting for the range of variation among the world’s languages. Also offered as
+AS.050.625
+.
+Distribution Area: Natural Sciences, Social and Behavioral Sciences
+AS Foundational Abilities: Science and Data (FA2),
+Projects and Methods (FA6)"
+AS.050.326,Foundations of Cognitive Science,3,"This course explores general issues and methodologies in cognitive science through the reading of classic works (from Plato and Kant through Skinner and Turing) and recent research articles to begin construction of a coherent picture of many seemingly divergent perspectives on the mind/brain. Recent brain-based computational models serve to focus discussion. Also offered as
+AS.050.626
+.","FA1, FA2, FA5","Natural Sciences, Social and Behavioral Sciences",,,Writing Intensive,"AS.050.326.
+Foundations of Cognitive Science.
+3 Credits.
+This course explores general issues and methodologies in cognitive science through the reading of classic works (from Plato and Kant through Skinner and Turing) and recent research articles to begin construction of a coherent picture of many seemingly divergent perspectives on the mind/brain. Recent brain-based computational models serve to focus discussion. Also offered as
+AS.050.626
+.  Recommended Course Background: at least one course at the 300-level or higher in cognitive science, computer science, neuroscience, philosophy, or psychology.
+Distribution Area: Natural Sciences, Social and Behavioral Sciences
+AS Foundational Abilities: Writing and Communication (FA1),
+Science and Data (FA2),
+Ethics and Foundations (FA5)
+Writing Intensive"
+AS.050.332,Developmental Cognitive Neuroscience,3,"In-depth examination of the current literature on cognitive development in the context of developmental cognitive neuroscience. Please see course prerequisites. Meets with
+AS.050.632
+.","FA1, FA2, FA5","Natural Sciences, Social and Behavioral Sciences","AS.050.101, AS.050.339, AS.200.132, AS.050.105","AS.050.101 OR AS.050.339 OR
+AS.200.132
+OR
+AS.050.105
+OR Instructor's Permission.",,"AS.050.332.
+Developmental Cognitive Neuroscience.
+3 Credits.
+In-depth examination of the current literature on cognitive development in the context of developmental cognitive neuroscience. Please see course prerequisites. Meets with
+AS.050.632
+.
+Prerequisite(s):
+AS.050.101 OR AS.050.339 OR
+AS.200.132
+OR
+AS.050.105
+OR Instructor's Permission.
+Distribution Area: Natural Sciences, Social and Behavioral Sciences
+AS Foundational Abilities: Writing and Communication (FA1),
+Science and Data (FA2),
+Ethics and Foundations (FA5)"
+AS.050.333,Psycholinguistics,3,"This course examines the cognitive and neural mechanisms that allow us to use linguistic knowledge to produce and understand language in real time. You will learn about the key findings on language perception, production, and acquisition, while gaining hands-on, laboratory-style experience with some of the methods commonly used to study language performance. The focus of the class is on the relation between experimental findings and linguistic theory, addressing two core questions of psycholinguistics: How is language organized and implemented in the brain? How (if at all) does our mental machinery shape natural language? Also available as
+AS.050.633
+.","FA1, FA2, FA6","Natural Sciences, Social and Behavioral Sciences","AS.050.102, AS.050.240, AS.050.317, AS.050.320, AS.050.325","AS.050.102
+OR AS.050.240 OR
+AS.050.317
+OR
+AS.050.320
+OR
+AS.050.325
+or instructor's permission.",,"AS.050.333.
+Psycholinguistics.
+3 Credits.
+This course examines the cognitive and neural mechanisms that allow us to use linguistic knowledge to produce and understand language in real time. You will learn about the key findings on language perception, production, and acquisition, while gaining hands-on, laboratory-style experience with some of the methods commonly used to study language performance. The focus of the class is on the relation between experimental findings and linguistic theory, addressing two core questions of psycholinguistics: How is language organized and implemented in the brain? How (if at all) does our mental machinery shape natural language? Also available as
+AS.050.633
+.
+Prerequisite(s):
+AS.050.102
+OR AS.050.240 OR
+AS.050.317
+OR
+AS.050.320
+OR
+AS.050.325
+or instructor's permission.
+Distribution Area: Natural Sciences, Social and Behavioral Sciences
+AS Foundational Abilities: Writing and Communication (FA1),
+Science and Data (FA2),
+Projects and Methods (FA6)"
+AS.050.337,Reading the Mind: Computational Cognitive Neuroscience of Vision,3,"Recent advancements in neuroscience, computational cognitive science and machine learning have led to new possibilities for understanding the mind and brain. With the current neural network modelling and artificial intelligence (AI) techniques, scientists are able to decode neural representation to understand one’s internal mental state. In this course, we will discuss how to utilize the latest technologies, including voxel-wise encoding models, convolutional neural networks (CNNs), generative adversarial networks (GANs) and transformers, to model neural representations with a focus on vision. Students will read latest primary research articles and gain hands-on neural modelling experience.  Also offered as
+AS.050.637","FA2, FA6","Natural Sciences, Quantitative and Mathematical Sciences","AS.050.202, AS.250.205, AS.050.372, AS.050.105, AS.050.116, AS.050.203","(
+AS.050.202
+OR
+AS.250.205
+OR
+AS.050.372
+) AND (
+AS.050.105
+OR
+AS.050.116
+OR
+AS.050.203
+) or equivalent with instructor permission.",,"AS.050.337.
+Reading the Mind: Computational Cognitive Neuroscience of Vision.
+3 Credits.
+Recent advancements in neuroscience, computational cognitive science and machine learning have led to new possibilities for understanding the mind and brain. With the current neural network modelling and artificial intelligence (AI) techniques, scientists are able to decode neural representation to understand one’s internal mental state. In this course, we will discuss how to utilize the latest technologies, including voxel-wise encoding models, convolutional neural networks (CNNs), generative adversarial networks (GANs) and transformers, to model neural representations with a focus on vision. Students will read latest primary research articles and gain hands-on neural modelling experience.  Also offered as
+AS.050.637
+Prerequisite(s):
+(
+AS.050.202
+OR
+AS.250.205
+OR
+AS.050.372
+) AND (
+AS.050.105
+OR
+AS.050.116
+OR
+AS.050.203
+) or equivalent with instructor permission.
+Distribution Area: Natural Sciences, Quantitative and Mathematical Sciences
+AS Foundational Abilities: Science and Data (FA2),
+Projects and Methods (FA6)"
+AS.050.347,Deep Learning for Cognitive Neuroscience,3,"Over the last decade, there has been amazing progress in deep learning AI systems for vision and language, and more and more cognitive neuroscientists are using these tools to study the human brain. This course will give an overview of popular deep learning methods, including convolutional neural networks, recurrent neural networks, variational autoencoders, and transformers, with the goal of addressing two key questions: 1) to what extent do these deep learning systems act like humans, and 2) what questions can they help us answer about the human mind and brain. The class will involve a mix of lectures, hands-on coding assignments, and reading/discussion of primary research articles. The course will focus heavily on vision but will include some topics in language (including large language models) and social cognition.","FA2, FA6",,"AS.050.647, AS.050.347, EN.500.112, EN.500.113, EN.500.114, AS.050.383, AS.050.683, AS.050.372, AS.050.672, AS.110.201, AS.050.203, AS.050.603","Students who have taken or are enrolled in
+AS.050.647
+are not eligible to take
+AS.050.347
+.;(
+EN.500.112
+OR
+EN.500.113
+OR
+EN.500.114
+) AND (
+AS.050.383
+OR
+AS.050.683
+OR
+AS.050.372
+OR
+AS.050.672
+OR
+AS.110.201
+) AND (
+AS.050.203
+OR
+AS.050.603
+)",,"AS.050.347.
+Deep Learning for Cognitive Neuroscience.
+3 Credits.
+Over the last decade, there has been amazing progress in deep learning AI systems for vision and language, and more and more cognitive neuroscientists are using these tools to study the human brain. This course will give an overview of popular deep learning methods, including convolutional neural networks, recurrent neural networks, variational autoencoders, and transformers, with the goal of addressing two key questions: 1) to what extent do these deep learning systems act like humans, and 2) what questions can they help us answer about the human mind and brain. The class will involve a mix of lectures, hands-on coding assignments, and reading/discussion of primary research articles. The course will focus heavily on vision but will include some topics in language (including large language models) and social cognition.
+Prerequisite(s):
+Students who have taken or are enrolled in
+AS.050.647
+are not eligible to take
+AS.050.347
+.;(
+EN.500.112
+OR
+EN.500.113
+OR
+EN.500.114
+) AND (
+AS.050.383
+OR
+AS.050.683
+OR
+AS.050.372
+OR
+AS.050.672
+OR
+AS.110.201
+) AND (
+AS.050.203
+OR
+AS.050.603
+)
+AS Foundational Abilities: Science and Data (FA2),
+Projects and Methods (FA6)"
+AS.050.348,First Language Acquisition,3,"This course provides an introduction to the fields of first and bilingual language acquisition by looking at questions such as the following: Can the grammar of a native language be learned solely on the basis of noticing statistical correlations among words? How does native language acquisition explain — or is explained by — the universal properties, shared by all languages, of words and grammars? How does being exposed to multiple languages from birth affect language acquisition and what happens when a child is not exposed to any language early in life? This is the first part of a two-part course sequence on first and second language acquisition.","FA2, FA5","Natural Sciences, Social and Behavioral Sciences","AS.050.240, AS.050.320, AS.050.325, AS.050.102, AS.050.206","AS.050.240 OR
+AS.050.320
+OR
+AS.050.325
+OR
+AS.050.102
+OR
+AS.050.206",,"AS.050.348.
+First Language Acquisition.
+3 Credits.
+This course provides an introduction to the fields of first and bilingual language acquisition by looking at questions such as the following: Can the grammar of a native language be learned solely on the basis of noticing statistical correlations among words? How does native language acquisition explain — or is explained by — the universal properties, shared by all languages, of words and grammars? How does being exposed to multiple languages from birth affect language acquisition and what happens when a child is not exposed to any language early in life? This is the first part of a two-part course sequence on first and second language acquisition.
+Prerequisite(s):
+AS.050.240 OR
+AS.050.320
+OR
+AS.050.325
+OR
+AS.050.102
+OR
+AS.050.206
+Distribution Area: Natural Sciences, Social and Behavioral Sciences
+AS Foundational Abilities: Science and Data (FA2),
+Ethics and Foundations (FA5)"
+AS.050.349,Second Language Acquisition,3,"First language acquisition is natural and seemingly effortless. The situation is reversed when one tries to learn another language. This course discusses in what ways first and second language acquisition (SLA) differ and how individual differences of the learners as well as external factors contribute to the variability observed in rates and ultimate proficiency of second language learning in children and adults. We will discuss such topics as Universal Grammar access in early and late SLA, first language influence, critical periods, possibility of native-like attainment, and language attrition.  Also offered as
+AS.050.649
+.","FA2, FA6","Natural Sciences, Social and Behavioral Sciences","AS.050.102, AS.050.206, AS.050.320, AS.050.325, AS.050.348","AS.050.102
+OR
+AS.050.206
+OR
+AS.050.320
+OR
+AS.050.325
+OR
+AS.050.348",,"AS.050.349.
+Second Language Acquisition.
+3 Credits.
+First language acquisition is natural and seemingly effortless. The situation is reversed when one tries to learn another language. This course discusses in what ways first and second language acquisition (SLA) differ and how individual differences of the learners as well as external factors contribute to the variability observed in rates and ultimate proficiency of second language learning in children and adults. We will discuss such topics as Universal Grammar access in early and late SLA, first language influence, critical periods, possibility of native-like attainment, and language attrition.  Also offered as
+AS.050.649
+.
+Prerequisite(s):
+AS.050.102
+OR
+AS.050.206
+OR
+AS.050.320
+OR
+AS.050.325
+OR
+AS.050.348
+Distribution Area: Natural Sciences, Social and Behavioral Sciences
+AS Foundational Abilities: Science and Data (FA2),
+Projects and Methods (FA6)"
+AS.050.357,Sociophonetics,3,"An introduction to the emerging field of sociophonetics, which lies at the interface between sociolinguistics and phonetics. Students will learn how to analyze phonetic data in service of research questions motivated by social factors including speakers’ region of origin, gender, ethnicity, or other characteristics. Extensions will be made to articulatory phonetics, speech perception, and phonological formalizations. Knowledge of linguistics and phonology/phonetics, including the International Phonetic Alphabet and basic acoustic phonetics, is strongly recommended. The course will draw material from textbooks, scholarly articles, and hands-on phonetic analysis culminating in final projects on topics chosen by students. It is recommended that students have successfully completed
+AS.050.325
+Phonology I prior to enrollment in this course.","FA2, FA4, FA6",,AS.050.102,"AS.050.102
+or permission of instructor",,"AS.050.357.
+Sociophonetics.
+3 Credits.
+An introduction to the emerging field of sociophonetics, which lies at the interface between sociolinguistics and phonetics. Students will learn how to analyze phonetic data in service of research questions motivated by social factors including speakers’ region of origin, gender, ethnicity, or other characteristics. Extensions will be made to articulatory phonetics, speech perception, and phonological formalizations. Knowledge of linguistics and phonology/phonetics, including the International Phonetic Alphabet and basic acoustic phonetics, is strongly recommended. The course will draw material from textbooks, scholarly articles, and hands-on phonetic analysis culminating in final projects on topics chosen by students. It is recommended that students have successfully completed
+AS.050.325
+Phonology I prior to enrollment in this course.
+Prerequisite(s):
+AS.050.102
+or permission of instructor
+AS Foundational Abilities: Science and Data (FA2),
+Citizens and Society (FA4),
+Projects and Methods (FA6)
+EN Foundational Abilities: Engagement with Society (FA4)"
+AS.050.358,Language & Thought,3,"Have you ever wondered about the relationships between language and thought? Philosophers, linguists, psychologists, evolutionary theorists and cognitive scientists have too and this course will survey the current thinking on this matter. Classical papers such as those by Whorf and Sapir, more recent philosophical papers by people such as Fodor and Dennett, and recent empirical work by linguists and psycholingists on the relationship between language and thinking in development and in adults will be covered. Discussions will focus on the theoretically possible relationships between language and thought and the empirical data that speak to these. Juniors and seniors only. Freshmen and sophomores by permission of instructor only.","FA1, FA2, FA5","Humanities, Natural Sciences, Social and Behavioral Sciences","AS.050.102, AS.050.320, AS.050.325","AS.050.102
+OR
+AS.050.320
+OR
+AS.050.325
+or instructor permission.",Juniors and seniors only. | Freshmen and sophomores by permission of instructor only. | Writing Intensive,"AS.050.358.
+Language & Thought.
+3 Credits.
+Have you ever wondered about the relationships between language and thought? Philosophers, linguists, psychologists, evolutionary theorists and cognitive scientists have too and this course will survey the current thinking on this matter. Classical papers such as those by Whorf and Sapir, more recent philosophical papers by people such as Fodor and Dennett, and recent empirical work by linguists and psycholingists on the relationship between language and thinking in development and in adults will be covered. Discussions will focus on the theoretically possible relationships between language and thought and the empirical data that speak to these. Juniors and seniors only. Freshmen and sophomores by permission of instructor only.
+Prerequisite(s):
+AS.050.102
+OR
+AS.050.320
+OR
+AS.050.325
+or instructor permission.
+Distribution Area: Humanities, Natural Sciences, Social and Behavioral Sciences
+AS Foundational Abilities: Writing and Communication (FA1),
+Science and Data (FA2),
+Ethics and Foundations (FA5)
+Writing Intensive"
+AS.050.365,Cracking the code: Theory and modeling of information coding in neural activity,3,"One of the most foundational concepts in neuroscience is the idea that neural activity encodes information about an animal’s sensory environment and internal mental states. This idea is closely connected to the concept of mental representation in cognitive science and philosophy, whereby the mind is proposed to contain internal symbols that represent things in the external world. There have been many fascinating discoveries about how neural signals encode information, but we are still far from a comprehensive theory of neural representation. Recent major developments in neuroscience and machine learning have opened up a new world of possibilities for investigating the underlying principles of information coding in the brains of humans and other animals. In this course, we will discuss primary research articles on neural representation and information processing, and students will implement computational analyses that address issues in these domains. We will mostly focus on vision as a system that illustrates broader principles of information processing in the human brain. The reading material will include work from philosophy, neuroimaging, electrophysiology, and computational modeling. The topics covered include mental and neural representation, neural tuning, population coding, information theory, encoding and decoding models, dimensionality reduction, computational models, deep learning, and other applications of machine learning in neuroscience. Enrollment is limited to Juniors and Seniors. While this class does not have formal prerequisites, programming experience (e.g., AS 250.205 Introduction to Computing) and mathematical preparation (e.g.,
+AS.110.107
+Calculus II) are essential. It is also highly recommended that students have previously taken introductory courses in cognitive or systems neuroscience (e.g.,
+AS.050.203
+Neuroscience: Cognitive) and machine learning or neural network modeling (e.g.,
+AS.050.372
+Foundations of Neural Network Theory).","FA1, FA2, FA6","Natural Sciences, Quantitative and Mathematical Sciences",,,,"AS.050.365.
+Cracking the code: Theory and modeling of information coding in neural activity.
+3 Credits.
+One of the most foundational concepts in neuroscience is the idea that neural activity encodes information about an animal’s sensory environment and internal mental states. This idea is closely connected to the concept of mental representation in cognitive science and philosophy, whereby the mind is proposed to contain internal symbols that represent things in the external world. There have been many fascinating discoveries about how neural signals encode information, but we are still far from a comprehensive theory of neural representation. Recent major developments in neuroscience and machine learning have opened up a new world of possibilities for investigating the underlying principles of information coding in the brains of humans and other animals. In this course, we will discuss primary research articles on neural representation and information processing, and students will implement computational analyses that address issues in these domains. We will mostly focus on vision as a system that illustrates broader principles of information processing in the human brain. The reading material will include work from philosophy, neuroimaging, electrophysiology, and computational modeling. The topics covered include mental and neural representation, neural tuning, population coding, information theory, encoding and decoding models, dimensionality reduction, computational models, deep learning, and other applications of machine learning in neuroscience. Enrollment is limited to Juniors and Seniors. While this class does not have formal prerequisites, programming experience (e.g., AS 250.205 Introduction to Computing) and mathematical preparation (e.g.,
+AS.110.107
+Calculus II) are essential. It is also highly recommended that students have previously taken introductory courses in cognitive or systems neuroscience (e.g.,
+AS.050.203
+Neuroscience: Cognitive) and machine learning or neural network modeling (e.g.,
+AS.050.372
+Foundations of Neural Network Theory).
+Distribution Area: Natural Sciences, Quantitative and Mathematical Sciences
+AS Foundational Abilities: Writing and Communication (FA1),
+Science and Data (FA2),
+Projects and Methods (FA6)"
+AS.050.371,Bayesian Inference,3,"This course introduces techniques for computational modeling of aspects of human cognition, including perception, categorization, and induction. Possible topics include maximum likelihood and Bayesian inference, structured statistical models (including hierarchical and graphical models), nonparametric models. The course emphasizes the close connections among data analysis, theory development, and modeling, with examples drawn from language and vision. Also offered as
+AS.050.671
+.","FA2, FA6","Natural Sciences, Social and Behavioral Sciences",,,,"AS.050.371.
+Bayesian Inference.
+3 Credits.
+This course introduces techniques for computational modeling of aspects of human cognition, including perception, categorization, and induction. Possible topics include maximum likelihood and Bayesian inference, structured statistical models (including hierarchical and graphical models), nonparametric models. The course emphasizes the close connections among data analysis, theory development, and modeling, with examples drawn from language and vision. Also offered as
+AS.050.671
+.
+Distribution Area: Natural Sciences, Social and Behavioral Sciences
+AS Foundational Abilities: Science and Data (FA2),
+Projects and Methods (FA6)"
+AS.050.372,Foundations of Neural Network Theory,4,"Introduction to continuous mathematics for cognitive science, with applications to biological and cognitive network models: real and complex numbers, differential and integral multi-variable calculus, linear algebra, dynamical systems, numerical optimization. Recommended course background in Calculus I. This is a basic-level course not appropriate for students with significant math background. tudents who have completed both Calc III (
+AS.110.202
+or
+AS.110.211
+) and Linear Algebra (
+AS.110.201
+or
+AS.110.212
+or
+EN.553.291
+) or an equivalent combination may not register. Also offered as
+AS.050.672
+.","FA2, FA6","Natural Sciences, Quantitative and Mathematical Sciences","AS.110.202, AS.110.211, AS.110.201, AS.110.212, EN.553.291","Students who have completed both (
+AS.110.202
+OR
+AS.110.211
+) AND (
+AS.110.201
+OR
+AS.110.212
+OR
+EN.553.291
+) or an equivalent combination may not register.",,"AS.050.372.
+Foundations of Neural Network Theory.
+4 Credits.
+Introduction to continuous mathematics for cognitive science, with applications to biological and cognitive network models: real and complex numbers, differential and integral multi-variable calculus, linear algebra, dynamical systems, numerical optimization. Recommended course background in Calculus I. This is a basic-level course not appropriate for students with significant math background. tudents who have completed both Calc III (
+AS.110.202
+or
+AS.110.211
+) and Linear Algebra (
+AS.110.201
+or
+AS.110.212
+or
+EN.553.291
+) or an equivalent combination may not register. Also offered as
+AS.050.672
+.
+Prerequisite(s):
+Students who have completed both (
+AS.110.202
+OR
+AS.110.211
+) AND (
+AS.110.201
+OR
+AS.110.212
+OR
+EN.553.291
+) or an equivalent combination may not register.
+Distribution Area: Natural Sciences, Quantitative and Mathematical Sciences
+AS Foundational Abilities: Science and Data (FA2),
+Projects and Methods (FA6)"
+AS.050.375,Probabilistic Models of the Visual Cortex,3,"The course gives an introduction to computational models of the mammalian visual cortex. It covers topics in low-, mid-, and high-level vision. It briefly discusses the relevant evidence from anatomy, electrophysiology, imaging (e.g., fMRI), and psychophysics. It concentrates on mathematical modeling of these phenomena taking into account recent progress in probabilistic models of computer vision and developments in machine learning, such as deep networks. Also offered as
+EN.601.485
+.Required Background: Calculus I and experience in a programming language (Python preferred).",FA2,Quantitative and Mathematical Sciences,"EN.601.485, EN.601.685, AS.050.675, AS.050.375, AS.110.106, AS.110.108","Students who are currently enrolled in, or have already taken
+EN.601.485
+/
+EN.601.685
+/
+AS.050.675
+, are not eligible to take
+AS.050.375
+.;
+AS.110.106
+OR
+AS.110.108",,"AS.050.375.
+Probabilistic Models of the Visual Cortex.
+3 Credits.
+The course gives an introduction to computational models of the mammalian visual cortex. It covers topics in low-, mid-, and high-level vision. It briefly discusses the relevant evidence from anatomy, electrophysiology, imaging (e.g., fMRI), and psychophysics. It concentrates on mathematical modeling of these phenomena taking into account recent progress in probabilistic models of computer vision and developments in machine learning, such as deep networks. Also offered as
+EN.601.485
+.Required Background: Calculus I and experience in a programming language (Python preferred).
+Prerequisite(s):
+Students who are currently enrolled in, or have already taken
+EN.601.485
+/
+EN.601.685
+/
+AS.050.675
+, are not eligible to take
+AS.050.375
+.;
+AS.110.106
+OR
+AS.110.108
+Distribution Area: Quantitative and Mathematical Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+AS.050.383,Computational Social Cognition,3,"Humans are a fundamentally social species with amazing capabilities beyond that of any other biological or artificial system. Yet the cognitive and neural computations underlying our vast social abilities are largely unknown. Advances in machine learning and naturalistic neuroscience paradigms are revolutionizing the way cognitive scientists study social cognition. This course will explore new research in computational social cognition, drawing from topics in development, artificial intelligence, and cognitive neuroscience. Our goal is to understand the motivation, methodology and implications of recent research. The class will be heavily focused on social vision, but will also explore other aspects of social cognition including theory of mind and moral reasoning. This is a discussion-based class that will consist primarily of reading and discussing primary research articles, as well as student-led presentations. While there will not be any hands-on computational exercises, a background in both cognitive neuroscience and computational methods are important to understanding the readings and other course material.","FA2, FA6","Natural Sciences, Quantitative and Mathematical Sciences","AS.050.203, AS.050.202","AS.050.203
+AND
+AS.050.202
+or equivalent.",,"AS.050.383.
+Computational Social Cognition.
+3 Credits.
+Humans are a fundamentally social species with amazing capabilities beyond that of any other biological or artificial system. Yet the cognitive and neural computations underlying our vast social abilities are largely unknown. Advances in machine learning and naturalistic neuroscience paradigms are revolutionizing the way cognitive scientists study social cognition. This course will explore new research in computational social cognition, drawing from topics in development, artificial intelligence, and cognitive neuroscience. Our goal is to understand the motivation, methodology and implications of recent research. The class will be heavily focused on social vision, but will also explore other aspects of social cognition including theory of mind and moral reasoning. This is a discussion-based class that will consist primarily of reading and discussing primary research articles, as well as student-led presentations. While there will not be any hands-on computational exercises, a background in both cognitive neuroscience and computational methods are important to understanding the readings and other course material.
+Prerequisite(s):
+AS.050.203
+AND
+AS.050.202
+or equivalent.
+Distribution Area: Natural Sciences, Quantitative and Mathematical Sciences
+AS Foundational Abilities: Science and Data (FA2),
+Projects and Methods (FA6)"
+AS.050.500,Practicum in Language Disorders- Community Based Learning,2,"This course provides the opportunity to learn about adult aphasias, language disorders which are one of the most common consequences of stroke. You will receive training in supportive communication techniques and work as a communication partner with an individual with aphasia for two hours per week. Three class meetings for orientation and reading assignments will be held on campus; training and practicum will be conducted at a local aphasia support center. Independent mode of transportation required. Co-listed as
+AS.080.505
+in  Neuroscience. Find out more about the practicum site at https://www.leagueforpeople.org/scale.","FA2, FA6","Natural Sciences, Social and Behavioral Sciences","AS.050.105, AS.050.203, AS.050.311","You must request Customized Academic Learning using the Customized Academic Learning form found in Student Self-Service: Registration > Online Forms.;A- or Better in
+AS.050.105
+OR
+AS.050.203
+OR AS.050.311 or instructor's permission.",,"AS.050.500.
+Practicum in Language Disorders- Community Based Learning.
+2 Credits.
+This course provides the opportunity to learn about adult aphasias, language disorders which are one of the most common consequences of stroke. You will receive training in supportive communication techniques and work as a communication partner with an individual with aphasia for two hours per week. Three class meetings for orientation and reading assignments will be held on campus; training and practicum will be conducted at a local aphasia support center. Independent mode of transportation required. Co-listed as
+AS.080.505
+in  Neuroscience. Find out more about the practicum site at https://www.leagueforpeople.org/scale.
+Prerequisite(s):
+You must request Customized Academic Learning using the Customized Academic Learning form found in Student Self-Service: Registration > Online Forms.;A- or Better in
+AS.050.105
+OR
+AS.050.203
+OR AS.050.311 or instructor's permission.
+Distribution Area: Natural Sciences, Social and Behavioral Sciences
+AS Foundational Abilities: Science and Data (FA2),
+Projects and Methods (FA6)"
+AS.050.510,Cognitive Science Internship,1,"For internships in cognitive science-related fields. Graded S/U only. Student cannot recieve credit for paid internships. A Cognitive Science faculty sponsor is required and must be named in the Independent Academic Work form. Please read the relevant independent academic work FAQ. KSAS primary majors, visit https://advising.jhu.edu/research-internships-and-independent-study/.  WSE primary majors, visit https://engineering.jhu.edu/advising/advising-questions/.","FA2, FA6",,,You must request Customized Academic Learning using the Customized Academic Learning form found in Student Self-Service: Registration > Online Forms.,,"AS.050.510.
+Cognitive Science Internship.
+1 Credit.
+For internships in cognitive science-related fields. Graded S/U only. Student cannot recieve credit for paid internships. A Cognitive Science faculty sponsor is required and must be named in the Independent Academic Work form. Please read the relevant independent academic work FAQ. KSAS primary majors, visit https://advising.jhu.edu/research-internships-and-independent-study/.  WSE primary majors, visit https://engineering.jhu.edu/advising/advising-questions/.
+Prerequisite(s):
+You must request Customized Academic Learning using the Customized Academic Learning form found in Student Self-Service: Registration > Online Forms.
+AS Foundational Abilities: Science and Data (FA2),
+Projects and Methods (FA6)"
+AS.050.602,Introduction to Computational Cognitive Science,3,"How does the mind work? Cognitive science addresses this question from a multidiscliplinary perspective, drawing upon methods and ideas from psychology, neurophysiology, neuroscience, philosophy, linguistics, and computer science. Within this framework, computational cognitive science has two related goals. The first is to create computational models of human cognition, computer programs that simulate certain aspects of the mind. The second is to understand how to produce intelligent behavior in machines, taking cues from humans. The computational frameworks we will discuss include symbolic structured representations, probabilistic inference and artificial neural networks, as applied to concept learning, language and vision. Some programming experience and mathematical preparation are essential if interested in this course. Interested undergraduate students should enroll in
+AS.050.202
+.",,,"AS.050.202, AS.050.602","Students who have taken, or are currently enrolled in,
+AS.050.202
+are not eligible to take
+AS.050.602
+.",,"AS.050.602.
+Introduction to Computational Cognitive Science.
+3 Credits.
+How does the mind work? Cognitive science addresses this question from a multidiscliplinary perspective, drawing upon methods and ideas from psychology, neurophysiology, neuroscience, philosophy, linguistics, and computer science. Within this framework, computational cognitive science has two related goals. The first is to create computational models of human cognition, computer programs that simulate certain aspects of the mind. The second is to understand how to produce intelligent behavior in machines, taking cues from humans. The computational frameworks we will discuss include symbolic structured representations, probabilistic inference and artificial neural networks, as applied to concept learning, language and vision. Some programming experience and mathematical preparation are essential if interested in this course. Interested undergraduate students should enroll in
+AS.050.202
+.
+Prerequisite(s):
+Students who have taken, or are currently enrolled in,
+AS.050.202
+are not eligible to take
+AS.050.602
+."
+AS.050.603,Intro to Cognitive Neuroscience,3,"This course surveys theory and research concerning how mental processes are carried out by the human brain. Currently a wide range of methods of probing the functioning brain are yielding insights into the nature of the relation between mental and neural events. Emphasis will be placed on developing an understanding of both the physiological bases of the techniques and the issues involved in relating measures of brain activity to cognitive functioning. Methods surveyed include electrophysiological recording techniques such as EEG, ERP, single/multiple unit recording and MEG; functional imaging techniques such as PET and fMRI; and methods that involve lesioning or disrupting neural activity such as cortical stimulation, animal lesion studies, and the study of brain-damaged individuals.  Also offered as
+AS.050.203
+.",,"Natural Sciences, Social and Behavioral Sciences",,,,"AS.050.603.
+Intro to Cognitive Neuroscience.
+3 Credits.
+This course surveys theory and research concerning how mental processes are carried out by the human brain. Currently a wide range of methods of probing the functioning brain are yielding insights into the nature of the relation between mental and neural events. Emphasis will be placed on developing an understanding of both the physiological bases of the techniques and the issues involved in relating measures of brain activity to cognitive functioning. Methods surveyed include electrophysiological recording techniques such as EEG, ERP, single/multiple unit recording and MEG; functional imaging techniques such as PET and fMRI; and methods that involve lesioning or disrupting neural activity such as cortical stimulation, animal lesion studies, and the study of brain-damaged individuals.  Also offered as
+AS.050.203
+.
+Distribution Area: Natural Sciences, Social and Behavioral Sciences"
+AS.050.606,Intro to Bilingualism,3,"Do children get confused when they grow up exposed to more than one language? Is it possible to forget one’s native language?  Are the first and second language processed in different areas of the brain?  How does brain damage impact the different languages of a polyglot?  Does knowing a second language affect non-linguistic cognitive processing?  This course will address questions such as these through an exploration of mental and neural processes underlying bilingual and multilingual language processing. Also listed as
+AS.050.206
+.",,,,,,"AS.050.606.
+Intro to Bilingualism.
+3 Credits.
+Do children get confused when they grow up exposed to more than one language? Is it possible to forget one’s native language?  Are the first and second language processed in different areas of the brain?  How does brain damage impact the different languages of a polyglot?  Does knowing a second language affect non-linguistic cognitive processing?  This course will address questions such as these through an exploration of mental and neural processes underlying bilingual and multilingual language processing. Also listed as
+AS.050.206
+."
+AS.050.608,Acoustic Phonetics,3,"This course explores theories of speech sound generation in the human vocal system, in order to learn the relationships between discrete linguistic classes of sounds and their articulatory and acoustic manifestations. Foundations for these theories include an understanding of the anatomy employed during speech, as well as principles of airflow and pressure, which are united in the source-filter theory of speech production. As speech unfolds in time, the resulting acoustic signal is altered according to the vocal tract’s configuration, leading to characteristic acoustic manifestations for vowels and consonants. These phonetic cues, in turn, ground formal phonological representations via distinctive feature theory. The course includes a practical introduction to measurement of the acoustic correlates of speech sounds.",,,,,,"AS.050.608.
+Acoustic Phonetics.
+3 Credits.
+This course explores theories of speech sound generation in the human vocal system, in order to learn the relationships between discrete linguistic classes of sounds and their articulatory and acoustic manifestations. Foundations for these theories include an understanding of the anatomy employed during speech, as well as principles of airflow and pressure, which are united in the source-filter theory of speech production. As speech unfolds in time, the resulting acoustic signal is altered according to the vocal tract’s configuration, leading to characteristic acoustic manifestations for vowels and consonants. These phonetic cues, in turn, ground formal phonological representations via distinctive feature theory. The course includes a practical introduction to measurement of the acoustic correlates of speech sounds."
+AS.050.612,Cognitive Neuroimaging Methods in High-Level Vision,3,"This course is an advanced seminar and research practicum course. It will provide the opportunity to learn about fMRI methods used in the field of vision science and for students to have hands-on experience to develop, design and analyze a research study on topics in the cognitive neuroscience field of high-level vision. In the first part of the course students will read recent fMRI journal papers and learn about common fMRI designs and analysis methods; in the second part of the course students will conduct a research study to address a research question developed from readings. Students are expected to write a paper in a short journal article format at the end of the course and to present their results in front of the class. Research topics will vary but with special focus on topics in high-level visual processing.",,,,,Cross-listed with Neuroscience and Psychology.,"AS.050.612.
+Cognitive Neuroimaging Methods in High-Level Vision.
+3 Credits.
+This course is an advanced seminar and research practicum course. It will provide the opportunity to learn about fMRI methods used in the field of vision science and for students to have hands-on experience to develop, design and analyze a research study on topics in the cognitive neuroscience field of high-level vision. In the first part of the course students will read recent fMRI journal papers and learn about common fMRI designs and analysis methods; in the second part of the course students will conduct a research study to address a research question developed from readings. Students are expected to write a paper in a short journal article format at the end of the course and to present their results in front of the class. Research topics will vary but with special focus on topics in high-level visual processing. Cross-listed with Neuroscience and Psychology."
+AS.050.617,Semantics I,3,"Also offered as
+AS.050.317
+. This is an introduction to the study of meaning in natural language. We address the conceptual and empirical issues in semantic theory and introduce some formal machinery that has been developed to deal with such problems. After discussing foundational questions, we turn to formal semantics and pragmatics, as well as their interfaces with syntax and the lexicon. Specific topics include presupposition, type-driven composition, quantification, lexical aspect, argument structure, and lexical representations of meaning.",,"Natural Sciences, Social and Behavioral Sciences",,,,"AS.050.617.
+Semantics I.
+3 Credits.
+Also offered as
+AS.050.317
+. This is an introduction to the study of meaning in natural language. We address the conceptual and empirical issues in semantic theory and introduce some formal machinery that has been developed to deal with such problems. After discussing foundational questions, we turn to formal semantics and pragmatics, as well as their interfaces with syntax and the lexicon. Specific topics include presupposition, type-driven composition, quantification, lexical aspect, argument structure, and lexical representations of meaning.
+Distribution Area: Natural Sciences, Social and Behavioral Sciences"
+AS.050.620,Syntax I,3,"Introduces the basic methods and means of analysis used in contemporary syntax investigations, practicing with data from different languages. Also offered as
+AS.050.320
+.",,,,,,"AS.050.620.
+Syntax I.
+3 Credits.
+Introduces the basic methods and means of analysis used in contemporary syntax investigations, practicing with data from different languages. Also offered as
+AS.050.320
+."
+AS.050.621,Syntax II,3,"Co-taught with
+AS.050.321
+. Building on
+AS.050.320
+, this course addresses and compares conceptions of syntactic theory that have emerged since the 1990s. Discussion focuses on both the substantive and formal properties of the fundamental principles of syntactic theory, as well as the cross-linguistic evidence that motivates them. In particular, we will contrast the Principles and Parameters view where syntactic theory relies on a set of inviolable principles whose form admits a certain amount of cross-linguistic variation, and the Optimality Theory view whereby constraints are invariant though violable, and cross-linguistic variation is determined by the relative importance of satisfying the various principles. When possible, connections will be made to other areas of linguistic inquiry such as processing, acquisition, and computation.",,"Natural Sciences, Social and Behavioral Sciences",,,,"AS.050.621.
+Syntax II.
+3 Credits.
+Co-taught with
+AS.050.321
+. Building on
+AS.050.320
+, this course addresses and compares conceptions of syntactic theory that have emerged since the 1990s. Discussion focuses on both the substantive and formal properties of the fundamental principles of syntactic theory, as well as the cross-linguistic evidence that motivates them. In particular, we will contrast the Principles and Parameters view where syntactic theory relies on a set of inviolable principles whose form admits a certain amount of cross-linguistic variation, and the Optimality Theory view whereby constraints are invariant though violable, and cross-linguistic variation is determined by the relative importance of satisfying the various principles. When possible, connections will be made to other areas of linguistic inquiry such as processing, acquisition, and computation.
+Distribution Area: Natural Sciences, Social and Behavioral Sciences"
+AS.050.625,Phonology I,3,"An introduction to the basic principles underlying the mental representation and manipulation of language sounds and their relation to human perception and vocal articulation: how units of sound are both decomposable into elementary features and combined to form larger structures like syllables and words. The role of rules and constraints in a formal theory of phonological competence and in accounting for the range of variation among the world’s languages.  Also offered as
+AS.050.325
+.",,"Natural Sciences, Social and Behavioral Sciences",,,,"AS.050.625.
+Phonology I.
+3 Credits.
+An introduction to the basic principles underlying the mental representation and manipulation of language sounds and their relation to human perception and vocal articulation: how units of sound are both decomposable into elementary features and combined to form larger structures like syllables and words. The role of rules and constraints in a formal theory of phonological competence and in accounting for the range of variation among the world’s languages.  Also offered as
+AS.050.325
+.
+Distribution Area: Natural Sciences, Social and Behavioral Sciences"
+AS.050.626,Foundations of Cognitive Science,3,"Also offered as
+AS.050.326
+. This course explores general issues and methodologies in cognitive science through the reading of classic works (from Plato and Kant through Skinner and Turing) and recent research articles to begin construction of a coherent picture of many seemingly divergent perspectives on the mind/brain. Recent brain-based computational models serve to focus discussion.  Also offered as
+AS.050.326
+.",,"Natural Sciences, Social and Behavioral Sciences",,,Writing Intensive,"AS.050.626.
+Foundations of Cognitive Science.
+3 Credits.
+Also offered as
+AS.050.326
+. This course explores general issues and methodologies in cognitive science through the reading of classic works (from Plato and Kant through Skinner and Turing) and recent research articles to begin construction of a coherent picture of many seemingly divergent perspectives on the mind/brain. Recent brain-based computational models serve to focus discussion.  Also offered as
+AS.050.326
+.
+Distribution Area: Natural Sciences, Social and Behavioral Sciences
+Writing Intensive"
+AS.050.632,Developmental Cognitive Neuroscience,3,"In-depth examination of the current literature on cognitive development in the context of developmental cognitive neuroscience.  Meets with
+AS.050.332
+.",,,,,,"AS.050.632.
+Developmental Cognitive Neuroscience.
+3 Credits.
+In-depth examination of the current literature on cognitive development in the context of developmental cognitive neuroscience.  Meets with
+AS.050.332
+."
+AS.050.633,Psycholinguistics,3,"This course examines the cognitive and neural mechanisms that allow us to use linguistic knowledge to produce and understand language in real time. You will learn about the key findings on language perception, production, and acquisition, while gaining hands-on, laboratory-style experience with some of the methods commonly used to study language performance. The focus of the class is on the relation between experimental findings and linguistic theory, addressing two core questions of psycholinguistics: How is language organized and implemented in the brain? How (if at all) does our mental machinery shape natural language? Also available as
+AS.050.333
+.",,,,,,"AS.050.633.
+Psycholinguistics.
+3 Credits.
+This course examines the cognitive and neural mechanisms that allow us to use linguistic knowledge to produce and understand language in real time. You will learn about the key findings on language perception, production, and acquisition, while gaining hands-on, laboratory-style experience with some of the methods commonly used to study language performance. The focus of the class is on the relation between experimental findings and linguistic theory, addressing two core questions of psycholinguistics: How is language organized and implemented in the brain? How (if at all) does our mental machinery shape natural language? Also available as
+AS.050.333
+."
+AS.050.636,Intro to Neurolinguistics,3,"This course provides an introductory survey of the cognitive neuroscience of language – a multidisciplinary field in the intersection of Linguistics, Psycholinguistics, and Neuroscience. We will explore current research on the neural bases of the perception, production, and acquisition or human language in neuro-typical and impaired individuals. Also listed as
+AS.050.236
+.",,,,,,"AS.050.636.
+Intro to Neurolinguistics.
+3 Credits.
+This course provides an introductory survey of the cognitive neuroscience of language – a multidisciplinary field in the intersection of Linguistics, Psycholinguistics, and Neuroscience. We will explore current research on the neural bases of the perception, production, and acquisition or human language in neuro-typical and impaired individuals. Also listed as
+AS.050.236
+."
+AS.050.637,Reading the Mind: Computational Cognitive Neuroscience of Vision,3,"Recent advancements in neuroscience, computational cognitive science and machine learning have led to new possibilities for understanding the mind and brain. With the current neural network modelling and artificial intelligence (AI) techniques, scientists are able to decode neural representation to understand one’s internal mental state. In this course, we will discuss how to utilize the latest technologies, including voxel-wise encoding models, convolutional neural networks (CNNs), generative adversarial networks (GANs) and transformers, to model neural representations with a focus on vision. Students will read latest primary research articles and gain hands-on neural modelling experience.  Recommended course background: At least one course in each cognitive neuroscience and introduction to computing. Also offered as AS.050.373",,,,,,"AS.050.637.
+Reading the Mind: Computational Cognitive Neuroscience of Vision.
+3 Credits.
+Recent advancements in neuroscience, computational cognitive science and machine learning have led to new possibilities for understanding the mind and brain. With the current neural network modelling and artificial intelligence (AI) techniques, scientists are able to decode neural representation to understand one’s internal mental state. In this course, we will discuss how to utilize the latest technologies, including voxel-wise encoding models, convolutional neural networks (CNNs), generative adversarial networks (GANs) and transformers, to model neural representations with a focus on vision. Students will read latest primary research articles and gain hands-on neural modelling experience.  Recommended course background: At least one course in each cognitive neuroscience and introduction to computing. Also offered as AS.050.373"
+AS.050.639,Cognitive Development,3,"This is a survey course in developmental psychology designed for individuals with some basic background in psychology or cognitive science, but little or none in development. The course is strongly theoretically oriented, with emphasis on issues of nature, and development psychology as well as relevant empirical evidence. The principle focus will be early development, i.e., from conception through middle childhood.  The course is organized topically, covering biological and prenatal development, perceptual and cognitive development, the nature and development of intelligence, and language learning. Also offered as
+AS.050.239
+.",,,,,,"AS.050.639.
+Cognitive Development.
+3 Credits.
+This is a survey course in developmental psychology designed for individuals with some basic background in psychology or cognitive science, but little or none in development. The course is strongly theoretically oriented, with emphasis on issues of nature, and development psychology as well as relevant empirical evidence. The principle focus will be early development, i.e., from conception through middle childhood.  The course is organized topically, covering biological and prenatal development, perceptual and cognitive development, the nature and development of intelligence, and language learning. Also offered as
+AS.050.239
+."
+AS.050.647,Deep Learning for Cognitive Neuroscience,3,"Over the last decade, there has been amazing progress in deep learning AI systems for vision and language, and more and more cognitive neuroscientists are using these tools to study the human brain. This course will give an overview of popular deep learning methods, including convolutional neural networks, recurrent neural networks, variational autoencoders, and transformers, with the goal of addressing two key questions: 1) to what extent do these deep learning systems act like humans, and 2) what questions can they help us answer about the human mind and brain. The class will involve a mix of lectures, hands-on coding assignments, and reading/discussion of primary research articles. The course will focus heavily on vision but will include some topics in language (including large language models) and social cognition.",,,"AS.050.347, AS.050.647, AS.050.383, AS.050.683, AS.050.372, AS.050.672, AS.050.203, AS.050.603","Students who have taken or are currently enrolled in
+AS.050.347
+are not eligible to take
+AS.050.647
+.;(
+AS.050.383
+OR
+AS.050.683
+OR
+AS.050.372
+OR
+AS.050.672
+) AND (
+AS.050.203
+OR
+AS.050.603
+). Graduate students are also recommended to have taken a Gateway Computing or programming/coding course.",,"AS.050.647.
+Deep Learning for Cognitive Neuroscience.
+3 Credits.
+Over the last decade, there has been amazing progress in deep learning AI systems for vision and language, and more and more cognitive neuroscientists are using these tools to study the human brain. This course will give an overview of popular deep learning methods, including convolutional neural networks, recurrent neural networks, variational autoencoders, and transformers, with the goal of addressing two key questions: 1) to what extent do these deep learning systems act like humans, and 2) what questions can they help us answer about the human mind and brain. The class will involve a mix of lectures, hands-on coding assignments, and reading/discussion of primary research articles. The course will focus heavily on vision but will include some topics in language (including large language models) and social cognition.
+Prerequisite(s):
+Students who have taken or are currently enrolled in
+AS.050.347
+are not eligible to take
+AS.050.647
+.;(
+AS.050.383
+OR
+AS.050.683
+OR
+AS.050.372
+OR
+AS.050.672
+) AND (
+AS.050.203
+OR
+AS.050.603
+). Graduate students are also recommended to have taken a Gateway Computing or programming/coding course."
+AS.050.648,First Language Acquisition,3,"This course provides an introduction to the fields of first and bilingual language acquisition by looking at questions such as the following: Can the grammar of a native language be learned solely on the basis of noticing statistical correlations among words? How does native language acquisition explain — or is explained by — the universal properties, shared by all languages, of words and grammars? How does being exposed to multiple languages from birth affect language acquisition and what happens when a child is not exposed to any language early in life? This is the first part of a two-part course sequence on first and second language acquisition.",,,,,,"AS.050.648.
+First Language Acquisition.
+3 Credits.
+This course provides an introduction to the fields of first and bilingual language acquisition by looking at questions such as the following: Can the grammar of a native language be learned solely on the basis of noticing statistical correlations among words? How does native language acquisition explain — or is explained by — the universal properties, shared by all languages, of words and grammars? How does being exposed to multiple languages from birth affect language acquisition and what happens when a child is not exposed to any language early in life? This is the first part of a two-part course sequence on first and second language acquisition."
+AS.050.649,Second Language Acquisition,3,"First language acquisition is natural and seemingly effortless. The situation is reversed when one tries to learn another language. This course discusses in what ways first and second language acquisition (SLA) differ and how individual differences of the learners as well as external factors contribute to the variability observed in rates and ultimate proficiency of second language learning in children and adults. We will discuss such topics as Universal Grammar access in early and late SLA, first language influence, critical periods, possibility of native-like attainment, and language attrition. Recommended background in at least one of the following:
+AS.050.102
+Language and Mind,
+AS.050.606
+Bilingualism,
+AS.050.620
+Syntax I,
+AS.050.625
+Phonology I,
+AS.050.648
+First Language Acquisition, or equivalent.  Recommended background in at least one prior linguistics course.",,,,,,"AS.050.649.
+Second Language Acquisition.
+3 Credits.
+First language acquisition is natural and seemingly effortless. The situation is reversed when one tries to learn another language. This course discusses in what ways first and second language acquisition (SLA) differ and how individual differences of the learners as well as external factors contribute to the variability observed in rates and ultimate proficiency of second language learning in children and adults. We will discuss such topics as Universal Grammar access in early and late SLA, first language influence, critical periods, possibility of native-like attainment, and language attrition. Recommended background in at least one of the following:
+AS.050.102
+Language and Mind,
+AS.050.606
+Bilingualism,
+AS.050.620
+Syntax I,
+AS.050.625
+Phonology I,
+AS.050.648
+First Language Acquisition, or equivalent.  Recommended background in at least one prior linguistics course."
+AS.050.658,Language & Thought,3,"Have you ever wondered about the relationships between language and thought? Philosophers, linguists, psychologists, evolutionary theorists and cognitive scientists have too and this course will survey the current thinking on this matter. Classical papers such as those by Whorf and Sapir, more recent philosophical papers by people such as Fodor and Dennett, and recent empirical work by linguists and psycholingists on the relationship between language and thinking in development and in adults will be covered. Discussions will focus on the theoretically possible relationships between language and thought and the empirical data that speak to these.",,,,,,"AS.050.658.
+Language & Thought.
+3 Credits.
+Have you ever wondered about the relationships between language and thought? Philosophers, linguists, psychologists, evolutionary theorists and cognitive scientists have too and this course will survey the current thinking on this matter. Classical papers such as those by Whorf and Sapir, more recent philosophical papers by people such as Fodor and Dennett, and recent empirical work by linguists and psycholingists on the relationship between language and thinking in development and in adults will be covered. Discussions will focus on the theoretically possible relationships between language and thought and the empirical data that speak to these."
+AS.050.665,Cracking the code: Theory and modeling of information coding in neural activity,3,"One of the most foundational concepts in neuroscience is the idea that neural activity encodes information about an animal’s sensory environment and internal mental states. This idea is closely connected to the concept of mental representation in cognitive science and philosophy, whereby the mind is proposed to contain internal symbols that represent things in the external world. There have been many fascinating discoveries about how neural signals encode information, but we are still far from a comprehensive theory of neural representation. Recent major developments in neuroscience and machine learning have opened up a new world of possibilities for investigating the underlying principles of information coding in the brains of humans and other animals. In this course, we will discuss primary research articles on neural representation and information processing, and students will implement computational analyses that address issues in these domains. We will mostly focus on vision as a system that illustrates broader principles of information processing in the human brain. The reading material will include work from philosophy, neuroimaging, electrophysiology, and computational modeling. The topics covered include mental and neural representation, neural tuning, population coding, information theory, encoding and decoding models, dimensionality reduction, computational models, deep learning, and other applications of machine learning in neuroscience. Enrollment is limited to Juniors and Seniors. While this class does not have formal prerequisites, programming experience (e.g.,
+AS.250.205
+Introduction to Computing) and mathematical preparation (e.g.,
+AS.110.107
+Calculus II) are essential. It is also highly recommended that students have previously taken introductory courses in cognitive or systems neuroscience (e.g.,
+AS.050.203
+Neuroscience: Cognitive) and machine learning or neural network modeling (e.g.,
+AS.050.372
+Foundations of Neural Network Theory).",,,,,,"AS.050.665.
+Cracking the code: Theory and modeling of information coding in neural activity.
+3 Credits.
+One of the most foundational concepts in neuroscience is the idea that neural activity encodes information about an animal’s sensory environment and internal mental states. This idea is closely connected to the concept of mental representation in cognitive science and philosophy, whereby the mind is proposed to contain internal symbols that represent things in the external world. There have been many fascinating discoveries about how neural signals encode information, but we are still far from a comprehensive theory of neural representation. Recent major developments in neuroscience and machine learning have opened up a new world of possibilities for investigating the underlying principles of information coding in the brains of humans and other animals. In this course, we will discuss primary research articles on neural representation and information processing, and students will implement computational analyses that address issues in these domains. We will mostly focus on vision as a system that illustrates broader principles of information processing in the human brain. The reading material will include work from philosophy, neuroimaging, electrophysiology, and computational modeling. The topics covered include mental and neural representation, neural tuning, population coding, information theory, encoding and decoding models, dimensionality reduction, computational models, deep learning, and other applications of machine learning in neuroscience. Enrollment is limited to Juniors and Seniors. While this class does not have formal prerequisites, programming experience (e.g.,
+AS.250.205
+Introduction to Computing) and mathematical preparation (e.g.,
+AS.110.107
+Calculus II) are essential. It is also highly recommended that students have previously taken introductory courses in cognitive or systems neuroscience (e.g.,
+AS.050.203
+Neuroscience: Cognitive) and machine learning or neural network modeling (e.g.,
+AS.050.372
+Foundations of Neural Network Theory)."
+AS.050.671,Bayesian Inference,3,"Also offered as
+AS.050.371
+. This course introduces techniques for computational modeling of aspects of human cognition, including perception, categorization, and induction. Possible topics include maximum likelihood and Bayesian inference, structured statistical models (including hierarchical and graphical models), nonparametric models. The course emphasizes the close connections among data analysis, theory development, and modeling, with examples drawn from language and vision.",,"Natural Sciences, Social and Behavioral Sciences",,,,"AS.050.671.
+Bayesian Inference.
+3 Credits.
+Also offered as
+AS.050.371
+. This course introduces techniques for computational modeling of aspects of human cognition, including perception, categorization, and induction. Possible topics include maximum likelihood and Bayesian inference, structured statistical models (including hierarchical and graphical models), nonparametric models. The course emphasizes the close connections among data analysis, theory development, and modeling, with examples drawn from language and vision.
+Distribution Area: Natural Sciences, Social and Behavioral Sciences"
+AS.050.672,Foundations of Neural Network Theory,4,"Introduction to continuous mathematics for cognitive science, with applications to biological and cognitive network models: real and complex numbers, differential and integral multi-variable calculus, linear algebra, dynamical systems, numerical optimization. Recommended course background in Calculus I. This is a basic-level course not appropriate for students with significant math background. Students who have completed both Calc III and Linear Algebra or an equivalent combination may not register. Also offered as
+AS.050.372
+.",,,,,,"AS.050.672.
+Foundations of Neural Network Theory.
+4 Credits.
+Introduction to continuous mathematics for cognitive science, with applications to biological and cognitive network models: real and complex numbers, differential and integral multi-variable calculus, linear algebra, dynamical systems, numerical optimization. Recommended course background in Calculus I. This is a basic-level course not appropriate for students with significant math background. Students who have completed both Calc III and Linear Algebra or an equivalent combination may not register. Also offered as
+AS.050.372
+."
+AS.050.675,Probabilistic Models of the Visual Cortex,3,"The course gives an introduction to computational models of the mammalian visual cortex. It covers topics in low-, mid-, and high-level vision. It briefly discusses the relevant evidence from anatomy, electrophysiology, imaging (e.g., fMRI), and psychophysics. It concentrates on mathematical modeling of these phenomena taking into account recent progress in probabilistic models of computer vision and developments in machine learning, such as deep networks. Also offered as
+EN.601.685
+.Required Background: Calculus I and experience in a programming language (Python preferred).",,,"EN.601.485, EN.601.685, AS.050.375, AS.050.675","Students who are currently enrolled in, or have already taken
+EN.601.485
+/
+EN.601.685
+/
+AS.050.375
+, are not eligible to take
+AS.050.675
+.",,"AS.050.675.
+Probabilistic Models of the Visual Cortex.
+3 Credits.
+The course gives an introduction to computational models of the mammalian visual cortex. It covers topics in low-, mid-, and high-level vision. It briefly discusses the relevant evidence from anatomy, electrophysiology, imaging (e.g., fMRI), and psychophysics. It concentrates on mathematical modeling of these phenomena taking into account recent progress in probabilistic models of computer vision and developments in machine learning, such as deep networks. Also offered as
+EN.601.685
+.Required Background: Calculus I and experience in a programming language (Python preferred).
+Prerequisite(s):
+Students who are currently enrolled in, or have already taken
+EN.601.485
+/
+EN.601.685
+/
+AS.050.375
+, are not eligible to take
+AS.050.675
+."
+AS.050.683,Computational Social Cognition,3,"Humans are a fundamentally social species with amazing capabilities beyond that of any other biological or artificial system. Yet the cognitive and neural computations underlying our vast social abilities are largely unknown. Advances in machine learning and naturalistic neuroscience paradigms are revolutionizing the way cognitive scientists study social cognition. This course will explore new research in computational social cognition, drawing from topics in development, artificial intelligence, and cognitive neuroscience. Our goal is to understand the motivation, methodology and implications of recent research. The class will be heavily focused on social vision, but will also explore other aspects of social cognition including theory of mind and moral reasoning. This is a discussion-based class that will consist primarily of reading and discussing primary research articles, as well as student-led presentations. While there will not be any hands-on computational exercises, a background in both cognitive neuroscience and computational methods are important to understanding the readings and other course material.",,,,,,"AS.050.683.
+Computational Social Cognition.
+3 Credits.
+Humans are a fundamentally social species with amazing capabilities beyond that of any other biological or artificial system. Yet the cognitive and neural computations underlying our vast social abilities are largely unknown. Advances in machine learning and naturalistic neuroscience paradigms are revolutionizing the way cognitive scientists study social cognition. This course will explore new research in computational social cognition, drawing from topics in development, artificial intelligence, and cognitive neuroscience. Our goal is to understand the motivation, methodology and implications of recent research. The class will be heavily focused on social vision, but will also explore other aspects of social cognition including theory of mind and moral reasoning. This is a discussion-based class that will consist primarily of reading and discussing primary research articles, as well as student-led presentations. While there will not be any hands-on computational exercises, a background in both cognitive neuroscience and computational methods are important to understanding the readings and other course material."
+AS.050.801,Research Seminar in Cognitive Neuropsychology,2,"Participants in this graduate seminar will read and discuss current research articles in cognitive neuropsychology of vision or language, and present their own research.",,,,,,"AS.050.801.
+Research Seminar in Cognitive Neuropsychology.
+2 Credits.
+Participants in this graduate seminar will read and discuss current research articles in cognitive neuropsychology of vision or language, and present their own research."
+AS.050.802,Research Seminar in Cognitive Processes,2,Permission required.  Current issues and ongoing research on human cognition are discussed.,,,,,,"AS.050.802.
+Research Seminar in Cognitive Processes.
+2 Credits.
+Permission required.  Current issues and ongoing research on human cognition are discussed."
+AS.050.806,Research Seminar in Cognitive Neuroscience and Machine Learning,2,"Participants in this seminar will read and discuss current research articles in the fields of cognitive neuroscience, computational neuroscience, machine learning, and artificial intelligence. The seminar will focus on research that provides insights into the representations and algorithms of the human brain, with an emphasis on vision and natural semantic understanding.",,,,,,"AS.050.806.
+Research Seminar in Cognitive Neuroscience and Machine Learning.
+2 Credits.
+Participants in this seminar will read and discuss current research articles in the fields of cognitive neuroscience, computational neuroscience, machine learning, and artificial intelligence. The seminar will focus on research that provides insights into the representations and algorithms of the human brain, with an emphasis on vision and natural semantic understanding."
+AS.050.811,Research Seminar in Language & Cognition,1.5,"A specialized research seminar for individuals researching language acquisition, cognitive development and the interface between language and cognition.  Students must actively carry out empirical or theoretical research in these areas. Permission required.",,,,,,"AS.050.811.
+Research Seminar in Language & Cognition.
+1.5 Credits.
+A specialized research seminar for individuals researching language acquisition, cognitive development and the interface between language and cognition.  Students must actively carry out empirical or theoretical research in these areas. Permission required."
+AS.050.812,Research Seminar in Computational Cognitive Neuroscience,1.5,"This seminar will discuss papers and ongoing research in the areas of computational cognitive neuroscience, with a focus on different areas of visual and social perception.",,,,,,"AS.050.812.
+Research Seminar in Computational Cognitive Neuroscience.
+1.5 Credits.
+This seminar will discuss papers and ongoing research in the areas of computational cognitive neuroscience, with a focus on different areas of visual and social perception."
+AS.050.813,Research Seminar in Grammar Formalisms,2,Cognitive Science and Computer Science graduate students with interest in sentence-level linguistics are encouraged to attend.,,,,,,"AS.050.813.
+Research Seminar in Grammar Formalisms.
+2 Credits.
+Cognitive Science and Computer Science graduate students with interest in sentence-level linguistics are encouraged to attend."
+AS.050.814,Research Seminar in Computer Vision,2,This seminar is based on topics in computational vision with the option of attending additional subgroup meetings on specific topics.,,,,,,"AS.050.814.
+Research Seminar in Computer Vision.
+2 Credits.
+This seminar is based on topics in computational vision with the option of attending additional subgroup meetings on specific topics."
+AS.050.817,Research Seminar in Semantics,2,A critical analysis of current issues and debates in natural language semantics.  Discussion of on-going research. Permission required.,,,,,,"AS.050.817.
+Research Seminar in Semantics.
+2 Credits.
+A critical analysis of current issues and debates in natural language semantics.  Discussion of on-going research. Permission required."
+AS.050.819,Research Seminar in Psycholinguistics,2,Discussion of current computational and experimental research on human language processing.,,,,,,"AS.050.819.
+Research Seminar in Psycholinguistics.
+2 Credits.
+Discussion of current computational and experimental research on human language processing."
+AS.050.822,Research Seminar Syntax,3,A critical analysis of current issues and debates in theoretical syntax. Discussion of on-going research.,,,,,,"AS.050.822.
+Research Seminar Syntax.
+3 Credits.
+A critical analysis of current issues and debates in theoretical syntax. Discussion of on-going research."
+AS.050.826,Research Seminar in Formal Approaches to Cognitive Science,2,"Readings and research presentations on varying topics in mathematics, computation, and formal linguistics with bearing on cognitive science.",,,,,,"AS.050.826.
+Research Seminar in Formal Approaches to Cognitive Science.
+2 Credits.
+Readings and research presentations on varying topics in mathematics, computation, and formal linguistics with bearing on cognitive science."
+AS.050.827,Research Seminar in Language Acquisition,3,Focus is on current research in acquisition of syntax.,,,,,,"AS.050.827.
+Research Seminar in Language Acquisition.
+3 Credits.
+Focus is on current research in acquisition of syntax."
+AS.050.829,Research Seminar on Formal Theory in Cognitive Science,2,Topics range from mathematical analysis of neural networks to computational studies of linguistic structure. Focus is ongoing research and current literature.,,,,,,"AS.050.829.
+Research Seminar on Formal Theory in Cognitive Science.
+2 Credits.
+Topics range from mathematical analysis of neural networks to computational studies of linguistic structure. Focus is ongoing research and current literature."
+AS.050.831,"Research Seminar in Language Learning, Creation, and Evolution",1.5,"Participants in this graduate seminar will read and discuss current research articles in language learning, creation, and evolution. To enroll, students must be actively carrying out empirical or theoretical research in these areas. Permission required.",,,,,,"AS.050.831.
+Research Seminar in Language Learning, Creation, and Evolution.
+1.5 Credits.
+Participants in this graduate seminar will read and discuss current research articles in language learning, creation, and evolution. To enroll, students must be actively carrying out empirical or theoretical research in these areas. Permission required."
+AS.050.833,Research Seminar in Experimental Syntax,2,"This seminar offers a critical exploration of foundational issues and current debates in experimental syntax. Students will engage with recent empirical studies, develop methodological skills, and design their own experiments to investigate syntactic phenomena. Topics will range from data collection and analysis to the interpretation of experimental results in relation to the central findings of theoretical syntax.",,,,,,"AS.050.833.
+Research Seminar in Experimental Syntax.
+2 Credits.
+This seminar offers a critical exploration of foundational issues and current debates in experimental syntax. Students will engage with recent empirical studies, develop methodological skills, and design their own experiments to investigate syntactic phenomena. Topics will range from data collection and analysis to the interpretation of experimental results in relation to the central findings of theoretical syntax."
+AS.050.834,Research Seminar in Computational Neurolinguistics,2,"Participants in this graduate seminar discuss papers and ongoing research within the area of computational neurolinguistics. To enroll, students must be actively carrying our empirical or theoretical research in this area.",,,,,,"AS.050.834.
+Research Seminar in Computational Neurolinguistics.
+2 Credits.
+Participants in this graduate seminar discuss papers and ongoing research within the area of computational neurolinguistics. To enroll, students must be actively carrying our empirical or theoretical research in this area."
+AS.050.849,Teaching Practicum,3,Permission required. Essential for Teaching Assistants.,,,,,,"AS.050.849.
+Teaching Practicum.
+3 Credits.
+Permission required. Essential for Teaching Assistants."
+AS.050.850,Current Advances in Cognitive Science,1,Introduces advanced research topics in cognitive science to graduate students through a series of speakers and discussions.,,,,,,"AS.050.850.
+Current Advances in Cognitive Science.
+1 Credit.
+Introduces advanced research topics in cognitive science to graduate students through a series of speakers and discussions."
+AS.050.860,Professional Seminar in Cognitive Science,0.5,"Instructor permission required.Addresses professional issues such as research ethics, success on the job market and in an academic career, teaching and mentoring and differing professional standards in the sub-disciplines of cognitive science.",,,,,,"AS.050.860.
+Professional Seminar in Cognitive Science.
+0.5 Credits.
+Instructor permission required.Addresses professional issues such as research ethics, success on the job market and in an academic career, teaching and mentoring and differing professional standards in the sub-disciplines of cognitive science."

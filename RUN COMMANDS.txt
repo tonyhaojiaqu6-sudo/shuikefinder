@@ -1,0 +1,14 @@
+Scrape Catalogue
+
+cd ~/Desktop/shuikefinder
+python3 jhu_catalog_scraper.py
+
+Scrape Evals
+
+cd ~/Desktop/shuikefinder
+python3 jhu_eval_scraper.py
+
+Run Program
+
+cd ~/Desktop/shuikefinder
+streamlit run course_browser.py

@@ -1,0 +1,58 @@
+course_code,course_title,instructor,instructors_full,term,department,workload_avg,teaching_avg,intellectual_avg
+AS.060.106.01.SP25,A Literary History of the Devil to 1800,"Thompson, Mark","Thompson, Mark",2025 Spring,English,3.00,4.63,4.38
+AS.060.107.02.SP24,Introduction to Literary Study,"Thompson, Mark","Thompson, Mark",2024 Spring,English,3.10,5.00,5.00
+AS.060.107.01.SP24,Introduction to Literary Study,"Favret, Mary","Favret, Mary",2024 Spring,English,3.44,4.67,4.67
+AS.060.107.02.FA24,Introduction to Literary Study,"Da, Nan","Da, Nan",2024 Fall,English,3.58,4.46,4.62
+AS.060.107.01.FA24,Introduction to Literary Study,"Jackson, Jeanne-Marie","Jackson, Jeanne-Marie",2024 Fall,English,2.91,4.45,4.27
+AS.060.107.01.SP25,Introduction to Literary Study,"Miller, Andrew","Miller, Andrew",2025 Spring,English,3.56,3.56,4.13
+AS.060.107.02.FA25,Introduction to Literary Study,"Da, Nan","Da, Nan",2025 Fall,English,3.00,4.00,4.20
+AS.060.107.01.FA25,Introduction to Literary Study,"Hickman, Jared","Hickman, Jared",2025 Fall,English,3.82,4.45,4.55
+AS.060.119.01.SP25,Serial Storytelling,"Bronstein, Michaela","Bronstein, Michaela",2025 Spring,English,3.75,4.50,4.50
+AS.060.122.01.SP25,"Politics, Labor, and Utopia in American Fiction","Nurhussein, Nadia","Nurhussein, Nadia",2025 Spring,English,2.46,4.46,3.54
+AS.060.123.01.FA24,Learning to Walk: Experiments in Exteriority,"Feinsod, Harris","Feinsod, Harris",2024 Fall,English,2.89,4.40,4.60
+AS.060.136.01.SP25,Theater at the End of the World,"Grobe, Christopher","Grobe, Christopher",2025 Spring,English,3.09,4.09,4.36
+AS.060.142.01.SP25,Indigenous Science Fiction: (Re)making Worlds,"Hickman, Jared","Hickman, Jared",2025 Spring,English,3.57,4.71,4.29
+AS.060.150.01.FA24,Out of Place: Literature of Migrants and Refugees,"Mufti, Aamir","Mufti, Aamir",2024 Fall,English,2.89,4.50,4.70
+AS.060.156.01.FA24,What Makes a Poem Queer?,"Daniel, Andrew","Daniel, Andrew",2024 Fall,English,2.64,4.79,4.77
+AS.060.156.01.FA25,What Makes a Poem Queer?,"Daniel, Andrew","Daniel, Andrew",2025 Fall,English,2.70,4.82,4.73
+AS.060.159.01.SP25,Jane Austen Beyond England,"Favret, Mary","Favret, Mary",2025 Spring,English,3.67,5.00,4.67
+AS.060.176.01.SP25,War and Peace: Text and Context,"Jackson, Jeanne-Marie","Jackson, Jeanne-Marie",2025 Spring,English,3.13,5.00,4.75
+AS.060.193.01.SP24,Fictions of Development,"Mao, Douglas","Mao, Douglas",2024 Spring,English,3.90,4.70,4.80
+AS.060.195.01.FA25,Tyrants & Dictators,"Mufti, Aamir","Mufti, Aamir",2025 Fall,English,3.00,4.50,4.50
+AS.060.203.02.FA24,Bible as Literature,"Thompson, Mark","Thompson, Mark",2024 Fall,English,3.33,4.67,4.67
+AS.060.203.01.FA24,Bible as Literature,"Thompson, Mark","Thompson, Mark",2024 Fall,English,3.00,4.00,4.29
+AS.060.213.01.SP25,"Global Victorians: Race, Empire, Re-Imagination","Rosenthal, Jesse","Rosenthal, Jesse",2025 Spring,English,3.13,4.50,4.38
+AS.060.213.01.SP25,"Global Victorians: Race, Empire, Re-Imagination","Jackson, Jeanne-Marie","Jackson, Jeanne-Marie",2025 Spring,English,3.13,4.38,4.38
+AS.060.216.01.SP24,Zombies,"Hickman, Jared","Hickman, Jared",2024 Spring,English,3.44,4.56,4.89
+AS.060.216.03.SP24,Zombies,"Hickman, Jared","Hickman, Jared",2024 Spring,English,3.25,4.38,4.50
+AS.060.216.02.SP24,Zombies,"Hickman, Jared","Hickman, Jared",2024 Spring,English,3.10,4.80,4.20
+AS.060.229.01.SP25,"Nineteenth-Century American Literature: History, Philosophy, Insight","Da, Nan","Da, Nan",2025 Spring,English,3.78,3.56,4.33
+AS.060.232.02.FA25,Detective Fiction,"Rosenthal, Jesse","Rosenthal, Jesse",2025 Fall,English,3.50,3.87,4.07
+AS.060.232.01.FA25,Detective Fiction,"Rosenthal, Jesse","Rosenthal, Jesse",2025 Fall,English,3.29,4.33,4.20
+AS.060.246.03.SP25,"Medicine in Literature, Then & Now","Daniel, Andrew","Daniel, Andrew",2025 Spring,English,3.18,4.73,4.64
+AS.060.246.02.SP25,"Medicine in Literature, Then & Now","Daniel, Andrew","Daniel, Andrew",2025 Spring,English,2.56,5.00,4.56
+AS.060.246.01.SP25,"Medicine in Literature, Then & Now","Daniel, Andrew","Daniel, Andrew",2025 Spring,English,3.27,4.82,4.91
+AS.060.265.03.SP24,Nineteenth-Century British Novel: Figuring Out Your Life,"Rosenthal, Jesse","Rosenthal, Jesse",2024 Spring,English,3.80,4.80,4.40
+AS.060.265.02.SP24,Nineteenth-Century British Novel: Figuring Out Your Life,"Rosenthal, Jesse","Rosenthal, Jesse",2024 Spring,English,3.71,4.57,4.71
+AS.060.265.01.SP24,Nineteenth-Century British Novel: Figuring Out Your Life,"Rosenthal, Jesse","Rosenthal, Jesse",2024 Spring,English,3.43,4.14,3.71
+AS.060.303.01.FA25,Utopia and Difference,"Shallit, Jonah","Shallit, Jonah",2025 Fall,English,2.83,5.00,4.83
+AS.060.318.01.SP25,Science Fiction and the Futures of Climate Change,"Shipko, David","Shipko, David",2025 Spring,English,4.00,4.43,4.57
+AS.060.323.01.FA24,Everything Must Go: The Shock of Modernism,"Mao, Douglas","Mao, Douglas",2024 Fall,English,4.17,5.00,5.00
+AS.060.324.01.SP24,Literature on the Cusp: 1890-1910,"Nurhussein, Nadia","Nurhussein, Nadia",2024 Spring,English,2.40,4.60,4.40
+AS.060.325.01.SP24,George Eliot: Passion and Adulthood,"Miller, Andrew","Miller, Andrew",2024 Spring,English,4.17,4.50,4.83
+AS.060.330.01.FA24,Climate Imagination in Early Modernity,"Achinstein, Sharon","Achinstein, Sharon",2024 Fall,English,3.00,4.88,4.75
+AS.060.333.01.SP25,Listening to Podcasts,"Grobe, Christopher","Grobe, Christopher",2025 Spring,English,3.00,4.50,4.38
+AS.060.337.01.SP25,James Joyce's Ulysses,"Rosenthal, Jesse","Rosenthal, Jesse",2025 Spring,English,3.27,4.27,4.60
+AS.060.351.01.SP24,The Latin Asian Imagination,"Crisostomo, Johaina Katinka","Crisostomo, Johaina Katinka",2024 Spring,English,3.43,4.43,4.57
+AS.060.354.01.FA25,Literature of the Sea,"Feinsod, Harris","Feinsod, Harris",2025 Fall,English,3.25,4.62,4.54
+AS.060.355.01.SP24,Poetry and Politics Today,"Nealon, Chris","Nealon, Chris",2024 Spring,English,1.80,5.00,4.80
+AS.060.356.01.SP24,Poetry and Perfect Worlds,"Mao, Douglas","Mao, Douglas",2024 Spring,English,3.08,4.62,4.62
+AS.060.371.01.FA24,"Southern Literature 1900-1963: Politics, Race, and History","Murphy, Jamison","Murphy, Jamison",2024 Fall,English,3.38,4.88,4.88
+AS.060.372.01.FA25,English Literature from Beowulf to Milton,"Cannon, Christopher","Cannon, Christopher",2025 Fall,English,3.80,5.00,5.00
+AS.060.384.01.SP25,The Contemporary Novel,"Nealon, Chris","Nealon, Chris",2025 Spring,English,2.92,4.58,4.33
+AS.060.388.01.SP25,Old World/New World Women,"Achinstein, Sharon","Achinstein, Sharon",2025 Spring,English,2.75,4.10,4.60
+AS.060.395.01.FA25,"Films about Writers, Novels about Film","Mao, Douglas","Mao, Douglas",2025 Fall,English,3.25,4.78,4.67
+AS.060.411.01.SP25,Reading Romantically,"Favret, Mary","Favret, Mary",2025 Spring,English,4.00,4.43,4.71
+AS.060.416.01.FA25,Jane Austen,"Rosenthal, Jesse","Rosenthal, Jesse",2025 Fall,English,3.17,4.29,3.71
+AS.060.444.01.FA24,"The Transmission of Texts, Ancient to Modern","Cannon, Christopher","Cannon, Christopher",2024 Fall,English,3.67,4.67,4.83
+AS.060.444.01.FA24,"The Transmission of Texts, Ancient to Modern","Dean, Gabrielle","Dean, Gabrielle",2024 Fall,English,3.67,4.58,4.83

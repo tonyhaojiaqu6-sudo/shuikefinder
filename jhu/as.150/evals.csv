@@ -1,0 +1,91 @@
+course_code,course_title,instructor,instructors_full,term,department,workload_avg,teaching_avg,intellectual_avg
+AS.150.112.01.FA25,Philosophical Problems,"Taylor, Elanor","Taylor, Elanor",2025 Fall,Philosophy,2.92,4.31,4.00
+AS.150.112.03.FA25,Philosophical Problems,"Taylor, Elanor","Taylor, Elanor",2025 Fall,Philosophy,2.60,5.00,4.00
+AS.150.112.02.FA25,Philosophical Problems,"Taylor, Elanor","Taylor, Elanor",2025 Fall,Philosophy,3.29,4.71,4.57
+AS.150.112.04.FA25,Philosophical Problems,"Taylor, Elanor","Taylor, Elanor",2025 Fall,Philosophy,3.10,4.50,4.20
+AS.150.118.01.SP24,Introduction to Formal Logic,"Achinstein, Peter","Achinstein, Peter",2024 Spring,Philosophy,2.69,3.73,3.50
+AS.150.118.04.SP24,Introduction to Formal Logic,"Achinstein, Peter","Achinstein, Peter",2024 Spring,Philosophy,2.67,3.78,3.88
+AS.150.118.03.SP24,Introduction to Formal Logic,"Achinstein, Peter","Achinstein, Peter",2024 Spring,Philosophy,2.25,2.50,3.00
+AS.150.118.02.SP24,Introduction to Formal Logic,"Achinstein, Peter","Achinstein, Peter",2024 Spring,Philosophy,2.91,3.18,4.36
+AS.150.118.02.SP25,Introduction to Formal Logic,"Achinstein, Peter","Achinstein, Peter",2025 Spring,Philosophy,3.00,2.43,3.75
+AS.150.118.01.SP25,Introduction to Formal Logic,"Achinstein, Peter","Achinstein, Peter",2025 Spring,Philosophy,2.88,3.67,4.13
+AS.150.118.03.SP25,Introduction to Formal Logic,"Achinstein, Peter","Achinstein, Peter",2025 Spring,Philosophy,1.78,2.88,3.50
+AS.150.136.03.FA24,Philosophy & Science: An Introduction to Both,"Achinstein, Peter","Achinstein, Peter",2024 Fall,Philosophy,3.00,2.42,3.44
+AS.150.136.02.FA24,Philosophy & Science: An Introduction to Both,"Achinstein, Peter","Achinstein, Peter",2024 Fall,Philosophy,3.89,3.40,4.50
+AS.150.136.01.FA24,Philosophy & Science: An Introduction to Both,"Achinstein, Peter","Achinstein, Peter",2024 Fall,Philosophy,2.56,2.88,3.88
+AS.150.136.03.FA25,Philosophy & Science: An Introduction to Both,"Dulani, Saakshi","Dulani, Saakshi",2025 Fall,Philosophy,2.40,4.20,4.30
+AS.150.136.02.FA25,Philosophy & Science: An Introduction to Both,"Dulani, Saakshi","Dulani, Saakshi",2025 Fall,Philosophy,2.80,4.40,4.60
+AS.150.136.01.FA25,Philosophy & Science: An Introduction to Both,"Dulani, Saakshi","Dulani, Saakshi",2025 Fall,Philosophy,2.90,4.70,4.80
+AS.150.136.04.FA25,Philosophy & Science: An Introduction to Both,"Dulani, Saakshi","Dulani, Saakshi",2025 Fall,Philosophy,3.50,4.80,4.60
+AS.150.139.04.SP24,Introduction to Philosophy of Mind,"Green, E. J.","Green, E. J.",2024 Spring,Philosophy,3.17,4.31,4.46
+AS.150.139.03.SP24,Introduction to Philosophy of Mind,"Green, E. J.","Green, E. J.",2024 Spring,Philosophy,3.33,4.42,4.17
+AS.150.139.02.SP24,Introduction to Philosophy of Mind,"Green, E. J.","Green, E. J.",2024 Spring,Philosophy,3.25,4.50,4.67
+AS.150.139.01.SP24,Introduction to Philosophy of Mind,"Green, E. J.","Green, E. J.",2024 Spring,Philosophy,3.07,4.77,4.29
+AS.150.141.02.SP25,Introduction to the History of Chinese Philosophy,"Dong, Hao","Dong, Hao",2025 Spring,Philosophy,2.71,4.14,4.29
+AS.150.141.01.SP25,Introduction to the History of Chinese Philosophy,"Dong, Hao","Dong, Hao",2025 Spring,Philosophy,2.85,4.64,4.64
+AS.150.201.03.FA24,Introduction To Greek Philosophy,"Bett, Richard","Bett, Richard",2024 Fall,Philosophy,2.75,4.50,4.25
+AS.150.201.02.FA24,Introduction To Greek Philosophy,"Bett, Richard","Bett, Richard",2024 Fall,Philosophy,3.00,4.43,4.60
+AS.150.201.01.FA24,Introduction To Greek Philosophy,"Bett, Richard","Bett, Richard",2024 Fall,Philosophy,3.08,4.38,4.31
+AS.150.201.02.FA25,Introduction To Greek Philosophy,"Bett, Richard","Bett, Richard",2025 Fall,Philosophy,3.60,4.80,4.80
+AS.150.201.01.FA25,Introduction To Greek Philosophy,"Bett, Richard","Bett, Richard",2025 Fall,Philosophy,3.00,4.56,4.19
+AS.150.205.01.SP24,Introduction to the History of Modern Philosophy,"Dong, Hao","Dong, Hao",2024 Spring,Philosophy,3.25,3.38,4.38
+AS.150.205.02.SP24,Introduction to the History of Modern Philosophy,"Dong, Hao","Dong, Hao",2024 Spring,Philosophy,3.39,3.94,4.29
+AS.150.205.01.SP25,Introduction to the History of Modern Philosophy,"Connolly, Patrick","Connolly, Patrick",2025 Spring,Philosophy,3.00,4.92,4.58
+AS.150.205.02.SP25,Introduction to the History of Modern Philosophy,"Connolly, Patrick","Connolly, Patrick",2025 Spring,Philosophy,3.08,4.92,4.46
+AS.150.219.05.FA24,Introduction to Bioethics,"Bok, Hilary","Bok, Hilary",2024 Fall,Philosophy,3.21,2.00,3.43
+AS.150.219.01.FA24,Introduction to Bioethics,"Bok, Hilary","Bok, Hilary",2024 Fall,Philosophy,3.21,3.29,4.14
+AS.150.219.12.FA24,Introduction to Bioethics,"Bok, Hilary","Bok, Hilary",2024 Fall,Philosophy,2.47,3.93,3.73
+AS.150.219.04.FA24,Introduction to Bioethics,"Bok, Hilary","Bok, Hilary",2024 Fall,Philosophy,3.62,3.08,4.15
+AS.150.219.09.FA24,Introduction to Bioethics,"Bok, Hilary","Bok, Hilary",2024 Fall,Philosophy,3.29,2.79,3.71
+AS.150.219.03.FA24,Introduction to Bioethics,"Bok, Hilary","Bok, Hilary",2024 Fall,Philosophy,3.23,3.31,4.08
+AS.150.219.07.FA24,Introduction to Bioethics,"Bok, Hilary","Bok, Hilary",2024 Fall,Philosophy,2.67,3.33,3.67
+AS.150.219.02.FA24,Introduction to Bioethics,"Bok, Hilary","Bok, Hilary",2024 Fall,Philosophy,3.25,3.67,4.00
+AS.150.219.06.FA24,Introduction to Bioethics,"Bok, Hilary","Bok, Hilary",2024 Fall,Philosophy,4.25,2.50,3.25
+AS.150.220.05.SP24,Introduction to Moral Philosophy,"Velleman, James","Velleman, James",2024 Spring,Philosophy,2.80,4.00,4.00
+AS.150.220.04.SP24,Introduction to Moral Philosophy,"Velleman, James","Velleman, James",2024 Spring,Philosophy,3.00,4.17,4.17
+AS.150.220.02.SP24,Introduction to Moral Philosophy,"Velleman, James","Velleman, James",2024 Spring,Philosophy,2.80,4.30,4.60
+AS.150.220.01.SP24,Introduction to Moral Philosophy,"Velleman, James","Velleman, James",2024 Spring,Philosophy,2.63,3.75,3.75
+AS.150.220.03.SP25,Introduction to Moral Philosophy,"Velleman, James","Velleman, James",2025 Spring,Philosophy,2.33,3.58,4.00
+AS.150.220.01.SP25,Introduction to Moral Philosophy,"Velleman, James","Velleman, James",2025 Spring,Philosophy,2.41,3.82,4.00
+AS.150.220.02.SP25,Introduction to Moral Philosophy,"Velleman, James","Velleman, James",2025 Spring,Philosophy,2.57,4.00,4.07
+AS.150.220.04.SP25,Introduction to Moral Philosophy,"Velleman, James","Velleman, James",2025 Spring,Philosophy,2.63,4.63,4.50
+AS.150.220.01.FA25,Introduction to Moral Philosophy,"Hieronymi, Pamela","Hieronymi, Pamela",2025 Fall,Philosophy,4.17,3.80,3.83
+AS.150.220.04.FA25,Introduction to Moral Philosophy,"Hieronymi, Pamela","Hieronymi, Pamela",2025 Fall,Philosophy,3.56,4.20,4.20
+AS.150.220.03.FA25,Introduction to Moral Philosophy,"Hieronymi, Pamela","Hieronymi, Pamela",2025 Fall,Philosophy,4.17,4.50,4.17
+AS.150.220.02.FA25,Introduction to Moral Philosophy,"Hieronymi, Pamela","Hieronymi, Pamela",2025 Fall,Philosophy,3.75,3.88,4.00
+AS.150.240.01.SP24,Introduction to Modern Political Philosophy: The Social Contract Tradition,"Chaput, Emmanuel","Chaput, Emmanuel",2024 Spring,Philosophy,3.20,4.60,4.80
+AS.150.240.02.SP25,Introduction to Political Philosophy,"Lebron, Christopher","Lebron, Christopher",2025 Spring,Philosophy,3.00,4.00,4.00
+AS.150.240.01.SP25,Introduction to Political Philosophy,"Lebron, Christopher","Lebron, Christopher",2025 Spring,Philosophy,3.00,4.10,4.10
+AS.150.240.01.FA25,Introduction to Political Philosophy,"Lebron, Christopher","Lebron, Christopher",2025 Fall,Philosophy,3.00,4.57,4.43
+AS.150.240.02.FA25,Introduction to Political Philosophy,"Lebron, Christopher","Lebron, Christopher",2025 Fall,Philosophy,3.00,4.70,4.50
+AS.150.300.01.SP24,Prometheus Workshop,"Cummings, Cara","Cummings, Cara",2024 Spring,Philosophy,2.00,4.50,4.30
+AS.150.300.01.FA24,Prometheus Workshop,"Taylor, Elanor","Taylor, Elanor",2024 Fall,Philosophy,1.80,4.63,4.20
+AS.150.300.01.SP25,Prometheus Workshop,"Taylor, Elanor","Taylor, Elanor",2025 Spring,Philosophy,1.58,4.63,4.58
+AS.150.300.01.FA25,Prometheus Workshop,"Taylor, Elanor","Taylor, Elanor",2025 Fall,Philosophy,1.82,4.46,4.26
+AS.150.301.01.SP24,Majors Seminar:,"Wonderly, Monique","Wonderly, Monique",2024 Spring,Philosophy,2.85,4.79,4.71
+AS.150.301.02.FA24,Majors Seminar:,"Taylor, Elanor","Taylor, Elanor",2024 Fall,Philosophy,3.20,4.70,4.78
+AS.150.330.01.SP25,"Decisions, Games & Social Choice","Bledin, Justin","Bledin, Justin",2025 Spring,Philosophy,2.94,4.30,4.35
+AS.150.332.01.FA25,Ethics and Technology,"Wonderly, Monique","Wonderly, Monique",2025 Fall,Philosophy,2.80,4.87,4.80
+AS.150.334.01.SP25,"He Said, She Said: Topics in Feminist Philosophy of Language","Campbell, Elsie","Campbell, Elsie",2025 Spring,Philosophy,3.00,5.00,4.60
+AS.150.376.01.SP25,Philosophy of Perception,"Green, E. J.","Green, E. J.",2025 Spring,Philosophy,2.88,4.59,4.65
+AS.150.402.01.SP24,Aristotle,"Bett, Richard","Bett, Richard",2024 Spring,Philosophy,3.12,4.18,4.41
+AS.150.403.01.FA24,Hellenistic Philosophy,"Bett, Richard","Bett, Richard",2024 Fall,Philosophy,3.00,4.62,4.42
+AS.150.406.01.FA24,Tragedy and Living Well,"Lebron, Christopher","Lebron, Christopher",2024 Fall,Philosophy,2.80,4.40,4.20
+AS.150.423.01.FA24,Theory of Knowledge,"Goodman, Jeremy","Goodman, Jeremy",2024 Fall,Philosophy,3.00,3.83,4.17
+AS.150.426.01.SP25,Philosophy and Disability,"Bok, Hilary","Bok, Hilary",2025 Spring,Philosophy,2.86,4.00,4.29
+AS.150.428.01.SP25,Spinoza’s Theological Political Treatise,"Melamed, Yitzhak","Melamed, Yitzhak",2025 Spring,Philosophy,2.88,5.00,4.78
+AS.150.435.01.FA25,Philosophy of Cosmology,"Carroll, Sean","Carroll, Sean",2025 Fall,Philosophy,2.96,4.56,4.67
+AS.150.439.01.SP24,Catastrophe Ethics,"Rieder, Travis","Rieder, Travis",2024 Spring,Philosophy,2.67,4.64,4.55
+AS.150.439.01.FA25,Catastrophe Ethics,"Rieder, Travis","Rieder, Travis",2025 Fall,Philosophy,2.74,4.95,4.63
+AS.150.442.01.SP24,The Philosophy of Ludwig Wittgenstein,"Williams, Michael","Williams, Michael",2024 Spring,Philosophy,2.86,4.29,4.43
+AS.150.452.01.SP25,Freedom of Will & Moral Responsibility,"Bok, Hilary","Bok, Hilary",2025 Spring,Philosophy,3.33,3.75,4.63
+AS.150.469.01.SP24,Immanuel Kant's Political Philosophy,"Allais, Lucy","Allais, Lucy",2024 Spring,Philosophy,2.63,4.88,4.71
+AS.150.471.01.SP24,Philosophy and AI,"Gross, Steven","Gross, Steven",2024 Spring,Philosophy,3.00,3.95,4.05
+AS.150.471.01.SP25,Philosophy and AI,"Gross, Steven","Gross, Steven",2025 Spring,Philosophy,2.83,4.67,4.82
+AS.150.471.01.FA25,Philosophy and AI,"Gross, Steven","Gross, Steven",2025 Fall,Philosophy,2.79,4.57,4.71
+AS.150.474.01.SP24,Justice and Health,"Bok, Hilary","Bok, Hilary",2024 Spring,Philosophy,2.43,4.00,4.36
+AS.150.479.01.SP25,The Ethics of Making Babies,"Rieder, Travis","Rieder, Travis",2025 Spring,Philosophy,2.78,4.90,4.70
+AS.150.482.01.FA24,Food Ethics,"Barnhill, Anne","Barnhill, Anne",2024 Fall,Philosophy,2.58,4.64,4.50
+AS.150.489.01.FA25,Spinoza's Philosophy of Mind and Psychology,"Melamed, Yitzhak","Melamed, Yitzhak",2025 Fall,Philosophy,2.78,4.73,4.73
+AS.150.494.01.FA24,Being Human,"Lebron, Christopher","Lebron, Christopher",2024 Fall,Philosophy,2.44,4.89,4.63
+AS.150.495.01.SP25,Moral Repair,"Wonderly, Monique","Wonderly, Monique",2025 Spring,Philosophy,2.64,4.57,4.62

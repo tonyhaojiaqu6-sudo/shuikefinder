@@ -1,0 +1,931 @@
+code,title,credits,description,fa_tags,distribution,prereq_codes,prereq_text,restrictions,raw_description
+EN.625.108,Calculus I,4,"Differential and integral calculus of functions of one independent variable. Topics include the basic analytic geometry of graphs of functions, and their limits, integrals and derivatives, including the Fundamental Theorem of Calculus. Also, some applications of the integral, like arc length and volumes of solids with rotational symmetry, are discussed. Applications to the physical sciences and engineering will be a focus of this course, as this course is designed to meet the needs of students in these disciplines. Course Note(s): Not for credit. Not eligible for financial aid.",,,AS.110.105,"Pre-calculus (e.g.,
+AS.110.105
+or equivalent)",,"EN.625.108.
+Calculus I.
+4 Credits.
+Differential and integral calculus of functions of one independent variable. Topics include the basic analytic geometry of graphs of functions, and their limits, integrals and derivatives, including the Fundamental Theorem of Calculus. Also, some applications of the integral, like arc length and volumes of solids with rotational symmetry, are discussed. Applications to the physical sciences and engineering will be a focus of this course, as this course is designed to meet the needs of students in these disciplines. Course Note(s): Not for credit. Not eligible for financial aid. Prerequisite(s): Pre-calculus (e.g.,
+AS.110.105
+or equivalent)"
+EN.625.109,Calculus II,4,"Differential and integral calculus. Includes analytic geometry, functions, limits, integrals and derivatives, polar coordinates, parametric equations, Taylor’s theorem and applications, infinite sequences and series. Some applications to the physical sciences and engineering will be discussed, and the course is designed to meet the needs of students in these disciplines.",,,EN.625.108,"EN.625.108
+Calculus I Course Note(s): Not for credit. Not eligible for financial aid.",,"EN.625.109.
+Calculus II.
+4 Credits.
+Differential and integral calculus. Includes analytic geometry, functions, limits, integrals and derivatives, polar coordinates, parametric equations, Taylor’s theorem and applications, infinite sequences and series. Some applications to the physical sciences and engineering will be discussed, and the course is designed to meet the needs of students in these disciplines. Prerequisite(s):
+EN.625.108
+Calculus I Course Note(s): Not for credit. Not eligible for financial aid."
+EN.625.201,General Applied Mathematics,3,"This course is designed for students whose prior background does not fully satisfy the mathematics requirements for admission and/or for students who wish to take a refresher course in applied mathematics. The course provides a review of differential and integral calculus in one or more variables. It covers elementary linear algebra and differential equations, including first- and second-order linear differential equations. Basic concepts of matrix theory are discussed (e.g., matrix multiplication, inversion, and eigenvalues/eigenvectors).",,,,Two semesters of calculus. Course Note(s): Not for graduate credit.,,"EN.625.201.
+General Applied Mathematics.
+3 Credits.
+This course is designed for students whose prior background does not fully satisfy the mathematics requirements for admission and/or for students who wish to take a refresher course in applied mathematics. The course provides a review of differential and integral calculus in one or more variables. It covers elementary linear algebra and differential equations, including first- and second-order linear differential equations. Basic concepts of matrix theory are discussed (e.g., matrix multiplication, inversion, and eigenvalues/eigenvectors). Prerequisite(s): Two semesters of calculus. Course Note(s): Not for graduate credit."
+EN.625.240,Introduction to Probability and Statistics,3,"This course provides an introduction to probability and statistics with applications. Topics consist of combinatorics, random variables, probability distributions, Bayesian inference, hypothesis testing, confidence intervals, and linear regression. Students will develop proficiency in Excel for statistical analysis.",,,EN.625.108,"One semester of calculus (
+EN.625.108
+or equivalent)",,"EN.625.240.
+Introduction to Probability and Statistics.
+3 Credits.
+This course provides an introduction to probability and statistics with applications. Topics consist of combinatorics, random variables, probability distributions, Bayesian inference, hypothesis testing, confidence intervals, and linear regression. Students will develop proficiency in Excel for statistical analysis. Prerequisite(s): One semester of calculus (
+EN.625.108
+or equivalent)"
+EN.625.250,Multivariable Calculus and Complex Analysis,3,"This course covers fundamental mathematical tools useful in all areas of applied mathematics, including statistics, data science, and differential equations. The course covers basic principles in linear algebra, multivariate calculus, and complex analysis. Within linear algebra, topics include matrices, systems of linear equations, determinants, matrix inverse, and eigenvalues/eigenvectors. Relative to multivariate calculus, the topics include vector differential calculus (gradient, divergence, curl) and vector integral calculus (line and double integrals, surface integrals, Green’s theorem, triple integrals, divergence theorem and Stokes’ theorem). For complex analysis, the course covers complex numbers and functions, conformal maps, complex integration, power series and Laurent series, and, time permitting, the residue integration method.",,,,Differential and integral calculus. Course Note(s): Not for graduate credit.,,"EN.625.250.
+Multivariable Calculus and Complex Analysis.
+3 Credits.
+This course covers fundamental mathematical tools useful in all areas of applied mathematics, including statistics, data science, and differential equations. The course covers basic principles in linear algebra, multivariate calculus, and complex analysis. Within linear algebra, topics include matrices, systems of linear equations, determinants, matrix inverse, and eigenvalues/eigenvectors. Relative to multivariate calculus, the topics include vector differential calculus (gradient, divergence, curl) and vector integral calculus (line and double integrals, surface integrals, Green’s theorem, triple integrals, divergence theorem and Stokes’ theorem). For complex analysis, the course covers complex numbers and functions, conformal maps, complex integration, power series and Laurent series, and, time permitting, the residue integration method. Prerequisite(s): Differential and integral calculus. Course Note(s): Not for graduate credit."
+EN.625.251,Introduction to Ordinary and Partial Differential Equations,3,"This course is a companion to
+EN.625.250
+. Topics include ordinary differential equations, Fourier series and integrals, the Laplace transformation, Bessel functions and Legendre polynomials, and an introduction to partial differential equations.",,,EN.625.250,"Differential and integral calculus. Students with no experience in linear algebra may find it helpful to take
+EN.625.250
+Multivariable and Complex Analysis first. Course Note(s): Not for graduate credit.",,"EN.625.251.
+Introduction to Ordinary and Partial Differential Equations.
+3 Credits.
+This course is a companion to
+EN.625.250
+. Topics include ordinary differential equations, Fourier series and integrals, the Laplace transformation, Bessel functions and Legendre polynomials, and an introduction to partial differential equations. Prerequisite(s): Differential and integral calculus. Students with no experience in linear algebra may find it helpful to take
+EN.625.250
+Multivariable and Complex Analysis first. Course Note(s): Not for graduate credit."
+EN.625.252,Linear Algebra and Its Applications,3,"This course is a study of linear systems of equations, vector spaces, and linear transformations in the context of applications including basic data fitting, polynomial interpolation and network flow.  The following topics and their basic applications are covered:  Gaussian elimination, matrix algebra, determinants, eigenvalues and eigenvectors, diagonalization, linear independence, basis and dimension of vector spaces, orthogonality, Gram-Schmidt process and least-squares method. No software is required. Note for those planning to also take
+EN.625.609
+Matrix Theory:
+EN.625.252
+covers a broad range of topics in linear algebra and its applications at an introductory level, while
+EN.625.609
+focuses in depth on the fundamental theoretical properties of matrices and the consequent significant applications.
+EN.625.252
+introduces basic proof writing techniques, theoretical background and knowledge of applications that will be useful for
+EN.625.609
+.",,,EN.625.108,"EN.625.108
+Calculus I. Course Note(s): Not for Graduate Credit",,"EN.625.252.
+Linear Algebra and Its Applications.
+3 Credits.
+This course is a study of linear systems of equations, vector spaces, and linear transformations in the context of applications including basic data fitting, polynomial interpolation and network flow.  The following topics and their basic applications are covered:  Gaussian elimination, matrix algebra, determinants, eigenvalues and eigenvectors, diagonalization, linear independence, basis and dimension of vector spaces, orthogonality, Gram-Schmidt process and least-squares method. No software is required. Note for those planning to also take
+EN.625.609
+Matrix Theory:
+EN.625.252
+covers a broad range of topics in linear algebra and its applications at an introductory level, while
+EN.625.609
+focuses in depth on the fundamental theoretical properties of matrices and the consequent significant applications.
+EN.625.252
+introduces basic proof writing techniques, theoretical background and knowledge of applications that will be useful for
+EN.625.609
+. Prerequisite(s):
+EN.625.108
+Calculus I. Course Note(s): Not for Graduate Credit"
+EN.625.260,Introduction to Signals and Systems,3,"Linear systems that produce output signals of some type are ubiquitous in many areas of science and engineering. This course will consider such systems, with an emphasis on fundamental concepts as well as the ability to perform calculations for applications in areas such as image analysis, signal processing, computer-aided systems, and feedback control. In particular, the course will approach the topic from the perspectives of both mathematical principles and computational learning. The course will also include examples that span different real-world applications in broad areas such as engineering and medicine. The course is designed primarily for students who do not have a bachelor's degree in electrical engineering or a great deal of prior mathematical coursework. The course will be of value to those with general interests in linear systems analysis, control systems, and/or signal processing. The course will deepen a student's appreciation and understanding of differential equations and their solutions. Topics include signal representations, linearity, time-variance, convolution, and Fourier series and transforms. Coverage includes both continuous and discrete-time systems.",,,,Differential and integral calculus. Course note(s): Not for graduate credit.,,"EN.625.260.
+Introduction to Signals and Systems.
+3 Credits.
+Linear systems that produce output signals of some type are ubiquitous in many areas of science and engineering. This course will consider such systems, with an emphasis on fundamental concepts as well as the ability to perform calculations for applications in areas such as image analysis, signal processing, computer-aided systems, and feedback control. In particular, the course will approach the topic from the perspectives of both mathematical principles and computational learning. The course will also include examples that span different real-world applications in broad areas such as engineering and medicine. The course is designed primarily for students who do not have a bachelor's degree in electrical engineering or a great deal of prior mathematical coursework. The course will be of value to those with general interests in linear systems analysis, control systems, and/or signal processing. The course will deepen a student's appreciation and understanding of differential equations and their solutions. Topics include signal representations, linearity, time-variance, convolution, and Fourier series and transforms. Coverage includes both continuous and discrete-time systems. Prerequisite(s): Differential and integral calculus. Course note(s): Not for graduate credit."
+EN.625.601,Real Analysis,3,"This course presents a rigorous treatment of fundamental concepts in analysis. Emphasis is placed on careful reasoning and proofs. Topics covered include the completeness and order properties of real numbers, limits and continuity, conditions for integrability and differentiability, infinite sequences, and series. Basic notions of topology and measure are also introduced.",,,,Multivariate calculus.,,"EN.625.601.
+Real Analysis.
+3 Credits.
+This course presents a rigorous treatment of fundamental concepts in analysis. Emphasis is placed on careful reasoning and proofs. Topics covered include the completeness and order properties of real numbers, limits and continuity, conditions for integrability and differentiability, infinite sequences, and series. Basic notions of topology and measure are also introduced. Prerequisite(s): Multivariate calculus."
+EN.625.602,Modern Algebra,3,"This course examines the structures of modern algebra, including groups, linear spaces, rings, polynomials, and fields, and some of their applications to such areas as cryptography, primality testing and the factorization of composite numbers, efficient algorithm design in computing, circuit design, and signal processing. It will include an introduction to quantum information processing. Grading is based on weekly problem sets, a midterm, and a final.",,,,Multivariate calculus and linear algebra.,,"EN.625.602.
+Modern Algebra.
+3 Credits.
+This course examines the structures of modern algebra, including groups, linear spaces, rings, polynomials, and fields, and some of their applications to such areas as cryptography, primality testing and the factorization of composite numbers, efficient algorithm design in computing, circuit design, and signal processing. It will include an introduction to quantum information processing. Grading is based on weekly problem sets, a midterm, and a final. Prerequisite(s): Multivariate calculus and linear algebra."
+EN.625.603,Statistical Methods and Data Analysis,3,"This course introduces statistical methods that are widely used in modern applications. A balance is struck between the presentation of the mathematical foundations of concepts in probability and statistics and their appropriate use in a variety of practical contexts. Foundational topics of probability, such as probability rules, related inequalities, random variables, probability distributions, moments, and jointly distributed random variables, are followed by foundations of statistical inference, including estimation approaches and properties, hypothesis testing, and model building. Data analysis ranging from descriptive statistics to the implementation of common procedures for estimation, hypothesis testing, and model building is the focus after the foundational methodology has been covered. Software, for example R-Studio, will be leveraged to illustrate concepts through simulation and to serve as a platform for data analysis.",,,,"Multivariable Calculus, Calc III.",,"EN.625.603.
+Statistical Methods and Data Analysis.
+3 Credits.
+This course introduces statistical methods that are widely used in modern applications. A balance is struck between the presentation of the mathematical foundations of concepts in probability and statistics and their appropriate use in a variety of practical contexts. Foundational topics of probability, such as probability rules, related inequalities, random variables, probability distributions, moments, and jointly distributed random variables, are followed by foundations of statistical inference, including estimation approaches and properties, hypothesis testing, and model building. Data analysis ranging from descriptive statistics to the implementation of common procedures for estimation, hypothesis testing, and model building is the focus after the foundational methodology has been covered. Software, for example R-Studio, will be leveraged to illustrate concepts through simulation and to serve as a platform for data analysis. Prerequisite(s): Multivariable Calculus, Calc III."
+EN.625.604,Ordinary Differential Equations,3,"This course provides an introduction to the theory, solution, and application of ordinary differential equations. Topics discussed in the course include methods of solving first-order differential equations, existence and uniqueness theorems, second-order linear equations, power series solutions, higher-order linear equations, systems of equations, non-linear equations, SturmLiouville theory, and applications. The relationship between differential equations and linear algebra is emphasized in this course. An introduction to numerical solutions is also provided. Applications of differential equations in physics, engineering, biology, and economics are presented. This course covers more material at greater depth than the standard undergraduate-level ODE course.",,,,Two or more terms of calculus are required. Course in linear algebra would be helpful.,,"EN.625.604.
+Ordinary Differential Equations.
+3 Credits.
+This course provides an introduction to the theory, solution, and application of ordinary differential equations. Topics discussed in the course include methods of solving first-order differential equations, existence and uniqueness theorems, second-order linear equations, power series solutions, higher-order linear equations, systems of equations, non-linear equations, SturmLiouville theory, and applications. The relationship between differential equations and linear algebra is emphasized in this course. An introduction to numerical solutions is also provided. Applications of differential equations in physics, engineering, biology, and economics are presented. This course covers more material at greater depth than the standard undergraduate-level ODE course. Prerequisite(s): Two or more terms of calculus are required. Course in linear algebra would be helpful."
+EN.625.609,Matrix Theory,3,"This course focuses on the fundamental theoretical properties of matrices. Topics will include a rigorous treatment of vector spaces (linear independence, basis, dimension, and linear transformations), orthogonality (inner products, projections, and Gram-Schmidt process), determinants, eigenvalues and eigenvectors (diagonal form of a matrix, similarity transformations, and matrix exponential), singular value decomposition, and the pseudo-inverse. Essential proof writing techniques and logic will be reviewed and then used throughout the course in exams and written assignments.",,,,Multivariate calculus,,"EN.625.609.
+Matrix Theory.
+3 Credits.
+This course focuses on the fundamental theoretical properties of matrices. Topics will include a rigorous treatment of vector spaces (linear independence, basis, dimension, and linear transformations), orthogonality (inner products, projections, and Gram-Schmidt process), determinants, eigenvalues and eigenvectors (diagonal form of a matrix, similarity transformations, and matrix exponential), singular value decomposition, and the pseudo-inverse. Essential proof writing techniques and logic will be reviewed and then used throughout the course in exams and written assignments. Prerequisite(s): Multivariate calculus"
+EN.625.611,Computational Methods,3,"As the need to increase the understanding of real-world phenomena grows rapidly, computer-based simulations and modeling tools are increasingly being accepted as viable means to study such problems. In this course, students are introduced to some of the key computational techniques used in modeling and simulation of real-world phenomena. The course begins with coverage of fundamental concepts in computational methods including error analysis, matrices and linear systems, convergence, and stability. It proceeds to curve fitting, least squares, and iterative techniques for practical applications, including methods for solving ordinary differential equations and simple optimization problems. Elements of computer visualization and Monte Carlo simulation will be discussed as appropriate. The emphasis here is not so much on programming technique, but rather on understanding basic concepts and principles. Employment of higher-level programming and visualization tools, such as MATLAB, reduces burdens on programming and introduces a powerful tool set commonly used by industry and academia. A consistent theme throughout the course is the linkage between the techniques covered and their applications to realworld problems.",,,,"Multivariate calculus and ability to program in MATLAB, FORTRAN, C++, Java, or other language. Courses in matrix theory or linear algebra as well as in differential equations would be helpful but are not required.",,"EN.625.611.
+Computational Methods.
+3 Credits.
+As the need to increase the understanding of real-world phenomena grows rapidly, computer-based simulations and modeling tools are increasingly being accepted as viable means to study such problems. In this course, students are introduced to some of the key computational techniques used in modeling and simulation of real-world phenomena. The course begins with coverage of fundamental concepts in computational methods including error analysis, matrices and linear systems, convergence, and stability. It proceeds to curve fitting, least squares, and iterative techniques for practical applications, including methods for solving ordinary differential equations and simple optimization problems. Elements of computer visualization and Monte Carlo simulation will be discussed as appropriate. The emphasis here is not so much on programming technique, but rather on understanding basic concepts and principles. Employment of higher-level programming and visualization tools, such as MATLAB, reduces burdens on programming and introduces a powerful tool set commonly used by industry and academia. A consistent theme throughout the course is the linkage between the techniques covered and their applications to realworld problems. Prerequisite(s): Multivariate calculus and ability to program in MATLAB, FORTRAN, C++, Java, or other language. Courses in matrix theory or linear algebra as well as in differential equations would be helpful but are not required."
+EN.625.615,Introduction to Optimization,3,"This course introduces applications and algorithms for linear, network, integer, and nonlinear optimization. Topics include the primal and dual simplex methods, network flow algorithms, branch and bound, interior point methods, Newton and quasi-Newton methods, and heuristic methods. Students will gain experience in formulating models and implementing algorithms using MATLAB. No previous experience with the software is required.",,,"EN.625.615, EN.625.616","Multivariate calculus, linear algebra. Comfort with reading and writing mathematical proofs would be helpful but is not required. Course Note(s): Due to overlap in subject matter in
+EN.625.615
+and
+EN.625.616
+, students may not receive credit towards the MS or post-master’s certificate for both
+EN.625.615
+and
+EN.625.616
+.",,"EN.625.615.
+Introduction to Optimization.
+3 Credits.
+This course introduces applications and algorithms for linear, network, integer, and nonlinear optimization. Topics include the primal and dual simplex methods, network flow algorithms, branch and bound, interior point methods, Newton and quasi-Newton methods, and heuristic methods. Students will gain experience in formulating models and implementing algorithms using MATLAB. No previous experience with the software is required. Prerequisite(s): Multivariate calculus, linear algebra. Comfort with reading and writing mathematical proofs would be helpful but is not required. Course Note(s): Due to overlap in subject matter in
+EN.625.615
+and
+EN.625.616
+, students may not receive credit towards the MS or post-master’s certificate for both
+EN.625.615
+and
+EN.625.616
+."
+EN.625.616,Optimization in Finance,3,"Optimization models play an increasingly important role in financial decisions. This course introduces the student to financial optimization models and methods. We will specifically discuss linear, integer, quadratic, and general nonlinear programming. If time permits, we will also cover dynamic and stochastic programming. The main theoretical features of these optimization methods will be studied as well as a variety of algorithms used in practice.",,,"EN.625.615, EN.625.616","Multivariate calculus and linear algebra. Course Note(s): Due to overlap in subject matter in
+EN.625.615
+and
+EN.625.616
+, students may not receive credit towards the MS or post-master’s certificate for both
+EN.625.615
+and
+EN.625.616
+.",,"EN.625.616.
+Optimization in Finance.
+3 Credits.
+Optimization models play an increasingly important role in financial decisions. This course introduces the student to financial optimization models and methods. We will specifically discuss linear, integer, quadratic, and general nonlinear programming. If time permits, we will also cover dynamic and stochastic programming. The main theoretical features of these optimization methods will be studied as well as a variety of algorithms used in practice. Prerequisite(s): Multivariate calculus and linear algebra. Course Note(s): Due to overlap in subject matter in
+EN.625.615
+and
+EN.625.616
+, students may not receive credit towards the MS or post-master’s certificate for both
+EN.625.615
+and
+EN.625.616
+."
+EN.625.617,Intro to Enumerative Combinatorics,3,"The most basic question in mathematics is How many? Counting problems arise in diverse areas including discrete probability and the analysis of the run time of algorithms. In this course we present methods for answering enumeration questions exactly and approximately. Topics include fundamental counting problems (lists, sets, partitions, and so forth), combinatorial proof, inclusion-exclusion, ordinary and exponential generating functions, group-theory methods, and asymptotics. Examples are drawn from areas such as graph theory and block designs. After completing this course students will be practiced in applying the fundamental functions (such as factorial, binomial coefficients, Stirling numbers) and techniques for solving a wide variety of exact enumeration problems as well as notation and methods for approximate counting (asymptotic equality, big-oh and little-oh notation, etc.).",,,,Linear algebra,,"EN.625.617.
+Intro to Enumerative Combinatorics.
+3 Credits.
+The most basic question in mathematics is How many? Counting problems arise in diverse areas including discrete probability and the analysis of the run time of algorithms. In this course we present methods for answering enumeration questions exactly and approximately. Topics include fundamental counting problems (lists, sets, partitions, and so forth), combinatorial proof, inclusion-exclusion, ordinary and exponential generating functions, group-theory methods, and asymptotics. Examples are drawn from areas such as graph theory and block designs. After completing this course students will be practiced in applying the fundamental functions (such as factorial, binomial coefficients, Stirling numbers) and techniques for solving a wide variety of exact enumeration problems as well as notation and methods for approximate counting (asymptotic equality, big-oh and little-oh notation, etc.). Prerequisite(s): Linear algebra"
+EN.625.618,Discrete Hybrid Optimization,3,"Real-world planning, scheduling, and resource allocation problems are often too large and complex to solve using straightforward applications of classic exact optimization methods.  Often a hybrid combination of methods is used to decompose large, unwieldy problems into smaller and computationally-tractable sub-problems.  This course introduces the theory, algorithms, and a framework for combining multiple optimization techniques to solve large-scale real-world optimization problems.  Techniques include integer optimization, constraint programming, network optimization, heuristics, dynamic programming, and reinforcement learning.  The class provides the necessary theoretical underpinnings of the techniques, and focuses on selecting and implementing hybrid methods to solve applied problems.  Emphasis is mostly on deterministic methods, but includes some stochastic concepts.  Students will gain experience in formulating models of real-world problems, implementing solution techniques using IBM CPLEX and other software, and presenting analytic results clearly and concisely.  Some previous experience with a scientific computing language (e.g., Python, MATLAB, Julia, R) is expected.",,,EN.625.603,"Linear algebra; some knowledge of mathematical set notation;
+EN.625.603
+or other exposure to probability and statistics.",,"EN.625.618.
+Discrete Hybrid Optimization.
+3 Credits.
+Real-world planning, scheduling, and resource allocation problems are often too large and complex to solve using straightforward applications of classic exact optimization methods.  Often a hybrid combination of methods is used to decompose large, unwieldy problems into smaller and computationally-tractable sub-problems.  This course introduces the theory, algorithms, and a framework for combining multiple optimization techniques to solve large-scale real-world optimization problems.  Techniques include integer optimization, constraint programming, network optimization, heuristics, dynamic programming, and reinforcement learning.  The class provides the necessary theoretical underpinnings of the techniques, and focuses on selecting and implementing hybrid methods to solve applied problems.  Emphasis is mostly on deterministic methods, but includes some stochastic concepts.  Students will gain experience in formulating models of real-world problems, implementing solution techniques using IBM CPLEX and other software, and presenting analytic results clearly and concisely.  Some previous experience with a scientific computing language (e.g., Python, MATLAB, Julia, R) is expected.
+Prerequisite(s):
+Linear algebra; some knowledge of mathematical set notation;
+EN.625.603
+or other exposure to probability and statistics."
+EN.625.620,Mathematical Methods for Signal Processing,3,"This course familiarizes the student with modern techniques of digital signal processing and spectral estimation of discrete-time or discrete-space sequences derived by the sampling of continuous-time or continuous-space signals. The class covers the mathematical foundation needed to understand the various signal processing techniques as well as the techniques themselves. Topics include the discrete Fourier transform, the discrete Hilbert transform, the singular-value decomposition, the wavelet transform, classical spectral estimates (periodogram and correlogram), autoregressive and autoregressivemoving average spectral estimates, and Burg maximum entropy method.",,,,"Mathematics through multivariate calculus, matrix theory, or linear algebra, and introductory probability theory and/or statistics. Students are encouraged to refer any questions to the instructor.",,"EN.625.620.
+Mathematical Methods for Signal Processing.
+3 Credits.
+This course familiarizes the student with modern techniques of digital signal processing and spectral estimation of discrete-time or discrete-space sequences derived by the sampling of continuous-time or continuous-space signals. The class covers the mathematical foundation needed to understand the various signal processing techniques as well as the techniques themselves. Topics include the discrete Fourier transform, the discrete Hilbert transform, the singular-value decomposition, the wavelet transform, classical spectral estimates (periodogram and correlogram), autoregressive and autoregressivemoving average spectral estimates, and Burg maximum entropy method. Prerequisite(s): Mathematics through multivariate calculus, matrix theory, or linear algebra, and introductory probability theory and/or statistics. Students are encouraged to refer any questions to the instructor."
+EN.625.621,Modern Control Systems,3,"Modern control is based on the concept of a state for modeling dynamical systems. This course considers both continuous-time and discrete-time systems, focusing primarily on the case of a digital controller. The course starts with the study of deterministic systems, covering observability, controllability, stability, and state-variable feedback. Consideration of stochastic disturbances leads to Kalman filter algorithms for state estimation and system identification. Students will develop computer simulations involving classical Kalman filters, numerically superior square-root algorithms, and extended and unscented Kalman filters for systems that are nonlinear or have non-Gaussian or non-additive disturbances. The concept of state is then extended to control based on reinforcement learning. The course also provides an introduction to optimal control. Prerequisites: Undergraduate courses in linear algebra and either multivariate calculus or signals and systems.",,,,,,"EN.625.621.
+Modern Control Systems.
+3 Credits.
+Modern control is based on the concept of a state for modeling dynamical systems. This course considers both continuous-time and discrete-time systems, focusing primarily on the case of a digital controller. The course starts with the study of deterministic systems, covering observability, controllability, stability, and state-variable feedback. Consideration of stochastic disturbances leads to Kalman filter algorithms for state estimation and system identification. Students will develop computer simulations involving classical Kalman filters, numerically superior square-root algorithms, and extended and unscented Kalman filters for systems that are nonlinear or have non-Gaussian or non-additive disturbances. The concept of state is then extended to control based on reinforcement learning. The course also provides an introduction to optimal control. Prerequisites: Undergraduate courses in linear algebra and either multivariate calculus or signals and systems."
+EN.625.623,Introduction to Operations Research: Probabilistic Models,3,"This course investigates several probability models that are important to operations research applications. Models covered include Markov chains, Markov processes, renewal theory, queueing theory, scheduling theory, reliability theory, Bayesian networks, random graphs, and simulation. The course emphasizes both the theoretical development of these models and the application of the models to areas such as engineering, computer science, and management science.",,,EN.625.603,"Multivariate calculus and a course in probability and statistics (such as
+EN.625.603
+Statistical Methods and Data Analysis).",,"EN.625.623.
+Introduction to Operations Research: Probabilistic Models.
+3 Credits.
+This course investigates several probability models that are important to operations research applications. Models covered include Markov chains, Markov processes, renewal theory, queueing theory, scheduling theory, reliability theory, Bayesian networks, random graphs, and simulation. The course emphasizes both the theoretical development of these models and the application of the models to areas such as engineering, computer science, and management science.
+Prerequisite(s):
+Multivariate calculus and a course in probability and statistics (such as
+EN.625.603
+Statistical Methods and Data Analysis)."
+EN.625.624,Network Models and Analysis,3,"Networks are at the heart of some of the most revolutionary technologies in modern times. They permeate science, technology, business, and nature. We begin this course with an in-depth mathematical study of the network problems traditionally discussed in operations research, with emphasis on combinatorial approaches for solving them. Students will be introduced to efficient algorithms used in solving shortest path, maximum flow, minimum cost flow problems, and related problems. We next focus on mathematically describing different classes of networks – random, small-world, scale free, dynamic – and their use in modeling social interactions, biological processes, affiliations, information flow and other applications of modern network science.",,,"EN.625.603, EN.625.609","probability and statistics (
+EN.625.603
+or similar course), linear algebra and experience with reading and writing proofs as found in
+EN.625.609
+or similar course. While the course is primarily mathematical, students will be expected to work within at least one programming environment (Matlab or Python will be easiest, but Julia, R and others will also be acceptable).",,"EN.625.624.
+Network Models and Analysis.
+3 Credits.
+Networks are at the heart of some of the most revolutionary technologies in modern times. They permeate science, technology, business, and nature. We begin this course with an in-depth mathematical study of the network problems traditionally discussed in operations research, with emphasis on combinatorial approaches for solving them. Students will be introduced to efficient algorithms used in solving shortest path, maximum flow, minimum cost flow problems, and related problems. We next focus on mathematically describing different classes of networks – random, small-world, scale free, dynamic – and their use in modeling social interactions, biological processes, affiliations, information flow and other applications of modern network science.
+Prerequisite(s):
+probability and statistics (
+EN.625.603
+or similar course), linear algebra and experience with reading and writing proofs as found in
+EN.625.609
+or similar course. While the course is primarily mathematical, students will be expected to work within at least one programming environment (Matlab or Python will be easiest, but Julia, R and others will also be acceptable)."
+EN.625.633,Monte Carlo Methods,3,"This course is an introduction to fundamental tools in designing, conducting, and interpreting Monte Carlo simulations. Emphasis is on generic principles that are widely applicable in simulation, as opposed to detailed discussion of specific applications and/or software packages. At the completion of this course, it is expected that students will have the insight and understanding to critically evaluate or use many state-of-the-art methods in simulation. Topics covered include random number generation, simulation of Brownian motion and stochastic differential equations, output analysis for Monte Carlo simulations, variance reduction, Markov chain Monte Carlo, simulation-based estimation for dynamical (state-space) models, and, time permitting, sensitivity analysis and simulation-based optimization. Course Note(s): This course serves as a complement to the 700-level course
+EN.625.744
+Modeling, Simulation, and Monte Carlo.
+EN.625.633
+Monte Carlo Methods and
+EN.625.744
+emphasize different topics, and
+EN.625.744
+is taught at a slightly more advanced level.
+EN.625.633
+includes topics not covered in
+EN.625.744
+such as simulation of Brownian motion and stochastic differential equations, general output analysis for Monte Carlo simulations, and general variance reduction.
+EN.625.744
+includes greater emphasis on generic modeling issues (bias-variance tradeoff, etc.), simulation-based optimization of real-world processes, and optimal input selection.",,,EN.625.603,"Linear algebra and a graduate-level statistics course such as
+EN.625.603
+Statistical Methods and Data Analysis.",,"EN.625.633.
+Monte Carlo Methods.
+3 Credits.
+This course is an introduction to fundamental tools in designing, conducting, and interpreting Monte Carlo simulations. Emphasis is on generic principles that are widely applicable in simulation, as opposed to detailed discussion of specific applications and/or software packages. At the completion of this course, it is expected that students will have the insight and understanding to critically evaluate or use many state-of-the-art methods in simulation. Topics covered include random number generation, simulation of Brownian motion and stochastic differential equations, output analysis for Monte Carlo simulations, variance reduction, Markov chain Monte Carlo, simulation-based estimation for dynamical (state-space) models, and, time permitting, sensitivity analysis and simulation-based optimization. Course Note(s): This course serves as a complement to the 700-level course
+EN.625.744
+Modeling, Simulation, and Monte Carlo.
+EN.625.633
+Monte Carlo Methods and
+EN.625.744
+emphasize different topics, and
+EN.625.744
+is taught at a slightly more advanced level.
+EN.625.633
+includes topics not covered in
+EN.625.744
+such as simulation of Brownian motion and stochastic differential equations, general output analysis for Monte Carlo simulations, and general variance reduction.
+EN.625.744
+includes greater emphasis on generic modeling issues (bias-variance tradeoff, etc.), simulation-based optimization of real-world processes, and optimal input selection.
+Prerequisite(s):
+Linear algebra and a graduate-level statistics course such as
+EN.625.603
+Statistical Methods and Data Analysis."
+EN.625.636,Graph Theory,3,"This course focuses on the mathematical theory of graphs; a few applications and algorithms will be discussed. Topics include trees, connectivity, Eulerian and Hamiltonian graphs, matchings, edge and vertex colorings, independent sets and cliques, planar graphs, and directed graphs. An advanced topic completes the course.",,,,Familiarity with linear algebra and basic counting methods such as binomial coefficients is assumed. Comfort with reading and writing mathematical proofs is required.,,"EN.625.636.
+Graph Theory.
+3 Credits.
+This course focuses on the mathematical theory of graphs; a few applications and algorithms will be discussed. Topics include trees, connectivity, Eulerian and Hamiltonian graphs, matchings, edge and vertex colorings, independent sets and cliques, planar graphs, and directed graphs. An advanced topic completes the course. Prerequisite(s): Familiarity with linear algebra and basic counting methods such as binomial coefficients is assumed. Comfort with reading and writing mathematical proofs is required."
+EN.625.638,Foundations of Neural Networks,3,"This course will be a comprehensive study of the mathematical foundations for neural networks. Topics include feed forward and recurrent networks and neural network applications in function approximation, pattern analysis, signal classification, optimization, and associative memories.Prerequisites: Multivariable calculus, linear algebra",,,,,,"EN.625.638.
+Foundations of Neural Networks.
+3 Credits.
+This course will be a comprehensive study of the mathematical foundations for neural networks. Topics include feed forward and recurrent networks and neural network applications in function approximation, pattern analysis, signal classification, optimization, and associative memories.Prerequisites: Multivariable calculus, linear algebra"
+EN.625.641,Mathematics of Finance,3,"This course offers a rigorous treatment of the subject of investment as a scientific discipline. Mathematics is employed as the main tool to convey the principles of investment science and their use to make investment calculations for good decision making. Topics covered in the course include the basic theory of interest and its applications to fixed-income securities, cash flow analysis and capital budgeting, mean-variance portfolio theory and the associated capital asset pricing model, utility function theory and risk analysis, derivative securities and basic option theory, and portfolio evaluation.",,,EN.625.603,"Multivariate calculus and a course in probability and statistics (such as
+EN.625.603
+Statistical Methods and Data Analysis).",,"EN.625.641.
+Mathematics of Finance.
+3 Credits.
+This course offers a rigorous treatment of the subject of investment as a scientific discipline. Mathematics is employed as the main tool to convey the principles of investment science and their use to make investment calculations for good decision making. Topics covered in the course include the basic theory of interest and its applications to fixed-income securities, cash flow analysis and capital budgeting, mean-variance portfolio theory and the associated capital asset pricing model, utility function theory and risk analysis, derivative securities and basic option theory, and portfolio evaluation.
+Prerequisite(s):
+Multivariate calculus and a course in probability and statistics (such as
+EN.625.603
+Statistical Methods and Data Analysis)."
+EN.625.642,"Mathematics of Risk, Options, and Financial Derivatives",3,"The concept of options stems from the inherent human desire and need to reduce risks. This course starts with a rigorous mathematical treatment of options pricing, and related areas by developing a powerful mathematical tool known as Ito calculus. We introduce and use the well-known field of stochastic differential equations to develop various techniques as needed, as well as discuss the theory of martingales. The mathematics will be applied to the arbitrage pricing of financial derivatives, which is the main topic of the course. We treat the Black-Scholes theory in detail and use it to understand how to price various options and other quantitative financial instruments.  Topics covered in the course include options strategies, binomial pricing, Weiner processes and Ito’s lemma, the Black-Scholes-Merton Model,  futures options and  Black’s Model, option Greeks, numerical procedures for pricing options,  the volatility smile, the value at risk, exotic options, martingales and risk measures. Course Note(s): This class is distinguished from
+EN.625.641
+Mathematics of Finance: Investment Science (formerly 625.439) and
+EN.625.714
+Introductory Stochastic Differential Equations with Applications, as follows:
+EN.625.641
+Mathematics of Finance: Investment Science gives a broader and more general treatment of financial mathematics, and
+EN.625.714
+Introductory Stochastic Differential Equations with Applications provides a deeper (more advanced) mathematical understanding of stochastic differential equations, with applications in both finance and non-finance areas.",,,"EN.625.609, EN.625.603","Multivariate calculus, linear algebra and matrix theory (e.g.,
+EN.625.609
+Matrix Theory), and a graduate-level course in probability and statistics (such as
+EN.625.603
+Statistical Methods and Data Analysis).",,"EN.625.642.
+Mathematics of Risk, Options, and Financial Derivatives.
+3 Credits.
+The concept of options stems from the inherent human desire and need to reduce risks. This course starts with a rigorous mathematical treatment of options pricing, and related areas by developing a powerful mathematical tool known as Ito calculus. We introduce and use the well-known field of stochastic differential equations to develop various techniques as needed, as well as discuss the theory of martingales. The mathematics will be applied to the arbitrage pricing of financial derivatives, which is the main topic of the course. We treat the Black-Scholes theory in detail and use it to understand how to price various options and other quantitative financial instruments.  Topics covered in the course include options strategies, binomial pricing, Weiner processes and Ito’s lemma, the Black-Scholes-Merton Model,  futures options and  Black’s Model, option Greeks, numerical procedures for pricing options,  the volatility smile, the value at risk, exotic options, martingales and risk measures. Course Note(s): This class is distinguished from
+EN.625.641
+Mathematics of Finance: Investment Science (formerly 625.439) and
+EN.625.714
+Introductory Stochastic Differential Equations with Applications, as follows:
+EN.625.641
+Mathematics of Finance: Investment Science gives a broader and more general treatment of financial mathematics, and
+EN.625.714
+Introductory Stochastic Differential Equations with Applications provides a deeper (more advanced) mathematical understanding of stochastic differential equations, with applications in both finance and non-finance areas.
+Prerequisite(s):
+Multivariate calculus, linear algebra and matrix theory (e.g.,
+EN.625.609
+Matrix Theory), and a graduate-level course in probability and statistics (such as
+EN.625.603
+Statistical Methods and Data Analysis)."
+EN.625.651,Mathematical Models in Healthcare,3,"A firm mathematical foundation for work in biostatistics is provided by a detailed consideration of four mathematical frameworks that can be applied throughout medicine. The class will focus on these framework ideas, which build on earlier coursework in statistics and probability, and their applications. The mathematical frameworks are Markov models, Gaussian processes, logistic regression, and Bayesian networks. The clinical settings to be explored will be associated with treatment, prognosis, and survival within the settings of asthma, diabetes, cancer, and epidemics. While the course is primarily mathematical, students will be expected to work within at least one programming environment (R or Python will be easiest, but Julia, MATLAB, and others will also be supported).",,,EN.625.603,"EN.625.603
+Statistical Methods and Data Analysis or equivalent. Ability to work within R, Python, Julia, or MATLAB or similar code settings for analysis of data and code development.",,"EN.625.651.
+Mathematical Models in Healthcare.
+3 Credits.
+A firm mathematical foundation for work in biostatistics is provided by a detailed consideration of four mathematical frameworks that can be applied throughout medicine. The class will focus on these framework ideas, which build on earlier coursework in statistics and probability, and their applications. The mathematical frameworks are Markov models, Gaussian processes, logistic regression, and Bayesian networks. The clinical settings to be explored will be associated with treatment, prognosis, and survival within the settings of asthma, diabetes, cancer, and epidemics. While the course is primarily mathematical, students will be expected to work within at least one programming environment (R or Python will be easiest, but Julia, MATLAB, and others will also be supported).
+Prerequisite(s):
+EN.625.603
+Statistical Methods and Data Analysis or equivalent. Ability to work within R, Python, Julia, or MATLAB or similar code settings for analysis of data and code development."
+EN.625.661,Statistical Models and Regression,3,"Introduction to regression and linear models including least squares estimation, maximum likelihood estimation, the Gauss-Markov Theorem, and the Fundamental Theorem of Least Squares. Topics include estimation, hypothesis testing, simultaneous inference, model diagnostics, transformations, multicollinearity, influence, model building, and variable selection. Advanced topics include nonlinear regression, robust regression, and generalized linear models including logistic and Poisson regression.",,,EN.625.603,"EN.625.603
+Statistical Methods and Data Analysis, multivariate calculus, and basic knowledge of matrix and linear algebra.",,"EN.625.661.
+Statistical Models and Regression.
+3 Credits.
+Introduction to regression and linear models including least squares estimation, maximum likelihood estimation, the Gauss-Markov Theorem, and the Fundamental Theorem of Least Squares. Topics include estimation, hypothesis testing, simultaneous inference, model diagnostics, transformations, multicollinearity, influence, model building, and variable selection. Advanced topics include nonlinear regression, robust regression, and generalized linear models including logistic and Poisson regression.
+Prerequisite(s):
+EN.625.603
+Statistical Methods and Data Analysis, multivariate calculus, and basic knowledge of matrix and linear algebra."
+EN.625.662,Design and Analysis of Experiments,3,"Statistically designed experiments are plans for the efficient allocation of resources to maximize the amount of empirical information supporting objective decisions. Although other statistical approaches, including visualization and regression, can lead to uncovering relationships among variables, experimental design is unique in supporting the claim that the nature of the relationships can be regarded as cause and effect. Inference is achieved using a general linear model based on data collection adhering to a broad framework, wherein one or more independent variables (treatments) are intentionally and simultaneously manipulated, experimental units are randomly assigned to a level of treatment, and a response is observed. This approach in experimental research appears in virtually every field of study where the strong case for establishing cause and effect relationships is required, including, for example, randomized control trials in the health sciences or process optimization in engineering. In this course we will consider building block concepts including crossed and nested factors, fixed and random effects, aliasing and confounding, and then apply these building blocks to common experimental designs (e.g., completely randomized, randomized block, Latin squares, factorial, fractional factorial, hierarchical/nested, response surface, and repeated measure designs.) Analysis techniques will include fixed effect, random effect, and mixed effects analysis of variance. Power and sample size calculation methods will be covered and design optimality will be discussed. Applications will come from the physical sciences, engineering and the health sciences. The software packages R and JMP will be used for analysis.",,,EN.625.603,"Multivariate calculus, linear algebra, and one semester of graduate probability and statistics (e.g.,
+EN.625.603
+Statistical Methods and Data Analysis). Some computer-based homework assignments will be given.",,"EN.625.662.
+Design and Analysis of Experiments.
+3 Credits.
+Statistically designed experiments are plans for the efficient allocation of resources to maximize the amount of empirical information supporting objective decisions. Although other statistical approaches, including visualization and regression, can lead to uncovering relationships among variables, experimental design is unique in supporting the claim that the nature of the relationships can be regarded as cause and effect. Inference is achieved using a general linear model based on data collection adhering to a broad framework, wherein one or more independent variables (treatments) are intentionally and simultaneously manipulated, experimental units are randomly assigned to a level of treatment, and a response is observed. This approach in experimental research appears in virtually every field of study where the strong case for establishing cause and effect relationships is required, including, for example, randomized control trials in the health sciences or process optimization in engineering. In this course we will consider building block concepts including crossed and nested factors, fixed and random effects, aliasing and confounding, and then apply these building blocks to common experimental designs (e.g., completely randomized, randomized block, Latin squares, factorial, fractional factorial, hierarchical/nested, response surface, and repeated measure designs.) Analysis techniques will include fixed effect, random effect, and mixed effects analysis of variance. Power and sample size calculation methods will be covered and design optimality will be discussed. Applications will come from the physical sciences, engineering and the health sciences. The software packages R and JMP will be used for analysis.
+Prerequisite(s):
+Multivariate calculus, linear algebra, and one semester of graduate probability and statistics (e.g.,
+EN.625.603
+Statistical Methods and Data Analysis). Some computer-based homework assignments will be given."
+EN.625.663,Multivariate Statistics and Stochastic Analysis,3,"Multivariate analysis arises with observations of more than one variable when there is some probabilistic linkage between the variables. In practice, most data collected by researchers in virtually all disciplines are multivariate in nature. In some cases, it might make sense to isolate each variable and study it separately. In most cases, however, the variables are interrelated in such a way that analyzing the variables in isolation may result in failure to uncover critical patterns in the data. Multivariate data analysis consists of methods that can be used to study several variables at the same time so that the full structure of the data can be observed and key properties can be identified. This course covers estimation, hypothesis tests, and distributions for multivariate mean vectors and covariance matrices. We also cover popular multivariate data analysis methods including multivariate data visualization, maximum likelihood, principal components analysis, multiple comparisons tests, multidimensional scaling, cluster analysis, discriminant analysis and multivariate analysis of variance, multiple regression and canonical correlation, and analysis of repeated measures data. Coursework will include computer assignments.",,,EN.625.603,"Linear algebra, multivariate calculus, and one semester of graduate probability and statistics (e.g.,
+EN.625.603
+Statistical Methods and Data Analysis).",,"EN.625.663.
+Multivariate Statistics and Stochastic Analysis.
+3 Credits.
+Multivariate analysis arises with observations of more than one variable when there is some probabilistic linkage between the variables. In practice, most data collected by researchers in virtually all disciplines are multivariate in nature. In some cases, it might make sense to isolate each variable and study it separately. In most cases, however, the variables are interrelated in such a way that analyzing the variables in isolation may result in failure to uncover critical patterns in the data. Multivariate data analysis consists of methods that can be used to study several variables at the same time so that the full structure of the data can be observed and key properties can be identified. This course covers estimation, hypothesis tests, and distributions for multivariate mean vectors and covariance matrices. We also cover popular multivariate data analysis methods including multivariate data visualization, maximum likelihood, principal components analysis, multiple comparisons tests, multidimensional scaling, cluster analysis, discriminant analysis and multivariate analysis of variance, multiple regression and canonical correlation, and analysis of repeated measures data. Coursework will include computer assignments.
+Prerequisite(s):
+Linear algebra, multivariate calculus, and one semester of graduate probability and statistics (e.g.,
+EN.625.603
+Statistical Methods and Data Analysis)."
+EN.625.664,Computational Statistics,3,"Computational statistics is a branch of mathematical sciences concerned with efficient methods for obtaining numerical solutions to statistically formulated problems. This course will introduce students to a variety of computationally intensive statistical techniques and the role of computation as a tool of discovery. Topics include numerical optimization in statistical inference [expectation-maximization (EM) algorithm, Fisher scoring, etc.], random number generation, Monte Carlo methods, randomization methods, jackknife methods, bootstrap methods, tools for identification of structure in data, estimation of functions (orthogonal polynomials, splines, etc.), and graphical methods. Additional topics may vary. Coursework will include computer assignments.",,,EN.625.603,"Multivariate calculus, familiarity with basic matrix algebra and
+EN.625.603
+Statistical Methods and Data Analysis.",,"EN.625.664.
+Computational Statistics.
+3 Credits.
+Computational statistics is a branch of mathematical sciences concerned with efficient methods for obtaining numerical solutions to statistically formulated problems. This course will introduce students to a variety of computationally intensive statistical techniques and the role of computation as a tool of discovery. Topics include numerical optimization in statistical inference [expectation-maximization (EM) algorithm, Fisher scoring, etc.], random number generation, Monte Carlo methods, randomization methods, jackknife methods, bootstrap methods, tools for identification of structure in data, estimation of functions (orthogonal polynomials, splines, etc.), and graphical methods. Additional topics may vary. Coursework will include computer assignments.
+Prerequisite(s):
+Multivariate calculus, familiarity with basic matrix algebra and
+EN.625.603
+Statistical Methods and Data Analysis."
+EN.625.665,Bayesian Statistics,3,"In Bayesian statistics, inference about a population parameter or hypothesis is achieved by merging prior knowledge, represented as a prior probability distribution, with data. This prior distribution and data are merged mathematically using Bayes’ rule to produce a posterior distribution, and this course focuses on the ways in which the posterior distribution is used in practice and on the details of how the calculation of the posterior is done. In this course, we discuss specific types of prior and posterior distributions, prior/posterior conjugate pairs, decision theory, Bayesian prediction, Bayesian parameter estimation and estimation uncertainty, and Monte Carlo methods commonly used in Bayesian statistical inference. Students will apply Bayesian methods to analyze and interpret several real-world data sets and will investigate some of the theoretical issues underlying Bayesian statistical analysis. R is the software that will be used to illustrate the concepts discussed in class.  Course Note(s): Prior experience with R is not required; students not familiar with R will be directed to an online tutorial.",,,EN.625.603,"Multivariate calculus, familiarity with basic matrix algebra, and a graduate course in probability and statistics (such as
+EN.625.603
+Statistical Methods and Data Analysis).",,"EN.625.665.
+Bayesian Statistics.
+3 Credits.
+In Bayesian statistics, inference about a population parameter or hypothesis is achieved by merging prior knowledge, represented as a prior probability distribution, with data. This prior distribution and data are merged mathematically using Bayes’ rule to produce a posterior distribution, and this course focuses on the ways in which the posterior distribution is used in practice and on the details of how the calculation of the posterior is done. In this course, we discuss specific types of prior and posterior distributions, prior/posterior conjugate pairs, decision theory, Bayesian prediction, Bayesian parameter estimation and estimation uncertainty, and Monte Carlo methods commonly used in Bayesian statistical inference. Students will apply Bayesian methods to analyze and interpret several real-world data sets and will investigate some of the theoretical issues underlying Bayesian statistical analysis. R is the software that will be used to illustrate the concepts discussed in class.  Course Note(s): Prior experience with R is not required; students not familiar with R will be directed to an online tutorial.
+Prerequisite(s):
+Multivariate calculus, familiarity with basic matrix algebra, and a graduate course in probability and statistics (such as
+EN.625.603
+Statistical Methods and Data Analysis)."
+EN.625.680,Cryptography,3,"An important concern in the information age is the security, protection, and integrity of electronic information, including communications, electronic funds transfer, power system control, transportation systems, and military and law enforcement information. Modern cryptography, in applied mathematics, is concerned not only with the design and exploration of encryption schemes (classical cryptography) but also with the rigorous analysis of any system that is designed to withstand malicious attempts to tamper with, disturb, or destroy it. This course introduces and surveys the ?eld of modern cryptography and will explore the following topics in the field: foundations of cryptography, public key cryptography, probabilistic proof systems, pseudorandom generators, elliptic curve cryptography, and fundamental limits to information operations. Mathematical preliminaries from probability theory, algebra, computational complexity, and number theory will also be covered.",,,EN.625.603,"Linear algebra and an introductory course in probability and statistics such as
+EN.625.603
+Statistical Methods and Data Analysis.",,"EN.625.680.
+Cryptography.
+3 Credits.
+An important concern in the information age is the security, protection, and integrity of electronic information, including communications, electronic funds transfer, power system control, transportation systems, and military and law enforcement information. Modern cryptography, in applied mathematics, is concerned not only with the design and exploration of encryption schemes (classical cryptography) but also with the rigorous analysis of any system that is designed to withstand malicious attempts to tamper with, disturb, or destroy it. This course introduces and surveys the ?eld of modern cryptography and will explore the following topics in the field: foundations of cryptography, public key cryptography, probabilistic proof systems, pseudorandom generators, elliptic curve cryptography, and fundamental limits to information operations. Mathematical preliminaries from probability theory, algebra, computational complexity, and number theory will also be covered.
+Prerequisite(s):
+Linear algebra and an introductory course in probability and statistics such as
+EN.625.603
+Statistical Methods and Data Analysis."
+EN.625.685,Number Theory,3,"This course covers principal ideas of classical number theory, including the fundamental theorem of arithmetic and its consequences, congruences, cryptography and the RSA method, polynomial congruences, primitive roots, residues, multiplicative functions, and special topics.",,,,Multivariate calculus and linear algebra.,,"EN.625.685.
+Number Theory.
+3 Credits.
+This course covers principal ideas of classical number theory, including the fundamental theorem of arithmetic and its consequences, congruences, cryptography and the RSA method, polynomial congruences, primitive roots, residues, multiplicative functions, and special topics. Prerequisite(s): Multivariate calculus and linear algebra."
+EN.625.687,Applied Topology,3,"The course is both an introduction to topology and an investigation of various applications of topology in science and engineering. Topology, simply put, is a mathematical study of shapes, and it often turns out that just knowing a rough shape of an object (whether that object is as concrete as platonic solids or as abstract as the space of all paths in large complex networks) can enhance one’s understanding of the object. We will start with a few key theoretical concepts from point-set topology with proofs, while letting breadth take precedence over depth, and then introduce key concepts from algebraic topology, which attempts to use algebraic concepts, mostly group theory, to develop ideas of homotopy, homology, and cohomology, which render topology “computable.” Finally, we discuss a few key examples of real-world applications of computational topology, an emerging field devoted to the study of efficient algorithms for topological problems, especially those arising in science and engineering, which builds on classical results from algebraic topology as well as algorithmic tools from computational geometry and other areas of computer science. The questions we like to ask are: Do I know the topology of my network? What is a rough shape of the large data set that I am working with (is there a logical gap?)? Will the local picture of a part of the sensor field I am looking at give rise to a consistent global common picture?",,,EN.625.609,"Multivariate calculus, linear algebra and matrix theory (e.g.,
+EN.625.609
+Matrix Theory), and an undergraduate-level course in probability and statistics.",,"EN.625.687.
+Applied Topology.
+3 Credits.
+The course is both an introduction to topology and an investigation of various applications of topology in science and engineering. Topology, simply put, is a mathematical study of shapes, and it often turns out that just knowing a rough shape of an object (whether that object is as concrete as platonic solids or as abstract as the space of all paths in large complex networks) can enhance one’s understanding of the object. We will start with a few key theoretical concepts from point-set topology with proofs, while letting breadth take precedence over depth, and then introduce key concepts from algebraic topology, which attempts to use algebraic concepts, mostly group theory, to develop ideas of homotopy, homology, and cohomology, which render topology “computable.” Finally, we discuss a few key examples of real-world applications of computational topology, an emerging field devoted to the study of efficient algorithms for topological problems, especially those arising in science and engineering, which builds on classical results from algebraic topology as well as algorithmic tools from computational geometry and other areas of computer science. The questions we like to ask are: Do I know the topology of my network? What is a rough shape of the large data set that I am working with (is there a logical gap?)? Will the local picture of a part of the sensor field I am looking at give rise to a consistent global common picture?
+Prerequisite(s):
+Multivariate calculus, linear algebra and matrix theory (e.g.,
+EN.625.609
+Matrix Theory), and an undergraduate-level course in probability and statistics."
+EN.625.690,Computational Complexity and Approximation,3,"This course will cover the theory of computational complexity and popular approximation and optimization problems and algorithms. It begins with automata theory, languages, and computation followed by important complexity concepts including Turing machines, Karp and Turing reducibility, basic complexity classes, and the theory of NP-completeness. It then discusses the complexity of well-known approximation and optimization algorithms and introduces approximability properties, with special focus on approximation algorithm and heuristic design. The course will specifically target algorithms with practical significance and techniques that can improve performance in real-world implementations.",,,EN.625.603,"Introductory probability theory and/or statistics (such as
+EN.625.603
+Statistical Methods and Data Analysis) and undergraduate-level exposure to algorithms and matrix algebra. Some familiarity with optimization and computing architectures is desirable but not necessary.",,"EN.625.690.
+Computational Complexity and Approximation.
+3 Credits.
+This course will cover the theory of computational complexity and popular approximation and optimization problems and algorithms. It begins with automata theory, languages, and computation followed by important complexity concepts including Turing machines, Karp and Turing reducibility, basic complexity classes, and the theory of NP-completeness. It then discusses the complexity of well-known approximation and optimization algorithms and introduces approximability properties, with special focus on approximation algorithm and heuristic design. The course will specifically target algorithms with practical significance and techniques that can improve performance in real-world implementations.
+Prerequisite(s):
+Introductory probability theory and/or statistics (such as
+EN.625.603
+Statistical Methods and Data Analysis) and undergraduate-level exposure to algorithms and matrix algebra. Some familiarity with optimization and computing architectures is desirable but not necessary."
+EN.625.691,Introduction to Causal Inference,3,"This course offers a rigorous introduction to the theory and practice of causal inference, with emphasis on real-world applications. Students will learn to estimate causal effects using both experimental and observational data, drawing on the potential outcomes framework and modern identification strategies. Topics include randomized experiments, selection bias, regression adjustment, matching methods, instrumental variables, difference-in-differences, synthetic control methods, and causal diagrams (directed acyclic graphs). The course integrates theoretical foundations with hands-on practice using real datasets, preparing students to critically evaluate and implement causal analysis in applied settings.",,,EN.625.603,"EN.625.603
+Statistical Methods and Data Analysis (or other graduate-level statistics class) and matrix algebra.",,"EN.625.691.
+Introduction to Causal Inference.
+3 Credits.
+This course offers a rigorous introduction to the theory and practice of causal inference, with emphasis on real-world applications. Students will learn to estimate causal effects using both experimental and observational data, drawing on the potential outcomes framework and modern identification strategies. Topics include randomized experiments, selection bias, regression adjustment, matching methods, instrumental variables, difference-in-differences, synthetic control methods, and causal diagrams (directed acyclic graphs). The course integrates theoretical foundations with hands-on practice using real datasets, preparing students to critically evaluate and implement causal analysis in applied settings.
+Prerequisite(s):
+EN.625.603
+Statistical Methods and Data Analysis (or other graduate-level statistics class) and matrix algebra."
+EN.625.692,Probabilistic Graphical Models,3,"This course introduces the fundamentals behind the mathematical and logical framework of graphical models. These models are used in many areas of machine learning and arise in numerous challenging and intriguing problems in data analysis, mathematics, and computer science. For example, the “big data” world frequently uses graphical models to solve problems. While the framework introduced in this course will be largely mathematical, we will also present algorithms and connections to problem domains. The course will begin with the fundamentals of probability theory and will then move into Bayesian networks, undirected graphical models, template-based models, and Gaussian networks. The nature of inference and learning on the graphical structures will be covered, with explorations of complexity, conditioning, clique trees, and optimization. The course will use weekly problem sets and a term project to encourage mastery of the fundamentals of this emerging area.",,,EN.625.603,"Graduate course in probability and statistics (such as
+EN.625.603
+Statistical Methods and Data Analysis).",,"EN.625.692.
+Probabilistic Graphical Models.
+3 Credits.
+This course introduces the fundamentals behind the mathematical and logical framework of graphical models. These models are used in many areas of machine learning and arise in numerous challenging and intriguing problems in data analysis, mathematics, and computer science. For example, the “big data” world frequently uses graphical models to solve problems. While the framework introduced in this course will be largely mathematical, we will also present algorithms and connections to problem domains. The course will begin with the fundamentals of probability theory and will then move into Bayesian networks, undirected graphical models, template-based models, and Gaussian networks. The nature of inference and learning on the graphical structures will be covered, with explorations of complexity, conditioning, clique trees, and optimization. The course will use weekly problem sets and a term project to encourage mastery of the fundamentals of this emerging area.
+Prerequisite(s):
+Graduate course in probability and statistics (such as
+EN.625.603
+Statistical Methods and Data Analysis)."
+EN.625.694,Introduction to Convexity,3,"Convexity is a simple mathematical concept that has become central in a diverse range of applications in engineering, science, and business applications. Our main focus, from the applications perspective, will be the use of convexity within optimization problems, where convexity plays a key role in identifying the ""easy"" problems from the ""hard"" ones. The course will have an equal emphasis on expositing the rich mathematical structure of the field itself (properties of convex sets, convex functions, polarity/duality, subdifferential calculus, polyhedral theory, sublinearity), and demonstrating how these ideas can be used to model and solve optimization problems.The course requires basic familiarity with concepts like sequences, convergence and limits at the level of a rigorous multivariate calculus course (a course in real analysis such as
+EN.625.601
+, will be more than sufficient, but only the most basic ideas from real analysis are needed; a formal course is not required). The course also needs background in basic linear algebra at the level of
+EN.625.252
+(
+EN.625.609
+will be more than sufficient).Prerequisites: Multivariable calculus, linear algebra",,,,,,"EN.625.694.
+Introduction to Convexity.
+3 Credits.
+Convexity is a simple mathematical concept that has become central in a diverse range of applications in engineering, science, and business applications. Our main focus, from the applications perspective, will be the use of convexity within optimization problems, where convexity plays a key role in identifying the ""easy"" problems from the ""hard"" ones. The course will have an equal emphasis on expositing the rich mathematical structure of the field itself (properties of convex sets, convex functions, polarity/duality, subdifferential calculus, polyhedral theory, sublinearity), and demonstrating how these ideas can be used to model and solve optimization problems.The course requires basic familiarity with concepts like sequences, convergence and limits at the level of a rigorous multivariate calculus course (a course in real analysis such as
+EN.625.601
+, will be more than sufficient, but only the most basic ideas from real analysis are needed; a formal course is not required). The course also needs background in basic linear algebra at the level of
+EN.625.252
+(
+EN.625.609
+will be more than sufficient).Prerequisites: Multivariable calculus, linear algebra"
+EN.625.695,Time Series Analysis,3,"This course will be a rigorous and extensive introduction to modern methods of time series analysis and dynamic modeling. Topics to be covered include elementary time series models, trend and seasonality, stationary processes, Hilbert space techniques, the spectral distribution function, autoregressive/ integrated/moving average (ARIMA) processes, fitting ARIMA models, forecasting, spectral analysis, the periodogram, spectral estimation techniques, multivariate time series, linear systems and optimal control, state-space models, and Kalman filtering and prediction. Additional topics may be covered if time permits. Some applications will be provided to illustrate the usefulness of the techniques. Course Note(s): This course is also offered in the Department of Applied Mathematics and Statistics (Homewood campus) as
+EN.553.639
+.",,,EN.625.603,"Graduate course in probability and statistics (such as
+EN.625.603
+Statistical Methods and Data Analysis) and familiarity with matrix theory and linear algebra.",,"EN.625.695.
+Time Series Analysis.
+3 Credits.
+This course will be a rigorous and extensive introduction to modern methods of time series analysis and dynamic modeling. Topics to be covered include elementary time series models, trend and seasonality, stationary processes, Hilbert space techniques, the spectral distribution function, autoregressive/ integrated/moving average (ARIMA) processes, fitting ARIMA models, forecasting, spectral analysis, the periodogram, spectral estimation techniques, multivariate time series, linear systems and optimal control, state-space models, and Kalman filtering and prediction. Additional topics may be covered if time permits. Some applications will be provided to illustrate the usefulness of the techniques. Course Note(s): This course is also offered in the Department of Applied Mathematics and Statistics (Homewood campus) as
+EN.553.639
+.
+Prerequisite(s):
+Graduate course in probability and statistics (such as
+EN.625.603
+Statistical Methods and Data Analysis) and familiarity with matrix theory and linear algebra."
+EN.625.703,Complex Analysis,3,"This course presents complex analysis with a rigorous approach that also emphasizes problem solving techniques and applications. The major topics covered are holomorphic functions, contour integrals, Cauchy integral theorem and residue integration, Laurent series, argument principle, conformal mappings, harmonic functions. Several topics are explored in the context of analog and digital signal processing including: Fourier transforms for functions over the reals and the integers, Laplace and z-transforms, Jordan’s lemma and inverse transforms computed via residue integration, reflection principle for lines and circles.",,,"EN.625.601, EN.625.604","Mathematical maturity, as demonstrated by
+EN.625.601
+Real Analysis,
+EN.625.604
+Ordinary Differential Equations, or other relevant courses with permission of the instructor.",,"EN.625.703.
+Complex Analysis.
+3 Credits.
+This course presents complex analysis with a rigorous approach that also emphasizes problem solving techniques and applications. The major topics covered are holomorphic functions, contour integrals, Cauchy integral theorem and residue integration, Laurent series, argument principle, conformal mappings, harmonic functions. Several topics are explored in the context of analog and digital signal processing including: Fourier transforms for functions over the reals and the integers, Laplace and z-transforms, Jordan’s lemma and inverse transforms computed via residue integration, reflection principle for lines and circles.
+Prerequisite(s):
+Mathematical maturity, as demonstrated by
+EN.625.601
+Real Analysis,
+EN.625.604
+Ordinary Differential Equations, or other relevant courses with permission of the instructor."
+EN.625.710,Fourier Analysis with Applications to Signal Processing and Differential Equations,3,"This applied course covers the theory and application of Fourier analysis, including the Fourier transform, the Fourier series, and the discrete Fourier transform. Motivation will be provided by the theory of partial differential equations arising in physics and engineering. We will also cover Fourier analysis in the more general setting of orthogonal function theory. Applications in signal processing will be discussed, including the sampling theorem and aliasing, convolution theorems, and spectral analysis.",,,,"Familiarity with differential equations, linear algebra, and real analysis.",,"EN.625.710.
+Fourier Analysis with Applications to Signal Processing and Differential Equations.
+3 Credits.
+This applied course covers the theory and application of Fourier analysis, including the Fourier transform, the Fourier series, and the discrete Fourier transform. Motivation will be provided by the theory of partial differential equations arising in physics and engineering. We will also cover Fourier analysis in the more general setting of orthogonal function theory. Applications in signal processing will be discussed, including the sampling theorem and aliasing, convolution theorems, and spectral analysis. Prerequisite(s): Familiarity with differential equations, linear algebra, and real analysis."
+EN.625.714,Introductory Stochastic Differential Equations with Applications,3,"The goal of this course is to give basic knowledge of stochastic differential equations useful for scientific and engineering modeling, guided by some problems in applications. The course treats basic theory of stochastic differential equations, including weak and strong approximation, efficient numerical methods and error estimates, the relation between stochastic differential equations and partial differential equations, Monte Carlo simulations with applications in financial mathematics, population growth models, parameter estimation, and filtering and optimal control problems.",,,,"Multivariate calculus and a graduate course in probability and statistics, as well as exposure to ordinary differential equations.",,"EN.625.714.
+Introductory Stochastic Differential Equations with Applications.
+3 Credits.
+The goal of this course is to give basic knowledge of stochastic differential equations useful for scientific and engineering modeling, guided by some problems in applications. The course treats basic theory of stochastic differential equations, including weak and strong approximation, efficient numerical methods and error estimates, the relation between stochastic differential equations and partial differential equations, Monte Carlo simulations with applications in financial mathematics, population growth models, parameter estimation, and filtering and optimal control problems. Prerequisite(s): Multivariate calculus and a graduate course in probability and statistics, as well as exposure to ordinary differential equations."
+EN.625.717,Advanced Differential Equations: Partial Differential Equations,3,"This course presents practical methods for solving partial differential equations (PDEs). The course covers solutions of hyperbolic, parabolic, and elliptic equations in two or more independent variables. Topics include Fourier series, separation of variables, existence and uniqueness theory for general higher-order equations, eigenfunction expansions, numerical methods, Green’s functions, and transform methods. MATLAB, a high-level computing language, is used in the course to complement the analytical approach and to motivate numerical methods.",,,EN.625.604,"EN.625.604
+Ordinary Differential Equations or equivalent graduate-level ODE class and knowledge of eigenvalues and eigenvectors from matrix theory. (Note: The standard undergraduate-level ODE class alone is not sufficient to meet the prerequisites for this class.)",,"EN.625.717.
+Advanced Differential Equations: Partial Differential Equations.
+3 Credits.
+This course presents practical methods for solving partial differential equations (PDEs). The course covers solutions of hyperbolic, parabolic, and elliptic equations in two or more independent variables. Topics include Fourier series, separation of variables, existence and uniqueness theory for general higher-order equations, eigenfunction expansions, numerical methods, Green’s functions, and transform methods. MATLAB, a high-level computing language, is used in the course to complement the analytical approach and to motivate numerical methods.
+Prerequisite(s):
+EN.625.604
+Ordinary Differential Equations or equivalent graduate-level ODE class and knowledge of eigenvalues and eigenvectors from matrix theory. (Note: The standard undergraduate-level ODE class alone is not sufficient to meet the prerequisites for this class.)"
+EN.625.718,Advanced Differential Equations: Nonlinear Differential Equations and Dynamical Systems,3,"This course examines ordinary differential equations from a geometric point of view and involves significant use of phase portrait diagrams and associated concepts, including equilibrium points, orbits, limit cycles, and domains of attraction. Various methods are discussed to determine existence and stability of equilibrium points and closed orbits. Methods are discussed for analyzing nonlinear differential equations (e.g., linearization, direct, perturbation, and bifurcation analysis). An introduction to chaos theory and Hamiltonian systems is also presented. The techniques learned will be applied to equations from physics, engineering, biology, ecology, and neural networks (as time permits).",,,"EN.625.604, EN.625.717","EN.625.604
+Ordinary Differential Equations or equivalent graduate-level ordinary differential equations class and knowledge of eigenvalues and eigenvectors from matrix theory. (Note: The standard undergraduate-level ordinary differential equations class alone is not sufficient to meet the prerequisites for this class.)
+EN.625.717
+Advanced Differential Equations: Partial Differential Equations is not required.",,"EN.625.718.
+Advanced Differential Equations: Nonlinear Differential Equations and Dynamical Systems.
+3 Credits.
+This course examines ordinary differential equations from a geometric point of view and involves significant use of phase portrait diagrams and associated concepts, including equilibrium points, orbits, limit cycles, and domains of attraction. Various methods are discussed to determine existence and stability of equilibrium points and closed orbits. Methods are discussed for analyzing nonlinear differential equations (e.g., linearization, direct, perturbation, and bifurcation analysis). An introduction to chaos theory and Hamiltonian systems is also presented. The techniques learned will be applied to equations from physics, engineering, biology, ecology, and neural networks (as time permits).
+Prerequisite(s):
+EN.625.604
+Ordinary Differential Equations or equivalent graduate-level ordinary differential equations class and knowledge of eigenvalues and eigenvectors from matrix theory. (Note: The standard undergraduate-level ordinary differential equations class alone is not sufficient to meet the prerequisites for this class.)
+EN.625.717
+Advanced Differential Equations: Partial Differential Equations is not required."
+EN.625.719,Advanced Differential Equations: Numerical Solutions to Ordinary and Partial Differential Equations,3,"This course presents numerical methods for the solution of both ordinary and partial differential equations. The analytical focus examines concepts of stability and convergence as applied to numerical simulations to differential equations. For solutions to ordinary differential equations topics in Euler’s method and Runge-Kutta methods are considered and analyzed, as well as boundary value problems. For solutions to partial differential equations, both implicit and explicit methods are considered and studied. The majority of consideration will be given to finite difference methods but will include a brief introduction to finite element and discontinuous Galerkin methods. A critical eye will be given toward appropriate discretization and methods, pairing effective techniques to the defined problem. Course work will be divided between analysis and computer implementation through comprehensive projects. Numerical implementations are not required to be in any specific programming language. Some familiarity with programming with a higher-level language (Fortran, MATLAB, Python) will be necessary. Course Notes: This course will complement the development of solutions to differential equations learned in
+EN.625.717
+and
+EN.625.718
+, which are largely analytical.
+EN.625.719
+will develop numerical solutions where an analytical solution may be otherwise unavailable. While there is some overlap in the types of differential equations considered, the techniques used to develop solutions are quite different. Similarly, the general concepts of numerical analysis from
+EN.625.611
+are used in this course but applied to a specific application.",,,,"625.611 Computational Methods or equivalent graduate-level numerical analysis class. One or more among 625.710, 625.714, 625.717, 625.718, 625.721, 625.725 or equivalent graduate-level mathematics course. (A course in linear algebra or matrix theory will be helpful but not required.)",,"EN.625.719.
+Advanced Differential Equations: Numerical Solutions to Ordinary and Partial Differential Equations.
+3 Credits.
+This course presents numerical methods for the solution of both ordinary and partial differential equations. The analytical focus examines concepts of stability and convergence as applied to numerical simulations to differential equations. For solutions to ordinary differential equations topics in Euler’s method and Runge-Kutta methods are considered and analyzed, as well as boundary value problems. For solutions to partial differential equations, both implicit and explicit methods are considered and studied. The majority of consideration will be given to finite difference methods but will include a brief introduction to finite element and discontinuous Galerkin methods. A critical eye will be given toward appropriate discretization and methods, pairing effective techniques to the defined problem. Course work will be divided between analysis and computer implementation through comprehensive projects. Numerical implementations are not required to be in any specific programming language. Some familiarity with programming with a higher-level language (Fortran, MATLAB, Python) will be necessary. Course Notes: This course will complement the development of solutions to differential equations learned in
+EN.625.717
+and
+EN.625.718
+, which are largely analytical.
+EN.625.719
+will develop numerical solutions where an analytical solution may be otherwise unavailable. While there is some overlap in the types of differential equations considered, the techniques used to develop solutions are quite different. Similarly, the general concepts of numerical analysis from
+EN.625.611
+are used in this course but applied to a specific application.
+Prerequisite(s):
+625.611 Computational Methods or equivalent graduate-level numerical analysis class. One or more among 625.710, 625.714, 625.717, 625.718, 625.721, 625.725 or equivalent graduate-level mathematics course. (A course in linear algebra or matrix theory will be helpful but not required.)"
+EN.625.721,Probability and Stochastic Processes I,3,"The Probability and Stochastic Processes I and II course sequence allows the student to more deeply explore and understand probability and stochastic processes. The first course in the sequence provides a deep analysis of fundamental concepts in probability to lay the foundation for the second course,
+EN.625.722
+and other specialized courses in probability.  This course builds from previous understanding of probability from Statistical Methods and Data Analysis (
+EN.625.603
+) and encourages the student to take a much more critical eye to what a model in probability means and how probability is defined and worked with. The entry point is probability space and random variables. From there, we will consider functions of random variables, along with independence and conditional probabilities. This leads to moments, joint distributions, multivariate random variables, and variance. We then focus more tightly on distributions of random variables, posterior distributions, probability generating functions, moment generating functions, characteristic functions, random sums and the types of convergence and convergence concepts. We cover the law of large numbers and central limit theorems, the Borel-Cantelli Lemmas, order statistics, stable distributions, and extreme value distributions. Our connection point to 625.722 is the last part of the course where we cover homogeneous Poisson processes, non-homogeneous Poisson processes, and compound Poisson processes. This course is proof oriented but will not require measure theory or real analysis.",,,EN.625.603,"Multivariate calculus and
+EN.625.603
+Statistical Methods and Data Analysis or equivalent",,"EN.625.721.
+Probability and Stochastic Processes I.
+3 Credits.
+The Probability and Stochastic Processes I and II course sequence allows the student to more deeply explore and understand probability and stochastic processes. The first course in the sequence provides a deep analysis of fundamental concepts in probability to lay the foundation for the second course,
+EN.625.722
+and other specialized courses in probability.  This course builds from previous understanding of probability from Statistical Methods and Data Analysis (
+EN.625.603
+) and encourages the student to take a much more critical eye to what a model in probability means and how probability is defined and worked with. The entry point is probability space and random variables. From there, we will consider functions of random variables, along with independence and conditional probabilities. This leads to moments, joint distributions, multivariate random variables, and variance. We then focus more tightly on distributions of random variables, posterior distributions, probability generating functions, moment generating functions, characteristic functions, random sums and the types of convergence and convergence concepts. We cover the law of large numbers and central limit theorems, the Borel-Cantelli Lemmas, order statistics, stable distributions, and extreme value distributions. Our connection point to 625.722 is the last part of the course where we cover homogeneous Poisson processes, non-homogeneous Poisson processes, and compound Poisson processes. This course is proof oriented but will not require measure theory or real analysis.
+Prerequisite(s):
+Multivariate calculus and
+EN.625.603
+Statistical Methods and Data Analysis or equivalent"
+EN.625.722,Probability and Stochastic Processes II,3,"The Probability and Stochastic Processes I and II course sequence allows the student to more deeply explore and understand probability and stochastic processes. The second course in the sequence is an introduction to theory and applications of stochastic processes. We start with a brief review of material covered in
+EN.625.721
+. We move onto Gaussian random vectors and processes, renewal processes, renewal reward process, discrete-time Markov chains, classification of states, birth-death process, reversible Markov chains, branching process, continuous-time Markov chains, limiting probabilities, Kolmogorov differential equations, approximation methods for transition probabilities, random walks, and martingales. This course is proof oriented.",,,EN.625.721,"Differential equations and
+EN.625.721
+Probability and Stochastic Process I or equivalent.",,"EN.625.722.
+Probability and Stochastic Processes II.
+3 Credits.
+The Probability and Stochastic Processes I and II course sequence allows the student to more deeply explore and understand probability and stochastic processes. The second course in the sequence is an introduction to theory and applications of stochastic processes. We start with a brief review of material covered in
+EN.625.721
+. We move onto Gaussian random vectors and processes, renewal processes, renewal reward process, discrete-time Markov chains, classification of states, birth-death process, reversible Markov chains, branching process, continuous-time Markov chains, limiting probabilities, Kolmogorov differential equations, approximation methods for transition probabilities, random walks, and martingales. This course is proof oriented.
+Prerequisite(s):
+Differential equations and
+EN.625.721
+Probability and Stochastic Process I or equivalent."
+EN.625.725,Theory Of Statistics I,3,"This course covers mathematical statistics and probability.  The emphasis will be on deepening your understanding of statistical theory. The topics covered include: Probabilistic models (for example: exponential families, gamma distributions) goodness of fit tests, discrete and continuous random variables, expectation, variance and covariance, data reduction and summarization, Bayes theorem and estimators, marginals, conditionals and independence, statistical determination of models (with linear regression, least squares and maximum likelihood), the Best Linear Unbiased Estimator (BLUE), hypothesis testing and needed tests (likelihood ratio tests, Chi-squared tests, Wald tests, multiple hypothesis tests, intersection-union tests, permutation tests), probability inequalities and convergence of random variables, delta methods, acceptance sampling, Poisson recursion, empirical distribution functions, negative binomials, confidence intervals, point estimates, confidence sets, method of moments, factorization theorem, order statistics, bootstrap methods, parametric inference, Bayesian inference and logistic regression.  This course is a rigorous treatment of statistics that lays the foundation for
+EN.625.726
+and other advanced courses in statistics.",,,EN.625.603,"Multivariate calculus and
+EN.625.603
+Statistical Methods and Data Analysis or equivalent. An ability to read and understand mathematical proofs would be useful.",,"EN.625.725.
+Theory Of Statistics I.
+3 Credits.
+This course covers mathematical statistics and probability.  The emphasis will be on deepening your understanding of statistical theory. The topics covered include: Probabilistic models (for example: exponential families, gamma distributions) goodness of fit tests, discrete and continuous random variables, expectation, variance and covariance, data reduction and summarization, Bayes theorem and estimators, marginals, conditionals and independence, statistical determination of models (with linear regression, least squares and maximum likelihood), the Best Linear Unbiased Estimator (BLUE), hypothesis testing and needed tests (likelihood ratio tests, Chi-squared tests, Wald tests, multiple hypothesis tests, intersection-union tests, permutation tests), probability inequalities and convergence of random variables, delta methods, acceptance sampling, Poisson recursion, empirical distribution functions, negative binomials, confidence intervals, point estimates, confidence sets, method of moments, factorization theorem, order statistics, bootstrap methods, parametric inference, Bayesian inference and logistic regression.  This course is a rigorous treatment of statistics that lays the foundation for
+EN.625.726
+and other advanced courses in statistics.
+Prerequisite(s):
+Multivariate calculus and
+EN.625.603
+Statistical Methods and Data Analysis or equivalent. An ability to read and understand mathematical proofs would be useful."
+EN.625.726,Theory of Statistics II,3,"This course is a continuation of 626.725.  The course further deepens your understanding of mathematical foundations of statistical methods through an analysis of standard and contemporary methods.  This course starts with decision theory, and then continues with density estimation, nonparametric regression methods (kernels, local polynomials), nonparametric classification (density based, kernels, trees), high dimensional methods (lasso, ridge regression), statistical analysis of graphical models, minimax theory, causality, dimensionality reduction, mixture models, boosting, conformal methods, M-estimation, U-statistics, empirical processes and semiparametric models, use of concentration inequalities, bias and variance, the central limit theorem, likelihood and sufficiency, point estimation (MLE, method of moments and Bayes), asymptotic theory, confidence intervals, bootstrap methods, high dimensional statistics, and model selection.",,,EN.625.725,"EN.625.725
+Theory of Statistics I or equivalent.An ability to read and understand mathematical proofs would be useful.",,"EN.625.726.
+Theory of Statistics II.
+3 Credits.
+This course is a continuation of 626.725.  The course further deepens your understanding of mathematical foundations of statistical methods through an analysis of standard and contemporary methods.  This course starts with decision theory, and then continues with density estimation, nonparametric regression methods (kernels, local polynomials), nonparametric classification (density based, kernels, trees), high dimensional methods (lasso, ridge regression), statistical analysis of graphical models, minimax theory, causality, dimensionality reduction, mixture models, boosting, conformal methods, M-estimation, U-statistics, empirical processes and semiparametric models, use of concentration inequalities, bias and variance, the central limit theorem, likelihood and sufficiency, point estimation (MLE, method of moments and Bayes), asymptotic theory, confidence intervals, bootstrap methods, high dimensional statistics, and model selection.
+Prerequisite(s):
+EN.625.725
+Theory of Statistics I or equivalent.An ability to read and understand mathematical proofs would be useful."
+EN.625.728,Theory of Probability,3,"This course provides a rigorous, measure-theoretic introduction to probability theory. It begins with the notion of fields, sigma fields, and measurable spaces and also surveys elements from integration theory and introduces random variables as measurable functions. It then examines the axioms of probability theory and fundamental concepts including conditioning, conditional probability and expectation, independence, and modes of convergence. Other topics covered include characteristic functions, basic limit theorems (including the weak and strong laws of large numbers), and the central limit theorem.",,,"EN.625.601, EN.625.603","EN.625.601
+Real Analysis and
+EN.625.603
+Statistical Methods and Data Analysis.",,"EN.625.728.
+Theory of Probability.
+3 Credits.
+This course provides a rigorous, measure-theoretic introduction to probability theory. It begins with the notion of fields, sigma fields, and measurable spaces and also surveys elements from integration theory and introduces random variables as measurable functions. It then examines the axioms of probability theory and fundamental concepts including conditioning, conditional probability and expectation, independence, and modes of convergence. Other topics covered include characteristic functions, basic limit theorems (including the weak and strong laws of large numbers), and the central limit theorem.
+Prerequisite(s):
+EN.625.601
+Real Analysis and
+EN.625.603
+Statistical Methods and Data Analysis."
+EN.625.734,Queuing Theory,3,"Queues are a ubiquitous part of everyday life; common examples are supermarket checkout stations, help desk call centers, manufacturing assembly lines, wireless communication networks, and multi-tasking computers. Queuing theory provides a rich and useful set of mathematical models for the analysis and design of service process for which there is contention for shared resources. This course explores both theory and application of fundamental and advanced models in this field. Fundamental models include single and multiple server Markov queues, bulk arrival and bulk service processes, and priority queues. Applications emphasize communication networks and computer operations but may include examples from transportation, manufacturing, and the service industry. Advanced topics may vary.",,,EN.625.603,"Multivariate calculus and a graduate course in probability and statistics such as
+EN.625.603
+Statistical Methods and Data Analysis.",,"EN.625.734.
+Queuing Theory.
+3 Credits.
+Queues are a ubiquitous part of everyday life; common examples are supermarket checkout stations, help desk call centers, manufacturing assembly lines, wireless communication networks, and multi-tasking computers. Queuing theory provides a rich and useful set of mathematical models for the analysis and design of service process for which there is contention for shared resources. This course explores both theory and application of fundamental and advanced models in this field. Fundamental models include single and multiple server Markov queues, bulk arrival and bulk service processes, and priority queues. Applications emphasize communication networks and computer operations but may include examples from transportation, manufacturing, and the service industry. Advanced topics may vary.
+Prerequisite(s):
+Multivariate calculus and a graduate course in probability and statistics such as
+EN.625.603
+Statistical Methods and Data Analysis."
+EN.625.736,Combinatorial Optimization,3,"Combinatorial optimization concerns finding an optimal solution from a discrete set of feasible solutions. In many of these problems, exhaustive enumeration of the solution space is intractable. The main goal of this course is to introduce students to efficient techniques for solving combinatorial optimization problems. The first part of the course will focus on algorithms for classical problems including maximum flow, minimum cut, minimum cost flow, matching theory, bipartite matching via flow, and Edmond’s blossom algorithm. The next part of the course will show how polyhedral theory can be used to deal with combinatorial optimization problems in a unifying manner. Topics include basic polyhedral theory, linear programming, integer programming, totally unimodular matrices (TUM), total dual integrality (TDI), and cutting plane theory. Other topics covered may include lattice theory and algorithmic geometry of numbers, semidefinite optimization, matroid theory, and submodular optimization.",,,"EN.625.609, EN.625.615, EN.625.636","Matrix Theory (
+EN.625.609
+), Introduction to Optimization (
+EN.625.615
+) or Graph Theory (
+EN.625.636
+) or permission of instructor.",,"EN.625.736.
+Combinatorial Optimization.
+3 Credits.
+Combinatorial optimization concerns finding an optimal solution from a discrete set of feasible solutions. In many of these problems, exhaustive enumeration of the solution space is intractable. The main goal of this course is to introduce students to efficient techniques for solving combinatorial optimization problems. The first part of the course will focus on algorithms for classical problems including maximum flow, minimum cut, minimum cost flow, matching theory, bipartite matching via flow, and Edmond’s blossom algorithm. The next part of the course will show how polyhedral theory can be used to deal with combinatorial optimization problems in a unifying manner. Topics include basic polyhedral theory, linear programming, integer programming, totally unimodular matrices (TUM), total dual integrality (TDI), and cutting plane theory. Other topics covered may include lattice theory and algorithmic geometry of numbers, semidefinite optimization, matroid theory, and submodular optimization.
+Prerequisite(s):
+Matrix Theory (
+EN.625.609
+), Introduction to Optimization (
+EN.625.615
+) or Graph Theory (
+EN.625.636
+) or permission of instructor."
+EN.625.740,Data Mining,3,"The field of data science is emerging to make sense of the growing availability and exponential increase in size of typical data sets. Central to this unfolding field is the area of data mining, an interdisciplinary subject incorporating elements of statistics, machine learning, artificial intelligence, and data processing. In this course, we will explore methods for preprocessing, visualizing, and making sense of data, focusing not only on the methods but also on the mathematical foundations of many of the algorithms of statistics and machine learning. We will learn about approaches to classification, including traditional methods such as Bayes Decision Theory and more modern approaches such as Support Vector Machines and unsupervised learning techniques that encompass clustering algorithms applicable when labels of the training data are not provided or are unknown. We will introduce and use open-source statistics and data-mining software such as R. Students will have an opportunity to see how data mining algorithms work together by reviewing case studies and applying techniques learned in hands-on projects.",,,"EN.625.609, EN.625.603","Multivariate calculus, linear algebra, and matrix theory (e.g.,
+EN.625.609
+Matrix Theory), and a course in probability and statistics (such as
+EN.625.603
+Statistical Methods and Data Analysis). This course will also assume familiarity with multiple linear regression and basic ability to program.",,"EN.625.740.
+Data Mining.
+3 Credits.
+The field of data science is emerging to make sense of the growing availability and exponential increase in size of typical data sets. Central to this unfolding field is the area of data mining, an interdisciplinary subject incorporating elements of statistics, machine learning, artificial intelligence, and data processing. In this course, we will explore methods for preprocessing, visualizing, and making sense of data, focusing not only on the methods but also on the mathematical foundations of many of the algorithms of statistics and machine learning. We will learn about approaches to classification, including traditional methods such as Bayes Decision Theory and more modern approaches such as Support Vector Machines and unsupervised learning techniques that encompass clustering algorithms applicable when labels of the training data are not provided or are unknown. We will introduce and use open-source statistics and data-mining software such as R. Students will have an opportunity to see how data mining algorithms work together by reviewing case studies and applying techniques learned in hands-on projects.
+Prerequisite(s):
+Multivariate calculus, linear algebra, and matrix theory (e.g.,
+EN.625.609
+Matrix Theory), and a course in probability and statistics (such as
+EN.625.603
+Statistical Methods and Data Analysis). This course will also assume familiarity with multiple linear regression and basic ability to program."
+EN.625.741,Game Theory,3,"Game theory is a field of applied mathematics that describes and analyzes interactive decision making when two or more parties are involved. Since finding a firm mathematical footing in 1928, it has been applied to many fields, including economics, political science, foreign policy, and engineering. This course will serve both as an introduction to and a survey of applications of game theory. Therefore, after covering the mathematical foundational work with some measure of mathematical rigor, we will examine many real-world situations, both historical and current. Topics include two-person/N-person game, cooperative/non-cooperative game, static/dynamic game, combinatorial/strategic/coalitional game, and their respective examples and applications. Further attention will be given to the meaning and the computational complexity of finding of Nash equilibrium.",,,"EN.625.609, EN.625.603","Multivariate calculus, linear algebra and matrix theory (e.g.,
+EN.625.609
+Matrix Theory), and a course in probability and statistics (such as
+EN.625.603
+Statistical Methods and Data Analysis).",,"EN.625.741.
+Game Theory.
+3 Credits.
+Game theory is a field of applied mathematics that describes and analyzes interactive decision making when two or more parties are involved. Since finding a firm mathematical footing in 1928, it has been applied to many fields, including economics, political science, foreign policy, and engineering. This course will serve both as an introduction to and a survey of applications of game theory. Therefore, after covering the mathematical foundational work with some measure of mathematical rigor, we will examine many real-world situations, both historical and current. Topics include two-person/N-person game, cooperative/non-cooperative game, static/dynamic game, combinatorial/strategic/coalitional game, and their respective examples and applications. Further attention will be given to the meaning and the computational complexity of finding of Nash equilibrium.
+Prerequisite(s):
+Multivariate calculus, linear algebra and matrix theory (e.g.,
+EN.625.609
+Matrix Theory), and a course in probability and statistics (such as
+EN.625.603
+Statistical Methods and Data Analysis)."
+EN.625.742,Theory of Machine Learning,3,"This course introduces various machine learning algorithms with emphasis on their derivation and underlying mathematical theory. Topics include the mathematical theory of linear models (regression and classification), anomaly detectors, tree-based methods, regularization, fully connected neural networks, convolutional neural networks, and model assessment. Students will gain experience in formulating models and implementing algorithms using Python. Students will need to be comfortable with writing code in Python to be successful in this course. At the end of this course, students will be able to implement, apply, and mathematically analyze a variety of machine learning algorithms when applied to real-world data. Course Note(s): Although students will have coding assignments, this course differs from other EP machine learning courses in that the primary focus is on the mathematical foundations underlying the algorithms.",,,"EN.625.609, EN.625.603, EN.605.746, EN.625.742","Multivariate calculus, linear algebra (e.g.
+EN.625.609
+), and probability and statistics (
+EN.625.603
+or similar course). Comfort with reading and writing mathematical proofs would be helpful but is not required.;Students cannot receive credit for both
+EN.605.746
+and
+EN.625.742",,"EN.625.742.
+Theory of Machine Learning.
+3 Credits.
+This course introduces various machine learning algorithms with emphasis on their derivation and underlying mathematical theory. Topics include the mathematical theory of linear models (regression and classification), anomaly detectors, tree-based methods, regularization, fully connected neural networks, convolutional neural networks, and model assessment. Students will gain experience in formulating models and implementing algorithms using Python. Students will need to be comfortable with writing code in Python to be successful in this course. At the end of this course, students will be able to implement, apply, and mathematically analyze a variety of machine learning algorithms when applied to real-world data. Course Note(s): Although students will have coding assignments, this course differs from other EP machine learning courses in that the primary focus is on the mathematical foundations underlying the algorithms.
+Prerequisite(s):
+Multivariate calculus, linear algebra (e.g.
+EN.625.609
+), and probability and statistics (
+EN.625.603
+or similar course). Comfort with reading and writing mathematical proofs would be helpful but is not required.;Students cannot receive credit for both
+EN.605.746
+and
+EN.625.742"
+EN.625.743,Stochastic Optimization & Control,3,"Stochastic optimization plays a large role in modern learning algorithms and in the analysis and control of modern systems. This course introduces the fundamental issues in stochastic search and optimization, with special emphasis on cases where classical deterministic search techniques (steepest descent, Newton–Raphson, linear and nonlinear programming, etc.) do not readily apply. These cases include many important practical problems in engineering, computer science, machine learning, and elsewhere, which will be briefly discussed throughout the course. Discrete and continuous optimization problems will be considered. Algorithms for global and local optimization problems will be discussed. Methods such as random search, least mean squares (LMS), stochastic approximation, stochastic gradient, simulated annealing, evolutionary computation (including genetic algorithms), and stochastic discrete optimization will be discussed.",,,EN.625.603,"Multivariate calculus, linear algebra, and one semester of graduate probability and statistics (e.g.,
+EN.625.603
+Statistical Methods and Data Analysis). Some computer-based homework assignments will be given. It is recommended that this course be taken only in the last half of a student’s degree program.",,"EN.625.743.
+Stochastic Optimization & Control.
+3 Credits.
+Stochastic optimization plays a large role in modern learning algorithms and in the analysis and control of modern systems. This course introduces the fundamental issues in stochastic search and optimization, with special emphasis on cases where classical deterministic search techniques (steepest descent, Newton–Raphson, linear and nonlinear programming, etc.) do not readily apply. These cases include many important practical problems in engineering, computer science, machine learning, and elsewhere, which will be briefly discussed throughout the course. Discrete and continuous optimization problems will be considered. Algorithms for global and local optimization problems will be discussed. Methods such as random search, least mean squares (LMS), stochastic approximation, stochastic gradient, simulated annealing, evolutionary computation (including genetic algorithms), and stochastic discrete optimization will be discussed.
+Prerequisite(s):
+Multivariate calculus, linear algebra, and one semester of graduate probability and statistics (e.g.,
+EN.625.603
+Statistical Methods and Data Analysis). Some computer-based homework assignments will be given. It is recommended that this course be taken only in the last half of a student’s degree program."
+EN.625.744,"Modeling, Simulation, and Monte Carlo",3,"Computer simulation and related Monte Carlo methods are widely used in engineering, scientific, and other work. Simulation provides a powerful tool for the analysis of realworld systems when the system is not amenable to traditional analytical approaches. In fact, recent advances in hardware, software, and user interfaces have made simulation a “first-line” method of attack for a growing number of problems. Areas where simulation-based approaches have emerged as indispensable include decision aiding, prototype development, performance prediction, scheduling, and computer-based personnel training. This course introduces concepts and statistical techniques that are critical to constructing and analyzing effective simulations and discusses certain applications for simulation and Monte Carlo methods. A major focus is on the role of optimization in modeling and simulation. Topics include random number generation, simulation-based optimization, model building, bias-variance tradeoff, input selection using experimental design, Markov chain Monte Carlo (MCMC), and numerical integration.",,,EN.625.603,"Multivariate calculus, familiarity with basic matrix algebra, graduate course in probability and statistics (such as
+EN.625.603
+Statistical Methods and Data Analysis). Some computer-based homework assignments will be given. It is recommended that this course be taken only in the last half of a student’s degree program.",,"EN.625.744.
+Modeling, Simulation, and Monte Carlo.
+3 Credits.
+Computer simulation and related Monte Carlo methods are widely used in engineering, scientific, and other work. Simulation provides a powerful tool for the analysis of realworld systems when the system is not amenable to traditional analytical approaches. In fact, recent advances in hardware, software, and user interfaces have made simulation a “first-line” method of attack for a growing number of problems. Areas where simulation-based approaches have emerged as indispensable include decision aiding, prototype development, performance prediction, scheduling, and computer-based personnel training. This course introduces concepts and statistical techniques that are critical to constructing and analyzing effective simulations and discusses certain applications for simulation and Monte Carlo methods. A major focus is on the role of optimization in modeling and simulation. Topics include random number generation, simulation-based optimization, model building, bias-variance tradeoff, input selection using experimental design, Markov chain Monte Carlo (MCMC), and numerical integration.
+Prerequisite(s):
+Multivariate calculus, familiarity with basic matrix algebra, graduate course in probability and statistics (such as
+EN.625.603
+Statistical Methods and Data Analysis). Some computer-based homework assignments will be given. It is recommended that this course be taken only in the last half of a student’s degree program."
+EN.625.800,Independent Study,3,"An individually tailored, supervised project on a subject related to applied and computational mathematics. The content and expectations are formalized in negotiations between the student and the faculty sponsor. A maximum of one independent study course may be applied toward the master of science degree or post-master’s certificate. While 625.800 generally counts as a 700-level or greater course, if the student is taking a regular ACM (or other) course as an independent study, the regular course number applies (e.g., if the student is using 625.800 as a means of taking a 600-level course off of its normal schedule, then the independent study counts as a 600-level course). This course may not be used towards the ACM MS or PMC if a student also wishes to count 625.801–802 or 625.803–804 towards the MS degree or PMC. This course may only be taken in the second half of a student’s degree program. All independent studies must be supervised by a current ACM instructor (exceptions must be approved by the ACM Program Chair) and must rely on material from prior ACM courses. The independent study project proposal form (see https://ep.jhu.edu/current-students/student-forms/) must be approved prior to registration.",,,,,,"EN.625.800.
+Independent Study.
+3 Credits.
+An individually tailored, supervised project on a subject related to applied and computational mathematics. The content and expectations are formalized in negotiations between the student and the faculty sponsor. A maximum of one independent study course may be applied toward the master of science degree or post-master’s certificate. While 625.800 generally counts as a 700-level or greater course, if the student is taking a regular ACM (or other) course as an independent study, the regular course number applies (e.g., if the student is using 625.800 as a means of taking a 600-level course off of its normal schedule, then the independent study counts as a 600-level course). This course may not be used towards the ACM MS or PMC if a student also wishes to count 625.801–802 or 625.803–804 towards the MS degree or PMC. This course may only be taken in the second half of a student’s degree program. All independent studies must be supervised by a current ACM instructor (exceptions must be approved by the ACM Program Chair) and must rely on material from prior ACM courses. The independent study project proposal form (see https://ep.jhu.edu/current-students/student-forms/) must be approved prior to registration."
+EN.625.801,Applied and Computational Mathematics Master's Research,3,"This is the first in a two-course sequence (
+EN.625.801
+and
+EN.625.802
+) designed for students in the master’s program who wish to work with a faculty advisor to conduct significant, original independent research in the field of applied and computational mathematics. (Each course is one semester.) A sequence may be used to fulfill two courses within the 700-level course requirements for the master’s degree; only one sequence may count toward the degree. For the sequence 625.801 and 625.802, the student will produce a technical paper for submission to a journal or to a conference with accompanied refereed proceedings. The intent of the research is to expand the body of knowledge in the broad area of applied mathematics, with the research leading to professional-quality documentation. Students with a potential interest in pursuing a doctoral degree at JHU, or another university, should consider enrolling in either this sequence or
+EN.625.803
+and
+EN.625.804
+to gain familiarity with the research process. (Doctoral intentions are not a requirement for enrollment.). Course Note(s): The course
+EN.625.800
+Independent Study may not be used towards the ACM M.S. if the student also wishes to count
+EN.625.801
+–802 towards the M.S. degree. The student must identify a potential research advisor from the Applied and Computational Mathematics Research Faculty to initiate the approval procedure prior to enrollment in the chosen course sequence; enrollment may only occur after approval. Students may only enroll in 625.801 with the clear intention of also enrolling in 625.802; students seeking only a one-semester research project should register for 625.800. A full description of the guidelines (which includes the list of approved ACM research faculty) and the approval form can be found at https://ep.jhu.edu/current-students/student-forms/.",,,"EN.625.601, EN.625.609, EN.625.603, EN.625.717, EN.625.718, EN.625.721, EN.625.722, EN.625.725, EN.625.726","Completion of at least six courses towards the Master of Science, including
+EN.625.601
+Real Analysis and/or
+EN.625.609
+Matrix Theory,
+EN.625.603
+Statistical Methods and Data Analysis, and at least one of the following three two-semester sequences:
+EN.625.717
+–
+EN.625.718
+Advanced Differential Equations: Partial Differential Equations and Nonlinear Differential Equations and Dynamical Systems,
+EN.625.721
+–
+EN.625.722
+Probability and Stochastic Processes I and II, or
+EN.625.725
+–
+EN.625.726
+Theory of Statistics I and II. It is recommended that the sequence represent the final two courses of the degree.",,"EN.625.801.
+Applied and Computational Mathematics Master's Research.
+3 Credits.
+This is the first in a two-course sequence (
+EN.625.801
+and
+EN.625.802
+) designed for students in the master’s program who wish to work with a faculty advisor to conduct significant, original independent research in the field of applied and computational mathematics. (Each course is one semester.) A sequence may be used to fulfill two courses within the 700-level course requirements for the master’s degree; only one sequence may count toward the degree. For the sequence 625.801 and 625.802, the student will produce a technical paper for submission to a journal or to a conference with accompanied refereed proceedings. The intent of the research is to expand the body of knowledge in the broad area of applied mathematics, with the research leading to professional-quality documentation. Students with a potential interest in pursuing a doctoral degree at JHU, or another university, should consider enrolling in either this sequence or
+EN.625.803
+and
+EN.625.804
+to gain familiarity with the research process. (Doctoral intentions are not a requirement for enrollment.). Course Note(s): The course
+EN.625.800
+Independent Study may not be used towards the ACM M.S. if the student also wishes to count
+EN.625.801
+–802 towards the M.S. degree. The student must identify a potential research advisor from the Applied and Computational Mathematics Research Faculty to initiate the approval procedure prior to enrollment in the chosen course sequence; enrollment may only occur after approval. Students may only enroll in 625.801 with the clear intention of also enrolling in 625.802; students seeking only a one-semester research project should register for 625.800. A full description of the guidelines (which includes the list of approved ACM research faculty) and the approval form can be found at https://ep.jhu.edu/current-students/student-forms/.
+Prerequisite(s):
+Completion of at least six courses towards the Master of Science, including
+EN.625.601
+Real Analysis and/or
+EN.625.609
+Matrix Theory,
+EN.625.603
+Statistical Methods and Data Analysis, and at least one of the following three two-semester sequences:
+EN.625.717
+–
+EN.625.718
+Advanced Differential Equations: Partial Differential Equations and Nonlinear Differential Equations and Dynamical Systems,
+EN.625.721
+–
+EN.625.722
+Probability and Stochastic Processes I and II, or
+EN.625.725
+–
+EN.625.726
+Theory of Statistics I and II. It is recommended that the sequence represent the final two courses of the degree."
+EN.625.802,Applied and Computational Mathematics Master's Research,3,"This is the second in a two-course sequence (
+EN.625.801
+and
+EN.625.802
+) designed for students in the master’s program who wish to work with a faculty advisor to conduct significant, original independent research in the field of applied and computational mathematics. (Each course is one semester.) A sequence may be used to fulfill two courses within the 700-level course requirements for the master’s degree; only one sequence may count toward the degree. For the sequence 625.801 and 625.802, the student will produce a technical paper for submission to a journal or to a conference with accompanied refereed proceedings. The intent of the research is to expand the body of knowledge in the broad area of applied mathematics, with the research leading to professional-quality documentation. Students with a potential interest in pursuing a doctoral degree at JHU, or another university, should consider enrolling in either this sequence or
+EN.625.803
+and
+EN.625.804
+to gain familiarity with the research process. (Doctoral intentions are not a requirement for enrollment.) Course Note(s): The course
+EN.625.800
+Independent Study may not be used towards the ACM M.S. if the student also wishes to count
+EN.625.801
+–802 towards the M.S. degree.   A full description of the guidelines (which includes the list of approved ACM research faculty) and the approval form can be found at https://ep.jhu.edu/current-students/student-forms/.",,,EN.625.801,EN.625.801,,"EN.625.802.
+Applied and Computational Mathematics Master's Research.
+3 Credits.
+This is the second in a two-course sequence (
+EN.625.801
+and
+EN.625.802
+) designed for students in the master’s program who wish to work with a faculty advisor to conduct significant, original independent research in the field of applied and computational mathematics. (Each course is one semester.) A sequence may be used to fulfill two courses within the 700-level course requirements for the master’s degree; only one sequence may count toward the degree. For the sequence 625.801 and 625.802, the student will produce a technical paper for submission to a journal or to a conference with accompanied refereed proceedings. The intent of the research is to expand the body of knowledge in the broad area of applied mathematics, with the research leading to professional-quality documentation. Students with a potential interest in pursuing a doctoral degree at JHU, or another university, should consider enrolling in either this sequence or
+EN.625.803
+and
+EN.625.804
+to gain familiarity with the research process. (Doctoral intentions are not a requirement for enrollment.) Course Note(s): The course
+EN.625.800
+Independent Study may not be used towards the ACM M.S. if the student also wishes to count
+EN.625.801
+–802 towards the M.S. degree.   A full description of the guidelines (which includes the list of approved ACM research faculty) and the approval form can be found at https://ep.jhu.edu/current-students/student-forms/.
+Prerequisite(s):
+EN.625.801"
+EN.625.803,Applied and Computational Mathematics Master's Thesis,3,"This is the first in a two-course sequence (
+EN.625.803
+and
+EN.625.804
+) designed for students in the master’s program who wish to work with a faculty advisor to conduct significant, original independent research in the field of applied and computational mathematics. (Each course is one semester.) A sequence may be used to fulfill two courses within the 700-level course requirements for the master’s degree; only one sequence may count toward the degree. For sequence 625.803 and 625.804, the student is to produce a bound hard-copy thesis for submission to the JHU library and an electronic version of the thesis based on standards posted at https://www.library.jhu.edu/library-services/electronic-theses-dissertations/. (The student is also encouraged to write a technical paper for publication based on the thesis.) The intent of the research is to expand the body of knowledge in the broad area of applied mathematics, with the research leading to professional-quality documentation. A full description of the guidelines (which includes the list of approved ACM research faculty) and the approval form can be found at https://ep.jhu.edu/current-students/student-forms/.",,,"EN.625.601, EN.625.609, EN.625.603, EN.625.717, EN.625.718, EN.625.721, EN.625.722, EN.625.725, EN.625.726","Completion of at least six courses towards the Master of Science, including
+EN.625.601
+Real Analysis and/or
+EN.625.609
+Matrix Theory,
+EN.625.603
+Statistical Methods and Data Analysis, and at least one of the following three two-semester sequences:
+EN.625.717
+–
+EN.625.718
+Advanced Differential Equations: Partial Differential Equations and Nonlinear Differential Equations and Dynamical Systems,
+EN.625.721
+–
+EN.625.722
+Probability and Stochastic Processes I and II, or
+EN.625.725
+–
+EN.625.726
+Theory of Statistics I and II. It is recommended that the sequence represent the final two courses of the degree.",,"EN.625.803.
+Applied and Computational Mathematics Master's Thesis.
+3 Credits.
+This is the first in a two-course sequence (
+EN.625.803
+and
+EN.625.804
+) designed for students in the master’s program who wish to work with a faculty advisor to conduct significant, original independent research in the field of applied and computational mathematics. (Each course is one semester.) A sequence may be used to fulfill two courses within the 700-level course requirements for the master’s degree; only one sequence may count toward the degree. For sequence 625.803 and 625.804, the student is to produce a bound hard-copy thesis for submission to the JHU library and an electronic version of the thesis based on standards posted at https://www.library.jhu.edu/library-services/electronic-theses-dissertations/. (The student is also encouraged to write a technical paper for publication based on the thesis.) The intent of the research is to expand the body of knowledge in the broad area of applied mathematics, with the research leading to professional-quality documentation. A full description of the guidelines (which includes the list of approved ACM research faculty) and the approval form can be found at https://ep.jhu.edu/current-students/student-forms/.
+Prerequisite(s):
+Completion of at least six courses towards the Master of Science, including
+EN.625.601
+Real Analysis and/or
+EN.625.609
+Matrix Theory,
+EN.625.603
+Statistical Methods and Data Analysis, and at least one of the following three two-semester sequences:
+EN.625.717
+–
+EN.625.718
+Advanced Differential Equations: Partial Differential Equations and Nonlinear Differential Equations and Dynamical Systems,
+EN.625.721
+–
+EN.625.722
+Probability and Stochastic Processes I and II, or
+EN.625.725
+–
+EN.625.726
+Theory of Statistics I and II. It is recommended that the sequence represent the final two courses of the degree."
+EN.625.804,Applied and Computational Mathematics Master's Thesis,3,"This is the second in a two-course sequence (
+EN.625.803
+and
+EN.625.804
+) designed for students in the master’s program who wish to work with a faculty advisor to conduct significant, original independent research in the field of applied and computational mathematics. (Each course is one semester.) A sequence may be used to fulfill two courses within the 700-level course requirements for the master’s degree; only one sequence may count toward the degree. For sequence 625.803 and 625.804, the student is to produce a bound hard-copy thesis for submission to the JHU library and an electronic version of the thesis based on standards posted at https://www.library.jhu.edu/library-services/electronic-theses-dissertations/. (The student is also encouraged to write a technical paper for publication based on the thesis.) The intent of the research is to expand the body of knowledge in the broad area of applied mathematics, with the research leading to professional-quality documentation. Students with a potential interest in pursuing a doctoral degree at JHU, or another university, should consider enrolling in either this sequence or
+EN.625.801
+and
+EN.625.802
+to gain familiarity with the research process. (Doctoral intentions are not a requirement for enrollment.) Course Note(s): The course
+EN.625.800
+Independent Study may not be used towards the ACM M.S. if the student also wishes to count
+EN.625.803
+–804 towards the M.S. degree.   A full description of the guidelines (which includes the list of approved ACM research faculty) and the approval form can be found at https://ep.jhu.edu/current-students/student-forms/.",,,EN.625.803,EN.625.803,,"EN.625.804.
+Applied and Computational Mathematics Master's Thesis.
+3 Credits.
+This is the second in a two-course sequence (
+EN.625.803
+and
+EN.625.804
+) designed for students in the master’s program who wish to work with a faculty advisor to conduct significant, original independent research in the field of applied and computational mathematics. (Each course is one semester.) A sequence may be used to fulfill two courses within the 700-level course requirements for the master’s degree; only one sequence may count toward the degree. For sequence 625.803 and 625.804, the student is to produce a bound hard-copy thesis for submission to the JHU library and an electronic version of the thesis based on standards posted at https://www.library.jhu.edu/library-services/electronic-theses-dissertations/. (The student is also encouraged to write a technical paper for publication based on the thesis.) The intent of the research is to expand the body of knowledge in the broad area of applied mathematics, with the research leading to professional-quality documentation. Students with a potential interest in pursuing a doctoral degree at JHU, or another university, should consider enrolling in either this sequence or
+EN.625.801
+and
+EN.625.802
+to gain familiarity with the research process. (Doctoral intentions are not a requirement for enrollment.) Course Note(s): The course
+EN.625.800
+Independent Study may not be used towards the ACM M.S. if the student also wishes to count
+EN.625.803
+–804 towards the M.S. degree.   A full description of the guidelines (which includes the list of approved ACM research faculty) and the approval form can be found at https://ep.jhu.edu/current-students/student-forms/.
+Prerequisite(s):
+EN.625.803"
+EN.625.805,Applied and Computational Mathematics Post-Master’s Research,3,"This is the first in a two-course sequence (
+EN.625.805
+and
+EN.625.806
+) designed for students in the postmaster’s certificate (PMC) program who wish to work with a faculty advisor to conduct significant, original independent research in the field of applied and computational mathematics. (Each course is one semester.) A sequence may be used to fulfill two courses within the course requirements for the PMC; only one sequence may count toward the certificate. For sequence 625.805 and 625.806, the student is to produce a technical paper for submission to a journal or to a conference with accompanied refereed proceedings. The intent of the research is to expand the body of knowledge in the broad area of applied mathematics, with the research leading to professional-quality documentation. Students with a potential interest in pursuing a doctoral degree at JHU, or another university, should consider enrolling in either this sequence or
+EN.625.807
+and
+EN.625.808
+to gain familiarity with the research process. (Doctoral intentions are not a requirement for enrollment.) Course Note(s): The course
+EN.625.800
+Independent Study may not be used towards the ACM PMC if the student also wishes to count
+EN.625.805
+–806 towards the PMC. The student must identify a potential research advisor from the Applied and Computational Mathematics Research Faculty to initiate the approval procedure prior to enrollment in the chosen course sequence; enrollment may only occur after approval. Students may only enroll in 625.805 with the clear intention of also enrolling in 625.806; students seeking only a one-semester research project should register for 625.800.  A full description of the guidelines (which includes the list of approved ACM research faculty) and the approval form can be found at https://ep.jhu.edu/current-students/student-forms/.",,,,,,"EN.625.805.
+Applied and Computational Mathematics Post-Master’s Research.
+3 Credits.
+This is the first in a two-course sequence (
+EN.625.805
+and
+EN.625.806
+) designed for students in the postmaster’s certificate (PMC) program who wish to work with a faculty advisor to conduct significant, original independent research in the field of applied and computational mathematics. (Each course is one semester.) A sequence may be used to fulfill two courses within the course requirements for the PMC; only one sequence may count toward the certificate. For sequence 625.805 and 625.806, the student is to produce a technical paper for submission to a journal or to a conference with accompanied refereed proceedings. The intent of the research is to expand the body of knowledge in the broad area of applied mathematics, with the research leading to professional-quality documentation. Students with a potential interest in pursuing a doctoral degree at JHU, or another university, should consider enrolling in either this sequence or
+EN.625.807
+and
+EN.625.808
+to gain familiarity with the research process. (Doctoral intentions are not a requirement for enrollment.) Course Note(s): The course
+EN.625.800
+Independent Study may not be used towards the ACM PMC if the student also wishes to count
+EN.625.805
+–806 towards the PMC. The student must identify a potential research advisor from the Applied and Computational Mathematics Research Faculty to initiate the approval procedure prior to enrollment in the chosen course sequence; enrollment may only occur after approval. Students may only enroll in 625.805 with the clear intention of also enrolling in 625.806; students seeking only a one-semester research project should register for 625.800.  A full description of the guidelines (which includes the list of approved ACM research faculty) and the approval form can be found at https://ep.jhu.edu/current-students/student-forms/."
+EN.625.806,Applied and Computational Mathematics Post-Master’s Research,3,"This is the second in a two-course sequence (
+EN.625.805
+and
+EN.625.806
+) designed for students in the postmaster’s certificate (PMC) program who wish to work with a faculty advisor to conduct significant, original independent research in the field of applied and computational mathematics. (Each course is one semester.) A sequence may be used to fulfill two courses within the course requirements for the PMC; only one sequence may count toward the certificate. For sequence 625.805 and 625.806, the student is to produce a technical paper for submission to a journal or to a conference with accompanied refereed proceedings. The intent of the research is to expand the body of knowledge in the broad area of applied mathematics, with the research leading to professional-quality documentation. Students with a potential interest in pursuing a doctoral degree at JHU, or another university, should consider enrolling in either this sequence or
+EN.625.807
+and
+EN.625.808
+to gain familiarity with the research process. (Doctoral intentions are not a requirement for enrollment.)  Course Note(s): The course
+EN.625.800
+Independent Study may not be used towards the ACM PMC if the student also wishes to count
+EN.625.805
+–806 towards the PMC.   A full description of the guidelines (which includes the list of approved ACM research faculty) and the approval form can be found at https://ep.jhu.edu/current-students/student-forms/.",,,EN.625.805,EN.625.805,,"EN.625.806.
+Applied and Computational Mathematics Post-Master’s Research.
+3 Credits.
+This is the second in a two-course sequence (
+EN.625.805
+and
+EN.625.806
+) designed for students in the postmaster’s certificate (PMC) program who wish to work with a faculty advisor to conduct significant, original independent research in the field of applied and computational mathematics. (Each course is one semester.) A sequence may be used to fulfill two courses within the course requirements for the PMC; only one sequence may count toward the certificate. For sequence 625.805 and 625.806, the student is to produce a technical paper for submission to a journal or to a conference with accompanied refereed proceedings. The intent of the research is to expand the body of knowledge in the broad area of applied mathematics, with the research leading to professional-quality documentation. Students with a potential interest in pursuing a doctoral degree at JHU, or another university, should consider enrolling in either this sequence or
+EN.625.807
+and
+EN.625.808
+to gain familiarity with the research process. (Doctoral intentions are not a requirement for enrollment.)  Course Note(s): The course
+EN.625.800
+Independent Study may not be used towards the ACM PMC if the student also wishes to count
+EN.625.805
+–806 towards the PMC.   A full description of the guidelines (which includes the list of approved ACM research faculty) and the approval form can be found at https://ep.jhu.edu/current-students/student-forms/.
+Prerequisite(s):
+EN.625.805"
+EN.625.807,Applied and Computational Mathematics Post-Master’s Thesis,3,"This is the first in a two-course sequence (
+EN.625.807
+and
+EN.625.808
+) designed for students in the postmaster’s certificate (PMC) program who wish to work with a faculty advisor to conduct significant, original independent research in the field of applied and computational mathematics (each course is one semester). A sequence may be used to fulfill two courses within the course requirements for the PMC; only one sequence may count towards the certificate. For sequence 625.807 and 625.808, the student is to produce a bound hard-copy thesis for submission to the JHU library and an electronic version of the thesis based on standards posted at https://www.library.jhu.edu/library-services/electronic-theses-dissertations/. (The student is also encouraged to write a technical paper for publication based on the thesis.) The intent of the research is to expand the body of knowledge in the broad area of applied mathematics, with the research leading to professional-quality documentation. Students with a potential interest in pursuing a doctoral degree at JHU, or another university, should consider enrolling in either this sequence or
+EN.625.805
+and
+EN.625.806
+to gain familiarity with the research process. (Doctoral intentions are not a requirement for enrollment.) Course Note(s): The course
+EN.625.800
+Independent Study may not be used towards the ACM PMC if the student also wishes to count
+EN.625.807
+–808 towards the PMC. The student must identify a potential research advisor from the Applied and Computational Mathematics Research Faculty to initiate the approval procedure prior to enrollment in the chosen course sequence; enrollment may only occur after approval. Students may only enroll in 625.807 with the clear intention of also enrolling in 625.808; students seeking only a one-semester research project should register for 625.800.   A full description of the guidelines (which includes the list of approved ACM research faculty) and the approval form can be found at https://ep.jhu.edu/current-students/student-forms/.",,,,,,"EN.625.807.
+Applied and Computational Mathematics Post-Master’s Thesis.
+3 Credits.
+This is the first in a two-course sequence (
+EN.625.807
+and
+EN.625.808
+) designed for students in the postmaster’s certificate (PMC) program who wish to work with a faculty advisor to conduct significant, original independent research in the field of applied and computational mathematics (each course is one semester). A sequence may be used to fulfill two courses within the course requirements for the PMC; only one sequence may count towards the certificate. For sequence 625.807 and 625.808, the student is to produce a bound hard-copy thesis for submission to the JHU library and an electronic version of the thesis based on standards posted at https://www.library.jhu.edu/library-services/electronic-theses-dissertations/. (The student is also encouraged to write a technical paper for publication based on the thesis.) The intent of the research is to expand the body of knowledge in the broad area of applied mathematics, with the research leading to professional-quality documentation. Students with a potential interest in pursuing a doctoral degree at JHU, or another university, should consider enrolling in either this sequence or
+EN.625.805
+and
+EN.625.806
+to gain familiarity with the research process. (Doctoral intentions are not a requirement for enrollment.) Course Note(s): The course
+EN.625.800
+Independent Study may not be used towards the ACM PMC if the student also wishes to count
+EN.625.807
+–808 towards the PMC. The student must identify a potential research advisor from the Applied and Computational Mathematics Research Faculty to initiate the approval procedure prior to enrollment in the chosen course sequence; enrollment may only occur after approval. Students may only enroll in 625.807 with the clear intention of also enrolling in 625.808; students seeking only a one-semester research project should register for 625.800.   A full description of the guidelines (which includes the list of approved ACM research faculty) and the approval form can be found at https://ep.jhu.edu/current-students/student-forms/."
+EN.625.808,Applied and Computational Mathematics Post-Master’s Thesis,3,"This is the second in a two-course sequence (
+EN.625.807
+and
+EN.625.808
+) designed for students in the postmaster’s certificate (PMC) program who wish to work with a faculty advisor to conduct significant, original independent research in the field of applied and computational mathematics (each course is one semester). A sequence may be used to fulfill two courses within the course requirements for the PMC; only one sequence may count towards the certificate. For sequence 625.807 and 625.808, the student is to produce a bound hard-copy thesis for submission to the JHU library and an electronic version of the thesis based on standards posted at https://www.library.jhu.edu/library-services/electronic-theses-dissertations/. (The student is also encouraged to write a technical paper for publication based on the thesis.) The intent of the research is to expand the body of knowledge in the broad area of applied mathematics, with the research leading to professional-quality documentation. Students with a potential interest in pursuing a doctoral degree at JHU, or another university, should consider enrolling in either this sequence or
+EN.625.805
+and
+EN.625.806
+to gain familiarity with the research process. (Doctoral intentions are not a requirement for enrollment.) Course Note(s): The course
+EN.625.800
+Independent Study may not be used towards the ACM PMC if the student also wishes to count
+EN.625.807
+–808 towards the PMC.   A full description of the guidelines (which includes the list of approved ACM research faculty) and the approval form can be found at https://ep.jhu.edu/current-students/student-forms/.",,,EN.625.807,EN.625.807,,"EN.625.808.
+Applied and Computational Mathematics Post-Master’s Thesis.
+3 Credits.
+This is the second in a two-course sequence (
+EN.625.807
+and
+EN.625.808
+) designed for students in the postmaster’s certificate (PMC) program who wish to work with a faculty advisor to conduct significant, original independent research in the field of applied and computational mathematics (each course is one semester). A sequence may be used to fulfill two courses within the course requirements for the PMC; only one sequence may count towards the certificate. For sequence 625.807 and 625.808, the student is to produce a bound hard-copy thesis for submission to the JHU library and an electronic version of the thesis based on standards posted at https://www.library.jhu.edu/library-services/electronic-theses-dissertations/. (The student is also encouraged to write a technical paper for publication based on the thesis.) The intent of the research is to expand the body of knowledge in the broad area of applied mathematics, with the research leading to professional-quality documentation. Students with a potential interest in pursuing a doctoral degree at JHU, or another university, should consider enrolling in either this sequence or
+EN.625.805
+and
+EN.625.806
+to gain familiarity with the research process. (Doctoral intentions are not a requirement for enrollment.) Course Note(s): The course
+EN.625.800
+Independent Study may not be used towards the ACM PMC if the student also wishes to count
+EN.625.807
+–808 towards the PMC.   A full description of the guidelines (which includes the list of approved ACM research faculty) and the approval form can be found at https://ep.jhu.edu/current-students/student-forms/.
+Prerequisite(s):
+EN.625.807"

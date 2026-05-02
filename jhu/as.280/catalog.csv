@@ -1,0 +1,555 @@
+code,title,credits,description,fa_tags,distribution,prereq_codes,prereq_text,restrictions,raw_description
+AS.280.101,Introduction to Public Health,4,"This course provides an overview of the field of public health. Topics include the major causes of morbidity and mortality; the socioeconomic, behavioral, and environmental factors that affect health; the analytical methods used in the field; the role of government in protecting the public’s health; key features of the U.S. health care system; and current challenges in the field. The course also introduces students to the basic conceptual models and approaches that are central to public health practice. This course is restricted to rising Sophomores who are declared Public Health Studies majors, and incoming Freshman only.","FA1, FA4, FA5",Social and Behavioral Sciences,,,"This course is restricted to rising Sophomores who are declared Public Health Studies majors, and incoming Freshman only. | Writing Intensive","AS.280.101.
+Introduction to Public Health.
+4 Credits.
+This course provides an overview of the field of public health. Topics include the major causes of morbidity and mortality; the socioeconomic, behavioral, and environmental factors that affect health; the analytical methods used in the field; the role of government in protecting the public’s health; key features of the U.S. health care system; and current challenges in the field. The course also introduces students to the basic conceptual models and approaches that are central to public health practice. This course is restricted to rising Sophomores who are declared Public Health Studies majors, and incoming Freshman only.
+Distribution Area: Social and Behavioral Sciences
+AS Foundational Abilities: Writing and Communication (FA1),
+Citizens and Society (FA4),
+Ethics and Foundations (FA5)
+EN Foundational Abilities: Engagement with Society (FA4)
+Writing Intensive"
+AS.280.120,Lectures on Public Health and Wellbeing in Baltimore,1,"An introduction to Urban Health with Baltimore as a case study: wellbeing, nutrition, education, violence and city-wide geographic variation. Lectures by JH Faculty, local government/service providers and advocates.",FA4,Social and Behavioral Sciences,"AS.280.320, AS.280.120","Students who have taken
+AS.280.320
+are not eligible to take
+AS.280.120
+.",,"AS.280.120.
+Lectures on Public Health and Wellbeing in Baltimore.
+1 Credit.
+An introduction to Urban Health with Baltimore as a case study: wellbeing, nutrition, education, violence and city-wide geographic variation. Lectures by JH Faculty, local government/service providers and advocates.
+Prerequisite(s):
+Students who have taken
+AS.280.320
+are not eligible to take
+AS.280.120
+.
+Distribution Area: Social and Behavioral Sciences
+AS Foundational Abilities: Citizens and Society (FA4)
+EN Foundational Abilities: Engagement with Society (FA4)"
+AS.280.140,Social Inequality and the Public's Health,1,"In epidemiology, public health scientists use quantitative and analytic tools examine to the distribution of disease across the population and to identify the various factors that shape these patterns. This course will explore how epidemiologic tools can be used to interrogate the social and structural factors that create health disparities in society. Students will learn about key social determinants of health (including class, race, and gender), the various pathways by which social experiences “get under the skin” to impact physiologic disease states, and how epidemiologists investigate these processes through population-based research. Students will leave the course with an understanding of the ways public health professionals and community members alike can use this public health research to develop policies and programs that protect the health of vulnerable groups and reduce inequality.","FA4, FA5","Quantitative and Mathematical Sciences, Social and Behavioral Sciences",,,,"AS.280.140.
+Social Inequality and the Public's Health.
+1 Credit.
+In epidemiology, public health scientists use quantitative and analytic tools examine to the distribution of disease across the population and to identify the various factors that shape these patterns. This course will explore how epidemiologic tools can be used to interrogate the social and structural factors that create health disparities in society. Students will learn about key social determinants of health (including class, race, and gender), the various pathways by which social experiences “get under the skin” to impact physiologic disease states, and how epidemiologists investigate these processes through population-based research. Students will leave the course with an understanding of the ways public health professionals and community members alike can use this public health research to develop policies and programs that protect the health of vulnerable groups and reduce inequality.
+Distribution Area: Quantitative and Mathematical Sciences, Social and Behavioral Sciences
+AS Foundational Abilities: Citizens and Society (FA4),
+Ethics and Foundations (FA5)
+EN Foundational Abilities: Engagement with Society (FA4)"
+AS.280.161,Biodiversity and Public Health,3,"This course explores the intersection of biodiversity and public health.  A combination of readings, documentaries, case studies, classroom discussions and in-class projects will be used to deepen our understanding of the role that the natural world plays in our emotional, social, physical and mental well-being. This course was designed for public health students who are not intending to pursue a career in natural sciences or medicine. This course satisfies the Public Health Studies Biology requirement but does not satisfy Pre-Med requirements. All first-year students must have taken or be currently enrolled in
+AS.280.101
+to register. Instructor Approval Required.","FA1, FA2, FA6",Natural Sciences,AS.020.151,AS.020.151,,"AS.280.161.
+Biodiversity and Public Health.
+3 Credits.
+This course explores the intersection of biodiversity and public health.  A combination of readings, documentaries, case studies, classroom discussions and in-class projects will be used to deepen our understanding of the role that the natural world plays in our emotional, social, physical and mental well-being. This course was designed for public health students who are not intending to pursue a career in natural sciences or medicine. This course satisfies the Public Health Studies Biology requirement but does not satisfy Pre-Med requirements. All first-year students must have taken or be currently enrolled in
+AS.280.101
+to register. Instructor Approval Required.
+Prerequisite(s):
+AS.020.151
+Distribution Area: Natural Sciences
+AS Foundational Abilities: Writing and Communication (FA1),
+Science and Data (FA2),
+Projects and Methods (FA6)"
+AS.280.225,"Population, Health and Development",3,"This course will cover the major world population changes in the past century as well as the contemporary situation and projections for this century. Topics include rapid population growth, the historical and continuing decline of death and birth rates, contraceptive methods as well as family planning and child survival programs, population aging, urbanization, population and the environment and the demographic effects of HIV/AIDS and Covid.","FA4, FA5",Social and Behavioral Sciences,,,,"AS.280.225.
+Population, Health and Development.
+3 Credits.
+This course will cover the major world population changes in the past century as well as the contemporary situation and projections for this century. Topics include rapid population growth, the historical and continuing decline of death and birth rates, contraceptive methods as well as family planning and child survival programs, population aging, urbanization, population and the environment and the demographic effects of HIV/AIDS and Covid.
+Distribution Area: Social and Behavioral Sciences
+AS Foundational Abilities: Citizens and Society (FA4),
+Ethics and Foundations (FA5)
+EN Foundational Abilities: Engagement with Society (FA4)"
+AS.280.240,Research Methods in Public Health,4,"This course examines the research process, with an emphasis on formulating research questions, critically evaluating published research, and drawing objective conclusions from a body of scientific literature.  Students conduct a systematic review of the scientific literature related to a public health issue. Labs focus on developing and documenting a sound review methodology and communicating the review findings effectively in writing.","FA1, FA2, FA6",Social and Behavioral Sciences,"AS.280.101, AS.280.345, AS.200.314, EN.553.230, EN.553.310, EN.553.311, EN.553.420, EN.553.421, EN.553.430, EN.560.348, EN.553.211, EN.553.111, EN.553.112","AS.280.101
+AND (
+AS.280.345
+OR AS.200.314 OR EN.553.230 OR
+EN.553.310
+OR
+EN.553.311
+OR
+EN.553.420
+OR
+EN.553.421
+OR
+EN.553.430
+OR EN.560.348 OR
+EN.553.211
+) OR (
+EN.553.111
+AND
+EN.553.112
+)",Writing Intensive,"AS.280.240.
+Research Methods in Public Health.
+4 Credits.
+This course examines the research process, with an emphasis on formulating research questions, critically evaluating published research, and drawing objective conclusions from a body of scientific literature.  Students conduct a systematic review of the scientific literature related to a public health issue. Labs focus on developing and documenting a sound review methodology and communicating the review findings effectively in writing.
+Prerequisite(s):
+AS.280.101
+AND (
+AS.280.345
+OR AS.200.314 OR EN.553.230 OR
+EN.553.310
+OR
+EN.553.311
+OR
+EN.553.420
+OR
+EN.553.421
+OR
+EN.553.430
+OR EN.560.348 OR
+EN.553.211
+) OR (
+EN.553.111
+AND
+EN.553.112
+)
+Distribution Area: Social and Behavioral Sciences
+AS Foundational Abilities: Writing and Communication (FA1),
+Science and Data (FA2),
+Projects and Methods (FA6)
+Writing Intensive"
+AS.280.314,"Truth, Evidence, and Influence: Case Studies in Public Health",3,"This course examines the roles of science, media, politics and business in our society and explores how these spheres interact to influence our health. We will develop a conceptual framework that illustrates these relationships by analyzing historical and current case studies in public health, including HIV/AIDS, COVID-19, gun violence, climate change, and the opioid epidemic. We will discuss the nature of “evidence” and how it is used by various entities and actors to advance their interests, sometimes obscuring the truth. Students will write reflections on course materials, participate in classroom discussion, and undertake independent and group projects.","FA4, FA5",Social and Behavioral Sciences,"AS.280.101, AS.280.350","AS.280.101
+;
+AS.280.350",,"AS.280.314.
+Truth, Evidence, and Influence: Case Studies in Public Health.
+3 Credits.
+This course examines the roles of science, media, politics and business in our society and explores how these spheres interact to influence our health. We will develop a conceptual framework that illustrates these relationships by analyzing historical and current case studies in public health, including HIV/AIDS, COVID-19, gun violence, climate change, and the opioid epidemic. We will discuss the nature of “evidence” and how it is used by various entities and actors to advance their interests, sometimes obscuring the truth. Students will write reflections on course materials, participate in classroom discussion, and undertake independent and group projects.
+Prerequisite(s):
+AS.280.101
+;
+AS.280.350
+Distribution Area: Social and Behavioral Sciences
+AS Foundational Abilities: Citizens and Society (FA4),
+Democracy (FA4.1),
+Ethics and Foundations (FA5)
+EN Foundational Abilities: Engagement with Society (FA4)"
+AS.280.320,Seminar on Public Health and Well-being in Baltimore,3,"This course presents a perspective on changing the health and wellbeing of residents of Baltimore and those who work in Baltimore. Seminar combines lectures from?
+AS.280.120
+?with additional readings and discussion to more deeply address urban health issues. The course will allow students to develop fellowship or project proposals and/or to fucus course reports on work they are doing or would like to do related to health and wellbeing. If you register for this course do NOT register for?
+AS.280.120
+.","FA4, FA6",Social and Behavioral Sciences,"AS.280.120, AS.280.320","Students who have taken
+AS.280.120
+are not eligible to take
+AS.280.320
+.",,"AS.280.320.
+Seminar on Public Health and Well-being in Baltimore.
+3 Credits.
+This course presents a perspective on changing the health and wellbeing of residents of Baltimore and those who work in Baltimore. Seminar combines lectures from?
+AS.280.120
+?with additional readings and discussion to more deeply address urban health issues. The course will allow students to develop fellowship or project proposals and/or to fucus course reports on work they are doing or would like to do related to health and wellbeing. If you register for this course do NOT register for?
+AS.280.120
+.
+Prerequisite(s):
+Students who have taken
+AS.280.120
+are not eligible to take
+AS.280.320
+.
+Distribution Area: Social and Behavioral Sciences
+AS Foundational Abilities: Citizens and Society (FA4),
+Projects and Methods (FA6)
+EN Foundational Abilities: Engagement with Society (FA4)"
+AS.280.330,Mind-Body Practices and Public Health,3,"This course will focus on mind-body practices and their place in public health. We will learn about different mind-body practices and talk about if/how mind-body practices can help amerliorate the national burden of disease. We will also learn how to identify evidence based practices (EBPs) in public health and learn the core components of designing EBPs. We will then combine what we learned about mind-body practices and designing EBPs to create programs that lessen the burden of disease. The mind-body portion of this course is experiential and will include the practice of meditation, yoga, other mindfulness exercises.  You will also be asked to reflect on these practices through journaling.","FA4, FA5, FA6",Social and Behavioral Sciences,AS.280.101,AS.280.101,,"AS.280.330.
+Mind-Body Practices and Public Health.
+3 Credits.
+This course will focus on mind-body practices and their place in public health. We will learn about different mind-body practices and talk about if/how mind-body practices can help amerliorate the national burden of disease. We will also learn how to identify evidence based practices (EBPs) in public health and learn the core components of designing EBPs. We will then combine what we learned about mind-body practices and designing EBPs to create programs that lessen the burden of disease. The mind-body portion of this course is experiential and will include the practice of meditation, yoga, other mindfulness exercises.  You will also be asked to reflect on these practices through journaling.
+Prerequisite(s):
+AS.280.101
+Distribution Area: Social and Behavioral Sciences
+AS Foundational Abilities: Citizens and Society (FA4),
+Ethics and Foundations (FA5),
+Projects and Methods (FA6)
+EN Foundational Abilities: Engagement with Society (FA4)"
+AS.280.331,Preparing to Engage with Public Health in Costa Rica,1,Must be registered by GEO and have been accepted to the Costa Rica Intersession Study Abroad Program,FA4,Social and Behavioral Sciences,,,,"AS.280.331.
+Preparing to Engage with Public Health in Costa Rica.
+1 Credit.
+Must be registered by GEO and have been accepted to the Costa Rica Intersession Study Abroad Program
+Distribution Area: Social and Behavioral Sciences
+AS Foundational Abilities: Citizens and Society (FA4)
+EN Foundational Abilities: Engagement with Society (FA4)"
+AS.280.335,The Environment and Your Health,3,"This course surveys the basic concepts underlying environmental health sciences (toxicology, exposure assessment, risk assessment), current public health issues (air, water- and food-borne diseases) and global health threats (climate change, designing healthy communities, and environmental justice).","FA2, FA6",Natural Sciences,"AS.280.101, AS.270.103","AS.280.101
+OR
+AS.270.103",,"AS.280.335.
+The Environment and Your Health.
+3 Credits.
+This course surveys the basic concepts underlying environmental health sciences (toxicology, exposure assessment, risk assessment), current public health issues (air, water- and food-borne diseases) and global health threats (climate change, designing healthy communities, and environmental justice).
+Prerequisite(s):
+AS.280.101
+OR
+AS.270.103
+Distribution Area: Natural Sciences
+AS Foundational Abilities: Science and Data (FA2),
+Projects and Methods (FA6)"
+AS.280.336,"HIV/AIDS Policy, Politics and Ordinary Lives in Southern Africa",3,,"FA3, FA4",Social and Behavioral Sciences,,,,"AS.280.336.
+HIV/AIDS Policy, Politics and Ordinary Lives in Southern Africa.
+3 Credits.
+Distribution Area: Social and Behavioral Sciences
+AS Foundational Abilities: Culture and Aesthetics (FA3),
+Citizens and Society (FA4)
+EN Foundational Abilities: Creative Expression (FA3),
+Engagement with Society (FA4)"
+AS.280.337,Community Partnership: Theory and Engagement,3,,"FA3, FA4",Social and Behavioral Sciences,,,,"AS.280.337.
+Community Partnership: Theory and Engagement.
+3 Credits.
+Distribution Area: Social and Behavioral Sciences
+AS Foundational Abilities: Culture and Aesthetics (FA3),
+Citizens and Society (FA4)
+EN Foundational Abilities: Creative Expression (FA3),
+Engagement with Society (FA4)"
+AS.280.340,Fundamentals of Health Policy & Management,3,"Through lectures and small group discussions, students will develop a framework for analyzing health care policy problems and gain familiarity with current issues including managed care, Medicare and the uninsured.Public Health Studies majors have 1st priority for enrollment.  Your enrollment may be withdrawn at the discretion of the PHS program if  you are not a PHS major.","FA4, FA5",Social and Behavioral Sciences,AS.280.101,AS.280.101,,"AS.280.340.
+Fundamentals of Health Policy & Management.
+3 Credits.
+Through lectures and small group discussions, students will develop a framework for analyzing health care policy problems and gain familiarity with current issues including managed care, Medicare and the uninsured.Public Health Studies majors have 1st priority for enrollment.  Your enrollment may be withdrawn at the discretion of the PHS program if  you are not a PHS major.
+Prerequisite(s):
+AS.280.101
+Distribution Area: Social and Behavioral Sciences
+AS Foundational Abilities: Citizens and Society (FA4),
+Ethics and Foundations (FA5)
+EN Foundational Abilities: Engagement with Society (FA4)"
+AS.280.345,Public Health Biostatistics,4,"Using problem-based learning focusing on public health topics, students learn to describe & summarize data, make inferences regarding population parameters, & test hypotheses.",FA2,Quantitative and Mathematical Sciences,"EN.553.211, EN.553.230, EN.553.310, EN.553.311, EN.553.420, EN.553.421, EN.553.430, EN.553.413","Statistics Sequence restriction - Students who have completed any of these courses may not register:
+EN.553.211
+OR EN.553.230 OR
+EN.553.310
+OR
+EN.553.311
+OR
+EN.553.420
+OR
+EN.553.421
+OR
+EN.553.430
+OR
+EN.553.413",,"AS.280.345.
+Public Health Biostatistics.
+4 Credits.
+Using problem-based learning focusing on public health topics, students learn to describe & summarize data, make inferences regarding population parameters, & test hypotheses. Recommended Course Background: Four years of high school math.
+Prerequisite(s):
+Statistics Sequence restriction - Students who have completed any of these courses may not register:
+EN.553.211
+OR EN.553.230 OR
+EN.553.310
+OR
+EN.553.311
+OR
+EN.553.420
+OR
+EN.553.421
+OR
+EN.553.430
+OR
+EN.553.413
+Distribution Area: Quantitative and Mathematical Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+AS.280.346,Introduction to R Programming for Public Health,1,"Formerly known as Advanced Biostatistics Laboratory, a complementary course to 280.345, Public Health Biostatistics, this course          teaches R programming skills necessary for conducting independent data analyses, beyond those presented in the main course. No       programming experience is necessary, but a willingness to learn independently and work with other students is indispensable.",FA2,Quantitative and Mathematical Sciences,"AS.280.345, EN.553.211","AS.280.345
+OR
+EN.553.211",,"AS.280.346.
+Introduction to R Programming for Public Health.
+1 Credit.
+Formerly known as Advanced Biostatistics Laboratory, a complementary course to 280.345, Public Health Biostatistics, this course          teaches R programming skills necessary for conducting independent data analyses, beyond those presented in the main course. No       programming experience is necessary, but a willingness to learn independently and work with other students is indispensable.
+Prerequisite(s):
+AS.280.345
+OR
+EN.553.211
+Distribution Area: Quantitative and Mathematical Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+AS.280.347,Health Data Analysis Practicum,3,"Students will learn to formulate precise scientific and policy questions, design exploratory and confirmatory statistical analyses to address the questions, conduct appropriate analyses using the statistical package R, and communicate their findings through graphical and tabular displays that are presented in writing and in person. The course will be run seminar style in which students conduct data analysis to present to one another in one meeting per week. Evaluation will be through class participation and a final project in which students will analyze their own data set to address a question of their choice. Students need to have taken an introductory statistics course at the level of
+AS.280.345
+(Public Health Biostatistics) and must have some experience using the statistical software R to perform basic analyses.","FA2, FA6",Quantitative and Mathematical Sciences,,,,"AS.280.347.
+Health Data Analysis Practicum.
+3 Credits.
+Students will learn to formulate precise scientific and policy questions, design exploratory and confirmatory statistical analyses to address the questions, conduct appropriate analyses using the statistical package R, and communicate their findings through graphical and tabular displays that are presented in writing and in person. The course will be run seminar style in which students conduct data analysis to present to one another in one meeting per week. Evaluation will be through class participation and a final project in which students will analyze their own data set to address a question of their choice. Students need to have taken an introductory statistics course at the level of
+AS.280.345
+(Public Health Biostatistics) and must have some experience using the statistical software R to perform basic analyses.
+Distribution Area: Quantitative and Mathematical Sciences
+AS Foundational Abilities: Science and Data (FA2),
+Projects and Methods (FA6)"
+AS.280.350,Fundamentals of Epidemiology,4,A practical introduction to epidemiology focusing on the principles and methods of examining the distribution and determinants of disease morbidity and mortality in human populations.,FA2,Quantitative and Mathematical Sciences,AS.280.101,AS.280.101,,"AS.280.350.
+Fundamentals of Epidemiology.
+4 Credits.
+A practical introduction to epidemiology focusing on the principles and methods of examining the distribution and determinants of disease morbidity and mortality in human populations.
+Prerequisite(s):
+AS.280.101
+Distribution Area: Quantitative and Mathematical Sciences
+AS Foundational Abilities: Science and Data (FA2)"
+AS.280.355,Introduction to Social and Behavioral Determinants of Health,3,"Introduces students to a social ecological perspective of population health; Explains key theories and models of health behavior; Describes social and behavioral factors affecting health outcomes; Illustrates the role of factors such as racism, income inequality, social norms, culture, communication and psychological constructs in health outcomes; Demonstrates applications of these theories and models in health behavior research and intervention.","FA4, FA5",Social and Behavioral Sciences,AS.280.101,AS.280.101,,"AS.280.355.
+Introduction to Social and Behavioral Determinants of Health.
+3 Credits.
+Introduces students to a social ecological perspective of population health; Explains key theories and models of health behavior; Describes social and behavioral factors affecting health outcomes; Illustrates the role of factors such as racism, income inequality, social norms, culture, communication and psychological constructs in health outcomes; Demonstrates applications of these theories and models in health behavior research and intervention.
+Prerequisite(s):
+AS.280.101
+Distribution Area: Social and Behavioral Sciences
+AS Foundational Abilities: Citizens and Society (FA4),
+Ethics and Foundations (FA5)
+EN Foundational Abilities: Engagement with Society (FA4)"
+AS.280.365,"Public Policy, Politics and Public Health",3,"This course is composed of lectures on issues that impact the arena of public health and public policy, viewed through a health equity lens. With real-life examples of public health and public policy issues and practices in Baltimore and around the country,  this course will  provide real-life experiences in the fields of public health and public policy.  Throughout the course a major effort will also be made to expose students to the wide array of opportunities that are available to those pursuing a career in public health.","FA4, FA5",Social and Behavioral Sciences,AS.280.101,AS.280.101,,"AS.280.365.
+Public Policy, Politics and Public Health.
+3 Credits.
+This course is composed of lectures on issues that impact the arena of public health and public policy, viewed through a health equity lens. With real-life examples of public health and public policy issues and practices in Baltimore and around the country,  this course will  provide real-life experiences in the fields of public health and public policy.  Throughout the course a major effort will also be made to expose students to the wide array of opportunities that are available to those pursuing a career in public health.
+Prerequisite(s):
+AS.280.101
+Distribution Area: Social and Behavioral Sciences
+AS Foundational Abilities: Citizens and Society (FA4),
+Ethics and Foundations (FA5)
+EN Foundational Abilities: Engagement with Society (FA4)"
+AS.280.366,Politics and Public Health,3,"This course will examine the role of politics in Public Health.  It will cover the legislative process at the local, state and federal level, as well as the role of the executive branch/administrative agencies in implementing new policies.  The course will also discuss ways that those involved in the public health arena can influence legislation, policy and budgets as part of the political process.","FA4, FA5",Social and Behavioral Sciences,AS.280.101,AS.280.101,,"AS.280.366.
+Politics and Public Health.
+3 Credits.
+This course will examine the role of politics in Public Health.  It will cover the legislative process at the local, state and federal level, as well as the role of the executive branch/administrative agencies in implementing new policies.  The course will also discuss ways that those involved in the public health arena can influence legislation, policy and budgets as part of the political process.
+Prerequisite(s):
+AS.280.101
+Distribution Area: Social and Behavioral Sciences
+AS Foundational Abilities: Citizens and Society (FA4),
+Ethics and Foundations (FA5)
+EN Foundational Abilities: Engagement with Society (FA4)"
+AS.280.379,Designing the Future: Health and Aging,3,"Designing the Future: Health and Aging is a course developed for students with a multidisciplinary and/or public health background and interest who are eager to learn new approaches that can be applied in a variety of settings. Students will be introduced to an overview of the public health impact of an aging society as well as design frameworks and methods (i.e. human centered design, co-design, social design) that can be applied to deal with complex problems impacting health and aging. They will apply parts of design frameworks to public health issues and explore purpose-driven innovations that integrate considerations of community-based and service learning and user experiences.  Between group projects that include community partners and individual work, students will be involved in diverse activities including engaging in basic research (primary and secondary data collection and review), reframing problems, ideation or collective brainstorming and developing and testing concept prototypes. Grades are based on class participation, completion of group project, group presentation and papers.",FA4,Social and Behavioral Sciences,"AS.280.389, AS.280.379, AS.280.101","Students who are enrolled in or have taken
+AS.280.389
+cannot take
+AS.280.379
+.;
+AS.280.101
+must be completed prior to registering for
+AS.280.379
+.",,"AS.280.379.
+Designing the Future: Health and Aging.
+3 Credits.
+Designing the Future: Health and Aging is a course developed for students with a multidisciplinary and/or public health background and interest who are eager to learn new approaches that can be applied in a variety of settings. Students will be introduced to an overview of the public health impact of an aging society as well as design frameworks and methods (i.e. human centered design, co-design, social design) that can be applied to deal with complex problems impacting health and aging. They will apply parts of design frameworks to public health issues and explore purpose-driven innovations that integrate considerations of community-based and service learning and user experiences.  Between group projects that include community partners and individual work, students will be involved in diverse activities including engaging in basic research (primary and secondary data collection and review), reframing problems, ideation or collective brainstorming and developing and testing concept prototypes. Grades are based on class participation, completion of group project, group presentation and papers.
+Prerequisite(s):
+Students who are enrolled in or have taken
+AS.280.389
+cannot take
+AS.280.379
+.;
+AS.280.101
+must be completed prior to registering for
+AS.280.379
+.
+Distribution Area: Social and Behavioral Sciences
+AS Foundational Abilities: Citizens and Society (FA4)
+EN Foundational Abilities: Engagement with Society (FA4)"
+AS.280.380,Global Health Principles and Practices,3,"Global health addresses the staggering global disparities in health status, drawing on epidemiology, demography, anthropology, economics, international relations and other disciplines. We review patterns of mortality, morbidity and disability in low and middle income countries, starting with malnutrition, infectious diseases and reproductive health, and continuing to an emerging agenda including mental health, injury prevention, surgical care, chronic diseases, and health impacts of climate change. Gender, health systems and health workforce challenges, and career trajectories in global health are also discussed. Recommended course background: Minimum of one prior course in Public Health.","FA4, FA5",Social and Behavioral Sciences,,,,"AS.280.380.
+Global Health Principles and Practices.
+3 Credits.
+Global health addresses the staggering global disparities in health status, drawing on epidemiology, demography, anthropology, economics, international relations and other disciplines. We review patterns of mortality, morbidity and disability in low and middle income countries, starting with malnutrition, infectious diseases and reproductive health, and continuing to an emerging agenda including mental health, injury prevention, surgical care, chronic diseases, and health impacts of climate change. Gender, health systems and health workforce challenges, and career trajectories in global health are also discussed. Recommended course background: Minimum of one prior course in Public Health.
+Distribution Area: Social and Behavioral Sciences
+AS Foundational Abilities: Citizens and Society (FA4),
+Ethics and Foundations (FA5)
+EN Foundational Abilities: Engagement with Society (FA4)"
+AS.280.389,Medicine for the Greater Good: Community Engagement's Role in Health Systems,3,"The goal of this course is to introduce students to the importance and value of partnerships between medical/health institutions and community organizations to improve community and neighborhood health outcomes.  This course will discuss how community engagement can assist in population health concerns and challenges faced in clinical settings through the promotion of community health. Discussed through the viewpoints of a health system and clinician, the how and why of community engagement will be explored, centering on how to create a medical-community relationship, executing engagements and projects, and measuring vital outcomes to reaffirm these partnerships’ significance.  This course will combine lectures, class discussions, and services learning. Students, in teams, will complete  40 hours of service learning outside of class time for a community-based organization. This course qualifies as a PHS Upper Level Elective. Students cannot register for this course and
+AS.280.379
+.","FA4, FA5",Social and Behavioral Sciences,"AS.280.379, AS.280.389, AS.280.101","Students who took or are taking
+AS.280.379
+are not permitted to take
+AS.280.389
+.;
+AS.280.101
+must be completed prior to registering for
+AS.280.389
+.",,"AS.280.389.
+Medicine for the Greater Good: Community Engagement's Role in Health Systems.
+3 Credits.
+The goal of this course is to introduce students to the importance and value of partnerships between medical/health institutions and community organizations to improve community and neighborhood health outcomes.  This course will discuss how community engagement can assist in population health concerns and challenges faced in clinical settings through the promotion of community health. Discussed through the viewpoints of a health system and clinician, the how and why of community engagement will be explored, centering on how to create a medical-community relationship, executing engagements and projects, and measuring vital outcomes to reaffirm these partnerships’ significance.  This course will combine lectures, class discussions, and services learning. Students, in teams, will complete  40 hours of service learning outside of class time for a community-based organization. This course qualifies as a PHS Upper Level Elective. Students cannot register for this course and
+AS.280.379
+.
+Prerequisite(s):
+Students who took or are taking
+AS.280.379
+are not permitted to take
+AS.280.389
+.;
+AS.280.101
+must be completed prior to registering for
+AS.280.389
+.
+Distribution Area: Social and Behavioral Sciences
+AS Foundational Abilities: Citizens and Society (FA4),
+Ethics and Foundations (FA5)
+EN Foundational Abilities: Engagement with Society (FA4)"
+AS.280.390,"Power, Positionality, and Social Change: Theories and Methods of Community Partnerships",3,"In this course, students will discuss the importance of history, contexts, and structures of power that influence community partnerships addressing social determinants of health.  We will explore sociological, educational, and organizational theories and methodologies to frame community engagement practices that center community voices and redistribute power dynamics in partnerships aimed at improving community health. This course is valuable to students who want to prepare themselves for engaging communities collaboratively, through anti-oppressive lenses. By the course’s conclusion, students should have an understanding of how to account for and address the systems, history, and positions of power that affect the success and anti-oppressive outcomes of community projects that address social determinants of health.","FA4, FA5",Social and Behavioral Sciences,AS.280.101,AS.280.101,,"AS.280.390.
+Power, Positionality, and Social Change: Theories and Methods of Community Partnerships.
+3 Credits.
+In this course, students will discuss the importance of history, contexts, and structures of power that influence community partnerships addressing social determinants of health.  We will explore sociological, educational, and organizational theories and methodologies to frame community engagement practices that center community voices and redistribute power dynamics in partnerships aimed at improving community health. This course is valuable to students who want to prepare themselves for engaging communities collaboratively, through anti-oppressive lenses. By the course’s conclusion, students should have an understanding of how to account for and address the systems, history, and positions of power that affect the success and anti-oppressive outcomes of community projects that address social determinants of health.
+Prerequisite(s):
+AS.280.101
+Distribution Area: Social and Behavioral Sciences
+AS Foundational Abilities: Citizens and Society (FA4),
+Ethics and Foundations (FA5)
+EN Foundational Abilities: Engagement with Society (FA4)"
+AS.280.399,"Service-Learning in Baltimore for Community Health, Justice and Well-Being",3,"This course introduces students to a social structural, justice orientation to public health, with an emphasis on service learning in Baltimore City.  Through lectures, class discussions, reflection practices and experiential learning, students will gain an understanding of education, healthcare, housing and other sectors as social determinants of health. The course draws on a social ecological framework and highlights the role of relationships and policies in impacting community resources foundational to health and well-being. Students will choose a community-based organization according to their interests and schedule and, working in teams, complete 45 hours of service-based learning. Grades are based on class participation, completion of a service learning project, group presentation, and papers. Open to Junior Public Health Studies majors and, space permitting, to others upon permission of instructor. This course qualifies as a PHS upper elective; however, it does not satisfy the PHS Applied Experience requirement.","FA4, FA5",Social and Behavioral Sciences,,,,"AS.280.399.
+Service-Learning in Baltimore for Community Health, Justice and Well-Being.
+3 Credits.
+This course introduces students to a social structural, justice orientation to public health, with an emphasis on service learning in Baltimore City.  Through lectures, class discussions, reflection practices and experiential learning, students will gain an understanding of education, healthcare, housing and other sectors as social determinants of health. The course draws on a social ecological framework and highlights the role of relationships and policies in impacting community resources foundational to health and well-being. Students will choose a community-based organization according to their interests and schedule and, working in teams, complete 45 hours of service-based learning. Grades are based on class participation, completion of a service learning project, group presentation, and papers. Open to Junior Public Health Studies majors and, space permitting, to others upon permission of instructor. This course qualifies as a PHS upper elective; however, it does not satisfy the PHS Applied Experience requirement.
+Distribution Area: Social and Behavioral Sciences
+AS Foundational Abilities: Citizens and Society (FA4),
+Ethics and Foundations (FA5)
+EN Foundational Abilities: Engagement with Society (FA4)"
+AS.280.472,Sex and Syndemics,3,"This course delves into the interplay between intimacy, sexual health, stigma, syndemics, STIs, and vulnerable populations, with a special emphasis on LGBTQ communities in the United States. Syndemics, the co-occurrence of multiple health problems, interact synergistically within specific social contexts, magnifying their impact. Through a comprehensive exploration of epidemiological principles, research methods, and case studies, students will gain a deep understanding of the challenges faced by communities in optimizing their sexual health. This is a Gordis Teaching Fellowship course. Priority registration is given to Public Health Studies majors. Other students will be permitted to register as space allows.","FA2, FA4","Quantitative and Mathematical Sciences, Social and Behavioral Sciences",AS.280.350,AS.280.350,,"AS.280.472.
+Sex and Syndemics.
+3 Credits.
+This course delves into the interplay between intimacy, sexual health, stigma, syndemics, STIs, and vulnerable populations, with a special emphasis on LGBTQ communities in the United States. Syndemics, the co-occurrence of multiple health problems, interact synergistically within specific social contexts, magnifying their impact. Through a comprehensive exploration of epidemiological principles, research methods, and case studies, students will gain a deep understanding of the challenges faced by communities in optimizing their sexual health. This is a Gordis Teaching Fellowship course. Priority registration is given to Public Health Studies majors. Other students will be permitted to register as space allows.
+Prerequisite(s):
+AS.280.350
+Distribution Area: Quantitative and Mathematical Sciences, Social and Behavioral Sciences
+AS Foundational Abilities: Science and Data (FA2),
+Citizens and Society (FA4)
+EN Foundational Abilities: Engagement with Society (FA4)"
+AS.280.473,Access to Essential and Emerging Health Technologies in Low and Middle-Income Countries,3,"This course introduces students to different actors in the access to medicine ecosystem and mechanisms by which health technologies like medicines, vaccines, and diagnostics can be made more available to individuals in low- and middle-income countries (LMICs). Students will learn how health technologies are developed and examine case studies for expanding access to pharmaceutical products including through pricing techniques, licensing, and expanding local manufacturing capacity. Using this knowledge, they will develop the tools to make stakeholder-specific recommendations aimed at making health technologies more accessible in LMICs, culminating in a final policy memo and presentation The intention of this course is not to make experts of students in the topics covered in each session—all of which could comprise their own course or series of courses—but rather to increase competency across a range of topics and actors to help students envision where they may fit in the access to medicine space. This is a Gordis Teaching Fellowship course. Priority registration is given to Public Health Studies majors. Other students will be permitted to register as space allows.",FA4,Social and Behavioral Sciences,AS.280.340,AS.280.340,,"AS.280.473.
+Access to Essential and Emerging Health Technologies in Low and Middle-Income Countries.
+3 Credits.
+This course introduces students to different actors in the access to medicine ecosystem and mechanisms by which health technologies like medicines, vaccines, and diagnostics can be made more available to individuals in low- and middle-income countries (LMICs). Students will learn how health technologies are developed and examine case studies for expanding access to pharmaceutical products including through pricing techniques, licensing, and expanding local manufacturing capacity. Using this knowledge, they will develop the tools to make stakeholder-specific recommendations aimed at making health technologies more accessible in LMICs, culminating in a final policy memo and presentation The intention of this course is not to make experts of students in the topics covered in each session—all of which could comprise their own course or series of courses—but rather to increase competency across a range of topics and actors to help students envision where they may fit in the access to medicine space. This is a Gordis Teaching Fellowship course. Priority registration is given to Public Health Studies majors. Other students will be permitted to register as space allows.
+Prerequisite(s):
+AS.280.340
+Distribution Area: Social and Behavioral Sciences
+AS Foundational Abilities: Citizens and Society (FA4)
+EN Foundational Abilities: Engagement with Society (FA4)"
+AS.280.474,A Consultation: Assessing the Value of Public Health Intervention,3,"Health systems are built on healthcare services and public health interventions designed, funded, and implemented by a myriad of actors, from governments to multilateral organizations and NGOs. These stakeholders of the system regularly assess whether a new program or intervention, fueled by technological or knowledge advances, is a worthwhile investment. They must weigh the benefits, costs, and relevance of a new program against other health programs, but also against other societal investments such as education and infrastructure. Funding, people, and time are limited: health programs must be evaluated, compared, and prioritized. This course will ask students to act as consultants hired by a government or a private organization, to comprehensively evaluate a public health intervention. They will be provided with all the tools and knowledge needed to evaluate the costs, the effectiveness, and the social impact expected for this intervention. They will then reflect on how their assessment fits within contemporary debates on public health funding and governance, including concerns about ethics and the decolonization of global health. Students may showcase the final product of this course as part of their portfolio for their future endeavors, including applying for consulting jobs. Course background in Microeconomics is highly recommended. This is a Gordis Teaching Fellowship course. Priority registration is given to Public Health Studies majors. Other students will be permitted to register as space allows.","FA4, FA5",Social and Behavioral Sciences,"AS.280.340, AS.280.345, EN.553.211","AS.280.340
+AND (
+AS.280.345
+OR
+EN.553.211
+)",,"AS.280.474.
+A Consultation: Assessing the Value of Public Health Intervention.
+3 Credits.
+Health systems are built on healthcare services and public health interventions designed, funded, and implemented by a myriad of actors, from governments to multilateral organizations and NGOs. These stakeholders of the system regularly assess whether a new program or intervention, fueled by technological or knowledge advances, is a worthwhile investment. They must weigh the benefits, costs, and relevance of a new program against other health programs, but also against other societal investments such as education and infrastructure. Funding, people, and time are limited: health programs must be evaluated, compared, and prioritized. This course will ask students to act as consultants hired by a government or a private organization, to comprehensively evaluate a public health intervention. They will be provided with all the tools and knowledge needed to evaluate the costs, the effectiveness, and the social impact expected for this intervention. They will then reflect on how their assessment fits within contemporary debates on public health funding and governance, including concerns about ethics and the decolonization of global health. Students may showcase the final product of this course as part of their portfolio for their future endeavors, including applying for consulting jobs. Course background in Microeconomics is highly recommended. This is a Gordis Teaching Fellowship course. Priority registration is given to Public Health Studies majors. Other students will be permitted to register as space allows.
+Prerequisite(s):
+AS.280.340
+AND (
+AS.280.345
+OR
+EN.553.211
+)
+Distribution Area: Social and Behavioral Sciences
+AS Foundational Abilities: Citizens and Society (FA4),
+Ethics and Foundations (FA5)
+EN Foundational Abilities: Engagement with Society (FA4)"
+AS.280.475,LGBTQ+ Health,3,"This course examines the health disparities and determinants of health that impact the health of LGBTQ+ populations. Students will gain familiarity with key epidemiological reports, behavioral and social science theories/frameworks, intervention studies, and scientific debates concerning the factors influencing the health disparities experienced by LGBTQ+ populations.The readings and discussions will be approached from the perspective of social, policy, and cultural contexts, providing insights into the unique challenges and experiences faced byLGBTQ+ communities globally. This is a Gordis Teaching Fellowship course. Priority registration is given to Public Health Studies majors. Other students will be permitted to register as space allows.","FA4, FA5",Social and Behavioral Sciences,AS.280.240,AS.280.240,,"AS.280.475.
+LGBTQ+ Health.
+3 Credits.
+This course examines the health disparities and determinants of health that impact the health of LGBTQ+ populations. Students will gain familiarity with key epidemiological reports, behavioral and social science theories/frameworks, intervention studies, and scientific debates concerning the factors influencing the health disparities experienced by LGBTQ+ populations.The readings and discussions will be approached from the perspective of social, policy, and cultural contexts, providing insights into the unique challenges and experiences faced byLGBTQ+ communities globally. This is a Gordis Teaching Fellowship course. Priority registration is given to Public Health Studies majors. Other students will be permitted to register as space allows.
+Prerequisite(s):
+AS.280.240
+Distribution Area: Social and Behavioral Sciences
+AS Foundational Abilities: Citizens and Society (FA4),
+Ethics and Foundations (FA5)
+EN Foundational Abilities: Engagement with Society (FA4)"
+AS.280.476,"Seminar in Malariology: Past, Present and Future Solution",3,"This 3-credit course provides an overview of one of the leading infectious causes of death worldwide. While nominally a class in malariology, this course aims enhance each student’s comfort interpreting and presenting scientific literature, essential for a career in any academic discipline. Following a month-long overview of malaria, we will focus on reading and presenting scientific literature in the field of malariology.  Special attention will be paid to work on malaria vaccines. Students will be guided through proper reading and presentation of scientific literature throughout this course. At the end of the term, students will complete a final paper and presentation proposing a novel solution to one of the challenges to malaria treatment and elimination discussed in this course. No previous knowledge of malaria is required or expected. Coursework in Cell Biology, Immunology, Biochemistry, and Genetics are all helpful but not prerequisites for this course. This is a Gordis Teaching Fellowship course. Priority registration is given to Public Health Studies majors. Other students will be permitted to register as space allows.","FA4, FA5","Natural Sciences, Social and Behavioral Sciences","AS.280.101, AS.280.240, AS.020.151","AS.280.101
+AND
+AS.280.240
+AND
+AS.020.151",,"AS.280.476.
+Seminar in Malariology: Past, Present and Future Solution.
+3 Credits.
+This 3-credit course provides an overview of one of the leading infectious causes of death worldwide. While nominally a class in malariology, this course aims enhance each student’s comfort interpreting and presenting scientific literature, essential for a career in any academic discipline. Following a month-long overview of malaria, we will focus on reading and presenting scientific literature in the field of malariology.  Special attention will be paid to work on malaria vaccines. Students will be guided through proper reading and presentation of scientific literature throughout this course. At the end of the term, students will complete a final paper and presentation proposing a novel solution to one of the challenges to malaria treatment and elimination discussed in this course. No previous knowledge of malaria is required or expected. Coursework in Cell Biology, Immunology, Biochemistry, and Genetics are all helpful but not prerequisites for this course. This is a Gordis Teaching Fellowship course. Priority registration is given to Public Health Studies majors. Other students will be permitted to register as space allows.
+Prerequisite(s):
+AS.280.101
+AND
+AS.280.240
+AND
+AS.020.151
+Distribution Area: Natural Sciences, Social and Behavioral Sciences
+AS Foundational Abilities: Citizens and Society (FA4),
+Ethics and Foundations (FA5)
+EN Foundational Abilities: Engagement with Society (FA4)"
+AS.280.477,Disability Justice and Public Health,3,"This course is designed to introduce undergraduate students to disability justice and its applications to public health. Students will learn the history and principles of disability justice, critique models and definitions of disability, and evaluate the inclusion and exclusion of disabled people in public health research, programs, and policies. Students will also develop a deeper awareness of disability justice and its importance to understanding issues of health disparities and inequities affecting disabled people across the life course. This course will require students to critically reflect on their own beliefs, values, and attitudes as they tackle topics of eugenics, oppression, and stigmatization of multiply marginalized disabled people with a life course perspective. This course will center the artistic, academic, and advocacy work of queer and trans disabled people of color. Students will participate in class discussions, write brief posts about assigned content, submit reflections, and complete a final project. Prior knowledge of disability studies is not required. Email the instructor directly if you are interested in registering but do not meet the prerequisite. This is a Gordis Teaching Fellowship course. Priority registration is given to Public Health Studies majors. Other students will be permitted to register as space allows.","FA4, FA5",Social and Behavioral Sciences,"AS.280.355, AS.230.341, AS.145.108","AS.280.355
+OR
+AS.230.341
+OR
+AS.145.108",,"AS.280.477.
+Disability Justice and Public Health.
+3 Credits.
+This course is designed to introduce undergraduate students to disability justice and its applications to public health. Students will learn the history and principles of disability justice, critique models and definitions of disability, and evaluate the inclusion and exclusion of disabled people in public health research, programs, and policies. Students will also develop a deeper awareness of disability justice and its importance to understanding issues of health disparities and inequities affecting disabled people across the life course. This course will require students to critically reflect on their own beliefs, values, and attitudes as they tackle topics of eugenics, oppression, and stigmatization of multiply marginalized disabled people with a life course perspective. This course will center the artistic, academic, and advocacy work of queer and trans disabled people of color. Students will participate in class discussions, write brief posts about assigned content, submit reflections, and complete a final project. Prior knowledge of disability studies is not required. Email the instructor directly if you are interested in registering but do not meet the prerequisite. This is a Gordis Teaching Fellowship course. Priority registration is given to Public Health Studies majors. Other students will be permitted to register as space allows.
+Prerequisite(s):
+AS.280.355
+OR
+AS.230.341
+OR
+AS.145.108
+Distribution Area: Social and Behavioral Sciences
+AS Foundational Abilities: Citizens and Society (FA4),
+Ethics and Foundations (FA5)
+EN Foundational Abilities: Engagement with Society (FA4)"
+AS.280.478,Communicating Climate Change: Creative Approaches for Action,3,"Effective communication is imperative in reaching time-sensitive goals in reducing the effects of climate change. Using the framework of persuasive communication and behavior change theory, the course will provide a practice-based opportunity for students to apply their knowledge to develop their own climate communication campaigns. Students will gain familiarity with issues in historical approaches of climate approaches, understand audiences navigating climate misinformation, and social and behavioral theories of change, with an emphasis on arts-based approaches to climate communication. Through lectures, seminars, screenings, and workshops, the course will culminate with an applied assignment of students’ original creative climate communication pieces. This is a Gordis Teaching Fellowship course and instructor approval is required.  All students interested are encouraged to request approval; those with a public health background will be strongly considered for approval.","FA3, FA4",Social and Behavioral Sciences,,,,"AS.280.478.
+Communicating Climate Change: Creative Approaches for Action.
+3 Credits.
+Effective communication is imperative in reaching time-sensitive goals in reducing the effects of climate change. Using the framework of persuasive communication and behavior change theory, the course will provide a practice-based opportunity for students to apply their knowledge to develop their own climate communication campaigns. Students will gain familiarity with issues in historical approaches of climate approaches, understand audiences navigating climate misinformation, and social and behavioral theories of change, with an emphasis on arts-based approaches to climate communication. Through lectures, seminars, screenings, and workshops, the course will culminate with an applied assignment of students’ original creative climate communication pieces. This is a Gordis Teaching Fellowship course and instructor approval is required.  All students interested are encouraged to request approval; those with a public health background will be strongly considered for approval.
+Distribution Area: Social and Behavioral Sciences
+AS Foundational Abilities: Culture and Aesthetics (FA3),
+Citizens and Society (FA4)
+EN Foundational Abilities: Creative Expression (FA3),
+Engagement with Society (FA4)"
+AS.280.479,Power and Politics in Global Health,3,"This course delves into the dynamics of power and politics within the health sector, with a specific focus on global health dynamics. We will explore how power influences health inequities, healthcare delivery, research relationships between partners in the ‘Global South’ and ‘Global North’, and decision-making. Through a combination of lectures, case studies, class discussions, and interactive activities, students will analyze how various stakeholders, power dynamics, and political systems play a role in shaping health outcomes. We will delve into domestic and global examples, ranging from the role of power in the opioid crisis in Baltimore to the role of funding agencies in global settings. By the end of the course, students will be prepared to discuss the role of power and politics in global health systems, and they will be equipped with the skills to use verbal and written skills to advocate for effective health policies and interventions. This is a Gordis Teaching Fellowship course. Priority registration is given to Public Health Studies majors.  Other students will be permitted to register as space allows.",FA4,Social and Behavioral Sciences,AS.280.340,AS.280.340,,"AS.280.479.
+Power and Politics in Global Health.
+3 Credits.
+This course delves into the dynamics of power and politics within the health sector, with a specific focus on global health dynamics. We will explore how power influences health inequities, healthcare delivery, research relationships between partners in the ‘Global South’ and ‘Global North’, and decision-making. Through a combination of lectures, case studies, class discussions, and interactive activities, students will analyze how various stakeholders, power dynamics, and political systems play a role in shaping health outcomes. We will delve into domestic and global examples, ranging from the role of power in the opioid crisis in Baltimore to the role of funding agencies in global settings. By the end of the course, students will be prepared to discuss the role of power and politics in global health systems, and they will be equipped with the skills to use verbal and written skills to advocate for effective health policies and interventions. This is a Gordis Teaching Fellowship course. Priority registration is given to Public Health Studies majors.  Other students will be permitted to register as space allows.
+Prerequisite(s):
+AS.280.340
+Distribution Area: Social and Behavioral Sciences
+AS Foundational Abilities: Citizens and Society (FA4)
+EN Foundational Abilities: Engagement with Society (FA4)"
+AS.280.480,"One Health, Antimicrobial Resistance and Disease X: Social, Clinical and Public Health Perspectives",3,"This course aims to equip learners with an understanding of the interconnectedness of human, animal, and environmental health by introducing them to the concepts and principles underlying the practice of One Health as an approach to address complex public health problems. Using issues such as antimicrobial resistance (AMR) and emerging infectious diseases (referred to as Disease X), learners will explore the social, clinical and public health challenges of studying novel, emerging threats. The course will equip learners with the knowledge and skills necessary to tackle these threats by providing a global-to-local lens through a dynamic mix of lectures, group activities, case studies, expert guest sessions/panel discussions, and gamified learning experiences which foster critical thinking and problem-solving. Throughout the course, learners will experience the thrills and difficulties associated with designing and implementing integrated, equitable, and effective health interventions, by sampling real-world experiences from global health exemplars. This is a Gordis Teaching Fellowship course. Priority registration is given to Public Health Studies majors.  Other students will be permitted to register as space allows.","FA2, FA4",Social and Behavioral Sciences,"AS.280.240, AS.280.335","AS.280.240
+AND
+AS.280.335",,"AS.280.480.
+One Health, Antimicrobial Resistance and Disease X: Social, Clinical and Public Health Perspectives.
+3 Credits.
+This course aims to equip learners with an understanding of the interconnectedness of human, animal, and environmental health by introducing them to the concepts and principles underlying the practice of One Health as an approach to address complex public health problems. Using issues such as antimicrobial resistance (AMR) and emerging infectious diseases (referred to as Disease X), learners will explore the social, clinical and public health challenges of studying novel, emerging threats. The course will equip learners with the knowledge and skills necessary to tackle these threats by providing a global-to-local lens through a dynamic mix of lectures, group activities, case studies, expert guest sessions/panel discussions, and gamified learning experiences which foster critical thinking and problem-solving. Throughout the course, learners will experience the thrills and difficulties associated with designing and implementing integrated, equitable, and effective health interventions, by sampling real-world experiences from global health exemplars. This is a Gordis Teaching Fellowship course. Priority registration is given to Public Health Studies majors.  Other students will be permitted to register as space allows.
+Prerequisite(s):
+AS.280.240
+AND
+AS.280.335
+Distribution Area: Social and Behavioral Sciences
+AS Foundational Abilities: Science and Data (FA2),
+Citizens and Society (FA4)
+EN Foundational Abilities: Engagement with Society (FA4)"
+AS.280.481,Designing Social and Behavioral Interventions for People with High Vulnerability in Low and Middle Income Countries,3,"In global health, human vulnerability is often defined by population-level disease burdens. One’s vulnerability, however, is highly context-dependent and constantly shaped by diverse social mechanisms. Understanding social, cultural, economic, and environmental variations within a country can guide program and resource planning tailored to the most underserved individuals and communities. Students will apply critical thinking to social and behavioral theories and cases in global health. Through workshops, students will employ human-centered design methods to design an intervention suited to the needs of the population of focus. The course will also cover implementation research perspectives, stakeholder and community engagement, and ethical issues in global health research. Students will have the opportunity to propose a social and behavior change intervention with an implementation plan. This is a Gordis Teaching Fellowship course. Priority registration is given to Public Health Studies majors. Other students will be permitted to register as space allows.","FA4, FA5",Social and Behavioral Sciences,"AS.280.355, AS.230.341","AS.280.355
+OR
+AS.230.341",,"AS.280.481.
+Designing Social and Behavioral Interventions for People with High Vulnerability in Low and Middle Income Countries.
+3 Credits.
+In global health, human vulnerability is often defined by population-level disease burdens. One’s vulnerability, however, is highly context-dependent and constantly shaped by diverse social mechanisms. Understanding social, cultural, economic, and environmental variations within a country can guide program and resource planning tailored to the most underserved individuals and communities. Students will apply critical thinking to social and behavioral theories and cases in global health. Through workshops, students will employ human-centered design methods to design an intervention suited to the needs of the population of focus. The course will also cover implementation research perspectives, stakeholder and community engagement, and ethical issues in global health research. Students will have the opportunity to propose a social and behavior change intervention with an implementation plan. This is a Gordis Teaching Fellowship course. Priority registration is given to Public Health Studies majors. Other students will be permitted to register as space allows.
+Prerequisite(s):
+AS.280.355
+OR
+AS.230.341
+Distribution Area: Social and Behavioral Sciences
+AS Foundational Abilities: Citizens and Society (FA4),
+Ethics and Foundations (FA5)
+EN Foundational Abilities: Engagement with Society (FA4)"
+AS.280.482,Historical Perspectives on Vaccines and Public Health,3,"This course offers an exploration of the history and evolution of vaccines, examining their development through the lenses of biomedical concepts, historical events, and socio-cultural contexts. Topic will include the origins and impacts of variolation, vaccination, and immunization, while also investigating the influence of colonialism and geopolitical forces on the history of vaccines and public health. Although a background in biology is encouraged, biomedicine will not be the main focus of the class but instead will focus on social-behavioral sciences. This is a Gordis Teaching Fellowship course. Priority registration is given to Public Health Studies majors.  Other students will be permitted to register as space allows. Although a background in biology is encouraged, biomedicine will not be the main focus of the class but instead will focus on social-behavioral sciences.","FA2, FA4",Social and Behavioral Sciences,AS.280.101,AS.280.101,,"AS.280.482.
+Historical Perspectives on Vaccines and Public Health.
+3 Credits.
+This course offers an exploration of the history and evolution of vaccines, examining their development through the lenses of biomedical concepts, historical events, and socio-cultural contexts. Topic will include the origins and impacts of variolation, vaccination, and immunization, while also investigating the influence of colonialism and geopolitical forces on the history of vaccines and public health. Although a background in biology is encouraged, biomedicine will not be the main focus of the class but instead will focus on social-behavioral sciences. This is a Gordis Teaching Fellowship course. Priority registration is given to Public Health Studies majors.  Other students will be permitted to register as space allows. Although a background in biology is encouraged, biomedicine will not be the main focus of the class but instead will focus on social-behavioral sciences.
+Prerequisite(s):
+AS.280.101
+Distribution Area: Social and Behavioral Sciences
+AS Foundational Abilities: Science and Data (FA2),
+Citizens and Society (FA4)
+EN Foundational Abilities: Engagement with Society (FA4)"
+AS.280.495,Honors In Public Health - Seminar,3,"Using lectures, oral presentations, and writing assignments, this seminar is designed to assist Public Health Studies majors in writing a  senior thesis. Students will formulate their topics, develop research skills, and address issues of professional ethics. Participating in this seminar is required for students pursuing honors in Public Health Studies. Permission Required. Classes will be held at Bloomberg School of Public Health.","FA1, FA2, FA6",Social and Behavioral Sciences,,,Writing Intensive,"AS.280.495.
+Honors In Public Health - Seminar.
+3 Credits.
+Using lectures, oral presentations, and writing assignments, this seminar is designed to assist Public Health Studies majors in writing a  senior thesis. Students will formulate their topics, develop research skills, and address issues of professional ethics. Participating in this seminar is required for students pursuing honors in Public Health Studies. Permission Required. Classes will be held at Bloomberg School of Public Health.
+Distribution Area: Social and Behavioral Sciences
+AS Foundational Abilities: Writing and Communication (FA1),
+Science and Data (FA2),
+Projects and Methods (FA6)
+Writing Intensive"
+AS.280.499,Honors in Public Health,3,A research methods seminar to prepare students doing honors in Public Health Studies. Permission Required.,"FA1, FA2, FA6",Social and Behavioral Sciences,,,Writing Intensive,"AS.280.499.
+Honors in Public Health.
+3 Credits.
+A research methods seminar to prepare students doing honors in Public Health Studies. Permission Required.
+Distribution Area: Social and Behavioral Sciences
+AS Foundational Abilities: Writing and Communication (FA1),
+Science and Data (FA2),
+Projects and Methods (FA6)
+Writing Intensive"
+AS.280.502,Internship-Public Health,1,Permission Required.   S/U only.,"FA4, FA6",,,You must request Customized Academic Learning using the Customized Academic Learning form found in Student Self-Service: Registration > Online Forms.,,"AS.280.502.
+Internship-Public Health.
+1 Credit.
+Permission Required.   S/U only.
+Prerequisite(s):
+You must request Customized Academic Learning using the Customized Academic Learning form found in Student Self-Service: Registration > Online Forms.
+AS Foundational Abilities: Citizens and Society (FA4),
+Projects and Methods (FA6)"
+AS.280.595,Special Studies in Public Health,1,,"FA4, FA6",,,You must request Customized Academic Learning using the Customized Academic Learning form found in Student Self-Service: Registration > Online Forms.,,"AS.280.595.
+Special Studies in Public Health.
+1 Credit.
+Prerequisite(s):
+You must request Customized Academic Learning using the Customized Academic Learning form found in Student Self-Service: Registration > Online Forms.
+AS Foundational Abilities: Citizens and Society (FA4),
+Projects and Methods (FA6)"
