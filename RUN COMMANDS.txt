@@ -16,6 +16,4 @@ streamlit run course_browser.py
 Sync git
 
 cd ~/Desktop/shuikefinder
-git add .
-git commit -m "Update browser, scrapers, add catalog and filter"
-git push
+git add . && git commit -m "update" && git push
