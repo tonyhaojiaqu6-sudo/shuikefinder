@@ -1,0 +1,215 @@
+course_code,course_title,instructor,instructors_full,term,department,workload_avg,teaching_avg,intellectual_avg
+AS.171.101.02.SP24,General Physics:Physical Science Major I,"Swartz, Morris","Swartz, Morris",2024 Spring,Physics and Astronomy,4.33,2.90,4.38
+AS.171.101.01.SP24,General Physics:Physical Science Major I,"Swartz, Morris","Swartz, Morris",2024 Spring,Physics and Astronomy,4.27,3.47,4.13
+AS.171.101.04.SP24,General Physics:Physical Science Major I,"Swartz, Morris","Swartz, Morris",2024 Spring,Physics and Astronomy,4.58,3.40,4.35
+AS.171.101.03.SP24,General Physics:Physical Science Major I,"Swartz, Morris","Swartz, Morris",2024 Spring,Physics and Astronomy,4.17,2.78,3.89
+AS.171.101.01.FA24,General Physics:Physical Science Major I,"Zakamska, Nadia","Zakamska, Nadia",2024 Fall,Physics and Astronomy,4.14,3.07,4.29
+AS.171.101.04.FA24,General Physics:Physical Science Major I,"Zakamska, Nadia","Zakamska, Nadia",2024 Fall,Physics and Astronomy,4.29,3.06,3.89
+AS.171.101.03.FA24,General Physics:Physical Science Major I,"Zakamska, Nadia","Zakamska, Nadia",2024 Fall,Physics and Astronomy,4.35,3.12,4.18
+AS.171.101.02.FA24,General Physics:Physical Science Major I,"Zakamska, Nadia","Zakamska, Nadia",2024 Fall,Physics and Astronomy,4.42,3.37,4.42
+AS.171.101.01.FA25,General Physics:Physical Science Major I,"Sushkov, Alexander","Sushkov, Alexander",2025 Fall,Physics and Astronomy,4.43,4.29,4.64
+AS.171.101.04.FA25,General Physics:Physical Science Major I,"Sushkov, Alexander","Sushkov, Alexander",2025 Fall,Physics and Astronomy,3.75,4.70,4.45
+AS.171.101.03.FA25,General Physics:Physical Science Major I,"Sushkov, Alexander","Sushkov, Alexander",2025 Fall,Physics and Astronomy,3.70,4.40,4.60
+AS.171.101.02.FA25,General Physics:Physical Science Major I,"Sushkov, Alexander","Sushkov, Alexander",2025 Fall,Physics and Astronomy,3.62,4.55,4.50
+AS.171.102.04.SP24,General Physics: Physical Science Majors II,"Rajendran, Surjeet","Rajendran, Surjeet",2024 Spring,Physics and Astronomy,4.35,3.30,4.43
+AS.171.102.03.SP24,General Physics: Physical Science Majors II,"Rajendran, Surjeet","Rajendran, Surjeet",2024 Spring,Physics and Astronomy,4.20,3.00,4.00
+AS.171.102.02.SP24,General Physics: Physical Science Majors II,"Rajendran, Surjeet","Rajendran, Surjeet",2024 Spring,Physics and Astronomy,4.14,3.10,4.29
+AS.171.102.01.SP24,General Physics: Physical Science Majors II,"Rajendran, Surjeet","Rajendran, Surjeet",2024 Spring,Physics and Astronomy,3.89,3.33,4.11
+AS.171.102.01.FA24,General Physics: Physical Science Majors II,"Maksimovic, Petar","Maksimovic, Petar",2024 Fall,Physics and Astronomy,4.31,4.31,4.69
+AS.171.102.04.FA24,General Physics: Physical Science Majors II,"Maksimovic, Petar","Maksimovic, Petar",2024 Fall,Physics and Astronomy,4.53,4.10,4.60
+AS.171.102.03.FA24,General Physics: Physical Science Majors II,"Maksimovic, Petar","Maksimovic, Petar",2024 Fall,Physics and Astronomy,4.30,4.20,4.50
+AS.171.102.02.FA24,General Physics: Physical Science Majors II,"Maksimovic, Petar","Maksimovic, Petar",2024 Fall,Physics and Astronomy,4.30,4.30,4.52
+AS.171.102.03.SP25,General Physics: Physical Science Majors II,"Berti, Emanuele","Berti, Emanuele",2025 Spring,Physics and Astronomy,4.14,3.81,4.33
+AS.171.102.02.SP25,General Physics: Physical Science Majors II,"Berti, Emanuele","Berti, Emanuele",2025 Spring,Physics and Astronomy,3.82,3.94,4.41
+AS.171.102.01.SP25,General Physics: Physical Science Majors II,"Berti, Emanuele","Berti, Emanuele",2025 Spring,Physics and Astronomy,4.07,3.60,4.80
+AS.171.102.04.SP25,General Physics: Physical Science Majors II,"Berti, Emanuele","Berti, Emanuele",2025 Spring,Physics and Astronomy,4.38,3.94,4.24
+AS.171.102.05.FA25,General Physics: Physical Science Majors II,"Maksimovic, Petar","Maksimovic, Petar",2025 Fall,Physics and Astronomy,4.13,4.00,4.67
+AS.171.102.01.FA25,General Physics: Physical Science Majors II,"Maksimovic, Petar","Maksimovic, Petar",2025 Fall,Physics and Astronomy,4.13,4.19,4.69
+AS.171.102.04.FA25,General Physics: Physical Science Majors II,"Maksimovic, Petar","Maksimovic, Petar",2025 Fall,Physics and Astronomy,4.13,3.60,4.40
+AS.171.102.03.FA25,General Physics: Physical Science Majors II,"Maksimovic, Petar","Maksimovic, Petar",2025 Fall,Physics and Astronomy,4.56,3.50,4.11
+AS.171.102.02.FA25,General Physics: Physical Science Majors II,"Maksimovic, Petar","Maksimovic, Petar",2025 Fall,Physics and Astronomy,4.29,3.83,4.33
+AS.171.103.13.FA24,General Physics I for Biological Science Majors,"Marriage, Tobias","Marriage, Tobias",2024 Fall,Physics and Astronomy,3.90,3.89,4.53
+AS.171.103.09.FA24,General Physics I for Biological Science Majors,"Marriage, Tobias","Marriage, Tobias",2024 Fall,Physics and Astronomy,4.68,3.40,4.40
+AS.171.103.05.FA24,General Physics I for Biological Science Majors,"Marriage, Tobias","Marriage, Tobias",2024 Fall,Physics and Astronomy,4.00,3.06,3.72
+AS.171.103.01.FA24,General Physics I for Biological Science Majors,"Marriage, Tobias","Marriage, Tobias",2024 Fall,Physics and Astronomy,4.10,3.39,4.29
+AS.171.103.04.FA24,General Physics I for Biological Science Majors,"Marriage, Tobias","Marriage, Tobias",2024 Fall,Physics and Astronomy,4.16,3.68,4.53
+AS.171.103.08.FA24,General Physics I for Biological Science Majors,"Marriage, Tobias","Marriage, Tobias",2024 Fall,Physics and Astronomy,4.32,3.04,4.36
+AS.171.103.16.FA24,General Physics I for Biological Science Majors,"Marriage, Tobias","Marriage, Tobias",2024 Fall,Physics and Astronomy,4.58,2.84,4.16
+AS.171.103.03.FA24,General Physics I for Biological Science Majors,"Marriage, Tobias","Marriage, Tobias",2024 Fall,Physics and Astronomy,4.00,3.21,4.08
+AS.171.103.12.FA24,General Physics I for Biological Science Majors,"Marriage, Tobias","Marriage, Tobias",2024 Fall,Physics and Astronomy,4.10,3.64,4.50
+AS.171.103.15.FA24,General Physics I for Biological Science Majors,"Marriage, Tobias","Marriage, Tobias",2024 Fall,Physics and Astronomy,4.55,2.86,4.00
+AS.171.103.07.FA24,General Physics I for Biological Science Majors,"Marriage, Tobias","Marriage, Tobias",2024 Fall,Physics and Astronomy,4.00,3.48,4.33
+AS.171.103.02.FA24,General Physics I for Biological Science Majors,"Marriage, Tobias","Marriage, Tobias",2024 Fall,Physics and Astronomy,4.43,3.05,3.95
+AS.171.103.11.FA24,General Physics I for Biological Science Majors,"Marriage, Tobias","Marriage, Tobias",2024 Fall,Physics and Astronomy,4.10,3.70,4.40
+AS.171.103.14.FA24,General Physics I for Biological Science Majors,"Marriage, Tobias","Marriage, Tobias",2024 Fall,Physics and Astronomy,4.20,3.57,4.48
+AS.171.103.06.FA24,General Physics I for Biological Science Majors,"Marriage, Tobias","Marriage, Tobias",2024 Fall,Physics and Astronomy,3.95,3.71,4.57
+AS.171.103.10.FA24,General Physics I for Biological Science Majors,"Marriage, Tobias","Marriage, Tobias",2024 Fall,Physics and Astronomy,3.95,3.50,4.22
+AS.171.103.14.FA25,General Physics I for Biological Science Majors,"Marriage, Tobias","Marriage, Tobias",2025 Fall,Physics and Astronomy,3.81,4.05,4.33
+AS.171.103.10.FA25,General Physics I for Biological Science Majors,"Marriage, Tobias","Marriage, Tobias",2025 Fall,Physics and Astronomy,4.00,3.68,4.53
+AS.171.103.08.FA25,General Physics I for Biological Science Majors,"Marriage, Tobias","Marriage, Tobias",2025 Fall,Physics and Astronomy,4.00,3.67,4.58
+AS.171.103.04.FA25,General Physics I for Biological Science Majors,"Marriage, Tobias","Marriage, Tobias",2025 Fall,Physics and Astronomy,4.22,3.33,4.83
+AS.171.103.16.FA25,General Physics I for Biological Science Majors,"Marriage, Tobias","Marriage, Tobias",2025 Fall,Physics and Astronomy,4.00,3.80,4.45
+AS.171.103.13.FA25,General Physics I for Biological Science Majors,"Marriage, Tobias","Marriage, Tobias",2025 Fall,Physics and Astronomy,4.12,3.61,4.76
+AS.171.103.09.FA25,General Physics I for Biological Science Majors,"Marriage, Tobias","Marriage, Tobias",2025 Fall,Physics and Astronomy,4.04,3.71,4.38
+AS.171.103.07.FA25,General Physics I for Biological Science Majors,"Marriage, Tobias","Marriage, Tobias",2025 Fall,Physics and Astronomy,3.64,4.13,4.40
+AS.171.103.03.FA25,General Physics I for Biological Science Majors,"Marriage, Tobias","Marriage, Tobias",2025 Fall,Physics and Astronomy,3.91,4.04,4.70
+AS.171.103.15.FA25,General Physics I for Biological Science Majors,"Marriage, Tobias","Marriage, Tobias",2025 Fall,Physics and Astronomy,4.19,3.41,4.64
+AS.171.103.12.FA25,General Physics I for Biological Science Majors,"Marriage, Tobias","Marriage, Tobias",2025 Fall,Physics and Astronomy,3.71,4.09,4.64
+AS.171.103.06.FA25,General Physics I for Biological Science Majors,"Marriage, Tobias","Marriage, Tobias",2025 Fall,Physics and Astronomy,3.89,4.00,4.44
+AS.171.103.02.FA25,General Physics I for Biological Science Majors,"Marriage, Tobias","Marriage, Tobias",2025 Fall,Physics and Astronomy,4.30,3.86,4.48
+AS.171.103.05.FA25,General Physics I for Biological Science Majors,"Marriage, Tobias","Marriage, Tobias",2025 Fall,Physics and Astronomy,3.89,3.24,4.10
+AS.171.103.11.FA25,General Physics I for Biological Science Majors,"Marriage, Tobias","Marriage, Tobias",2025 Fall,Physics and Astronomy,4.05,4.05,4.52
+AS.171.103.01.FA25,General Physics I for Biological Science Majors,"Marriage, Tobias","Marriage, Tobias",2025 Fall,Physics and Astronomy,3.67,3.86,4.33
+AS.171.104.10.SP24,General Physics/Biology Majors II,"Reich, Daniel","Reich, Daniel",2024 Spring,Physics and Astronomy,4.32,4.05,4.53
+AS.171.104.02.SP24,General Physics/Biology Majors II,"Reich, Daniel","Reich, Daniel",2024 Spring,Physics and Astronomy,4.41,3.96,4.48
+AS.171.104.17.SP24,General Physics/Biology Majors II,"Reich, Daniel","Reich, Daniel",2024 Spring,Physics and Astronomy,4.22,3.95,4.56
+AS.171.104.01.SP24,General Physics/Biology Majors II,"Reich, Daniel","Reich, Daniel",2024 Spring,Physics and Astronomy,4.31,4.16,4.26
+AS.171.104.09.SP24,General Physics/Biology Majors II,"Reich, Daniel","Reich, Daniel",2024 Spring,Physics and Astronomy,4.04,4.17,4.50
+AS.171.104.16.SP24,General Physics/Biology Majors II,"Reich, Daniel","Reich, Daniel",2024 Spring,Physics and Astronomy,4.67,4.28,4.76
+AS.171.104.08.SP24,General Physics/Biology Majors II,"Reich, Daniel","Reich, Daniel",2024 Spring,Physics and Astronomy,4.25,3.90,4.42
+AS.171.104.15.SP24,General Physics/Biology Majors II,"Reich, Daniel","Reich, Daniel",2024 Spring,Physics and Astronomy,4.22,4.13,4.45
+AS.171.104.07.SP24,General Physics/Biology Majors II,"Reich, Daniel","Reich, Daniel",2024 Spring,Physics and Astronomy,4.43,4.27,4.41
+AS.171.104.14.SP24,General Physics/Biology Majors II,"Reich, Daniel","Reich, Daniel",2024 Spring,Physics and Astronomy,4.63,3.58,4.38
+AS.171.104.06.SP24,General Physics/Biology Majors II,"Reich, Daniel","Reich, Daniel",2024 Spring,Physics and Astronomy,4.53,3.95,4.32
+AS.171.104.13.SP24,General Physics/Biology Majors II,"Reich, Daniel","Reich, Daniel",2024 Spring,Physics and Astronomy,4.57,3.96,4.35
+AS.171.104.05.SP24,General Physics/Biology Majors II,"Reich, Daniel","Reich, Daniel",2024 Spring,Physics and Astronomy,4.32,3.75,4.11
+AS.171.104.12.SP24,General Physics/Biology Majors II,"Reich, Daniel","Reich, Daniel",2024 Spring,Physics and Astronomy,4.18,3.89,4.42
+AS.171.104.04.SP24,General Physics/Biology Majors II,"Reich, Daniel","Reich, Daniel",2024 Spring,Physics and Astronomy,4.56,4.16,4.21
+AS.171.104.11.SP24,General Physics/Biology Majors II,"Reich, Daniel","Reich, Daniel",2024 Spring,Physics and Astronomy,4.25,3.40,3.89
+AS.171.104.03.SP24,General Physics/Biology Majors II,"Reich, Daniel","Reich, Daniel",2024 Spring,Physics and Astronomy,4.35,3.95,4.55
+AS.171.104.15.SP25,General Physics/Biology Majors II,"Reich, Daniel","Reich, Daniel",2025 Spring,Physics and Astronomy,4.65,3.61,4.22
+AS.171.104.11.SP25,General Physics/Biology Majors II,"Reich, Daniel","Reich, Daniel",2025 Spring,Physics and Astronomy,4.28,4.10,4.25
+AS.171.104.07.SP25,General Physics/Biology Majors II,"Reich, Daniel","Reich, Daniel",2025 Spring,Physics and Astronomy,4.25,4.10,4.55
+AS.171.104.03.SP25,General Physics/Biology Majors II,"Reich, Daniel","Reich, Daniel",2025 Spring,Physics and Astronomy,4.50,4.19,4.40
+AS.171.104.10.SP25,General Physics/Biology Majors II,"Reich, Daniel","Reich, Daniel",2025 Spring,Physics and Astronomy,4.43,4.38,4.80
+AS.171.104.17.SP25,General Physics/Biology Majors II,"Reich, Daniel","Reich, Daniel",2025 Spring,Physics and Astronomy,4.43,3.79,4.30
+AS.171.104.14.SP25,General Physics/Biology Majors II,"Reich, Daniel","Reich, Daniel",2025 Spring,Physics and Astronomy,4.65,4.00,4.35
+AS.171.104.06.SP25,General Physics/Biology Majors II,"Reich, Daniel","Reich, Daniel",2025 Spring,Physics and Astronomy,4.55,3.91,4.85
+AS.171.104.09.SP25,General Physics/Biology Majors II,"Reich, Daniel","Reich, Daniel",2025 Spring,Physics and Astronomy,4.41,4.26,4.22
+AS.171.104.13.SP25,General Physics/Biology Majors II,"Reich, Daniel","Reich, Daniel",2025 Spring,Physics and Astronomy,4.24,4.29,4.43
+AS.171.104.16.SP25,General Physics/Biology Majors II,"Reich, Daniel","Reich, Daniel",2025 Spring,Physics and Astronomy,4.29,3.78,4.13
+AS.171.104.05.SP25,General Physics/Biology Majors II,"Reich, Daniel","Reich, Daniel",2025 Spring,Physics and Astronomy,4.50,3.45,3.91
+AS.171.104.02.SP25,General Physics/Biology Majors II,"Reich, Daniel","Reich, Daniel",2025 Spring,Physics and Astronomy,4.35,4.00,4.60
+AS.171.104.08.SP25,General Physics/Biology Majors II,"Reich, Daniel","Reich, Daniel",2025 Spring,Physics and Astronomy,4.67,3.60,4.29
+AS.171.104.12.SP25,General Physics/Biology Majors II,"Reich, Daniel","Reich, Daniel",2025 Spring,Physics and Astronomy,4.73,3.83,4.48
+AS.171.104.04.SP25,General Physics/Biology Majors II,"Reich, Daniel","Reich, Daniel",2025 Spring,Physics and Astronomy,4.28,3.68,4.32
+AS.171.104.01.SP25,General Physics/Biology Majors II,"Reich, Daniel","Reich, Daniel",2025 Spring,Physics and Astronomy,4.58,4.05,4.52
+AS.171.105.01.FA24,Classical Mechanics I,"Gritsan, Andrei","Gritsan, Andrei",2024 Fall,Physics and Astronomy,3.80,3.85,4.60
+AS.171.105.01.FA25,Classical Mechanics I,"Gritsan, Andrei","Gritsan, Andrei",2025 Fall,Physics and Astronomy,3.44,3.69,4.25
+AS.171.106.01.SP24,Electricity and Magnetism I,"Speller, Danielle","Speller, Danielle",2024 Spring,Physics and Astronomy,4.11,2.00,3.67
+AS.171.106.03.SP24,Electricity and Magnetism I,"Speller, Danielle","Speller, Danielle",2024 Spring,Physics and Astronomy,3.89,2.11,3.78
+AS.171.106.02.SP24,Electricity and Magnetism I,"Speller, Danielle","Speller, Danielle",2024 Spring,Physics and Astronomy,4.50,1.50,4.33
+AS.171.106.01.SP25,Electricity and Magnetism I,"Speller, Danielle","Speller, Danielle",2025 Spring,Physics and Astronomy,3.30,3.15,4.00
+AS.171.107.06.FA24,General Physics for Physical Sciences Majors (AL),"Schlaufman, Kevin","Schlaufman, Kevin",2024 Fall,Physics and Astronomy,4.25,3.24,4.38
+AS.171.107.04.FA24,General Physics for Physical Sciences Majors (AL),"Swartz, Morris","Swartz, Morris",2024 Fall,Physics and Astronomy,4.40,3.10,4.10
+AS.171.107.05.FA24,General Physics for Physical Sciences Majors (AL),"Schlaufman, Kevin","Schlaufman, Kevin",2024 Fall,Physics and Astronomy,4.00,3.40,3.78
+AS.171.107.03.FA24,General Physics for Physical Sciences Majors (AL),"Swartz, Morris","Swartz, Morris",2024 Fall,Physics and Astronomy,4.43,2.57,3.57
+AS.171.107.08.FA24,General Physics for Physical Sciences Majors (AL),"Schlaufman, Kevin","Schlaufman, Kevin",2024 Fall,Physics and Astronomy,4.54,3.08,4.67
+AS.171.107.02.FA24,General Physics for Physical Sciences Majors (AL),"Swartz, Morris","Swartz, Morris",2024 Fall,Physics and Astronomy,4.22,3.33,4.78
+AS.171.107.07.FA24,General Physics for Physical Sciences Majors (AL),"Schlaufman, Kevin","Schlaufman, Kevin",2024 Fall,Physics and Astronomy,4.16,3.74,4.53
+AS.171.107.01.FA24,General Physics for Physical Sciences Majors (AL),"Swartz, Morris","Swartz, Morris",2024 Fall,Physics and Astronomy,4.27,3.09,4.18
+AS.171.107.05.SP25,General Physics for Physical Sciences Majors (AL),"Broholm, Collin","Broholm, Collin",2025 Spring,Physics and Astronomy,4.35,3.35,4.53
+AS.171.107.01.SP25,General Physics for Physical Sciences Majors (AL),"Broholm, Collin","Broholm, Collin",2025 Spring,Physics and Astronomy,4.33,3.91,4.41
+AS.171.107.04.SP25,General Physics for Physical Sciences Majors (AL),"Broholm, Collin","Broholm, Collin",2025 Spring,Physics and Astronomy,4.35,3.55,4.25
+AS.171.107.03.SP25,General Physics for Physical Sciences Majors (AL),"Broholm, Collin","Broholm, Collin",2025 Spring,Physics and Astronomy,4.39,3.67,4.59
+AS.171.107.02.SP25,General Physics for Physical Sciences Majors (AL),"Broholm, Collin","Broholm, Collin",2025 Spring,Physics and Astronomy,4.39,3.70,4.13
+AS.171.107.06.FA25,General Physics for Physical Sciences Majors (AL),"Leheny, Robert","Leheny, Robert",2025 Fall,Physics and Astronomy,3.76,4.24,4.47
+AS.171.107.08.FA25,General Physics for Physical Sciences Majors (AL),"Leheny, Robert","Leheny, Robert",2025 Fall,Physics and Astronomy,3.81,4.12,3.88
+AS.171.107.05.FA25,General Physics for Physical Sciences Majors (AL),"Leheny, Robert","Leheny, Robert",2025 Fall,Physics and Astronomy,3.55,4.18,4.36
+AS.171.107.07.FA25,General Physics for Physical Sciences Majors (AL),"Leheny, Robert","Leheny, Robert",2025 Fall,Physics and Astronomy,4.00,4.10,4.20
+AS.171.107.02.FA25,General Physics for Physical Sciences Majors (AL),"Swartz, Morris","Swartz, Morris",2025 Fall,Physics and Astronomy,4.25,4.00,4.40
+AS.171.108.07.SP24,General Physics for Physical Science Majors (AL),"Maksimovic, Petar","Maksimovic, Petar",2024 Spring,Physics and Astronomy,4.11,4.21,4.53
+AS.171.108.06.SP24,General Physics for Physical Science Majors (AL),"Maksimovic, Petar","Maksimovic, Petar",2024 Spring,Physics and Astronomy,3.95,4.05,4.25
+AS.171.108.05.SP24,General Physics for Physical Science Majors (AL),"Maksimovic, Petar","Maksimovic, Petar",2024 Spring,Physics and Astronomy,4.21,3.74,4.32
+AS.171.108.04.SP24,General Physics for Physical Science Majors (AL),"Kamionkowski, Marc","Kamionkowski, Marc",2024 Spring,Physics and Astronomy,3.71,4.29,5.00
+AS.171.108.03.SP24,General Physics for Physical Science Majors (AL),"Kamionkowski, Marc","Kamionkowski, Marc",2024 Spring,Physics and Astronomy,4.31,4.21,4.47
+AS.171.108.02.SP24,General Physics for Physical Science Majors (AL),"Kamionkowski, Marc","Kamionkowski, Marc",2024 Spring,Physics and Astronomy,4.10,3.30,4.20
+AS.171.108.08.SP24,General Physics for Physical Science Majors (AL),"Maksimovic, Petar","Maksimovic, Petar",2024 Spring,Physics and Astronomy,4.52,3.29,4.33
+AS.171.108.05.SP25,General Physics for Physical Science Majors (AL),"Maksimovic, Petar","Maksimovic, Petar",2025 Spring,Physics and Astronomy,4.32,3.89,4.74
+AS.171.108.08.SP25,General Physics for Physical Science Majors (AL),"Maksimovic, Petar","Maksimovic, Petar",2025 Spring,Physics and Astronomy,4.00,3.94,4.59
+AS.171.108.04.SP25,General Physics for Physical Science Majors (AL),"Sing, David","Sing, David",2025 Spring,Physics and Astronomy,4.50,2.00,2.50
+AS.171.108.07.SP25,General Physics for Physical Science Majors (AL),"Maksimovic, Petar","Maksimovic, Petar",2025 Spring,Physics and Astronomy,3.82,4.06,4.71
+AS.171.108.02.SP25,General Physics for Physical Science Majors (AL),"Sing, David","Sing, David",2025 Spring,Physics and Astronomy,4.50,3.33,4.67
+AS.171.108.06.SP25,General Physics for Physical Science Majors (AL),"Maksimovic, Petar","Maksimovic, Petar",2025 Spring,Physics and Astronomy,4.27,3.59,4.50
+AS.171.108.01.SP25,General Physics for Physical Science Majors (AL),"Sing, David","Sing, David",2025 Spring,Physics and Astronomy,4.43,3.43,4.86
+AS.171.115.01.FA24,Spacetime and Quanta,"Carroll, Sean","Carroll, Sean",2024 Fall,Physics and Astronomy,2.48,4.56,4.64
+AS.171.118.01.SP24,Stars and the Universe: Cosmic Evolution,"Riess, Adam","Riess, Adam",2024 Spring,Physics and Astronomy,3.52,4.41,4.26
+AS.171.201.01.FA24,Special Relativity/Waves,"Broholm, Collin","Broholm, Collin",2024 Fall,Physics and Astronomy,4.60,4.00,4.44
+AS.171.201.02.FA24,Special Relativity/Waves,"Broholm, Collin","Broholm, Collin",2024 Fall,Physics and Astronomy,5.00,4.11,4.89
+AS.171.201.02.FA25,Special Relativity/Waves,"Broholm, Collin","Broholm, Collin",2025 Fall,Physics and Astronomy,3.89,3.89,4.88
+AS.171.201.01.FA25,Special Relativity/Waves,"Broholm, Collin","Broholm, Collin",2025 Fall,Physics and Astronomy,4.40,4.67,4.80
+AS.171.204.02.SP24,Classical Mechanics II,"Tchernyshyov, Oleg","Tchernyshyov, Oleg",2024 Spring,Physics and Astronomy,3.17,4.88,4.78
+AS.171.204.01.SP24,Classical Mechanics II,"Tchernyshyov, Oleg","Tchernyshyov, Oleg",2024 Spring,Physics and Astronomy,3.50,4.75,4.63
+AS.171.204.01.SP25,Classical Mechanics II,"Tchernyshyov, Oleg","Tchernyshyov, Oleg",2025 Spring,Physics and Astronomy,3.50,4.50,4.60
+AS.171.204.02.SP25,Classical Mechanics II,"Tchernyshyov, Oleg","Tchernyshyov, Oleg",2025 Spring,Physics and Astronomy,3.63,4.40,4.65
+AS.171.205.01.SP24,Introduction to Practical Data Science: Beautiful Data,"Szalay, Alex","Szalay, Alex",2024 Spring,Physics and Astronomy,3.45,3.91,4.45
+AS.171.301.02.FA24,Electromagnetic Theory II,"Chien, Chia Ling","Chien, Chia Ling",2024 Fall,Physics and Astronomy,3.94,4.63,4.88
+AS.171.301.01.FA24,Electromagnetic Theory II,"Chien, Chia Ling","Chien, Chia Ling",2024 Fall,Physics and Astronomy,3.71,4.63,4.50
+AS.171.301.02.FA25,Electromagnetic Theory II,"Chien, Chia Ling","Chien, Chia Ling",2025 Fall,Physics and Astronomy,4.27,3.63,4.47
+AS.171.301.01.FA25,Electromagnetic Theory II,"Chien, Chia Ling","Chien, Chia Ling",2025 Fall,Physics and Astronomy,4.11,3.56,4.56
+AS.171.303.01.FA24,Quantum Mechanics I,"Li, Yi","Li, Yi",2024 Fall,Physics and Astronomy,3.25,4.57,4.57
+AS.171.303.01.FA25,Quantum Mechanics I,"Carroll, Sean","Carroll, Sean",2025 Fall,Physics and Astronomy,3.13,4.00,4.25
+AS.171.304.02.SP24,Quantum Mechanics II,"Rajendran, Surjeet","Rajendran, Surjeet",2024 Spring,Physics and Astronomy,3.71,2.36,3.86
+AS.171.304.01.SP24,Quantum Mechanics II,"Rajendran, Surjeet","Rajendran, Surjeet",2024 Spring,Physics and Astronomy,3.57,2.29,2.71
+AS.171.304.02.SP25,Quantum Mechanics II,"Li, Yi","Li, Yi",2025 Spring,Physics and Astronomy,3.60,4.40,4.80
+AS.171.304.01.SP25,Quantum Mechanics II,"Li, Yi","Li, Yi",2025 Spring,Physics and Astronomy,3.69,4.46,4.77
+AS.171.306.01.SP25,Practical use of Computational Tools in Physics,"Bunstine, Wyatt","Bunstine, Wyatt",2025 Spring,Physics and Astronomy,2.29,4.43,4.43
+AS.171.310.01.FA24,Biological Physics,"Camley, Brian","Camley, Brian",2024 Fall,Physics and Astronomy,3.00,4.88,4.87
+AS.171.310.01.FA25,Biological Physics,"Beller, Daniel","Beller, Daniel",2025 Fall,Physics and Astronomy,3.41,4.00,4.38
+AS.171.312.01.SP24,Statistical Physics/Thermodynamics,"Camley, Brian","Camley, Brian",2024 Spring,Physics and Astronomy,2.81,4.76,4.46
+AS.171.312.02.SP25,Statistical Physics/Thermodynamics,"Camley, Brian","Camley, Brian",2025 Spring,Physics and Astronomy,2.40,5.00,4.55
+AS.171.312.01.SP25,Statistical Physics/Thermodynamics,"Camley, Brian","Camley, Brian",2025 Spring,Physics and Astronomy,2.86,4.52,4.33
+AS.171.313.01.FA25,Introduction to Stellar Physics,"MacGregor, Meredith","MacGregor, Meredith",2025 Fall,Physics and Astronomy,3.40,4.82,4.55
+AS.171.314.01.SP25,Introduction to Galaxies and Active Galactic Nuclei,"Wyse, Rosemary","Wyse, Rosemary",2025 Spring,Physics and Astronomy,3.20,4.60,4.70
+AS.171.321.01.FA24,"Introduction to Space, Science, and Technology","MacKenty, John","MacKenty, John",2024 Fall,Physics and Astronomy,3.63,4.22,4.18
+AS.171.321.01.FA24,"Introduction to Space, Science, and Technology","McCandliss, Stephan","McCandliss, Stephan",2024 Fall,Physics and Astronomy,3.63,4.13,4.18
+AS.171.321.01.FA25,"Introduction to Space, Science, and Technology","MacKenty, John","MacKenty, John",2025 Fall,Physics and Astronomy,3.10,4.33,4.00
+AS.171.321.01.FA25,"Introduction to Space, Science, and Technology","McCandliss, Stephan","McCandliss, Stephan",2025 Fall,Physics and Astronomy,3.10,4.24,4.00
+AS.171.402.01.SP24,Applied Quantum Information,"Quiroz, Gregory","Quiroz, Gregory",2024 Spring,Physics and Astronomy,2.50,5.00,5.00
+AS.171.402.01.SP24,Applied Quantum Information,"Titum, Paraj","Titum, Paraj",2024 Spring,Physics and Astronomy,2.50,4.67,5.00
+AS.171.405.01.FA24,Condensed Matter Physics,"Zhang, Yahui","Zhang, Yahui",2024 Fall,Physics and Astronomy,3.00,4.75,5.00
+AS.171.406.01.SP24,Condensed Matter Physics,"Beller, Daniel","Beller, Daniel",2024 Spring,Physics and Astronomy,2.71,4.14,4.57
+AS.171.406.01.SP25,Condensed Matter Physics,"Beller, Daniel","Beller, Daniel",2025 Spring,Physics and Astronomy,3.29,4.29,4.57
+AS.171.408.01.SP24,Nuclear and Particle Physics,"Gritsan, Andrei","Gritsan, Andrei",2024 Spring,Physics and Astronomy,3.40,4.80,5.00
+AS.171.410.01.SP25,Physical Cosmology,"Bennett, Chuck","Bennett, Chuck",2025 Spring,Physics and Astronomy,2.67,4.17,4.83
+AS.171.416.01.FA24,Numerical Methods for Physicists,"Zhang, Yaojun","Zhang, Yaojun",2024 Fall,Physics and Astronomy,3.00,4.25,4.25
+AS.171.449.01.SP25,Astrophysical Plasmas,"Norman, Colin","Norman, Colin",2025 Spring,Physics and Astronomy,2.27,4.27,4.64
+AS.171.603.01.SP24,Electromagnetic Theory,"Zakamska, Nadia","Zakamska, Nadia",2024 Spring,Physics and Astronomy,4.17,4.92,4.75
+AS.171.603.01.SP25,Electromagnetic Theory,"Zakamska, Nadia","Zakamska, Nadia",2025 Spring,Physics and Astronomy,4.29,4.57,4.43
+AS.171.605.01.FA24,Quantum Mechanics,"Bah, Ibou","Bah, Ibou",2024 Fall,Physics and Astronomy,4.43,4.67,4.89
+AS.171.605.01.FA25,Quantum Mechanics I,"Tchernyshyov, Oleg","Tchernyshyov, Oleg",2025 Fall,Physics and Astronomy,3.50,4.76,4.57
+AS.171.605.01.FA25,Quantum Mechanics I,"Bah, Ibou","Bah, Ibou",2025 Fall,Physics and Astronomy,3.50,4.44,4.57
+AS.171.606.01.SP24,Quantum Mechanics,"Zhang, Yahui","Zhang, Yahui",2024 Spring,Physics and Astronomy,2.79,3.53,3.89
+AS.171.606.01.SP25,Quantum Mechanics,"Zhang, Yahui","Zhang, Yahui",2025 Spring,Physics and Astronomy,2.75,4.50,5.00
+AS.171.611.01.SP25,Stellar Structure and Evolution,"Schlaufman, Kevin","Schlaufman, Kevin",2025 Spring,Physics and Astronomy,4.64,4.82,5.00
+AS.171.612.01.SP24,Interstellar Medium and Astrophysical Fluid Dynamics,"MacGregor, Meredith","MacGregor, Meredith",2024 Spring,Physics and Astronomy,3.26,4.95,4.37
+AS.171.612.01.SP25,Interstellar Medium and Astrophysical Fluid Dynamics,"MacGregor, Meredith","MacGregor, Meredith",2025 Spring,Physics and Astronomy,2.70,5.00,4.40
+AS.171.613.01.FA24,Radiative Astrophysics,"Bennett, Chuck","Bennett, Chuck",2024 Fall,Physics and Astronomy,3.00,4.11,4.67
+AS.171.613.01.FA25,Radiative Astrophysics,"Bennett, Chuck","Bennett, Chuck",2025 Fall,Physics and Astronomy,3.18,4.50,4.67
+AS.171.618.01.SP24,Observational Astronomy,"Ménard, Brice","Ménard, Brice",2024 Spring,Physics and Astronomy,2.89,3.80,3.90
+AS.171.622.01.SP24,Condensed Matter Physics,"Beller, Daniel","Beller, Daniel",2024 Spring,Physics and Astronomy,3.75,4.83,4.29
+AS.171.625.01.SP24,Experimental Particle Physics,"Gritsan, Andrei","Gritsan, Andrei",2024 Spring,Physics and Astronomy,2.80,4.60,4.60
+AS.171.627.01.SP24,Astrophysical Dynamics,"Wyse, Rosemary","Wyse, Rosemary",2024 Spring,Physics and Astronomy,3.56,3.70,4.20
+AS.171.627.01.FA24,Astrophysical Dynamics,"Wyse, Rosemary","Wyse, Rosemary",2024 Fall,Physics and Astronomy,3.63,2.70,3.80
+AS.171.627.01.FA25,Astrophysical Dynamics,"Wyse, Rosemary","Wyse, Rosemary",2025 Fall,Physics and Astronomy,3.00,3.77,4.15
+AS.171.639.01.FA25,Group Theory in Physics,"Li, Yi","Li, Yi",2025 Fall,Physics and Astronomy,3.40,3.83,4.40
+AS.171.644.01.SP24,Exoplanets and Planet Formation,"Schlaufman, Kevin","Schlaufman, Kevin",2024 Spring,Physics and Astronomy,3.50,5.00,4.67
+AS.171.646.01.FA24,General Relativity,"Berti, Emanuele","Berti, Emanuele",2024 Fall,Physics and Astronomy,2.80,4.60,4.80
+AS.171.646.01.FA25,General Relativity,"Berti, Emanuele","Berti, Emanuele",2025 Fall,Physics and Astronomy,3.71,4.14,4.71
+AS.171.648.01.SP24,Physics of Cell Biology: From Mechanics to Information,"Zhang, Yaojun","Zhang, Yaojun",2024 Spring,Physics and Astronomy,2.60,3.50,4.00
+AS.171.671.01.FA25,Advanced Topics in Astrobiology,"Norman, Colin","Norman, Colin",2025 Fall,Physics and Astronomy,2.11,4.50,4.00
+AS.171.701.01.FA24,Quantum Field Theory,"Kaplan, David","Kaplan, David",2024 Fall,Physics and Astronomy,3.09,3.92,4.50
+AS.171.701.01.FA25,Quantum Field Theory,"Kaplan, David","Kaplan, David",2025 Fall,Physics and Astronomy,3.25,4.60,4.56
+AS.171.702.01.SP24,Quantum Field Theory II,"Kaplan, David","Kaplan, David",2024 Spring,Physics and Astronomy,3.56,4.90,4.80
+AS.171.702.01.SP25,Quantum Field Theory II,"Kaplan, David","Kaplan, David",2025 Spring,Physics and Astronomy,3.00,5.00,5.00
+AS.171.703.01.FA24,Advanced Statistical Mechanics,"Armitage, Peter","Armitage, Peter",2024 Fall,Physics and Astronomy,3.11,4.56,4.56
+AS.171.703.01.FA25,Advanced Statistical Mechanics,"Armitage, Peter","Armitage, Peter",2025 Fall,Physics and Astronomy,3.07,3.93,3.73
+AS.171.732.01.SP25,Elementary Particle Physics,"Swartz, Morris","Swartz, Morris",2025 Spring,Physics and Astronomy,2.40,4.57,4.71
+AS.171.749.01.SP24,Machine Learning for Scientists,"Ménard, Brice","Ménard, Brice",2024 Spring,Physics and Astronomy,2.36,4.44,4.38
+AS.171.749.01.SP25,Machine Learning for Physicists,"Ménard, Brice","Ménard, Brice",2025 Spring,Physics and Astronomy,2.54,4.62,4.62
+AS.171.750.01.SP24,Cosmology,"Bennett, Chuck","Bennett, Chuck",2024 Spring,Physics and Astronomy,3.20,5.00,4.80
+AS.171.750.01.FA25,Cosmology,"Wandelt, Benjamin","Wandelt, Benjamin",2025 Fall,Physics and Astronomy,3.00,5.00,4.67
+AS.171.752.01.FA25,Black Hole Astrophysics,"Krolik, Julian","Krolik, Julian",2025 Fall,Physics and Astronomy,2.00,3.00,5.00
+AS.171.752.01.FA25,Black Hole Astrophysics,"Heckman, Tim","Heckman, Tim",2025 Fall,Physics and Astronomy,2.00,5.00,5.00
+AS.171.755.01.FA25,Fourier Optics and Interferometry in Astronomy,,,2025 Fall,Physics and Astronomy,2.80,4.60,5.00
+AS.171.764.01.SP25,Experimental Techniques in Condensed Matter Physics,"Armitage, Peter","Armitage, Peter",2025 Spring,Physics and Astronomy,3.00,5.00,4.25
