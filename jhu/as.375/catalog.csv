@@ -1,5 +1,5 @@
 code,title,credits,description,fa_tags,distribution,prereq_codes,prereq_text,restrictions,raw_description
-AS.375.115,First Year Arabic,5,"Introductory course in speaking, listening, reading, and writing Modern Standard Arabic.  Presents basic grammatical structures and a basic vocabulary.  Through oral-aural drill in classroom, tapes in Language Laboratory, and reading/writing exercises, students attain a basic level of competence on which they can build in subsequent years of studyNo Satisfactory/ Unsatisfactory","FA3, FA4",,,,,"AS.375.115.
+AS.375.115,First Year Arabic,5,"Introductory course in speaking, listening, reading, and writing Modern Standard Arabic. Presents basic grammatical structures and a basic vocabulary. Through oral-aural drill in classroom, tapes in Language Laboratory, and reading/writing exercises, students attain a basic level of competence on which they can build in subsequent years of studyNo Satisfactory/ Unsatisfactory","FA3, FA4",,,,,"AS.375.115.
 First Year Arabic.
 5 Credits.
 Introductory course in speaking, listening, reading, and writing Modern Standard Arabic.  Presents basic grammatical structures and a basic vocabulary.  Through oral-aural drill in classroom, tapes in Language Laboratory, and reading/writing exercises, students attain a basic level of competence on which they can build in subsequent years of studyNo Satisfactory/ Unsatisfactory
@@ -7,9 +7,7 @@ AS Foundational Abilities: Culture and Aesthetics (FA3),
 Citizens and Society (FA4)
 EN Foundational Abilities: Creative Expression (FA3),
 Engagement with Society (FA4)"
-AS.375.116,First Year Arabic II,5,"Continuation of
-AS.375.115
-. Introductory course in speaking, listening, reading, and writing Modern Standard Arabic. Presents basic grammatical structures and a basic vocabulary. Through oral-aural drill in classroom, tapes in Language Laboratory, and reading/writing exercises, students attain a basic level of competence on which they can build in subsequent years of study. May not be taken Satisfactory/ Unsatisfactory","FA3, FA4",,AS.375.115,"AS.375.115
+AS.375.116,First Year Arabic II,5,"Continuation of AS.375.115 . Introductory course in speaking, listening, reading, and writing Modern Standard Arabic. Presents basic grammatical structures and a basic vocabulary. Through oral-aural drill in classroom, tapes in Language Laboratory, and reading/writing exercises, students attain a basic level of competence on which they can build in subsequent years of study. May not be taken Satisfactory/ Unsatisfactory Prerequisite(s): AS.375.115 or instructor permission","FA3, FA4",,AS.375.115,"AS.375.115
 or instructor permission",,"AS.375.116.
 First Year Arabic II.
 5 Credits.
@@ -23,7 +21,7 @@ AS Foundational Abilities: Culture and Aesthetics (FA3),
 Citizens and Society (FA4)
 EN Foundational Abilities: Creative Expression (FA3),
 Engagement with Society (FA4)"
-AS.375.211,Introduction to Levantine Arabic,2,"This is an introduction course to Levantine Arabic (‘lahjah shamiyyah’). The course aims to develop communicative skills in a wide range of contexts so as to enable students to interact effectively in areas where Levantine Arabic is spoken. The course exposes students to commonly-used Arabic phrases and sentence structures, thereby gaining familiarity with the less formal Arabic register of Levantine.","FA3, FA4",Humanities,AS.375.116,AS.375.116,,"AS.375.211.
+AS.375.211,Introduction to Levantine Arabic,2,"This is an introduction course to Levantine Arabic (‘lahjah shamiyyah’). The course aims to develop communicative skills in a wide range of contexts so as to enable students to interact effectively in areas where Levantine Arabic is spoken. The course exposes students to commonly-used Arabic phrases and sentence structures, thereby gaining familiarity with the less formal Arabic register of Levantine. Prerequisite(s): AS.375.116","FA3, FA4",Humanities,AS.375.116,AS.375.116,,"AS.375.211.
 Introduction to Levantine Arabic.
 2 Credits.
 This is an introduction course to Levantine Arabic (‘lahjah shamiyyah’). The course aims to develop communicative skills in a wide range of contexts so as to enable students to interact effectively in areas where Levantine Arabic is spoken. The course exposes students to commonly-used Arabic phrases and sentence structures, thereby gaining familiarity with the less formal Arabic register of Levantine.
@@ -34,9 +32,7 @@ AS Foundational Abilities: Culture and Aesthetics (FA3),
 Citizens and Society (FA4)
 EN Foundational Abilities: Creative Expression (FA3),
 Engagement with Society (FA4)"
-AS.375.212,Introduction to Levantine Arabic II,2,"This is a continuation course of
-AS.375.211
-which continues to build on communicative skills to enable students to interact effectively in areas where Levantine Arabic is spoken.","FA3, FA4",Humanities,AS.375.211,AS.375.211,,"AS.375.212.
+AS.375.212,Introduction to Levantine Arabic II,2,This is a continuation course of AS.375.211 which continues to build on communicative skills to enable students to interact effectively in areas where Levantine Arabic is spoken. Prerequisite(s): AS.375.211,"FA3, FA4",Humanities,AS.375.211,AS.375.211,,"AS.375.212.
 Introduction to Levantine Arabic II.
 2 Credits.
 This is a continuation course of
@@ -49,9 +45,7 @@ AS Foundational Abilities: Culture and Aesthetics (FA3),
 Citizens and Society (FA4)
 EN Foundational Abilities: Creative Expression (FA3),
 Engagement with Society (FA4)"
-AS.375.215,Second Year Arabic,4,"Designed to bring students up to competency level required for third/fourth year Arabic. Students will consolidate and expand their mastery of the four basic skills acquired in
-AS.375.115
--116. More authentic material--written, audio, and visual--will be used, and culture will be further expanded on as a fifth skill.","FA3, FA4",Humanities,AS.375.116,"AS.375.116
+AS.375.215,Second Year Arabic,4,"Designed to bring students up to competency level required for third/fourth year Arabic. Students will consolidate and expand their mastery of the four basic skills acquired in AS.375.115 -116. More authentic material--written, audio, and visual--will be used, and culture will be further expanded on as a fifth skill. Recommended Course Background: AS.375.115 -116 or equivalent. Prerequisite(s): AS.375.116 or equivalent","FA3, FA4",Humanities,AS.375.116,"AS.375.116
 or equivalent",,"AS.375.215.
 Second Year Arabic.
 4 Credits.
@@ -68,11 +62,7 @@ AS Foundational Abilities: Culture and Aesthetics (FA3),
 Citizens and Society (FA4)
 EN Foundational Abilities: Creative Expression (FA3),
 Engagement with Society (FA4)"
-AS.375.216,Second Year Arabic II,4,"Continuation of
-AS.375.215
-. Designed to bring students up to competency level required for third/fourth year Arabic.  Students will consolidate and expand their mastery of the four basic skills acquired in
-AS.375.115
--116.  More authentic material--written, audio, and visual--will be used, and culture will be further expanded on as a fifth skill.","FA3, FA4",Humanities,AS.375.215,"AS.375.215
+AS.375.216,Second Year Arabic II,4,"Continuation of AS.375.215 . Designed to bring students up to competency level required for third/fourth year Arabic. Students will consolidate and expand their mastery of the four basic skills acquired in AS.375.115 -116. More authentic material--written, audio, and visual--will be used, and culture will be further expanded on as a fifth skill. Recommended Course Background: AS.375.215 or permission required. Prerequisite(s): AS.375.215 or instructor permission","FA3, FA4",Humanities,AS.375.215,"AS.375.215
 or instructor permission",,"AS.375.216.
 Second Year Arabic II.
 4 Credits.
@@ -91,7 +81,7 @@ AS Foundational Abilities: Culture and Aesthetics (FA3),
 Citizens and Society (FA4)
 EN Foundational Abilities: Creative Expression (FA3),
 Engagement with Society (FA4)"
-AS.375.301,Third Year Arabic,3,"Designed to enhance students' ability to read, discuss, and write about various topics covered in traditional and contemporary Arabic texts.","FA1, FA3, FA4",Humanities,AS.375.216,"AS.375.216
+AS.375.301,Third Year Arabic,3,"Designed to enhance students' ability to read, discuss, and write about various topics covered in traditional and contemporary Arabic texts. Recommended Course Background: AS.375.216 or equivalent. Prerequisite(s): AS.375.216 or Instructor Permission","FA1, FA3, FA4",Humanities,AS.375.216,"AS.375.216
 or Instructor Permission",Writing Intensive,"AS.375.301.
 Third Year Arabic.
 3 Credits.
@@ -108,9 +98,7 @@ Citizens and Society (FA4)
 EN Foundational Abilities: Creative Expression (FA3),
 Engagement with Society (FA4)
 Writing Intensive"
-AS.375.302,Third Year Arabic II,3,"Designed to enhance students’ ability to read, discuss, and write about various topics covered in traditional and contemporary Arabic texts. Continuation of
-AS.375.301
-.","FA1, FA3, FA4",Humanities,AS.375.301,"AS.375.301
+AS.375.302,Third Year Arabic II,3,"Designed to enhance students’ ability to read, discuss, and write about various topics covered in traditional and contemporary Arabic texts. Continuation of AS.375.301 . Recommended Course Background: AS.375.301or permission required. Prerequisite(s): AS.375.301 or instructor permission","FA1, FA3, FA4",Humanities,AS.375.301,"AS.375.301
 or instructor permission",,"AS.375.302.
 Third Year Arabic II.
 3 Credits.
@@ -126,7 +114,7 @@ Culture and Aesthetics (FA3),
 Citizens and Society (FA4)
 EN Foundational Abilities: Creative Expression (FA3),
 Engagement with Society (FA4)"
-AS.375.401,Fourth Year Arabic,2,This is an introductory course to different periods of the Arabic literature. Selections of famous Arabic poetry and short prose works are the substance of the course.,"FA1, FA3, FA4",Humanities,AS.375.302,"AS.375.302
+AS.375.401,Fourth Year Arabic,2,This is an introductory course to different periods of the Arabic literature. Selections of famous Arabic poetry and short prose works are the substance of the course. Prerequisite(s): AS.375.302 or equivalent,"FA1, FA3, FA4",Humanities,AS.375.302,"AS.375.302
 or equivalent",Writing Intensive,"AS.375.401.
 Fourth Year Arabic.
 2 Credits.
@@ -141,9 +129,7 @@ Citizens and Society (FA4)
 EN Foundational Abilities: Creative Expression (FA3),
 Engagement with Society (FA4)
 Writing Intensive"
-AS.375.402,Fourth Year Arabic II,2,"This is an introductory course to different periods of the Arabic literature. Selections of famous Arabic poetry and short prose works are the substance of the course. Continuation of
-AS.375.401
-.","FA1, FA3, FA4",Humanities,AS.375.401,"AS.375.401
+AS.375.402,Fourth Year Arabic II,2,This is an introductory course to different periods of the Arabic literature. Selections of famous Arabic poetry and short prose works are the substance of the course. Continuation of AS.375.401 . Recommended Course Background: AS.375.302 or equivalent. Prerequisite(s): AS.375.401 or equivalent.,"FA1, FA3, FA4",Humanities,AS.375.401,"AS.375.401
 or equivalent.",Writing Intensive,"AS.375.402.
 Fourth Year Arabic II.
 2 Credits.

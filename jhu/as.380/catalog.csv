@@ -1,5 +1,5 @@
 code,title,credits,description,fa_tags,distribution,prereq_codes,prereq_text,restrictions,raw_description
-AS.380.101,First Year Korean,5,"Introduces the Korean alphabet, hangeul. Covers basic elements of the Korean language, high-frequency words and phrases, including cultural aspects. Focuses on oral fluency reaching Limited Proficiency where one can handle simple daily conversations. No Satisfactory/ Unsatisfactory.","FA3, FA4",,,,,"AS.380.101.
+AS.380.101,First Year Korean,5,"Introduces the Korean alphabet, hangeul. Covers basic elements of the Korean language, high-frequency words and phrases, including cultural aspects. Focuses on oral fluency reaching Limited Proficiency where one can handle simple daily conversations. No Satisfactory/ Unsatisfactory. Cross-listed with East Asian Studies","FA3, FA4",,,,,"AS.380.101.
 First Year Korean.
 5 Credits.
 Introduces the Korean alphabet, hangeul. Covers basic elements of the Korean language, high-frequency words and phrases, including cultural aspects. Focuses on oral fluency reaching Limited Proficiency where one can handle simple daily conversations. No Satisfactory/ Unsatisfactory.  Cross-listed with East Asian Studies
@@ -7,9 +7,7 @@ AS Foundational Abilities: Culture and Aesthetics (FA3),
 Citizens and Society (FA4)
 EN Foundational Abilities: Creative Expression (FA3),
 Engagement with Society (FA4)"
-AS.380.102,First Year Korean II,5,"Focuses on improving speaking fluency to Limited Proficiency so that one can handle simple daily conversations with confidence. It provides basic high-frequency structures and covers Korean holidays. Continuation of
-AS.380.101
-.","FA3, FA4",,AS.380.101,"AS.380.101
+AS.380.102,First Year Korean II,5,Focuses on improving speaking fluency to Limited Proficiency so that one can handle simple daily conversations with confidence. It provides basic high-frequency structures and covers Korean holidays. Continuation of AS.380.101 . Recommended Course Background: AS.380.101 or permission required. Prerequisite(s): AS.380.101 or instructor permission,"FA3, FA4",,AS.380.101,"AS.380.101
 or instructor permission",,"AS.380.102.
 First Year Korean II.
 5 Credits.
@@ -25,7 +23,7 @@ AS Foundational Abilities: Culture and Aesthetics (FA3),
 Citizens and Society (FA4)
 EN Foundational Abilities: Creative Expression (FA3),
 Engagement with Society (FA4)"
-AS.380.201,Second Year Korean,4,"Aims for improving oral proficiency and confident control of grammar with vocabulary building and correct spelling intended. Reading materials of Korean people, places, and societies will enhance cultural understanding and awareness. Project due on Korean cities. Existing demonstrable skills in spoken Korean preferred.","FA3, FA4",Humanities,AS.380.102,AS.380.102,,"AS.380.201.
+AS.380.201,Second Year Korean,4,"Aims for improving oral proficiency and confident control of grammar with vocabulary building and correct spelling intended. Reading materials of Korean people, places, and societies will enhance cultural understanding and awareness. Project due on Korean cities. Existing demonstrable skills in spoken Korean preferred. Prerequisite(s): AS.380.102","FA3, FA4",Humanities,AS.380.102,AS.380.102,,"AS.380.201.
 Second Year Korean.
 4 Credits.
 Aims for improving oral proficiency and confident control of grammar with vocabulary building and correct spelling intended. Reading materials of Korean people, places, and societies will enhance cultural understanding and awareness. Project due on Korean cities. Existing demonstrable skills in spoken Korean preferred.
@@ -36,9 +34,7 @@ AS Foundational Abilities: Culture and Aesthetics (FA3),
 Citizens and Society (FA4)
 EN Foundational Abilities: Creative Expression (FA3),
 Engagement with Society (FA4)"
-AS.380.202,Second Year Korean II,4,"Aims for improving writing skills with correct spelling. Reading materials of Korean people, places, and societies will enhance cultural understanding and awareness, including discussion on family tree. Continuation of
-AS.380.201
-.","FA3, FA4",Humanities,AS.380.201,"AS.380.201
+AS.380.202,Second Year Korean II,4,"Aims for improving writing skills with correct spelling. Reading materials of Korean people, places, and societies will enhance cultural understanding and awareness, including discussion on family tree. Continuation of AS.380.201 . Recommended Course Background: AS.380.201 or equivalent. Prerequisite(s): AS.380.201 or equivalent","FA3, FA4",Humanities,AS.380.201,"AS.380.201
 or equivalent",,"AS.380.202.
 Second Year Korean II.
 4 Credits.
@@ -55,7 +51,7 @@ AS Foundational Abilities: Culture and Aesthetics (FA3),
 Citizens and Society (FA4)
 EN Foundational Abilities: Creative Expression (FA3),
 Engagement with Society (FA4)"
-AS.380.301,Third Year Korean,3,"Emphasizes reading literacy in classic and modern Korean prose, from easy essays to difficult short stories. Vocabulary refinement and native-like grasp of grammar explored. Project due on Korean culture.","FA1, FA3, FA4",Humanities,AS.380.202,"AS.380.202
+AS.380.301,Third Year Korean,3,"Emphasizes reading literacy in classic and modern Korean prose, from easy essays to difficult short stories. Vocabulary refinement and native-like grasp of grammar explored. Project due on Korean culture. Cross-listed with East Asian Studies Prerequisite(s): AS.380.202 or equivalent","FA1, FA3, FA4",Humanities,AS.380.202,"AS.380.202
 or equivalent",Writing Intensive,"AS.380.301.
 Third Year Korean.
 3 Credits.
@@ -70,9 +66,7 @@ Citizens and Society (FA4)
 EN Foundational Abilities: Creative Expression (FA3),
 Engagement with Society (FA4)
 Writing Intensive"
-AS.380.302,Third Year Korean II,3,"Emphasizes reading literacy in classic and modern Korean prose.  By reading Korean newspapers and professional articles in one’s major, it enables one to be well-versed and truly literate.                Continuation of
-AS.380.301
-.","FA1, FA3, FA4",Humanities,AS.380.301,"AS.380.301
+AS.380.302,Third Year Korean II,3,"Emphasizes reading literacy in classic and modern Korean prose. By reading Korean newspapers and professional articles in one’s major, it enables one to be well-versed and truly literate. Continuation of AS.380.301 . Cross-listed with East Asian StudiesPrerequisite: AS.380.301 or equivalent. Prerequisite(s): AS.380.301 or instructor permission","FA1, FA3, FA4",Humanities,AS.380.301,"AS.380.301
 or instructor permission","Cross-listed with East Asian StudiesPrerequisite:
 AS.380.301
 or equivalent. | Writing Intensive","AS.380.302.
@@ -93,7 +87,7 @@ Citizens and Society (FA4)
 EN Foundational Abilities: Creative Expression (FA3),
 Engagement with Society (FA4)
 Writing Intensive"
-AS.380.401,Fourth Year Korean,2,"This course is designed for those who have finished AS 380.302 or beyond advanced mid level of competency in Korean in four skills. By dealing with various topics on authentic materials including news, articles on websites, short stories, this course aims to help students enhance not only linguistics knowledge and skills, but also current issues in Korea. It is expected that, by the end of the term, students will be able to discuss a variety of topics and express opinions fluently in both spoken and written language.","FA1, FA3, FA4",Humanities,AS.380.302,"AS.380.302
+AS.380.401,Fourth Year Korean,2,"This course is designed for those who have finished AS 380.302 or beyond advanced mid level of competency in Korean in four skills. By dealing with various topics on authentic materials including news, articles on websites, short stories, this course aims to help students enhance not only linguistics knowledge and skills, but also current issues in Korea. It is expected that, by the end of the term, students will be able to discuss a variety of topics and express opinions fluently in both spoken and written language. Prerequisite(s): AS.380.302 or instructor permission","FA1, FA3, FA4",Humanities,AS.380.302,"AS.380.302
 or instructor permission",Writing Intensive,"AS.380.401.
 Fourth Year Korean.
 2 Credits.
@@ -108,7 +102,7 @@ Citizens and Society (FA4)
 EN Foundational Abilities: Creative Expression (FA3),
 Engagement with Society (FA4)
 Writing Intensive"
-AS.380.402,Fourth Year Korean II,2,"This course is designed for those who have finished AS 380.302 or beyond advanced mid level of competency in Korean in four skills. By dealing with various topics on authentic materials including news, articles on websites, short stories, this course aims to help students enhance not only linguistics knowledge and skills, but also current issues in Korea. It is expected that, by the end of the term, students will be able to discuss a variety of topics and express opinions fluently in both spoken and written language.","FA1, FA3, FA4",Humanities,AS.380.401,"AS.380.401
+AS.380.402,Fourth Year Korean II,2,"This course is designed for those who have finished AS 380.302 or beyond advanced mid level of competency in Korean in four skills. By dealing with various topics on authentic materials including news, articles on websites, short stories, this course aims to help students enhance not only linguistics knowledge and skills, but also current issues in Korea. It is expected that, by the end of the term, students will be able to discuss a variety of topics and express opinions fluently in both spoken and written language. Prerequisite(s): AS.380.401 or equivalent","FA1, FA3, FA4",Humanities,AS.380.401,"AS.380.401
 or equivalent",Writing Intensive,"AS.380.402.
 Fourth Year Korean II.
 2 Credits.

@@ -1,33 +1,35 @@
 """
-JHU Course Catalog Scraper
-Fetches course catalog data from https://e-catalogue.jhu.edu
+JHU Course Catalog Scraper (Bulk Mode)
+Scrapes all AS (Arts & Sciences) and EN (Engineering) departments from
+https://e-catalogue.jhu.edu/course-descriptions/
 
 HOW TO USE:
 1. Install dependencies (one-time):
        pip3 install requests beautifulsoup4
-2. Edit CATALOG_URL below to point at the department you want.
-   Examples:
-       Chemistry:  https://e-catalogue.jhu.edu/course-descriptions/chemistry/
-       Biology:    https://e-catalogue.jhu.edu/course-descriptions/biology/
-       Math:       https://e-catalogue.jhu.edu/course-descriptions/mathematics/
-       CS:         https://e-catalogue.jhu.edu/course-descriptions/computer-science/
-3. Set DEPARTMENT to match (e.g. "as.030" for Chemistry).
-4. Run:
+2. (Optional) Edit ONLY_DEPARTMENTS below to scrape just one or a few.
+   Default: scrape all AS + EN.
+3. Run:
        python3 jhu_catalog_scraper.py
-5. Output saved to: <school>/<department>/catalog.csv
+4. Output: <school>/<department>/catalog.csv for each department
+   e.g. jhu/as.020/catalog.csv, jhu/en.601/catalog.csv
 
 OUTPUT COLUMNS:
     code              course code (e.g. "AS.030.101")
     title             course title
-    credits           credit count (e.g. "3")
-    description       course description (cleaned up, single paragraph)
+    credits           credit count
+    description       FULL course description including any inline prereq/coreq
+                      sentences (e.g. "Recommended Course Background: ...")
     fa_tags           comma-separated FA tags (e.g. "FA1, FA2")
-    distribution      distribution areas (e.g. "Natural Sciences")
-    prereq_codes      course codes mentioned in prereq block (e.g. "AS.030.101, AS.030.102")
-    prereq_text       full raw prerequisite text
-    restrictions      raw text of restrictions, term offerings, cross-listings, etc.
-    raw_description   the COMPLETE unmodified text block for the course
-                      (kept for AI processing later)
+    distribution      distribution areas
+    prereq_codes      course codes mentioned in the formal Prerequisite(s): block
+    prereq_text       full raw prerequisite block text
+    restrictions      raw restriction/term/cross-list text
+    raw_description   complete unmodified text block (for AI processing later)
+
+NOTES:
+- Only courses with AS.* or EN.* prefixes are saved. Cross-listed courses with
+  other prefixes (ME.*, BU.*, etc.) found in these pages are skipped.
+- Run time: ~1–2 minutes for all departments (with polite delays).
 """
 
 import requests
@@ -35,16 +37,110 @@ from bs4 import BeautifulSoup
 import csv
 import os
 import re
+import time
+
+# ─── DEPARTMENT REGISTRY ──────────────────────────────────────────────────────
+
+CATALOG_BASE = "https://e-catalogue.jhu.edu/course-descriptions"
+
+DEPT_PAGES = [
+    # ─── ARTS & SCIENCES ───
+    ("as-first-year-seminars",                     ["as.001"]),
+    ("as-university-writing-program",              ["as.004"]),
+    ("history_of_art",                             ["as.010"]),
+    ("biology",                                    ["as.020"]),
+    ("chemistry",                                  ["as.030"]),
+    ("classics",                                   ["as.040"]),
+    ("cognitive_science",                          ["as.050"]),
+    ("english",                                    ["as.060"]),
+    ("film_and_media_studies",                     ["as.061"]),
+    ("anthropology",                               ["as.070"]),
+    ("neuroscience",                               ["as.080"]),
+    ("history",                                    ["as.100"]),
+    ("mathematics",                                ["as.110"]),
+    ("near_eastern_studies",                       ["as.130", "as.131", "as.132", "as.133", "as.134"]),
+    ("archaeology",                                ["as.136"]),
+    ("history_of_science__medicine__and_technology", ["as.140"]),
+    ("medicine__science_and_the_humanities",       ["as.145"]),
+    ("philosophy",                                 ["as.150"]),
+    ("physics___astronomy",                        ["as.171", "as.172", "as.173"]),
+    ("economics",                                  ["as.180"]),
+    ("political_science",                          ["as.190", "as.191"]),
+    ("international_studies",                      ["as.192"]),
+    ("islamic_studies",                            ["as.194"]),
+    ("agora-institute",                            ["as.196"]),
+    ("economy-society",                            ["as.197"]),
+    ("psychological___brain_sciences",             ["as.200"]),
+    ("modern_languages___literatures",             ["as.210", "as.211", "as.212", "as.213", "as.214", "as.215", "as.216", "as.217"]),
+    ("writing_seminars",                           ["as.220"]),
+    ("theatre_arts___studies",                     ["as.225"]),
+    ("sociology",                                  ["as.230"]),
+    ("biophysics",                                 ["as.250"]),
+    ("earth___planetary_sciences",                 ["as.270", "as.271"]),
+    ("public_health_studies",                      ["as.280"]),
+    ("behavioral_biology",                         ["as.290"]),
+    ("comparative_thought_and_literature",         ["as.300"]),
+    ("critical-study-racism",                      ["as.305"]),
+    ("east_asian_studies",                         ["as.310"]),
+    ("interdepartmental",                          ["as.360"]),
+    ("latin-american-caribbean-latinx-studies",    ["as.361"]),
+    ("center_for_africana_studies",                ["as.362"]),
+    ("study_of_women__gender____sexuality",        ["as.363"]),
+    ("center_for_language_education",              ["as.370", "as.373", "as.375", "as.377", "as.378", "as.379", "as.380", "as.381"]),
+    ("art",                                        ["as.371"]),
+    ("military_science",                           ["as.374"]),
+    ("music",                                      ["as.376"]),
+    ("program_in_museums_and_society",             ["as.389"]),
+
+    # ─── ENGINEERING ───
+    ("general_engineering",                        ["en.500"]),
+    ("EN-first-year-seminars",                     ["en.501"]),
+    ("materials_science___engineering",            ["en.510"]),
+    ("materials_science_and_engineering",          ["en.515"]),
+    ("electrical___computer_engineering",          ["en.520"]),
+    ("electrical_and_computer_engineering",        ["en.525"]),
+    ("mechanical_engineering",                     ["en.530"]),
+    ("ep_mechanical_engineering",                  ["en.535"]),
+    ("chemical___biomolecular_engineering",        ["en.540"]),
+    ("chemical_and_biomolecular_engineering",      ["en.545"]),
+    ("applied_mathematics___statistics",           ["en.553"]),
+    ("financial_mathematics",                      ["en.555"]),
+    ("civil_engineering",                          ["en.560"]),
+    ("ep_civil_engineering",                       ["en.565"]),
+    ("environmental_health_and_engineering",       ["en.570"]),
+    ("environmental_engineering_and_science",      ["en.575"]),
+    ("biomedical_engineering",                     ["en.580"]),
+    ("applied_biomedical_engineering",             ["en.585"]),
+    ("engineering_management",                     ["en.595"]),
+    ("computer_science_601",                       ["en.601"]),
+    ("computer_science",                           ["en.605"]),
+    ("applied_physics",                            ["en.615"]),
+    ("robotics",                                   ["en.620"]),
+    ("applied_and_computational_mathematics",      ["en.625"]),
+    ("information_systems_engineering",            ["en.635"]),
+    ("systems_engineering",                        ["en.645"]),
+    ("information_security_institute",             ["en.650"]),
+    ("healthcare_systems_engineering",             ["en.655"]),
+    ("center_for_leadership_education",            ["en.660", "en.661", "en.662", "en.663"]),
+    ("robotics-autonomous-systems",                ["en.665"]),
+    ("institute_for_nanobio_technology",           ["en.670"]),
+    ("space_systems_engineering",                  ["en.675"]),
+    ("data_science",                               ["en.685"]),
+    ("cybersecurity",                              ["en.695"]),
+    ("doctor_of_engineering",                      ["en.700"]),
+    ("artificial_intelligence",                    ["en.705"]),
+]
 
 # ─── CONFIG ───────────────────────────────────────────────────────────────────
 
-CATALOG_URL = "https://e-catalogue.jhu.edu/course-descriptions/film_and_media_studies/"
-
 SCHOOL = "jhu"
-DEPARTMENT = "as.061"   # change to match the catalog url
 
-OUTPUT_DIR = os.path.join(SCHOOL, DEPARTMENT)
-OUTPUT_FILE = os.path.join(OUTPUT_DIR, "catalog.csv")
+# Optional: if non-empty, scrape ONLY these dept codes (e.g. ["as.020"]).
+# Leave empty list to scrape all AS + EN.
+ONLY_DEPARTMENTS = []
+
+# Polite delay between page fetches
+DELAY_SECONDS = 1.0
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
@@ -54,59 +150,36 @@ HEADERS = {
 
 # ─── PARSING HELPERS ──────────────────────────────────────────────────────────
 
-# Match course codes like AS.030.101, EN.601.220, EN.540.307, etc.
 COURSE_CODE_RE = re.compile(r"\b[A-Z]{2}\.\d{3}\.\d{3}\b")
-
-# Match the course header line: "AS.030.101.  General Chemistry I.  3 Credits."
 HEADER_RE = re.compile(
-    r"^([A-Z]{2}\.\d{3}\.\d{3})\.\s+"   # course code
-    r"(.+?)\.\s+"                        # title (non-greedy)
-    r"(\d+(?:\.\d+)?)\s+Credits?\.?",    # credits
+    r"^([A-Z]{2}\.\d{3}\.\d{3})\.\s+"
+    r"(.+?)\.\s+"
+    r"(\d+(?:\.\d+)?)\s+Credits?\.?",
     re.MULTILINE
 )
-
-# Match FA tags like "(FA1)", "(FA2)" inside text
 FA_TAG_RE = re.compile(r"\(FA\d+\)")
 
 
 def fetch_catalog_page(url):
-    """Fetch the catalog page and return its HTML."""
-    print(f"Fetching {url} ...")
     response = requests.get(url, headers=HEADERS, timeout=30)
     response.raise_for_status()
-    print(f"  ✓ Got {len(response.text):,} chars\n")
     return response.text
 
 
 def extract_course_blocks(html):
-    """
-    Find each course block in the catalog.
-
-    JHU's catalog uses <div class="courseblock"> for each course (this is the
-    standard CourseLeaf/Acalog structure). Each block contains a title line
-    and a description.
-    """
     soup = BeautifulSoup(html, "html.parser")
-
-    # Try a few selectors — JHU may use different markup conventions
     blocks = soup.select("div.courseblock")
     if not blocks:
-        # Fallback: some catalog pages wrap each course in <p> tags
         blocks = soup.select("p.courseblocktitle")
-        # If we found titles via fallback, build pairs of (title, description)
         if blocks:
             return _pair_title_desc_blocks(soup)
-
     return blocks
 
 
 def _pair_title_desc_blocks(soup):
-    """Fallback: pair each .courseblocktitle <p> with following description."""
     pairs = []
     for title_tag in soup.select("p.courseblocktitle"):
-        # The description usually follows in a sibling .courseblockdesc
         desc_tag = title_tag.find_next_sibling(class_="courseblockdesc")
-        # Wrap them in a synthetic container
         wrapper = soup.new_tag("div")
         wrapper.append(title_tag)
         if desc_tag:
@@ -116,13 +189,9 @@ def _pair_title_desc_blocks(soup):
 
 
 def parse_course_block(block):
-    """Pull structured fields out of one course block."""
-    # Get the entire block as text, normalized
     raw_text = block.get_text(separator="\n", strip=True)
-    # Collapse multiple blank lines
     raw_text = re.sub(r"\n{3,}", "\n\n", raw_text)
 
-    # Parse the header line for code, title, credits
     header_match = HEADER_RE.search(raw_text)
     if not header_match:
         return None
@@ -130,11 +199,8 @@ def parse_course_block(block):
     code = header_match.group(1)
     title = header_match.group(2).strip()
     credits = header_match.group(3)
-
-    # Everything after the header
     after_header = raw_text[header_match.end():].strip()
 
-    # Split into labeled sections we care about
     description = _extract_description(after_header)
     distribution = _extract_section(after_header, "Distribution Area:")
     fa_tags = _extract_fa_tags(after_header)
@@ -157,25 +223,45 @@ def parse_course_block(block):
 
 
 def _extract_description(text):
-    """The description is the first paragraph, before any labeled section."""
-    # Cut at the first labeled section we recognize
+    """
+    The description should include the actual prose AND any prereq/coreq/
+    recommended background statements (since users want to see them).
+
+    We only cut at fields that are clearly metadata after the prose — i.e.
+    Distribution Area and Foundational Abilities labels. Everything else
+    (Prerequisite(s), Recommended Course Background, Cross-listed, Writing
+    Intensive, etc.) is kept inline.
+
+    Also: JHU's catalog renders course codes as separate HTML links, which
+    BeautifulSoup's get_text(separator="\\n") turns into "\\nAS.171.101\\n"
+    fragments. Collapse those so the codes flow naturally inside sentences.
+    """
     cut_points = [
         text.find("Distribution Area:"),
         text.find("AS Foundational Abilities:"),
         text.find("EN Foundational Abilities:"),
-        text.find("Prerequisite(s):"),
-        text.find("Recommended Course Background:"),
-        text.find("Cross-listed"),
-        text.find("Writing Intensive"),
     ]
     cut_points = [p for p in cut_points if p >= 0]
     if cut_points:
         text = text[:min(cut_points)]
+
+    # Course codes are surrounded by \n in the raw text. Replace those line
+    # breaks with a single space so codes sit naturally in sentences like
+    # "C- or better in AS.171.101 or AS.171.103."
+    text = re.sub(
+        r"\s*\n\s*([A-Z]{2}\.\d{3}\.\d{3})\s*\n\s*",
+        r" \1 ",
+        text
+    )
+    # Collapse any remaining multi-line breaks
+    text = re.sub(r"\n+", " ", text)
+    # Squash multiple spaces
+    text = re.sub(r" {2,}", " ", text)
+
     return text.strip()
 
 
 def _extract_section(text, label_regex):
-    """Extract content following a labeled section header."""
     pattern = re.compile(
         re.escape(label_regex.replace("\\", ""))
         if "\\" not in label_regex else label_regex,
@@ -185,7 +271,6 @@ def _extract_section(text, label_regex):
     if not m:
         return ""
     after = text[m.end():].strip()
-    # Stop at the next known label or 2 blank lines
     stop_patterns = [
         r"\n\s*Distribution Area:",
         r"\n\s*AS Foundational Abilities:",
@@ -205,31 +290,23 @@ def _extract_section(text, label_regex):
 
 
 def _extract_fa_tags(text):
-    """Pull all (FA#) tags from both AS and EN Foundational Abilities sections."""
-    # Find AS / EN Foundational Abilities sections
     fa_sections = []
     for label in ["AS Foundational Abilities:", "EN Foundational Abilities:"]:
         idx = text.find(label)
         if idx >= 0:
-            # Take a chunk after the label and stop at next big section
             chunk = text[idx:idx + 500]
             fa_sections.append(chunk)
-
     tags = set()
     for section in fa_sections:
         for m in FA_TAG_RE.finditer(section):
-            # Strip parentheses for cleaner output
             tags.add(m.group().strip("()"))
-
     return ", ".join(sorted(tags))
 
 
 def _extract_course_codes(text):
-    """Pull all course codes (AS.030.101, EN.601.220, etc.) from text."""
     if not text:
         return ""
     codes = COURSE_CODE_RE.findall(text)
-    # Dedupe while preserving order
     seen = set()
     unique = []
     for c in codes:
@@ -250,32 +327,18 @@ _SENTINEL = "\x00"
 
 
 def _extract_true_prereq_codes(prereq_text):
-    """
-    Extract course codes that are genuine prerequisites — i.e. codes that appear
-    in the prereq block but NOT inside restriction-type sentences.
-
-    Example:
-        "AS.020.303 AND AS.020.306; Cell Biology restriction: students who have
-         completed EN.540.307 may not enroll."
-        → prereq_codes = "AS.020.303, AS.020.306"  (EN.540.307 excluded)
-    """
+    """Extract only codes that aren't in restriction sentences."""
     if not prereq_text:
         return ""
-
-    # Protect course codes from sentence-splitting
     protected = COURSE_CODE_RE.sub(
         lambda m: m.group().replace(".", _SENTINEL), prereq_text
     )
-
-    # Find all codes that appear in restriction-type sentences
     restriction_codes = set()
     for sentence in re.split(r"(?<=[.;|])\s*", protected):
         restored = sentence.replace(_SENTINEL, ".")
         if _RESTRICTION_KEYWORDS_RE.search(restored):
             for code in COURSE_CODE_RE.findall(restored):
                 restriction_codes.add(code)
-
-    # Extract all codes from the full prereq block, excluding restriction ones
     all_codes = COURSE_CODE_RE.findall(prereq_text)
     seen = set()
     true_prereqs = []
@@ -283,30 +346,14 @@ def _extract_true_prereq_codes(prereq_text):
         if c not in seen and c not in restriction_codes:
             seen.add(c)
             true_prereqs.append(c)
-
     return ", ".join(true_prereqs)
 
 
 def _extract_restrictions(text):
-    """
-    Capture restriction-like statements:
-      - 'restriction' clauses ('students who have ... may not enroll')
-      - term offerings ('offered in fall terms only')
-      - year/level limits ('Sophomores, Juniors, and Seniors Only')
-      - cross-listings
-      - 'Writing Intensive' label
-    Returns concatenated raw text — we keep this loose since correctness > tidiness.
-
-    Note: the sentence regex uses a "not preceded by a course code letter or
-    digit" rule for periods, so course codes like AS.020.303 don't break sentences.
-    """
-    # Pre-process: protect course codes from sentence-splitting by temporarily
-    # replacing their periods with a sentinel
     SENTINEL = "\x00"
     protected = COURSE_CODE_RE.sub(
         lambda m: m.group(0).replace(".", SENTINEL), text
     )
-
     parts = []
     patterns = [
         r"[^.]*\brestriction[s]?\b[^.]*\.",
@@ -319,78 +366,119 @@ def _extract_restrictions(text):
     ]
     for pat in patterns:
         for m in re.finditer(pat, protected, flags=re.IGNORECASE):
-            # Restore protected periods
             s = m.group().replace(SENTINEL, ".").strip()
             if s and s not in parts:
                 parts.append(s)
     return " | ".join(parts)
 
 
+# ─── ROUTING ──────────────────────────────────────────────────────────────────
+
+def code_to_dept_folder(code):
+    """Convert 'AS.020.303' to 'as.020'. Returns None if not AS or EN."""
+    parts = code.split(".")
+    if len(parts) < 3:
+        return None
+    school = parts[0].upper()
+    if school not in ("AS", "EN"):
+        return None
+    return f"{parts[0].lower()}.{parts[1]}"
+
+
 # ─── OUTPUT ───────────────────────────────────────────────────────────────────
 
-def save_to_csv(records, filename):
-    if not records:
-        print("⚠️  No records to save.")
-        return
-    fieldnames = [
-        "code", "title", "credits", "description",
-        "fa_tags", "distribution",
-        "prereq_codes", "prereq_text",
-        "restrictions", "raw_description",
-    ]
+FIELDNAMES = [
+    "code", "title", "credits", "description",
+    "fa_tags", "distribution",
+    "prereq_codes", "prereq_text",
+    "restrictions", "raw_description",
+]
+
+
+def write_to_csv(records, filename):
     out_dir = os.path.dirname(filename)
     if out_dir:
         os.makedirs(out_dir, exist_ok=True)
     with open(filename, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer = csv.DictWriter(f, fieldnames=FIELDNAMES)
         writer.writeheader()
         writer.writerows(records)
-    print(f"\n✅ Saved {len(records)} courses to {filename}")
 
 
 # ─── MAIN ─────────────────────────────────────────────────────────────────────
 
 def main():
-    html = fetch_catalog_page(CATALOG_URL)
-    blocks = extract_course_blocks(html)
-    print(f"Found {len(blocks)} course blocks in HTML\n")
+    if ONLY_DEPARTMENTS:
+        wanted = set(d.lower() for d in ONLY_DEPARTMENTS)
+        pages = [(slug, depts) for slug, depts in DEPT_PAGES
+                 if any(d in wanted for d in depts)]
+        print(f"Filtering to {len(pages)} pages covering: {sorted(wanted)}\n")
+    else:
+        pages = DEPT_PAGES
+        print(f"Scraping all {len(pages)} AS + EN catalog pages\n")
 
-    if not blocks:
-        # Save the raw HTML for debugging
-        with open("debug_catalog.html", "w", encoding="utf-8") as f:
-            f.write(html)
-        print("⚠️  No course blocks detected. Saved raw HTML to debug_catalog.html")
-        print("   Open it in a browser, find a course block, and tell me what")
-        print("   HTML tags/classes wrap each course.")
-        return
+    records_by_dept = {}
+    skipped_codes = set()
+    failed_pages = []
 
-    records = []
-    for i, block in enumerate(blocks, 1):
-        record = parse_course_block(block)
-        if record:
-            records.append(record)
-        else:
-            print(f"  [{i}] ⚠️  Couldn't parse this block (no header match)")
+    for i, (slug, dept_codes) in enumerate(pages, 1):
+        url = f"{CATALOG_BASE}/{slug}/"
+        print(f"[{i}/{len(pages)}] {slug}")
+        try:
+            html = fetch_catalog_page(url)
+        except requests.RequestException as e:
+            print(f"  ⚠️  Fetch failed: {e}")
+            failed_pages.append(slug)
+            time.sleep(DELAY_SECONDS)
+            continue
 
-    print(f"Successfully parsed {len(records)} courses\n")
+        blocks = extract_course_blocks(html)
+        if not blocks:
+            print(f"  ⚠️  No course blocks found")
+            failed_pages.append(slug)
+            time.sleep(DELAY_SECONDS)
+            continue
 
-    save_to_csv(records, OUTPUT_FILE)
+        page_count = 0
+        page_skipped = 0
+        for block in blocks:
+            record = parse_course_block(block)
+            if not record:
+                continue
+            folder = code_to_dept_folder(record["code"])
+            if folder is None:
+                skipped_codes.add(record["code"])
+                page_skipped += 1
+                continue
+            records_by_dept.setdefault(folder, []).append(record)
+            page_count += 1
 
-    # Preview first 3
-    print("\nPreview (first 3 courses):")
-    print("-" * 100)
-    for r in records[:3]:
-        print(f"📘 {r['code']}  {r['title']}  ({r['credits']} cr)")
-        if r["fa_tags"]:
-            print(f"   FA Tags: {r['fa_tags']}")
-        if r["distribution"]:
-            print(f"   Distribution: {r['distribution']}")
-        if r["prereq_codes"]:
-            print(f"   Prereq codes: {r['prereq_codes']}")
-        if r["restrictions"]:
-            print(f"   Restrictions: {r['restrictions'][:120]}"
-                  + ("..." if len(r["restrictions"]) > 120 else ""))
-        print()
+        print(f"  ✓ Parsed {page_count} courses"
+              + (f" (skipped {page_skipped} non-AS/EN)" if page_skipped else ""))
+        time.sleep(DELAY_SECONDS)
+
+    print(f"\n{'─' * 60}")
+    print(f"Writing CSVs for {len(records_by_dept)} departments...")
+    for folder, records in sorted(records_by_dept.items()):
+        seen = set()
+        unique = []
+        for r in records:
+            if r["code"] not in seen:
+                seen.add(r["code"])
+                unique.append(r)
+        out_path = os.path.join(SCHOOL, folder, "catalog.csv")
+        write_to_csv(unique, out_path)
+        print(f"  ✓ {out_path}  ({len(unique)} courses)")
+
+    print(f"\n{'─' * 60}")
+    print(f"✅ Done. {len(records_by_dept)} departments saved under {SCHOOL}/")
+    if skipped_codes:
+        print(f"\n   Skipped {len(skipped_codes)} non-AS/EN cross-listings "
+              f"(e.g. {', '.join(sorted(skipped_codes)[:5])}...)")
+    if failed_pages:
+        print(f"\n   ⚠️  Failed to scrape {len(failed_pages)} pages:")
+        for p in failed_pages:
+            print(f"      - {p}")
 
 
 if __name__ == "__main__":

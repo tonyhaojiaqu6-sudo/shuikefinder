@@ -1,13 +1,5 @@
 code,title,credits,description,fa_tags,distribution,prereq_codes,prereq_text,restrictions,raw_description
-AS.173.111,General Physics Laboratory I,1,"Experiments performed in the lab provide further illustration of the principles discussed in General Physics I. Students are required to take this course concurrently with General Physics I (
-AS.171.101
-OR
-AS.171.103
-OR
-AS.171.105
-OR
-AS.171.107
-) unless they already have received credit for one of the mentioned courses. Note: First and second terms must be taken in sequence.",FA2,Natural Sciences,,Click here to access the Laboratory Safety Introductory Course,,"AS.173.111.
+AS.173.111,General Physics Laboratory I,1,Experiments performed in the lab provide further illustration of the principles discussed in General Physics I. Students are required to take this course concurrently with General Physics I ( AS.171.101 OR AS.171.103 OR AS.171.105 OR AS.171.107 ) unless they already have received credit for one of the mentioned courses. Note: First and second terms must be taken in sequence. Prerequisite(s): Click here to access the Laboratory Safety Introductory Course,FA2,Natural Sciences,,Click here to access the Laboratory Safety Introductory Course,,"AS.173.111.
 General Physics Laboratory I.
 1 Credit.
 Experiments performed in the lab provide further illustration of the principles discussed in General Physics I. Students are required to take this course concurrently with General Physics I (
@@ -23,7 +15,7 @@ Prerequisite(s):
 Click here to access the Laboratory Safety Introductory Course
 Distribution Area: Natural Sciences
 AS Foundational Abilities: Science and Data (FA2)"
-AS.173.112,General Physics Laboratory II,1,Experiments are chosen from both physical and biological sciences and are designed to give students background in experimental techniques as well as to reinforce physical principles.,FA2,Natural Sciences,"AS.171.104, AS.171.106, AS.171.108, EN.530.123","Click here to access the Laboratory Safety Introductory Course
+AS.173.112,General Physics Laboratory II,1,Experiments are chosen from both physical and biological sciences and are designed to give students background in experimental techniques as well as to reinforce physical principles. Recommended Course Background: AS.173.111 Prerequisite(s): Click here to access the Laboratory Safety Introductory Course ;The following courses can be taken concurrently or as a prerequisite: AS171.102 OR AS.171.104 OR AS.171.106 OR AS.171.108 OR EN.530.123,FA2,Natural Sciences,"AS.171.104, AS.171.106, AS.171.108, EN.530.123","Click here to access the Laboratory Safety Introductory Course
 ;The following courses can be taken concurrently or as a prerequisite: AS171.102 OR
 AS.171.104
 OR
@@ -48,13 +40,7 @@ OR
 EN.530.123
 Distribution Area: Natural Sciences
 AS Foundational Abilities: Science and Data (FA2)"
-AS.173.115,Classical Mechanics Laboratory,1,"Experiments chosen to complement the lecture course Classical Mechanics I, II
-AS.171.105
--
-AS.171.106
-and introduce students to experimental techniques and statistical analysis. Corequisite:
-AS.171.105
-.","FA1, FA2",Natural Sciences,,Click here to access the Laboratory Safety Introductory Course,Writing Intensive,"AS.173.115.
+AS.173.115,Classical Mechanics Laboratory,1,"Experiments chosen to complement the lecture course Classical Mechanics I, II AS.171.105 - AS.171.106 and introduce students to experimental techniques and statistical analysis. Corequisite: AS.171.105 . Prerequisite(s): Click here to access the Laboratory Safety Introductory Course","FA1, FA2",Natural Sciences,,Click here to access the Laboratory Safety Introductory Course,Writing Intensive,"AS.173.115.
 Classical Mechanics Laboratory.
 1 Credit.
 Experiments chosen to complement the lecture course Classical Mechanics I, II
@@ -70,9 +56,7 @@ Distribution Area: Natural Sciences
 AS Foundational Abilities: Writing and Communication (FA1),
 Science and Data (FA2)
 Writing Intensive"
-AS.173.116,Electricity and Magnetism Laboratory,1,"Experiments chosen to complement Electricity and Magnetism
-AS.171.106
-and introduce students to experimental techniques and statistical analysis.","FA1, FA2",Natural Sciences,,"Students must have completed Lab Safety training prior to registering for this class. To access the tutorial, login to myLearning and enter ASEN in the Search Box to access the proper course.
+AS.173.116,Electricity and Magnetism Laboratory,1,"Experiments chosen to complement Electricity and Magnetism AS.171.106 and introduce students to experimental techniques and statistical analysis. Prerequisite(s): Students must have completed Lab Safety training prior to registering for this class. To access the tutorial, login to myLearning and enter ASEN in the Search Box to access the proper course. Click here to access the Laboratory Safety Introductory Course","FA1, FA2",Natural Sciences,,"Students must have completed Lab Safety training prior to registering for this class. To access the tutorial, login to myLearning and enter ASEN in the Search Box to access the proper course.
 Click here to access the Laboratory Safety Introductory Course",Writing Intensive,"AS.173.116.
 Electricity and Magnetism Laboratory.
 1 Credit.
@@ -86,7 +70,7 @@ Distribution Area: Natural Sciences
 AS Foundational Abilities: Writing and Communication (FA1),
 Science and Data (FA2)
 Writing Intensive"
-AS.173.308,Advanced Physics Laboratory,3,"A broad exposure to modern laboratory procedures such as holography, chaos, and atomic, molecular, and particle physics.","FA1, FA2, FA6",Natural Sciences,,"Students must have completed Lab Safety training prior to registering for this class. To access the tutorial, login to myLearning and enter ASEN in the Search Box to access the proper course.
+AS.173.308,Advanced Physics Laboratory,3,"A broad exposure to modern laboratory procedures such as holography, chaos, and atomic, molecular, and particle physics. Prerequisite(s): Students must have completed Lab Safety training prior to registering for this class. To access the tutorial, login to myLearning and enter ASEN in the Search Box to access the proper course. Click here to access the Laboratory Safety Introductory Course","FA1, FA2, FA6",Natural Sciences,,"Students must have completed Lab Safety training prior to registering for this class. To access the tutorial, login to myLearning and enter ASEN in the Search Box to access the proper course.
 Click here to access the Laboratory Safety Introductory Course",Writing Intensive,"AS.173.308.
 Advanced Physics Laboratory.
 3 Credits.

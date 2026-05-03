@@ -1,5 +1,5 @@
 code,title,credits,description,fa_tags,distribution,prereq_codes,prereq_text,restrictions,raw_description
-AS.040.103,The Roman Empire,3,"This introductory course examines the history, society, and culture of the Roman state in the Imperial age (ca. 31 BCE-ca. 500 CE), during which it underwent a traumatic transition from an oligarchic to a monarchic form of government, attained its greatest territorial expanse, produced its most famous art, architecture, and literature, experienced vast cultural and religious changes, and finally was transformed into an entirely different (""late antique"") form of society.  All readings in English.","FA3, FA4",Humanities,,,,"AS.040.103.
+AS.040.103,The Roman Empire,3,"This introductory course examines the history, society, and culture of the Roman state in the Imperial age (ca. 31 BCE-ca. 500 CE), during which it underwent a traumatic transition from an oligarchic to a monarchic form of government, attained its greatest territorial expanse, produced its most famous art, architecture, and literature, experienced vast cultural and religious changes, and finally was transformed into an entirely different (""late antique"") form of society. All readings in English.","FA3, FA4",Humanities,,,,"AS.040.103.
 The Roman Empire.
 3 Credits.
 This introductory course examines the history, society, and culture of the Roman state in the Imperial age (ca. 31 BCE-ca. 500 CE), during which it underwent a traumatic transition from an oligarchic to a monarchic form of government, attained its greatest territorial expanse, produced its most famous art, architecture, and literature, experienced vast cultural and religious changes, and finally was transformed into an entirely different (""late antique"") form of society.  All readings in English.
@@ -27,7 +27,7 @@ AS Foundational Abilities: Culture and Aesthetics (FA3),
 Citizens and Society (FA4)
 EN Foundational Abilities: Creative Expression (FA3),
 Engagement with Society (FA4)"
-AS.040.106,Elementary Ancient Greek,4,"Course provides comprehensive, intensive introduction to the study of ancient Greek. The first semester’s focus is morphology and vocabulary; the second semester’s emphasis is syntax and reading. Course may not be taken Satisfactory/ Unsatisfactory.","FA3, FA4",,AS.040.105,AS.040.105,,"AS.040.106.
+AS.040.106,Elementary Ancient Greek,4,"Course provides comprehensive, intensive introduction to the study of ancient Greek. The first semester’s focus is morphology and vocabulary; the second semester’s emphasis is syntax and reading. Course may not be taken Satisfactory/ Unsatisfactory. Prerequisite(s): AS.040.105","FA3, FA4",,AS.040.105,AS.040.105,,"AS.040.106.
 Elementary Ancient Greek.
 4 Credits.
 Course provides comprehensive, intensive introduction to the study of ancient Greek. The first semester’s focus is morphology and vocabulary; the second semester’s emphasis is syntax and reading. Course may not be taken Satisfactory/ Unsatisfactory.
@@ -45,7 +45,7 @@ AS Foundational Abilities: Culture and Aesthetics (FA3),
 Citizens and Society (FA4)
 EN Foundational Abilities: Creative Expression (FA3),
 Engagement with Society (FA4)"
-AS.040.108,Elementary Latin,3,"Course provides comprehensive, intensive introduction to the study of Latin for new students as well as systematic review for students with background in Latin. The first semester's emphasis is on morphology and vocabulary; the second semester's focus is on syntax and reading. Course may not be taken Satisfactory/Unsatisfactory.","FA3, FA4",,AS.040.107,AS.040.107,,"AS.040.108.
+AS.040.108,Elementary Latin,3,"Course provides comprehensive, intensive introduction to the study of Latin for new students as well as systematic review for students with background in Latin. The first semester's emphasis is on morphology and vocabulary; the second semester's focus is on syntax and reading. Course may not be taken Satisfactory/Unsatisfactory. Prerequisite(s): AS.040.107","FA3, FA4",,AS.040.107,AS.040.107,,"AS.040.108.
 Elementary Latin.
 3 Credits.
 Course provides comprehensive, intensive introduction to the study of Latin for new students as well as systematic review for students with background in Latin. The first semester's emphasis is on morphology and vocabulary; the second semester's focus is on syntax and reading. Course may not be taken Satisfactory/Unsatisfactory.
@@ -98,7 +98,7 @@ Culture and Aesthetics (FA3)
 EN Foundational Abilities: Creative Expression (FA3),
 Creative Expression (FA3)
 Writing Intensive"
-AS.040.137,Archaeology at the Crossroads: The Ancient Eastern Mediterranean through Objects in the JHU Archaeological Museum,3,"This seminar investigates the Eastern Mediterranean as a space of intense cultural interaction in the Late Bronze Age, exploring how people, ideas, and things not only came into contact but deeply influenced one another through maritime trade, art, politics, etc.  In addition to class discussion, we will work hands-on with artifacts from the JHU Archaeological Museum, focusing on material from Cyprus.","FA1, FA3, FA4",Humanities,,,Writing Intensive,"AS.040.137.
+AS.040.137,Archaeology at the Crossroads: The Ancient Eastern Mediterranean through Objects in the JHU Archaeological Museum,3,"This seminar investigates the Eastern Mediterranean as a space of intense cultural interaction in the Late Bronze Age, exploring how people, ideas, and things not only came into contact but deeply influenced one another through maritime trade, art, politics, etc. In addition to class discussion, we will work hands-on with artifacts from the JHU Archaeological Museum, focusing on material from Cyprus.","FA1, FA3, FA4",Humanities,,,Writing Intensive,"AS.040.137.
 Archaeology at the Crossroads: The Ancient Eastern Mediterranean through Objects in the JHU Archaeological Museum.
 3 Credits.
 This seminar investigates the Eastern Mediterranean as a space of intense cultural interaction in the Late Bronze Age, exploring how people, ideas, and things not only came into contact but deeply influenced one another through maritime trade, art, politics, etc.  In addition to class discussion, we will work hands-on with artifacts from the JHU Archaeological Museum, focusing on material from Cyprus.
@@ -118,7 +118,7 @@ AS Foundational Abilities: Culture and Aesthetics (FA3),
 Citizens and Society (FA4)
 EN Foundational Abilities: Creative Expression (FA3),
 Engagement with Society (FA4)"
-AS.040.205,Intermediate Ancient Greek,3,Reading ability in classical Greek is developed through a study of various authors.,"FA3, FA4",Humanities,"AS.040.105, AS.040.106","AS.040.105
+AS.040.205,Intermediate Ancient Greek,3,Reading ability in classical Greek is developed through a study of various authors. Prerequisite(s): AS.040.105 AND AS.040.106 or equivalent,"FA3, FA4",Humanities,"AS.040.105, AS.040.106","AS.040.105
 AND
 AS.040.106
 or equivalent",,"AS.040.205.
@@ -135,7 +135,7 @@ AS Foundational Abilities: Culture and Aesthetics (FA3),
 Citizens and Society (FA4)
 EN Foundational Abilities: Creative Expression (FA3),
 Engagement with Society (FA4)"
-AS.040.206,Intermediate Ancient Greek,3,Reading ability in classical Greek is developed through a study of various authors.,"FA3, FA4",Humanities,AS.040.205,AS.040.205,,"AS.040.206.
+AS.040.206,Intermediate Ancient Greek,3,Reading ability in classical Greek is developed through a study of various authors. Prerequisite(s): AS.040.205,"FA3, FA4",Humanities,AS.040.205,AS.040.205,,"AS.040.206.
 Intermediate Ancient Greek.
 3 Credits.
 Reading ability in classical Greek is developed through a study of various authors.
@@ -146,7 +146,7 @@ AS Foundational Abilities: Culture and Aesthetics (FA3),
 Citizens and Society (FA4)
 EN Foundational Abilities: Creative Expression (FA3),
 Engagement with Society (FA4)"
-AS.040.207,Intermediate Latin,3,"Although emphasis is still placed on development of rapid comprehension, readings and discussions introduce student to study of Latin literature, principally through texts of various authors.","FA3, FA4",Humanities,"AS.040.107, AS.040.108","AS.040.107
+AS.040.207,Intermediate Latin,3,"Although emphasis is still placed on development of rapid comprehension, readings and discussions introduce student to study of Latin literature, principally through texts of various authors. Prerequisite(s): AS.040.107 AND AS.040.108 or equivalent","FA3, FA4",Humanities,"AS.040.107, AS.040.108","AS.040.107
 AND
 AS.040.108
 or equivalent",,"AS.040.207.
@@ -163,7 +163,7 @@ AS Foundational Abilities: Culture and Aesthetics (FA3),
 Citizens and Society (FA4)
 EN Foundational Abilities: Creative Expression (FA3),
 Engagement with Society (FA4)"
-AS.040.208,Intermediate Latin,3,"Reading ability in Latin is developed through the study of various authors, primarily Cicero (fall) and Vergil (spring).","FA3, FA4",Humanities,AS.040.207,AS.040.207,,"AS.040.208.
+AS.040.208,Intermediate Latin,3,"Reading ability in Latin is developed through the study of various authors, primarily Cicero (fall) and Vergil (spring). Prerequisite(s): AS.040.207","FA3, FA4",Humanities,AS.040.207,AS.040.207,,"AS.040.208.
 Intermediate Latin.
 3 Credits.
 Reading ability in Latin is developed through the study of various authors, primarily Cicero (fall) and Vergil (spring).
@@ -224,9 +224,7 @@ AS Foundational Abilities: Culture and Aesthetics (FA3),
 Citizens and Society (FA4)
 EN Foundational Abilities: Creative Expression (FA3),
 Engagement with Society (FA4)"
-AS.040.305,Advanced Ancient Greek,3,"This course aims to increase proficiency and improve comprehension of the ancient Greek language. Intensive reading of ancient Greek texts, with attention to grammar, idiom, translation, etc. Reading of prose or verse authors, depending on the needs of students. Specific offerings vary. Co-listed with
-AS.040.705
-.","FA1, FA3, FA4",Humanities,"AS.040.205, AS.040.206","AS.040.205
+AS.040.305,Advanced Ancient Greek,3,"This course aims to increase proficiency and improve comprehension of the ancient Greek language. Intensive reading of ancient Greek texts, with attention to grammar, idiom, translation, etc. Reading of prose or verse authors, depending on the needs of students. Specific offerings vary. Co-listed with AS.040.705 . Prerequisite(s): AS.040.205 AND AS.040.206 or equivalent","FA1, FA3, FA4",Humanities,"AS.040.205, AS.040.206","AS.040.205
 AND
 AS.040.206
 or equivalent",Writing Intensive,"AS.040.305.
@@ -247,9 +245,7 @@ Citizens and Society (FA4)
 EN Foundational Abilities: Creative Expression (FA3),
 Engagement with Society (FA4)
 Writing Intensive"
-AS.040.306,Advanced Ancient Greek,3,"This course aims to increase proficiency and improve comprehension of the ancient Greek language. Intensive reading of ancient Greek texts, with attention to grammar, idiom, translation, etc. Reading of prose or verse authors, depending on the needs of students. Specific offerings vary. Co-listed with
-AS.040.702
-.","FA1, FA3, FA4",Humanities,"AS.040.205, AS.040.206","AS.040.205
+AS.040.306,Advanced Ancient Greek,3,"This course aims to increase proficiency and improve comprehension of the ancient Greek language. Intensive reading of ancient Greek texts, with attention to grammar, idiom, translation, etc. Reading of prose or verse authors, depending on the needs of students. Specific offerings vary. Co-listed with AS.040.702 . Prerequisite(s): AS.040.205 AND AS.040.206 or equivalent","FA1, FA3, FA4",Humanities,"AS.040.205, AS.040.206","AS.040.205
 AND
 AS.040.206
 or equivalent",Writing Intensive,"AS.040.306.
@@ -270,9 +266,7 @@ Citizens and Society (FA4)
 EN Foundational Abilities: Creative Expression (FA3),
 Engagement with Society (FA4)
 Writing Intensive"
-AS.040.307,Advanced Latin Prose,3,"This course aims to increase proficiency and improve comprehension of the Latin language.  Intensive reading of Latin texts, with attention to grammar, idiom, translation, etc.  Specific offerings vary.  Co-listed with
-AS.040.707
-.","FA1, FA3, FA4",Humanities,"AS.040.207, AS.040.208","AS.040.207
+AS.040.307,Advanced Latin Prose,3,"This course aims to increase proficiency and improve comprehension of the Latin language. Intensive reading of Latin texts, with attention to grammar, idiom, translation, etc. Specific offerings vary. Co-listed with AS.040.707 . Prerequisite(s): AS.040.207 AND AS.040.208 or equivalent","FA1, FA3, FA4",Humanities,"AS.040.207, AS.040.208","AS.040.207
 AND
 AS.040.208
 or equivalent",Writing Intensive,"AS.040.307.
@@ -293,9 +287,7 @@ Citizens and Society (FA4)
 EN Foundational Abilities: Creative Expression (FA3),
 Engagement with Society (FA4)
 Writing Intensive"
-AS.040.308,Advanced Latin Poetry,3,"The aim of this course is to increase proficiency and improve comprehension of the Latin language.  Intensive reading of Latin texts, with close attention to matters of grammar, idiom, and translation. Co-listed with
-AS.040.710
-.","FA1, FA3, FA4",Humanities,"AS.040.207, AS.040.208","AS.040.207
+AS.040.308,Advanced Latin Poetry,3,"The aim of this course is to increase proficiency and improve comprehension of the Latin language. Intensive reading of Latin texts, with close attention to matters of grammar, idiom, and translation. Co-listed with AS.040.710 . Prerequisite(s): AS.040.207 AND AS.040.208 or equivalent","FA1, FA3, FA4",Humanities,"AS.040.207, AS.040.208","AS.040.207
 AND
 AS.040.208
 or equivalent",Writing Intensive,"AS.040.308.
@@ -364,7 +356,7 @@ AS Foundational Abilities: Writing and Communication (FA1),
 Culture and Aesthetics (FA3)
 EN Foundational Abilities: Creative Expression (FA3)
 Writing Intensive"
-AS.040.402,Ancient cosmology and earth science: Greek and Roman ideas about how the world works,3,"Through detailed analysis of source materials, we will explore the ancient Greek and Romans’ answers to questions such as:  how the cosmos and our home-world, Earth, were structured; how weather works; how climate affects human health; what causes awesome natural phenomena such as comets, earthquakes and volcanoes; what climate prevailed on the Moon; life in the ocean; ancient palaeontology; how the movements of the stars were thought to influence events here on Earth.","FA2, FA3, FA6",Humanities,,,,"AS.040.402.
+AS.040.402,Ancient cosmology and earth science: Greek and Roman ideas about how the world works,3,"Through detailed analysis of source materials, we will explore the ancient Greek and Romans’ answers to questions such as: how the cosmos and our home-world, Earth, were structured; how weather works; how climate affects human health; what causes awesome natural phenomena such as comets, earthquakes and volcanoes; what climate prevailed on the Moon; life in the ocean; ancient palaeontology; how the movements of the stars were thought to influence events here on Earth.","FA2, FA3, FA6",Humanities,,,,"AS.040.402.
 Ancient cosmology and earth science: Greek and Roman ideas about how the world works.
 3 Credits.
 Through detailed analysis of source materials, we will explore the ancient Greek and Romans’ answers to questions such as:  how the cosmos and our home-world, Earth, were structured; how weather works; how climate affects human health; what causes awesome natural phenomena such as comets, earthquakes and volcanoes; what climate prevailed on the Moon; life in the ocean; ancient palaeontology; how the movements of the stars were thought to influence events here on Earth.
@@ -372,11 +364,7 @@ Distribution Area: Humanities
 AS Foundational Abilities: Science and Data (FA2),
 Culture and Aesthetics (FA3),
 Projects and Methods (FA6)"
-AS.040.407,Survey of Latin Literature I:  Beginnings to the Augustan Age,3,"This intensive Latin survey is designed for very advanced undergraduate students--normally those who have completed two semesters of Advanced Latin (
-AS.040.307
-/308)--and PhD students preparing for their Latin translation exam.  In this course, the first half of a year-long sequence, we will read substantial texts of major Republican and some Augustan authors.  The weekly pace is designed to inculcate greater speed and accuracy in Latin reading, and provide significant coverage of various kinds of texts.Recommended background:
-AS.040.307
--308 or equivalent","FA3, FA4",Humanities,"AS.040.307, AS.040.308","AS.040.307
+AS.040.407,Survey of Latin Literature I:  Beginnings to the Augustan Age,3,"This intensive Latin survey is designed for very advanced undergraduate students--normally those who have completed two semesters of Advanced Latin ( AS.040.307 /308)--and PhD students preparing for their Latin translation exam. In this course, the first half of a year-long sequence, we will read substantial texts of major Republican and some Augustan authors. The weekly pace is designed to inculcate greater speed and accuracy in Latin reading, and provide significant coverage of various kinds of texts.Recommended background: AS.040.307 -308 or equivalent Prerequisite(s): AS.040.307 AND AS.040.308 or permission of instructor.","FA3, FA4",Humanities,"AS.040.307, AS.040.308","AS.040.307
 AND
 AS.040.308
 or permission of instructor.",,"AS.040.407.
@@ -397,9 +385,7 @@ AS Foundational Abilities: Culture and Aesthetics (FA3),
 Citizens and Society (FA4)
 EN Foundational Abilities: Creative Expression (FA3),
 Engagement with Society (FA4)"
-AS.040.408,Survey of Latin Literature II: Early Empire to the Post-Classical Period,3,"This intensive Latin survey is designed for very advanced undergraduate students (normally those who have completed the regular undergraduate sequence through the advanced level) and PhD students preparing for their Latin translation exam.  In this course, the second half of a year-long sequence, we will read substantial texts of major Imperial authors, as well as a selection of works from Late Antiquity and the Post-Classical period.  The weekly pace is designed to inculcate greater speed and accuracy in Latin reading and to provide significant coverages of various kinds of texts.  Prior completion of
-AS.040.407
-preferred but not required.","FA3, FA4",Humanities,"AS.040.307, AS.040.308","AS.040.307
+AS.040.408,Survey of Latin Literature II: Early Empire to the Post-Classical Period,3,"This intensive Latin survey is designed for very advanced undergraduate students (normally those who have completed the regular undergraduate sequence through the advanced level) and PhD students preparing for their Latin translation exam. In this course, the second half of a year-long sequence, we will read substantial texts of major Imperial authors, as well as a selection of works from Late Antiquity and the Post-Classical period. The weekly pace is designed to inculcate greater speed and accuracy in Latin reading and to provide significant coverages of various kinds of texts. Prior completion of AS.040.407 preferred but not required. Prerequisite(s): AS.040.307 AND AS.040.308 or equivalent.","FA3, FA4",Humanities,"AS.040.307, AS.040.308","AS.040.307
 AND
 AS.040.308
 or equivalent.",,"AS.040.408.
@@ -427,11 +413,7 @@ AS Foundational Abilities: Culture and Aesthetics (FA3),
 Citizens and Society (FA4)
 EN Foundational Abilities: Creative Expression (FA3),
 Engagement with Society (FA4)"
-AS.040.417,Survey of Greek Literature I:  Homer to the Classical Period,3,"This intensive Ancient Greek survey is designed for very advanced undergraduate students--normally those who have completed two semesters of Advanced Greek (
-AS.040.305
-/306)--and PhD students preparing for their Ancient Greek translation exam. In this course, the first half of a year-long sequence, we will read substantial texts of major Archaic and Classical authors. The weekly pace is designed to inculcate greater speed and accuracy in Greek reading, and provide significant coverage of various kinds of texts. Recommended background:
-AS.040.305
--306 or equivalent","FA3, FA4",Humanities,"AS.040.305, AS.040.306","AS.040.305
+AS.040.417,Survey of Greek Literature I:  Homer to the Classical Period,3,"This intensive Ancient Greek survey is designed for very advanced undergraduate students--normally those who have completed two semesters of Advanced Greek ( AS.040.305 /306)--and PhD students preparing for their Ancient Greek translation exam. In this course, the first half of a year-long sequence, we will read substantial texts of major Archaic and Classical authors. The weekly pace is designed to inculcate greater speed and accuracy in Greek reading, and provide significant coverage of various kinds of texts. Recommended background: AS.040.305 -306 or equivalentPrerequisite(s): AS.040.305 AND AS.040.306 or permission of instructor.","FA3, FA4",Humanities,"AS.040.305, AS.040.306","AS.040.305
 AND
 AS.040.306
 or permission of instructor.",,"AS.040.417.
@@ -451,9 +433,7 @@ AS Foundational Abilities: Culture and Aesthetics (FA3),
 Citizens and Society (FA4)
 EN Foundational Abilities: Creative Expression (FA3),
 Engagement with Society (FA4)"
-AS.040.418,Survey of Greek Literature II: Hellenistic Period to Imperial Period,3,"This intensive Ancient Greek survey is designed for very advanced undergraduate students (normally those who have completed the regular undergraduate sequence through the advanced level) and PhD students preparing for their Ancient Greek translation exam. In this course, the second half of a year-long sequence, we will read substantial texts of major Hellenistic and Imperial authors, as well as a selection of works from Late Antiquity. The weekly pace is designed to inculcate greater speed and accuracy in Greek reading and to provide significant coverages of various kinds of texts. Prior completion of
-AS.040.417
-preferred but not required.","FA3, FA4",Humanities,"AS.040.305, AS.040.306","AS.040.305
+AS.040.418,Survey of Greek Literature II: Hellenistic Period to Imperial Period,3,"This intensive Ancient Greek survey is designed for very advanced undergraduate students (normally those who have completed the regular undergraduate sequence through the advanced level) and PhD students preparing for their Ancient Greek translation exam. In this course, the second half of a year-long sequence, we will read substantial texts of major Hellenistic and Imperial authors, as well as a selection of works from Late Antiquity. The weekly pace is designed to inculcate greater speed and accuracy in Greek reading and to provide significant coverages of various kinds of texts. Prior completion of AS.040.417 preferred but not required.Prerequisite(s): AS.040.305 AND AS.040.306 or equivalent. Prerequisite(s): AS.040.305 AND AS.040.306","FA3, FA4",Humanities,"AS.040.305, AS.040.306","AS.040.305
 AND
 AS.040.306
 or equivalent.",,"AS.040.418.
@@ -475,7 +455,7 @@ AS Foundational Abilities: Culture and Aesthetics (FA3),
 Citizens and Society (FA4)
 EN Foundational Abilities: Creative Expression (FA3),
 Engagement with Society (FA4)"
-AS.040.419,Epics and Empire: Postcolonial Perspectives on Vergil’s Aeneid,3,"This seminar examines epic literature’s entanglements with empire, colonialism, ethnicity, indigeneity, and slavery via critical readings of Vergil’s Aeneid. Students will gain methodological and pragmatic familiarity with movements to ‘decolonize’ and globalize the study of antiquity. As a counterbalance to Classics’ historical service to imperialism, we will read Vergil alongside other literary epics on race, identity, and belonging, representing diverse global languages, belief systems, geographies, and positionalities. We will also survey classics of postcolonial thought, from Fanon to Hartman, and apply their theories and methods to primary sources. Our hope is to incubate reparative approaches to the Aeneid and epic literature while also evaluating novel methodologies of comparison, reception, resistant interpretation, and critical fabulation. Classics graduate students will read the Aeneid in Latin. Undergraduate and non-Classics graduate students may read in translation but should plan on substantial engagement with an additional epic of their choice. All will hone professional skills as they produce a final research paper suitable for conference presentation or open-access web publication on race-time.net.","FA3, FA4, FA6",,AS.040.307,AS.040.307,,"AS.040.419.
+AS.040.419,Epics and Empire: Postcolonial Perspectives on Vergil’s Aeneid,3,"This seminar examines epic literature’s entanglements with empire, colonialism, ethnicity, indigeneity, and slavery via critical readings of Vergil’s Aeneid. Students will gain methodological and pragmatic familiarity with movements to ‘decolonize’ and globalize the study of antiquity. As a counterbalance to Classics’ historical service to imperialism, we will read Vergil alongside other literary epics on race, identity, and belonging, representing diverse global languages, belief systems, geographies, and positionalities. We will also survey classics of postcolonial thought, from Fanon to Hartman, and apply their theories and methods to primary sources. Our hope is to incubate reparative approaches to the Aeneid and epic literature while also evaluating novel methodologies of comparison, reception, resistant interpretation, and critical fabulation. Classics graduate students will read the Aeneid in Latin. Undergraduate and non-Classics graduate students may read in translation but should plan on substantial engagement with an additional epic of their choice. All will hone professional skills as they produce a final research paper suitable for conference presentation or open-access web publication on race-time.net. Prerequisite(s): AS.040.307","FA3, FA4, FA6",,AS.040.307,AS.040.307,,"AS.040.419.
 Epics and Empire: Postcolonial Perspectives on Vergil’s Aeneid.
 3 Credits.
 This seminar examines epic literature’s entanglements with empire, colonialism, ethnicity, indigeneity, and slavery via critical readings of Vergil’s Aeneid. Students will gain methodological and pragmatic familiarity with movements to ‘decolonize’ and globalize the study of antiquity. As a counterbalance to Classics’ historical service to imperialism, we will read Vergil alongside other literary epics on race, identity, and belonging, representing diverse global languages, belief systems, geographies, and positionalities. We will also survey classics of postcolonial thought, from Fanon to Hartman, and apply their theories and methods to primary sources. Our hope is to incubate reparative approaches to the Aeneid and epic literature while also evaluating novel methodologies of comparison, reception, resistant interpretation, and critical fabulation. Classics graduate students will read the Aeneid in Latin. Undergraduate and non-Classics graduate students may read in translation but should plan on substantial engagement with an additional epic of their choice. All will hone professional skills as they produce a final research paper suitable for conference presentation or open-access web publication on race-time.net.
@@ -486,7 +466,7 @@ Citizens and Society (FA4),
 Projects and Methods (FA6)
 EN Foundational Abilities: Creative Expression (FA3),
 Engagement with Society (FA4)"
-AS.040.420,Classics Research Lab,3,"This CRL seeks to collect data systematically from texts of the early Roman Imperial age regarding instances of people represented as speaking in public. This semester, our aim will be to collect instances and generate data from an expanding range of texts. This data is currently housed in Excel spreadsheets. We will also be looking to build, debug, and launch a web-based interface/browser/search engine that will, for the first time, allow public access to the database, and turn it into a truly public digital humanities project.  Knowledge of ancient Greek and Latin language is NOT required.","FA3, FA5, FA6",Humanities,,,,"AS.040.420.
+AS.040.420,Classics Research Lab,3,"This CRL seeks to collect data systematically from texts of the early Roman Imperial age regarding instances of people represented as speaking in public. This semester, our aim will be to collect instances and generate data from an expanding range of texts. This data is currently housed in Excel spreadsheets. We will also be looking to build, debug, and launch a web-based interface/browser/search engine that will, for the first time, allow public access to the database, and turn it into a truly public digital humanities project. Knowledge of ancient Greek and Latin language is NOT required.","FA3, FA5, FA6",Humanities,,,,"AS.040.420.
 Classics Research Lab.
 3 Credits.
 This CRL seeks to collect data systematically from texts of the early Roman Imperial age regarding instances of people represented as speaking in public. This semester, our aim will be to collect instances and generate data from an expanding range of texts. This data is currently housed in Excel spreadsheets. We will also be looking to build, debug, and launch a web-based interface/browser/search engine that will, for the first time, allow public access to the database, and turn it into a truly public digital humanities project.  Knowledge of ancient Greek and Latin language is NOT required.
@@ -495,7 +475,7 @@ AS Foundational Abilities: Culture and Aesthetics (FA3),
 Ethics and Foundations (FA5),
 Projects and Methods (FA6)
 EN Foundational Abilities: Creative Expression (FA3)"
-AS.040.501,Independent Study,3,"This course enables the student to pursue individual investigation and reading in a field of special interest, under the direct supervision of a member of the Classics faculty. By special arrangement, at the discretion of the Instructor.","FA3, FA6",,,You must request Customized Academic Learning using the Customized Academic Learning form found in Student Self-Service: Registration > Online Forms.,,"AS.040.501.
+AS.040.501,Independent Study,3,"This course enables the student to pursue individual investigation and reading in a field of special interest, under the direct supervision of a member of the Classics faculty. By special arrangement, at the discretion of the Instructor. Prerequisite(s): You must request Customized Academic Learning using the Customized Academic Learning form found in Student Self-Service: Registration > Online Forms.","FA3, FA6",,,You must request Customized Academic Learning using the Customized Academic Learning form found in Student Self-Service: Registration > Online Forms.,,"AS.040.501.
 Independent Study.
 3 Credits.
 This course enables the student to pursue individual investigation and reading in a field of special interest, under the direct supervision of a member of the Classics faculty. By special arrangement, at the discretion of the Instructor.
@@ -503,7 +483,7 @@ Prerequisite(s):
 You must request Customized Academic Learning using the Customized Academic Learning form found in Student Self-Service: Registration > Online Forms.
 AS Foundational Abilities: Culture and Aesthetics (FA3),
 Projects and Methods (FA6)"
-AS.040.503,Classics Internship,1,This course is designed for students enrolled in an internship program with a faculty member.,"FA3, FA4, FA6",,,You must request Customized Academic Learning using the Customized Academic Learning form found in Student Self-Service: Registration > Online Forms.,,"AS.040.503.
+AS.040.503,Classics Internship,1,This course is designed for students enrolled in an internship program with a faculty member. Prerequisite(s): You must request Customized Academic Learning using the Customized Academic Learning form found in Student Self-Service: Registration > Online Forms.,"FA3, FA4, FA6",,,You must request Customized Academic Learning using the Customized Academic Learning form found in Student Self-Service: Registration > Online Forms.,,"AS.040.503.
 Classics Internship.
 1 Credit.
 This course is designed for students enrolled in an internship program with a faculty member.
@@ -561,23 +541,19 @@ AS.040.652,Inspiration and Immersion in Ancient Poetry,3,"This graduate seminar 
 Inspiration and Immersion in Ancient Poetry.
 3 Credits.
 This graduate seminar examines classical antiquity’s vibrant and varied approaches toward the enraptured experiences of poetry—its creation, performance, and consumption. Subtopics include conceptions of divine inspiration, metaphors for literary inheritance, modes of reading and listening, and more. Knowledge of Greek and Latin is preferred but not required."
-AS.040.670,Lucian of Samosata,3,"This seminar will explore the prolific output of the Syrian Greek writer Lucian of Samosata (2nd century CE). Lucian’s work, which spans diverse themes and forms (including verse as well as prose), shows an all-embracing preoccupation with truth, lies, fiction and authority, and his  satire reveals an intellectual world characterized by fraudulent philosophers, sophists, holy men and other imposters. One of his central questions is what it means, in the imperial period, to lay claim to be Greek. At the same time, he shows a genius for combining influences from the Archaic and Classical past (especially Homer, Aristophanes, Plato) to produce an elegant new genre and literary critical perspective.",,Humanities,,,,"AS.040.670.
+AS.040.670,Lucian of Samosata,3,"This seminar will explore the prolific output of the Syrian Greek writer Lucian of Samosata (2nd century CE). Lucian’s work, which spans diverse themes and forms (including verse as well as prose), shows an all-embracing preoccupation with truth, lies, fiction and authority, and his satire reveals an intellectual world characterized by fraudulent philosophers, sophists, holy men and other imposters. One of his central questions is what it means, in the imperial period, to lay claim to be Greek. At the same time, he shows a genius for combining influences from the Archaic and Classical past (especially Homer, Aristophanes, Plato) to produce an elegant new genre and literary critical perspective.",,Humanities,,,,"AS.040.670.
 Lucian of Samosata.
 3 Credits.
 This seminar will explore the prolific output of the Syrian Greek writer Lucian of Samosata (2nd century CE). Lucian’s work, which spans diverse themes and forms (including verse as well as prose), shows an all-embracing preoccupation with truth, lies, fiction and authority, and his  satire reveals an intellectual world characterized by fraudulent philosophers, sophists, holy men and other imposters. One of his central questions is what it means, in the imperial period, to lay claim to be Greek. At the same time, he shows a genius for combining influences from the Archaic and Classical past (especially Homer, Aristophanes, Plato) to produce an elegant new genre and literary critical perspective.
 Distribution Area: Humanities"
-AS.040.702,Reading Ancient Greek Poetry,3,"This reading seminar is intended to train graduate students in direct and critical work on primary sources.  Co-listed with
-AS.040.306
-.",,Humanities,,,,"AS.040.702.
+AS.040.702,Reading Ancient Greek Poetry,3,This reading seminar is intended to train graduate students in direct and critical work on primary sources. Co-listed with AS.040.306 .,,Humanities,,,,"AS.040.702.
 Reading Ancient Greek Poetry.
 3 Credits.
 This reading seminar is intended to train graduate students in direct and critical work on primary sources.  Co-listed with
 AS.040.306
 .
 Distribution Area: Humanities"
-AS.040.705,Reading Ancient Greek Prose,3,"This reading seminar is intended to train graduate students in direct and critical work on primary sources. Co-listed with
-AS.040.305
-.",,Humanities,,,,"AS.040.705.
+AS.040.705,Reading Ancient Greek Prose,3,This reading seminar is intended to train graduate students in direct and critical work on primary sources. Co-listed with AS.040.305 . Recommended Course Background: AS.040.205 - AS.040.206 .,,Humanities,,,,"AS.040.705.
 Reading Ancient Greek Prose.
 3 Credits.
 This reading seminar is intended to train graduate students in direct and critical work on primary sources. Co-listed with
@@ -588,17 +564,13 @@ AS.040.205
 AS.040.206
 .
 Distribution Area: Humanities"
-AS.040.707,Reading Latin Prose,3,"This reading seminar is intended to train graduate students in direct and critical work on primary sources. Co-listed with
-AS.040.307
-.",,,,,,"AS.040.707.
+AS.040.707,Reading Latin Prose,3,This reading seminar is intended to train graduate students in direct and critical work on primary sources. Co-listed with AS.040.307 .,,,,,,"AS.040.707.
 Reading Latin Prose.
 3 Credits.
 This reading seminar is intended to train graduate students in direct and critical work on primary sources. Co-listed with
 AS.040.307
 ."
-AS.040.710,Reading Latin Poetry,3,"This reading seminar is intended to train graduate students in direct and critical work on primary sources.  Co-listed with
-AS.040.308
-.",,Humanities,,,,"AS.040.710.
+AS.040.710,Reading Latin Poetry,3,This reading seminar is intended to train graduate students in direct and critical work on primary sources. Co-listed with AS.040.308 . Recommended Course Background: AS.040.207 - AS.040.208 .,,Humanities,,,,"AS.040.710.
 Reading Latin Poetry.
 3 Credits.
 This reading seminar is intended to train graduate students in direct and critical work on primary sources.  Co-listed with

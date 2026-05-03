@@ -1,7 +1,5 @@
 code,title,credits,description,fa_tags,distribution,prereq_codes,prereq_text,restrictions,raw_description
-AS.378.115,First Year Japanese,5,"This course is designed for students who have no background or previous knowledge in Japanese. The course consists of lectures on Tuesday/Thursday and conversation classes on Monday/Wednesdays/Fridays. The goal of the course is the simultaneous progression of four skills (speaking, listening, writing, and reading) as well as familiarity with aspects of Japanese culture. By the end of the year, students will have basic speaking and listening comprehension skills, a solid grasp of basic grammar items, reading and writing skills, and a recognition and production of approximately 150 kanji in context. Knowledge of grammar will be expanded significantly in
-AS.378.215
-. No Satisfactory/ Unsatisfactory.","FA3, FA4",,,,,"AS.378.115.
+AS.378.115,First Year Japanese,5,"This course is designed for students who have no background or previous knowledge in Japanese. The course consists of lectures on Tuesday/Thursday and conversation classes on Monday/Wednesdays/Fridays. The goal of the course is the simultaneous progression of four skills (speaking, listening, writing, and reading) as well as familiarity with aspects of Japanese culture. By the end of the year, students will have basic speaking and listening comprehension skills, a solid grasp of basic grammar items, reading and writing skills, and a recognition and production of approximately 150 kanji in context. Knowledge of grammar will be expanded significantly in AS.378.215 . No Satisfactory/ Unsatisfactory.","FA3, FA4",,,,,"AS.378.115.
 First Year Japanese.
 5 Credits.
 This course is designed for students who have no background or previous knowledge in Japanese. The course consists of lectures on Tuesday/Thursday and conversation classes on Monday/Wednesdays/Fridays. The goal of the course is the simultaneous progression of four skills (speaking, listening, writing, and reading) as well as familiarity with aspects of Japanese culture. By the end of the year, students will have basic speaking and listening comprehension skills, a solid grasp of basic grammar items, reading and writing skills, and a recognition and production of approximately 150 kanji in context. Knowledge of grammar will be expanded significantly in
@@ -11,7 +9,7 @@ AS Foundational Abilities: Culture and Aesthetics (FA3),
 Citizens and Society (FA4)
 EN Foundational Abilities: Creative Expression (FA3),
 Engagement with Society (FA4)"
-AS.378.116,First Year Japanese II,5,"This course is designed for students who have no background or previous knowledge in Japanese. The course consists of lectures on Tuesday/Thursday and conversation classes on Monday/Wednesdays/Fridays. The goal of the course is the simultaneous progression of four skills (speaking, listening, writing, and reading) as well as familiarity with aspects of Japanese culture. By the end of the fall term, students will have basic speaking and listening comprehension skills, a solid grasp of basic grammar items, reading and writing skills, and a recognition and production of approximately 60 kanji in context. Knowledge of grammar will be expanded significantly in 2nd year Japanese. May not be taken Satisfactory/Unsatisfactory.","FA3, FA4",,AS.378.115,"Prereq:
+AS.378.116,First Year Japanese II,5,"This course is designed for students who have no background or previous knowledge in Japanese. The course consists of lectures on Tuesday/Thursday and conversation classes on Monday/Wednesdays/Fridays. The goal of the course is the simultaneous progression of four skills (speaking, listening, writing, and reading) as well as familiarity with aspects of Japanese culture. By the end of the fall term, students will have basic speaking and listening comprehension skills, a solid grasp of basic grammar items, reading and writing skills, and a recognition and production of approximately 60 kanji in context. Knowledge of grammar will be expanded significantly in 2nd year Japanese. May not be taken Satisfactory/Unsatisfactory. Recommended Course Background: AS.378.115 Prerequisite(s): Prereq: AS.378.115 or instructor permission","FA3, FA4",,AS.378.115,"Prereq:
 AS.378.115
 or instructor permission",,"AS.378.116.
 First Year Japanese II.
@@ -26,7 +24,7 @@ AS Foundational Abilities: Culture and Aesthetics (FA3),
 Citizens and Society (FA4)
 EN Foundational Abilities: Creative Expression (FA3),
 Engagement with Society (FA4)"
-AS.378.215,Second Year Japanese,5,"Training in spoken and written language, increasing their knowledge of more complex patterns. At completion, students will have a working knowledge of about 250 Kanji.","FA3, FA4",Humanities,AS.378.116,"AS.378.116
+AS.378.215,Second Year Japanese,5,"Training in spoken and written language, increasing their knowledge of more complex patterns. At completion, students will have a working knowledge of about 250 Kanji. Recommended Course Background: AS.378.115 and AS.378.116 or equivalent. Prerequisite(s): AS.378.116 or equivalent","FA3, FA4",Humanities,AS.378.116,"AS.378.116
 or equivalent",,"AS.378.215.
 Second Year Japanese.
 5 Credits.
@@ -43,7 +41,7 @@ AS Foundational Abilities: Culture and Aesthetics (FA3),
 Citizens and Society (FA4)
 EN Foundational Abilities: Creative Expression (FA3),
 Engagement with Society (FA4)"
-AS.378.216,Second Year Japanese II,5,"Continuation of Beginning Japanese and Intermediate Japanese I. Training in spoken and written language, increasing students' knowledge of more complex patterns. At completion, students will have a working knowledge of about 250 Kanji.","FA3, FA4",Humanities,AS.378.215,"AS.378.215
+AS.378.216,Second Year Japanese II,5,"Continuation of Beginning Japanese and Intermediate Japanese I. Training in spoken and written language, increasing students' knowledge of more complex patterns. At completion, students will have a working knowledge of about 250 Kanji. Recommended Course Background: AS.378.215 or equivalent. Prerequisite(s): AS.378.215 or instructor permission","FA3, FA4",Humanities,AS.378.215,"AS.378.215
 or instructor permission",,"AS.378.216.
 Second Year Japanese II.
 5 Credits.
@@ -58,7 +56,7 @@ AS Foundational Abilities: Culture and Aesthetics (FA3),
 Citizens and Society (FA4)
 EN Foundational Abilities: Creative Expression (FA3),
 Engagement with Society (FA4)"
-AS.378.315,Third Year Japanese,3,"Emphasis shifts toward reading, while development of oral-aural skills also continues apace.  The course presents graded readings in expository prose and requires students to expand their knowledge of Kanji, grammar, and both spoken and written vocabulary.","FA1, FA3, FA4",Humanities,AS.378.216,"AS.378.216
+AS.378.315,Third Year Japanese,3,"Emphasis shifts toward reading, while development of oral-aural skills also continues apace. The course presents graded readings in expository prose and requires students to expand their knowledge of Kanji, grammar, and both spoken and written vocabulary. Cross-listed with East Asian Studies Prerequisite(s): AS.378.216 or instructor permission","FA1, FA3, FA4",Humanities,AS.378.216,"AS.378.216
 or instructor permission",Writing Intensive,"AS.378.315.
 Third Year Japanese.
 3 Credits.
@@ -73,9 +71,7 @@ Citizens and Society (FA4)
 EN Foundational Abilities: Creative Expression (FA3),
 Engagement with Society (FA4)
 Writing Intensive"
-AS.378.316,Third Year Japanese II,3,"Emphasis shifts toward reading, while development of oral-aural skills also continues apace. The course presents graded readings in expository prose and requires students to expand their knowledge of Kanji, grammar, and both spoken and written vocabulary. Lab required. Continuation of
-AS.378.315
-.","FA1, FA3, FA4",Humanities,AS.378.315,"AS.378.315
+AS.378.316,Third Year Japanese II,3,"Emphasis shifts toward reading, while development of oral-aural skills also continues apace. The course presents graded readings in expository prose and requires students to expand their knowledge of Kanji, grammar, and both spoken and written vocabulary. Lab required. Continuation of AS.378.315 . Recommended Course Background: AS.378.315 or equivalent. Prerequisite(s): AS.378.315 or equivalent.","FA1, FA3, FA4",Humanities,AS.378.315,"AS.378.315
 or equivalent.",Writing Intensive,"AS.378.316.
 Third Year Japanese II.
 3 Credits.
@@ -94,7 +90,7 @@ Citizens and Society (FA4)
 EN Foundational Abilities: Creative Expression (FA3),
 Engagement with Society (FA4)
 Writing Intensive"
-AS.378.396,Fundamentals of Japanese Grammar,2,"This course is designed for students who have already studied 1st Year Japanese grammar and wish to develop a thorough knowledge of Japanese grammar in order to advance all aspects of language skills to a higher level. It is also appropriate for graduate students who need to be able to read materials written in Japanese. The goal of the course is to provide students with a thorough knowledge of Japanese grammar; therefore, knowledge of vocabulary (including kanji) in depth is not requisite. In addition, since this is not a language course that places equal focus on all four skills (speaking, listening, writing, and reading), there will be no conversation practice – this is a lecture course on grammar. 2 credits. Pass-fail grade option only","FA2, FA3, FA4",Humanities,AS.378.116,"AS.378.116
+AS.378.396,Fundamentals of Japanese Grammar,2,"This course is designed for students who have already studied 1st Year Japanese grammar and wish to develop a thorough knowledge of Japanese grammar in order to advance all aspects of language skills to a higher level. It is also appropriate for graduate students who need to be able to read materials written in Japanese. The goal of the course is to provide students with a thorough knowledge of Japanese grammar; therefore, knowledge of vocabulary (including kanji) in depth is not requisite. In addition, since this is not a language course that places equal focus on all four skills (speaking, listening, writing, and reading), there will be no conversation practice – this is a lecture course on grammar. 2 credits. Pass-fail grade option only Prerequisite(s): AS.378.116 or permission","FA2, FA3, FA4",Humanities,AS.378.116,"AS.378.116
 or permission",,"AS.378.396.
 Fundamentals of Japanese Grammar.
 2 Credits.
@@ -108,7 +104,7 @@ Culture and Aesthetics (FA3),
 Citizens and Society (FA4)
 EN Foundational Abilities: Creative Expression (FA3),
 Engagement with Society (FA4)"
-AS.378.415,Fourth Year Japanese,3,"By using four skills in participatory activities (reading, writing, presentation, and discussion), students will develop reading skills in modern Japanese and deepen and enhance their knowledge on Kanji and Japanese culture.","FA1, FA3, FA4",Humanities,AS.378.316,"AS.378.316
+AS.378.415,Fourth Year Japanese,3,"By using four skills in participatory activities (reading, writing, presentation, and discussion), students will develop reading skills in modern Japanese and deepen and enhance their knowledge on Kanji and Japanese culture. Recommended Course Background: AS.378.315 and AS.378.316 or equivalent. Prerequisite(s): AS.378.316 or equivalent","FA1, FA3, FA4",Humanities,AS.378.316,"AS.378.316
 or equivalent",Writing Intensive,"AS.378.415.
 Fourth Year Japanese.
 3 Credits.
@@ -127,7 +123,7 @@ Citizens and Society (FA4)
 EN Foundational Abilities: Creative Expression (FA3),
 Engagement with Society (FA4)
 Writing Intensive"
-AS.378.416,Fourth Year Japanese II,3,"By using four skills in participatory activities (reading, writing, presentation, and discussion), students will develop reading skills in modern Japanese and deepen and enhance their knowledge on Kanji and Japanese culture. Lab required.","FA1, FA3, FA4",Humanities,AS.378.415,"AS.378.415
+AS.378.416,Fourth Year Japanese II,3,"By using four skills in participatory activities (reading, writing, presentation, and discussion), students will develop reading skills in modern Japanese and deepen and enhance their knowledge on Kanji and Japanese culture. Lab required. Recommended Course Background: AS.378.415 Prerequisite(s): AS.378.415 or equivalent.","FA1, FA3, FA4",Humanities,AS.378.415,"AS.378.415
 or equivalent.",Writing Intensive,"AS.378.416.
 Fourth Year Japanese II.
 3 Credits.

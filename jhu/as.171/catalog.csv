@@ -1,10 +1,5 @@
 code,title,credits,description,fa_tags,distribution,prereq_codes,prereq_text,restrictions,raw_description
-AS.171.101,General Physics: Physical Science Major I,4,"First semester of a two-semester sequence in calculus-based general physics. In this term, the topics covered include the basic principles of classical mechanics and fluids as well as an introduction to wave motion.  Midterm exams for every section are given during the 8 AM section time!  Accordingly, students registering for sections at times other than 8 AM must retain availability for 8 AM sections as needed. Recommended Co-requisite:
-AS.110.108
-or
-AS.110.113
-AND
-AS.173.111",FA2,"Engineering, Natural Sciences",,,,"AS.171.101.
+AS.171.101,General Physics: Physical Science Major I,4,"First semester of a two-semester sequence in calculus-based general physics. In this term, the topics covered include the basic principles of classical mechanics and fluids as well as an introduction to wave motion. Midterm exams for every section are given during the 8 AM section time! Accordingly, students registering for sections at times other than 8 AM must retain availability for 8 AM sections as needed. Recommended Co-requisite: AS.110.108 or AS.110.113 AND AS.173.111",FA2,"Engineering, Natural Sciences",,,,"AS.171.101.
 General Physics: Physical Science Major I.
 4 Credits.
 First semester of a two-semester sequence in calculus-based general physics. In this term, the topics covered include the basic principles of classical mechanics and fluids as well as an introduction to wave motion.  Midterm exams for every section are given during the 8 AM section time!  Accordingly, students registering for sections at times other than 8 AM must retain availability for 8 AM sections as needed. Recommended Co-requisite:
@@ -15,7 +10,7 @@ AND
 AS.173.111
 Distribution Area: Engineering, Natural Sciences
 AS Foundational Abilities: Science and Data (FA2)"
-AS.171.102,General Physics: Physical Science Major II,4,"Second Semester of a two-semester sequences in calculus-based general physics.  In this term, the topics covered include wave motion, electricity and magnetism, optics and modern physics.  Midterm exams for every section are given during the 8AM section time!  Accordingly, students registering for sections at times other than 8AM must retain availability for the 8AM sections as needed.",FA2,"Engineering, Natural Sciences","AS.171.101, AS.171.103, AS.171.105, AS.171.107, EN.530.123","Prerequisites: A grade of C- or better in either Physics I or the first semester of Engineering Mechanics
+AS.171.102,General Physics: Physical Science Major II,4,"Second Semester of a two-semester sequences in calculus-based general physics. In this term, the topics covered include wave motion, electricity and magnetism, optics and modern physics. Midterm exams for every section are given during the 8AM section time! Accordingly, students registering for sections at times other than 8AM must retain availability for the 8AM sections as needed. Prerequisite(s): Prerequisites: A grade of C- or better in either Physics I or the first semester of Engineering Mechanics AS.171.101 OR AS.171.103 OR AS.171.105 OR AS.171.107 OR EN.530.123",FA2,"Engineering, Natural Sciences","AS.171.101, AS.171.103, AS.171.105, AS.171.107, EN.530.123","Prerequisites: A grade of C- or better in either Physics I or the first semester of Engineering Mechanics
 AS.171.101
 OR
 AS.171.103
@@ -41,15 +36,7 @@ OR
 EN.530.123
 Distribution Area: Engineering, Natural Sciences
 AS Foundational Abilities: Science and Data (FA2)"
-AS.171.103,General Physics I for Biological Science Majors,4,"First-semester of two-semester sequence in calculus-based general physics, tailored to students majoring in one of the biological sciences.   In this term, the topics covered include the basic principles of classical mechanics and fluids as well as an introduction to wave motion.    Recommended Corequisites: (
-AS.173.111
-) AND (
-AS.110.106
-or
-AS.110.108
-or
-AS.110.113
-).Midterm exams are given at 8am Tuesdays, so students must leave their schedules open at this time in order to be able to take these exams",FA2,"Engineering, Natural Sciences",,,,"AS.171.103.
+AS.171.103,General Physics I for Biological Science Majors,4,"First-semester of two-semester sequence in calculus-based general physics, tailored to students majoring in one of the biological sciences. In this term, the topics covered include the basic principles of classical mechanics and fluids as well as an introduction to wave motion. Recommended Corequisites: ( AS.173.111 ) AND ( AS.110.106 or AS.110.108 or AS.110.113 ).Midterm exams are given at 8am Tuesdays, so students must leave their schedules open at this time in order to be able to take these exams",FA2,"Engineering, Natural Sciences",,,,"AS.171.103.
 General Physics I for Biological Science Majors.
 4 Credits.
 First-semester of two-semester sequence in calculus-based general physics, tailored to students majoring in one of the biological sciences.   In this term, the topics covered include the basic principles of classical mechanics and fluids as well as an introduction to wave motion.    Recommended Corequisites: (
@@ -63,7 +50,7 @@ AS.110.113
 ).Midterm exams are given at 8am Tuesdays, so students must leave their schedules open at this time in order to be able to take these exams
 Distribution Area: Engineering, Natural Sciences
 AS Foundational Abilities: Science and Data (FA2)"
-AS.171.104,General Physics/Biology Majors II,4,"Second semester of a two-semester sequence  designed to present a standard calculus-based physics preparation tailored to students majoring in one of the biological sciences. Topics in electricity & magnetism, optics, and modern physics will be covered in this semester. Midterm exams for every section are given during the 8 AM section time!Accordingly, students registering for sections at times other than 8 AM must retain availability for 8 AM sections as needed.",FA2,"Engineering, Natural Sciences",,,,"AS.171.104.
+AS.171.104,General Physics/Biology Majors II,4,"Second semester of a two-semester sequence designed to present a standard calculus-based physics preparation tailored to students majoring in one of the biological sciences. Topics in electricity & magnetism, optics, and modern physics will be covered in this semester. Midterm exams for every section are given during the 8 AM section time!Accordingly, students registering for sections at times other than 8 AM must retain availability for 8 AM sections as needed. Recommended Course Background: C- or better in AS.171.101 or AS.171.103 or AS.171.105 or AS.171.107 or EN.530.123 ; Corequisites: AS.110.109 , AS173.112.",FA2,"Engineering, Natural Sciences",,,,"AS.171.104.
 General Physics/Biology Majors II.
 4 Credits.
 Second semester of a two-semester sequence  designed to present a standard calculus-based physics preparation tailored to students majoring in one of the biological sciences. Topics in electricity & magnetism, optics, and modern physics will be covered in this semester. Midterm exams for every section are given during the 8 AM section time!Accordingly, students registering for sections at times other than 8 AM must retain availability for 8 AM sections as needed. Recommended Course Background: C- or better in
@@ -81,18 +68,7 @@ AS.110.109
 , AS173.112.
 Distribution Area: Engineering, Natural Sciences
 AS Foundational Abilities: Science and Data (FA2)"
-AS.171.105,Classical Mechanics I,4,"An in-depth introduction to classical mechanics intended for physics majors/minors and other students with a strong interest in physics. This course treats fewer topics than
-AS.171.101
-and
-AS.171.103
-but with greater mathematical sophistication. It is particularly recommended for students who intend to take
-AS.171.201
-or
-AS.171.310
-. Recommended Co-requisites:
-AS.173.115
-and
-AS.110.108",FA2,"Engineering, Natural Sciences",,,,"AS.171.105.
+AS.171.105,Classical Mechanics I,4,An in-depth introduction to classical mechanics intended for physics majors/minors and other students with a strong interest in physics. This course treats fewer topics than AS.171.101 and AS.171.103 but with greater mathematical sophistication. It is particularly recommended for students who intend to take AS.171.201 or AS.171.310 . Recommended Co-requisites: AS.173.115 and AS.110.108,FA2,"Engineering, Natural Sciences",,,,"AS.171.105.
 Classical Mechanics I.
 4 Credits.
 An in-depth introduction to classical mechanics intended for physics majors/minors and other students with a strong interest in physics. This course treats fewer topics than
@@ -109,11 +85,7 @@ and
 AS.110.108
 Distribution Area: Engineering, Natural Sciences
 AS Foundational Abilities: Science and Data (FA2)"
-AS.171.106,Electricity and Magnetism I,4,"Classical electricity and magnetism with fewer topics than 171.102-104, but with greater mathematical sophistication.  Particularly recommended for students who plan to take
-AS.171.201
--
-AS.171.204
-.",FA2,"Engineering, Natural Sciences",,,,"AS.171.106.
+AS.171.106,Electricity and Magnetism I,4,"Classical electricity and magnetism with fewer topics than 171.102-104, but with greater mathematical sophistication. Particularly recommended for students who plan to take AS.171.201 - AS.171.204 . Recommended Course Background: C- or better in AS.171.105 ; Corequisite: AS.173.116 , AS.110.109",FA2,"Engineering, Natural Sciences",,,,"AS.171.106.
 Electricity and Magnetism I.
 4 Credits.
 Classical electricity and magnetism with fewer topics than 171.102-104, but with greater mathematical sophistication.  Particularly recommended for students who plan to take
@@ -134,11 +106,7 @@ General Physics for Physical Sciences Majors (AL).
 Rather than being presented via lectures and discussion sections, it is instead taught in an ""active learning"" style with most class time given to small group problem-solving guided by instructors. In this term, the topics covered include the basic principles of classical mechanics and fluids as well as an introduction to wave motion. Midterm exams for every section are given during the 8 AM section time! Accordingly, students registering for sections at times other than 8 AM must retain availability for 8 AM sections as needed.
 Distribution Area: Engineering, Natural Sciences
 AS Foundational Abilities: Science and Data (FA2)"
-AS.171.108,General Physics for Physical Science Majors (AL),4,"Second semester of a two-semester sequence in calculus-based general physics identical in subject matter to
-AS.171.101
--
-AS.171.102
-, covering mechanics, heat, sound, electricity and magnetism, optics, and modern physics, but differs in instructional format. Rather than being presented via lectures and discussion sections, it is instead taught in an ""active learning"" style with most class time given to small group problem-solving guided by instructors.",FA2,"Engineering, Natural Sciences","AS.110.107, AS.110.109, AS.110.211, AS.110.113","Can be taken concurrently or as a prerequisite: (
+AS.171.108,General Physics for Physical Science Majors (AL),4,"Second semester of a two-semester sequence in calculus-based general physics identical in subject matter to AS.171.101 - AS.171.102 , covering mechanics, heat, sound, electricity and magnetism, optics, and modern physics, but differs in instructional format. Rather than being presented via lectures and discussion sections, it is instead taught in an ""active learning"" style with most class time given to small group problem-solving guided by instructors. Recommended Course Background: A grade of C- or better in either Physics I or the first semester of Engineering Mechanics ( AS.171.101 OR AS.171.103 OR AS.171.105 OR AS.171.107 OR EN.530.123 ) Prerequisite(s): Can be taken concurrently or as a prerequisite: ( AS.110.107 OR AS.110.109 OR AS.110.211 OR AS.110.113 )",FA2,"Engineering, Natural Sciences","AS.110.107, AS.110.109, AS.110.211, AS.110.113","Can be taken concurrently or as a prerequisite: (
 AS.110.107
 OR
 AS.110.109
@@ -182,7 +150,7 @@ Spacetime and Quanta.
 This course offers a broad overview of the fundamental ideas of modern physics: mechanics, space, time, relativity, quantum mechanics, and quantum field theory, up to general relativity and the Standard Model of particle physics. The course will be descriptive but equation-based, including explicit details about the foundational equations of the theories discussed. The goal will be to understand the meaning of those equations and the concepts they represent, rather than to gain facility in manipulating and solving the equations. This course is aimed at non-physics majors
 Distribution Area: Natural Sciences
 AS Foundational Abilities: Science and Data (FA2)"
-AS.171.118,Stars and the Universe: Cosmic Evolution,3,"This course looks at the evolution of the universe from its origin in a cosmic explosion to emergence of life on Earth and possibly other planets throughout the universe.  Topics include big-bang cosmology; origin and evolution of galaxies, stars, planets, life, and intelligence; black holes; quasars; and relativity theory.  The material is largely descriptive, based on insights from physics, astronomy, geology, chemistry, biology, and anthropology.",FA2,Natural Sciences,,,,"AS.171.118.
+AS.171.118,Stars and the Universe: Cosmic Evolution,3,"This course looks at the evolution of the universe from its origin in a cosmic explosion to emergence of life on Earth and possibly other planets throughout the universe. Topics include big-bang cosmology; origin and evolution of galaxies, stars, planets, life, and intelligence; black holes; quasars; and relativity theory. The material is largely descriptive, based on insights from physics, astronomy, geology, chemistry, biology, and anthropology.",FA2,Natural Sciences,,,,"AS.171.118.
 Stars and the Universe: Cosmic Evolution.
 3 Credits.
 This course looks at the evolution of the universe from its origin in a cosmic explosion to emergence of life on Earth and possibly other planets throughout the universe.  Topics include big-bang cosmology; origin and evolution of galaxies, stars, planets, life, and intelligence; black holes; quasars; and relativity theory.  The material is largely descriptive, based on insights from physics, astronomy, geology, chemistry, biology, and anthropology.
@@ -193,11 +161,7 @@ Exploring the Universe with Space Telescopes.
 1 Credit.
 Through a mix of lectures and hands-on activities, you will learn how astronomers study objects in space using different types of light, observatories, and instrumental techniques. You will also hear from active researchers about the big, open questions in astronomy and how we use space telescopes such as Hubble and Webb to answer those questions. Building on this knowledge, you will work with a small group to design your own space telescope and present that design to your peers. No prior knowledge of astronomy, physics, or mathematics is assumed.
 AS Foundational Abilities: Science and Data (FA2)"
-AS.171.201,Special Relativity/Waves,4,"Course continues introductory physics sequence (begins with
-AS.171.105
--
-AS.171.106
-).  Special theory of relativity, forced and damped oscillators, Fourier analysis, wave equation, reflection and transmission, diffraction and interference, dispersion.  Meets with AS.171.207.",FA2,"Engineering, Natural Sciences","AS.110.202, AS.110.211, AS.171.201, AS.171.106, AS.171.108, AS.171.102, AS.171.104, AS.110.107, AS.110.109, AS.110.113","Click here to access the Laboratory Safety Introductory Course
+AS.171.201,Special Relativity/Waves,4,"Course continues introductory physics sequence (begins with AS.171.105 - AS.171.106 ). Special theory of relativity, forced and damped oscillators, Fourier analysis, wave equation, reflection and transmission, diffraction and interference, dispersion. Meets with AS.171.207. Prerequisite(s): Click here to access the Laboratory Safety Introductory Course ;Students may take AS.110.202 OR AS.110.211 prior to enrolling in AS.171.201 or at the same time as AS.171.201 .;( AS.171.106 OR AS.171.108 OR AS.171.102 OR AS.171.104 ) AND ( AS.110.107 OR AS.110.109 OR AS.110.113 )",FA2,"Engineering, Natural Sciences","AS.110.202, AS.110.211, AS.171.201, AS.171.106, AS.171.108, AS.171.102, AS.171.104, AS.110.107, AS.110.109, AS.110.113","Click here to access the Laboratory Safety Introductory Course
 ;Students may take
 AS.110.202
 OR
@@ -255,7 +219,7 @@ AS.110.113
 )
 Distribution Area: Engineering, Natural Sciences
 AS Foundational Abilities: Science and Data (FA2)"
-AS.171.204,Classical Mechanics II,4,"Principles of Newtonian and Lagrangian mechanics; application to central-force motion, rigid body motion, and the theory of small oscillations.",FA2,Natural Sciences,,,,"AS.171.204.
+AS.171.204,Classical Mechanics II,4,"Principles of Newtonian and Lagrangian mechanics; application to central-force motion, rigid body motion, and the theory of small oscillations. Recommended Course Background: AS.110.108 and AS.110.109 , AS.110.202 , AS.171.201 , or AS.171.309. AS.110.201 or equivalent is strongly recommended.",FA2,Natural Sciences,,,,"AS.171.204.
 Classical Mechanics II.
 4 Credits.
 Principles of Newtonian and Lagrangian mechanics; application to central-force motion, rigid body motion, and the theory of small oscillations. Recommended Course Background:
@@ -277,7 +241,7 @@ Introduction to Practical Data Science: Beautiful Data.
 The class will provide an overview of data science, with an introduction to basic statistical principles, databases, fundamentals of algorithms and data structures, followed by practical problems in data analytics. Recommend Course Background: Familiarity with principles of computing.
 Distribution Area: Natural Sciences, Quantitative and Mathematical Sciences
 AS Foundational Abilities: Science and Data (FA2)"
-AS.171.301,Electromagnetic Theory II,4,Static electric and magnetic fields in free space and matter; boundary value problems; electromagnetic induction; Maxwell’s equations; and an introduction to electrodynamics.,"FA2, FA5",Natural Sciences,"AS.171.102, AS.171.104, AS.171.106, AS.171.108, AS.110.202, AS.110.211, AS.110.201, AS.110.212","(
+AS.171.301,Electromagnetic Theory II,4,Static electric and magnetic fields in free space and matter; boundary value problems; electromagnetic induction; Maxwell’s equations; and an introduction to electrodynamics. Prerequisite(s): ( AS.171.102 OR AS.171.104 OR AS.171.106 OR AS.171.108 ) AND Calculus III ( AS.110.202 OR AS.110.211 ) AND Linear Algebra ( AS.110.201 OR AS.110.212 ),"FA2, FA5",Natural Sciences,"AS.171.102, AS.171.104, AS.171.106, AS.171.108, AS.110.202, AS.110.211, AS.110.201, AS.110.212","(
 AS.171.102
 OR
 AS.171.104
@@ -318,7 +282,7 @@ AS.110.212
 Distribution Area: Natural Sciences
 AS Foundational Abilities: Science and Data (FA2),
 Ethics and Foundations (FA5)"
-AS.171.303,Quantum Mechanics I,4,"Fundamental aspects of quantum mechanics. Uncertainty relations, Schrodinger equation in one and three dimensions, tunneling, harmonic oscillator, angular momentum, hydrogen atom, spin, Pauli principle, perturbation theory (time-independent and time-dependent), transition probabilities and selection rules, atomic structure, scattering theory.","FA2, FA5",Natural Sciences,"AS.171.204, AS.110.201, AS.110.212, AS.110.202, AS.110.211","(
+AS.171.303,Quantum Mechanics I,4,"Fundamental aspects of quantum mechanics. Uncertainty relations, Schrodinger equation in one and three dimensions, tunneling, harmonic oscillator, angular momentum, hydrogen atom, spin, Pauli principle, perturbation theory (time-independent and time-dependent), transition probabilities and selection rules, atomic structure, scattering theory. Recommended Course Background: AS.110.302 or AS.110.306. Prerequisite(s): ( AS.171.204 ) AND ( AS.110.201 OR AS.110.212 ) AND ( AS.110.202 OR AS.110.211 )","FA2, FA5",Natural Sciences,"AS.171.204, AS.110.201, AS.110.212, AS.110.202, AS.110.211","(
 AS.171.204
 ) AND (
 AS.110.201
@@ -349,7 +313,7 @@ AS.110.211
 Distribution Area: Natural Sciences
 AS Foundational Abilities: Science and Data (FA2),
 Ethics and Foundations (FA5)"
-AS.171.304,Quantum Mechanics II,4,"Fundamental aspects of quantum mechanics. Uncertainty relations, Schrodinger equation in one and three dimensions, tunneling, harmonic oscillator, angular momentum, hydrogen atom, spin, Pauli principle, perturbation theory, transition probabilities and selection rules, atomic structure, scattering theory.",FA2,Natural Sciences,,,,"AS.171.304.
+AS.171.304,Quantum Mechanics II,4,"Fundamental aspects of quantum mechanics. Uncertainty relations, Schrodinger equation in one and three dimensions, tunneling, harmonic oscillator, angular momentum, hydrogen atom, spin, Pauli principle, perturbation theory, transition probabilities and selection rules, atomic structure, scattering theory. Recommended Course Background: AS.171.303 , AS.171.202, AS.171.204 , AS.110.202 .",FA2,Natural Sciences,,,,"AS.171.304.
 Quantum Mechanics II.
 4 Credits.
 Fundamental aspects of quantum mechanics. Uncertainty relations, Schrodinger equation in one and three dimensions, tunneling, harmonic oscillator, angular momentum, hydrogen atom, spin, Pauli principle, perturbation theory, transition probabilities and selection rules, atomic structure, scattering theory. Recommended Course Background:
@@ -361,7 +325,7 @@ AS.110.202
 .
 Distribution Area: Natural Sciences
 AS Foundational Abilities: Science and Data (FA2)"
-AS.171.306,Practical use of Computational Tools in Physics,3,"Usage of computational tools is essential in modern physics; this course seeks to introduce toolsfor practical use in physics coursework and research. This course will focus on two popular tools,Mathematica and Python. Mathematica is a powerful mathematic pseudo coding language, ideal for use in complex physics problems with analytic solutions. Python is a traditional coding language with a wide range of applications. In the context of this course, it will be used to solve numerical problems in physics and visualize complex problems. Python will be coded using Jupyter Notebooks, a simple, interactive application for python development. An introduction to data science methods and an introduction to machine learning in python will also be given. Special emphasis will be placed on teaching when these tools are useful to students so that they may quickly recognize how they can use them outside of the classroom.",FA2,Natural Sciences,"AS.171.102, AS.171.104, AS.171.106, AS.171.108, AS.110.202, AS.110.211","(
+AS.171.306,Practical use of Computational Tools in Physics,3,"Usage of computational tools is essential in modern physics; this course seeks to introduce toolsfor practical use in physics coursework and research. This course will focus on two popular tools,Mathematica and Python. Mathematica is a powerful mathematic pseudo coding language, ideal for use in complex physics problems with analytic solutions. Python is a traditional coding language with a wide range of applications. In the context of this course, it will be used to solve numerical problems in physics and visualize complex problems. Python will be coded using Jupyter Notebooks, a simple, interactive application for python development. An introduction to data science methods and an introduction to machine learning in python will also be given. Special emphasis will be placed on teaching when these tools are useful to students so that they may quickly recognize how they can use them outside of the classroom. Prerequisite(s): ( AS.171.102 OR AS.171.104 OR AS.171.106 OR AS.171.108 ) AND ( AS.110.202 OR AS.110.211 )",FA2,Natural Sciences,"AS.171.102, AS.171.104, AS.171.106, AS.171.108, AS.110.202, AS.110.211","(
 AS.171.102
 OR
 AS.171.104
@@ -399,7 +363,7 @@ Biological Physics.
 Introduces topics of classical statistical mechanics. Additional topics include low-Reynolds number hydrodynamics and E&M of ionic solutions, via biologically relevant examples.
 Distribution Area: Natural Sciences
 AS Foundational Abilities: Science and Data (FA2)"
-AS.171.312,Statistical Physics/Thermodynamics,4,Undergraduate course that develops the laws and general theorems of thermodynamics from a statistical framework.,"FA2, FA5",Natural Sciences,"AS.110.107, AS.110.109, AS.110.113, AS.110.201, AS.110.212, AS.110.202, AS.110.211","Calculus II (
+AS.171.312,Statistical Physics/Thermodynamics,4,Undergraduate course that develops the laws and general theorems of thermodynamics from a statistical framework. Prerequisite(s): Calculus II ( AS.110.107 or AS.110.109 or AS.110.113 ). Linear Algebra ( AS.110.201 or AS.110.212 ) and Calculus III ( AS.110.202 or AS.110.211 ),"FA2, FA5",Natural Sciences,"AS.110.107, AS.110.109, AS.110.113, AS.110.201, AS.110.212, AS.110.202, AS.110.211","Calculus II (
 AS.110.107
 or
 AS.110.109
@@ -436,7 +400,7 @@ AS.110.211
 Distribution Area: Natural Sciences
 AS Foundational Abilities: Science and Data (FA2),
 Ethics and Foundations (FA5)"
-AS.171.313,Introduction to Stellar Physics,3,"Survey of stellar astrophysics. Topics include stellar atmospheres, stellar interiors, nucleosynthesis, stellar evolution, supernovae, white dwarfs, neutron stars, pulsars, black holes, binary stars, accretion disks, protostars, and extrasolar planetary systems.",FA2,Natural Sciences,,,,"AS.171.313.
+AS.171.313,Introduction to Stellar Physics,3,"Survey of stellar astrophysics. Topics include stellar atmospheres, stellar interiors, nucleosynthesis, stellar evolution, supernovae, white dwarfs, neutron stars, pulsars, black holes, binary stars, accretion disks, protostars, and extrasolar planetary systems. Recommended Course Background: AS.110.108 - AS.110.109 , AS.171.202",FA2,Natural Sciences,,,,"AS.171.313.
 Introduction to Stellar Physics.
 3 Credits.
 Survey of stellar astrophysics. Topics include stellar atmospheres, stellar interiors, nucleosynthesis, stellar evolution, supernovae, white dwarfs, neutron stars, pulsars, black holes, binary stars, accretion disks, protostars, and extrasolar planetary systems. Recommended Course Background:
@@ -446,7 +410,7 @@ AS.110.109
 , AS.171.202
 Distribution Area: Natural Sciences
 AS Foundational Abilities: Science and Data (FA2)"
-AS.171.314,Introduction to Galaxies and Active Galactic Nuclei,3,"This course will introduce student to the physics of galaxies and their constituents: stars, gas, dust, dark matter and a supermassive black hole in the central regions.",FA2,Natural Sciences,,,,"AS.171.314.
+AS.171.314,Introduction to Galaxies and Active Galactic Nuclei,3,"This course will introduce student to the physics of galaxies and their constituents: stars, gas, dust, dark matter and a supermassive black hole in the central regions.Recommended Course Background: AS.110.108 - AS.110.109 , AS.171.202",FA2,Natural Sciences,,,,"AS.171.314.
 Introduction to Galaxies and Active Galactic Nuclei.
 3 Credits.
 This course will introduce student to the physics of galaxies and their constituents: stars, gas, dust, dark matter and a supermassive black hole in the central regions.Recommended Course Background:
@@ -456,7 +420,7 @@ AS.110.109
 , AS.171.202
 Distribution Area: Natural Sciences
 AS Foundational Abilities: Science and Data (FA2)"
-AS.171.321,"Introduction to Space, Science, and Technology",3,"Topics include space astronomy, remote observing of the earth, space physics, planetary exploration, human space flight, space environment, orbits, propulsion, spacecraft design, attitude control and communication.  Crosslisted by Departments of Earth and Planetary Sciences, Materials Science and Engineering and Mechanical Engineering.","FA1, FA2, FA6","Engineering, Natural Sciences",,Click here to access the Laboratory Safety Introductory Course,Writing Intensive,"AS.171.321.
+AS.171.321,"Introduction to Space, Science, and Technology",3,"Topics include space astronomy, remote observing of the earth, space physics, planetary exploration, human space flight, space environment, orbits, propulsion, spacecraft design, attitude control and communication. Crosslisted by Departments of Earth and Planetary Sciences, Materials Science and Engineering and Mechanical Engineering. Recommended Course Background: AS.171.101 - AS.171.102 or similar; AS.110.108 - AS.110.109 . Prerequisite(s): Click here to access the Laboratory Safety Introductory Course","FA1, FA2, FA6","Engineering, Natural Sciences",,Click here to access the Laboratory Safety Introductory Course,Writing Intensive,"AS.171.321.
 Introduction to Space, Science, and Technology.
 3 Credits.
 Topics include space astronomy, remote observing of the earth, space physics, planetary exploration, human space flight, space environment, orbits, propulsion, spacecraft design, attitude control and communication.  Crosslisted by Departments of Earth and Planetary Sciences, Materials Science and Engineering and Mechanical Engineering. Recommended Course Background:
@@ -475,7 +439,7 @@ AS Foundational Abilities: Writing and Communication (FA1),
 Science and Data (FA2),
 Projects and Methods (FA6)
 Writing Intensive"
-AS.171.324,Learn to Think Statistically,3,"We live in a data-rich world where the flux of information increases exponentially. We will learn how to think statistically and see patterns and structure in many systems around us: news reports, images, cities, social networks, etc. We will learn how to use this knowledge to analyze data, make decisions and predictions. We will explore correlations, patterns, entropy, fractals. This course will allow students to better understand the complex world we live in. The course will occasionally involve some coding. Junior, senior and graduate students only. More at  https://bit.ly/3iJ90ps",FA2,Natural Sciences,,,"Junior, senior and graduate students only.","AS.171.324.
+AS.171.324,Learn to Think Statistically,3,"We live in a data-rich world where the flux of information increases exponentially. We will learn how to think statistically and see patterns and structure in many systems around us: news reports, images, cities, social networks, etc. We will learn how to use this knowledge to analyze data, make decisions and predictions. We will explore correlations, patterns, entropy, fractals. This course will allow students to better understand the complex world we live in. The course will occasionally involve some coding. Junior, senior and graduate students only. More at https://bit.ly/3iJ90ps",FA2,Natural Sciences,,,"Junior, senior and graduate students only.","AS.171.324.
 Learn to Think Statistically.
 3 Credits.
 We live in a data-rich world where the flux of information increases exponentially. We will learn how to think statistically and see patterns and structure in many systems around us: news reports, images, cities, social networks, etc. We will learn how to use this knowledge to analyze data, make decisions and predictions. We will explore correlations, patterns, entropy, fractals. This course will allow students to better understand the complex world we live in. The course will occasionally involve some coding. Junior, senior and graduate students only. More at  https://bit.ly/3iJ90ps
@@ -487,7 +451,7 @@ Applied Quantum Information.
 This course will provide a basic introduction to quantum computing and quantum algorithms. It will cover celebrated quantum algorithms that are of interest in the long term in addition to having a particular focus on near-term quantum algorithms for specific applications (e.g., material simulation and approximate optimization) that can be readily studied on currently available hardware. Lastly, we will discuss critical techniques for managing noise in quantum systems (e.g., quantum error correction). Course attendees will also receive hands-on experience in near-term quantum algorithm implementation on the IBM Quantum Experience (IBM QE), a publicly available quantum computing platform.Recommended Background : Calculus, Python (Basic), Linear Algebra, Basic Quantum Mechanics
 Distribution Area: Natural Sciences
 AS Foundational Abilities: Science and Data (FA2)"
-AS.171.405,Condensed Matter Physics,3,"Undergraduate course covering basic concepts of condensed matter physics: crystal structure, diffraction and reciprocal lattices, electronic and optical properties, band structure, phonons, superconductivity and magnetism. Co-listed with AS.171.621",FA2,Natural Sciences,,,,"AS.171.405.
+AS.171.405,Condensed Matter Physics,3,"Undergraduate course covering basic concepts of condensed matter physics: crystal structure, diffraction and reciprocal lattices, electronic and optical properties, band structure, phonons, superconductivity and magnetism. Co-listed with AS.171.621Recommended Course Background: AS.171.304 , AS.110.201 - AS.110.202 .",FA2,Natural Sciences,,,,"AS.171.405.
 Condensed Matter Physics.
 3 Credits.
 Undergraduate course covering basic concepts of condensed matter physics: crystal structure, diffraction and reciprocal lattices, electronic and optical properties, band structure, phonons, superconductivity and magnetism. Co-listed with AS.171.621Recommended Course Background:
@@ -505,7 +469,7 @@ Condensed Matter Physics.
 Classical physics approaches to condensed matter. Topics include broken symmetries, phase transitions, elasticity, topological defects, and (as time permits) dynamics, as applied to systems including crystals, liquid crystals, ferromagnets, superfluids, and superconductors.
 Distribution Area: Natural Sciences
 AS Foundational Abilities: Science and Data (FA2)"
-AS.171.408,Nuclear and Particle Physics,3,"Basic properties of nuclei, masses, spins, parity. Nuclear scattering, interaction with electromagnetic radiation, radioactivity, Pions, muons, and elementary particles, including resonances.","FA1, FA2, FA6",Natural Sciences,,,,"AS.171.408.
+AS.171.408,Nuclear and Particle Physics,3,"Basic properties of nuclei, masses, spins, parity. Nuclear scattering, interaction with electromagnetic radiation, radioactivity, Pions, muons, and elementary particles, including resonances. Recommended Course Background: AS.171.303","FA1, FA2, FA6",Natural Sciences,,,,"AS.171.408.
 Nuclear and Particle Physics.
 3 Credits.
 Basic properties of nuclei, masses, spins, parity. Nuclear scattering, interaction with electromagnetic radiation, radioactivity, Pions, muons, and elementary particles, including resonances. Recommended Course Background:
@@ -514,7 +478,7 @@ Distribution Area: Natural Sciences
 AS Foundational Abilities: Writing and Communication (FA1),
 Science and Data (FA2),
 Projects and Methods (FA6)"
-AS.171.410,Physical Cosmology,3,"This course provides an overview of modern physical cosmology. Topics covered include: the contents, shape, and history of the universe; the big bang theory; dark matter; dark energy; the cosmic microwave background; Hubble's law; the Friedmann equation; and inflation.",FA2,Natural Sciences,,,,"AS.171.410.
+AS.171.410,Physical Cosmology,3,"This course provides an overview of modern physical cosmology. Topics covered include: the contents, shape, and history of the universe; the big bang theory; dark matter; dark energy; the cosmic microwave background; Hubble's law; the Friedmann equation; and inflation. Recommended Course Background: ( AS.171.101 - AS.171.102 ), or ( AS.171.103 - AS.171.104 ), or ( AS.171.105 - AS.171.106 ), or ( AS.171.107 - AS.171.108 ), or equivalent.",FA2,Natural Sciences,,,,"AS.171.410.
 Physical Cosmology.
 3 Credits.
 This course provides an overview of modern physical cosmology. Topics covered include: the contents, shape, and history of the universe; the big bang theory; dark matter; dark energy; the cosmic microwave background; Hubble's law; the Friedmann equation; and inflation. Recommended Course Background: (
@@ -542,7 +506,7 @@ Numerical Methods for Physicists.
 Topics in applied mathematics used by physicists, covering numerical methods: linear problems, numerical integration, pseudo-random numbers, finding roots of nonlinear equations, function minimization, eigenvalue problems, fast Fourier transforms, solution of both ordinary and partial differential equations.
 Distribution Area: Natural Sciences, Quantitative and Mathematical Sciences
 AS Foundational Abilities: Science and Data (FA2)"
-AS.171.418,Introduction to Topics in Contemporary Physics,3,"Course is intended to give broad perspective on many aspects of modern physics:   Astrophysics, Condensed Matter Physics, Particle Physics, Biological Physics.",FA2,Natural Sciences,"AS.171.303, AS.171.301, AS.171.312","AS.171.303
+AS.171.418,Introduction to Topics in Contemporary Physics,3,"Course is intended to give broad perspective on many aspects of modern physics: Astrophysics, Condensed Matter Physics, Particle Physics, Biological Physics. Prerequisite(s): AS.171.303 AND AS.171.301 AND AS.171.312",FA2,Natural Sciences,"AS.171.303, AS.171.301, AS.171.312","AS.171.303
 AND
 AS.171.301
 AND
@@ -558,15 +522,14 @@ AND
 AS.171.312
 Distribution Area: Natural Sciences
 AS Foundational Abilities: Science and Data (FA2)"
-AS.171.425,Group Theory in Physics,3,"Introduction to finite and Lie groups, representations and applications to quantum mechanics, condensed matter physics, and other fields of physics; selected topics from differential geometry and algebraic topology.Recommended Prerequisite:
-AS.171.304",FA2,Natural Sciences,,,,"AS.171.425.
+AS.171.425,Group Theory in Physics,3,"Introduction to finite and Lie groups, representations and applications to quantum mechanics, condensed matter physics, and other fields of physics; selected topics from differential geometry and algebraic topology.Recommended Prerequisite: AS.171.304",FA2,Natural Sciences,,,,"AS.171.425.
 Group Theory in Physics.
 3 Credits.
 Introduction to finite and Lie groups, representations and applications to quantum mechanics, condensed matter physics, and other fields of physics; selected topics from differential geometry and algebraic topology.Recommended Prerequisite:
 AS.171.304
 Distribution Area: Natural Sciences
 AS Foundational Abilities: Science and Data (FA2)"
-AS.171.430,Introduction to Quantum Field Theory,3,"Quantum Field Theory marries the principles of special relativity with quantum mechanics and provides a remarkably consistent description of a wide variety of phenomena, ranging from the theory of elementary particles to processes in condensed matter physics. It is an essential element in the toolkit of every physicist. In this course, we provide an introduction to this vast topic and aim to provide an intuitive understanding of this field. We will start by learning how to think about quantum mechanics in a manner consistent with special relativity (the Klein Gordon and Dirac equations), learn how to estimate relativistic quantum processes (Feynman diagrams), analyze nonsensical infinities that arise in these theories (Renormalization) and conclude with an overview of the Standard Model of Particle Physics (QCD and Electroweak theory). The course is aimed at introducing the student to how physicists think about these issues and it is a stepping stone to graduate study in this topic.",FA2,Natural Sciences,AS.171.304,AS.171.304,,"AS.171.430.
+AS.171.430,Introduction to Quantum Field Theory,3,"Quantum Field Theory marries the principles of special relativity with quantum mechanics and provides a remarkably consistent description of a wide variety of phenomena, ranging from the theory of elementary particles to processes in condensed matter physics. It is an essential element in the toolkit of every physicist. In this course, we provide an introduction to this vast topic and aim to provide an intuitive understanding of this field. We will start by learning how to think about quantum mechanics in a manner consistent with special relativity (the Klein Gordon and Dirac equations), learn how to estimate relativistic quantum processes (Feynman diagrams), analyze nonsensical infinities that arise in these theories (Renormalization) and conclude with an overview of the Standard Model of Particle Physics (QCD and Electroweak theory). The course is aimed at introducing the student to how physicists think about these issues and it is a stepping stone to graduate study in this topic. Prerequisite(s): AS.171.304",FA2,Natural Sciences,AS.171.304,AS.171.304,,"AS.171.430.
 Introduction to Quantum Field Theory.
 3 Credits.
 Quantum Field Theory marries the principles of special relativity with quantum mechanics and provides a remarkably consistent description of a wide variety of phenomena, ranging from the theory of elementary particles to processes in condensed matter physics. It is an essential element in the toolkit of every physicist. In this course, we provide an introduction to this vast topic and aim to provide an intuitive understanding of this field. We will start by learning how to think about quantum mechanics in a manner consistent with special relativity (the Klein Gordon and Dirac equations), learn how to estimate relativistic quantum processes (Feynman diagrams), analyze nonsensical infinities that arise in these theories (Renormalization) and conclude with an overview of the Standard Model of Particle Physics (QCD and Electroweak theory). The course is aimed at introducing the student to how physicists think about these issues and it is a stepping stone to graduate study in this topic.
@@ -574,7 +537,7 @@ Prerequisite(s):
 AS.171.304
 Distribution Area: Natural Sciences
 AS Foundational Abilities: Science and Data (FA2)"
-AS.171.432,Atomic and Optical Physics I,3,The two-state quantum system; atomic structure; atoms in electric and magnetic fields; single-photon transitions; two-photon transitions and coherence.,FA2,Natural Sciences,,,,"AS.171.432.
+AS.171.432,Atomic and Optical Physics I,3,"The two-state quantum system; atomic structure; atoms in electric and magnetic fields; single-photon transitions; two-photon transitions and coherence. Recommended Course Background: AS.171.303 , AS.171.304 .",FA2,Natural Sciences,,,,"AS.171.432.
 Atomic and Optical Physics I.
 3 Credits.
 The two-state quantum system; atomic structure; atoms in electric and magnetic fields; single-photon transitions; two-photon transitions and coherence. Recommended Course Background:
@@ -584,7 +547,7 @@ AS.171.304
 .
 Distribution Area: Natural Sciences
 AS Foundational Abilities: Science and Data (FA2)"
-AS.171.438,Fundamentals of Radio Astronomy,3,"This course focuses on the use of radio waves and radio telescopes for cosmic observation. It covers the basics of radio astronomy, antennas and interferometers, radio emission mechanisms from a few interesting astronomical systems, data analysis, and imaging techniques. Examples on how to design, propose, and analyze radio observations are also provided.",FA2,Natural Sciences,AS.171.301,AS.171.301,,"AS.171.438.
+AS.171.438,Fundamentals of Radio Astronomy,3,"This course focuses on the use of radio waves and radio telescopes for cosmic observation. It covers the basics of radio astronomy, antennas and interferometers, radio emission mechanisms from a few interesting astronomical systems, data analysis, and imaging techniques. Examples on how to design, propose, and analyze radio observations are also provided. Prerequisite(s): AS.171.301",FA2,Natural Sciences,AS.171.301,AS.171.301,,"AS.171.438.
 Fundamentals of Radio Astronomy.
 3 Credits.
 This course focuses on the use of radio waves and radio telescopes for cosmic observation. It covers the basics of radio astronomy, antennas and interferometers, radio emission mechanisms from a few interesting astronomical systems, data analysis, and imaging techniques. Examples on how to design, propose, and analyze radio observations are also provided.
@@ -592,13 +555,13 @@ Prerequisite(s):
 AS.171.301
 Distribution Area: Natural Sciences
 AS Foundational Abilities: Science and Data (FA2)"
-AS.171.449,Astrophysical Plasmas,3,"This course is for both graduate students and undergraduate students. There is no prerequisite although reading for introductory texts will be supplied where useful. Postdocs are also welcome to attend. Topics that will be discussed include: 1.Gravitational Wave Astronomy (related to cosmic plasmas),2. Ultra-High Energy Cosmic Rays,3. Black Hole Electrodynamics, 4.the Intergalactic, Interstellar and Intra-Cluster Medium, 5.Pulsars, 6.Magnetars, 7.Stellar and Galactic Dynamos,8.Solar Flares and CMEs, 9.Gamma Ray Bursts, 10.Supernovae and their Remnants,  11. Radio Sources and Jets and, 12. the universal cosmic plasma from earliest times13.Finally the detailed dusty plasmas around protostellar and protoplanetary disks including debris components of comets, asteroids planetesimals and interstellar intruders. We will spend roughly one week on each topic. In class, we will combine the lectures with reading interesting new papers from the current literature and it is expected that students will be sufficiently fluent in this field by the end of the semester to critically discuss and analyze such papers as experts.",FA2,Natural Sciences,,,,"AS.171.449.
+AS.171.449,Astrophysical Plasmas,3,"This course is for both graduate students and undergraduate students. There is no prerequisite although reading for introductory texts will be supplied where useful. Postdocs are also welcome to attend. Topics that will be discussed include: 1.Gravitational Wave Astronomy (related to cosmic plasmas),2. Ultra-High Energy Cosmic Rays,3. Black Hole Electrodynamics, 4.the Intergalactic, Interstellar and Intra-Cluster Medium, 5.Pulsars, 6.Magnetars, 7.Stellar and Galactic Dynamos,8.Solar Flares and CMEs, 9.Gamma Ray Bursts, 10.Supernovae and their Remnants, 11. Radio Sources and Jets and, 12. the universal cosmic plasma from earliest times13.Finally the detailed dusty plasmas around protostellar and protoplanetary disks including debris components of comets, asteroids planetesimals and interstellar intruders. We will spend roughly one week on each topic. In class, we will combine the lectures with reading interesting new papers from the current literature and it is expected that students will be sufficiently fluent in this field by the end of the semester to critically discuss and analyze such papers as experts.",FA2,Natural Sciences,,,,"AS.171.449.
 Astrophysical Plasmas.
 3 Credits.
 This course is for both graduate students and undergraduate students. There is no prerequisite although reading for introductory texts will be supplied where useful. Postdocs are also welcome to attend. Topics that will be discussed include: 1.Gravitational Wave Astronomy (related to cosmic plasmas),2. Ultra-High Energy Cosmic Rays,3. Black Hole Electrodynamics, 4.the Intergalactic, Interstellar and Intra-Cluster Medium, 5.Pulsars, 6.Magnetars, 7.Stellar and Galactic Dynamos,8.Solar Flares and CMEs, 9.Gamma Ray Bursts, 10.Supernovae and their Remnants,  11. Radio Sources and Jets and, 12. the universal cosmic plasma from earliest times13.Finally the detailed dusty plasmas around protostellar and protoplanetary disks including debris components of comets, asteroids planetesimals and interstellar intruders. We will spend roughly one week on each topic. In class, we will combine the lectures with reading interesting new papers from the current literature and it is expected that students will be sufficiently fluent in this field by the end of the semester to critically discuss and analyze such papers as experts.
 Distribution Area: Natural Sciences
 AS Foundational Abilities: Science and Data (FA2)"
-AS.171.501,Independent Research- Undergraduate,3,"Students may register for independent research with a faculty member in the Department of Physics and Astronomy. A research plan should be sent to the Director of Undergraduate Study before the add/drop date that includes project details, the number of hours of effort each week and the number of credits. This course may not be used for one of the two electives required for a BA, but one semester of research may be used as one of four focused electives in a BS program.","FA2, FA6",,,You must request Customized Academic Learning using the Customized Academic Learning form found in Student Self-Service: Registration > Online Forms.,,"AS.171.501.
+AS.171.501,Independent Research- Undergraduate,3,"Students may register for independent research with a faculty member in the Department of Physics and Astronomy. A research plan should be sent to the Director of Undergraduate Study before the add/drop date that includes project details, the number of hours of effort each week and the number of credits. This course may not be used for one of the two electives required for a BA, but one semester of research may be used as one of four focused electives in a BS program. Prerequisite(s): You must request Customized Academic Learning using the Customized Academic Learning form found in Student Self-Service: Registration > Online Forms.","FA2, FA6",,,You must request Customized Academic Learning using the Customized Academic Learning form found in Student Self-Service: Registration > Online Forms.,,"AS.171.501.
 Independent Research- Undergraduate.
 3 Credits.
 Students may register for independent research with a faculty member in the Department of Physics and Astronomy. A research plan should be sent to the Director of Undergraduate Study before the add/drop date that includes project details, the number of hours of effort each week and the number of credits. This course may not be used for one of the two electives required for a BA, but one semester of research may be used as one of four focused electives in a BS program.
@@ -606,7 +569,7 @@ Prerequisite(s):
 You must request Customized Academic Learning using the Customized Academic Learning form found in Student Self-Service: Registration > Online Forms.
 AS Foundational Abilities: Science and Data (FA2),
 Projects and Methods (FA6)"
-AS.171.597,Independent Research,3,,"FA2, FA6",,,You must request Customized Academic Learning using the Customized Academic Learning form found in Student Self-Service: Registration > Online Forms.,,"AS.171.597.
+AS.171.597,Independent Research,3,Prerequisite(s): You must request Customized Academic Learning using the Customized Academic Learning form found in Student Self-Service: Registration > Online Forms.,"FA2, FA6",,,You must request Customized Academic Learning using the Customized Academic Learning form found in Student Self-Service: Registration > Online Forms.,,"AS.171.597.
 Independent Research.
 3 Credits.
 Prerequisite(s):
@@ -617,11 +580,11 @@ AS.171.603,Electromagnetic Theory,3,"Classical field theory, relativistic dynami
 Electromagnetic Theory.
 3 Credits.
 Classical field theory, relativistic dynamics, Maxwell's equations with static and dynamic applications, boundary-value problems, radiation and propagation of electromagnetic waves, advanced topics in electrodynamics in media and plasmas"
-AS.171.605,Quantum Mechanics I,4,"Review of wave mechanics and the Schrodinger equation, Hilbert space, harmonic oscillator, the WKB approximation, central forces and angular momentum, scattering,  electron spin, density matrix, perturbation theory (time-independent  and time-dependent), quantized radiation field, absorption and emission of radiation, identical particles, second quantization, Dirac equation.",,,,,,"AS.171.605.
+AS.171.605,Quantum Mechanics I,4,"Review of wave mechanics and the Schrodinger equation, Hilbert space, harmonic oscillator, the WKB approximation, central forces and angular momentum, scattering, electron spin, density matrix, perturbation theory (time-independent and time-dependent), quantized radiation field, absorption and emission of radiation, identical particles, second quantization, Dirac equation.",,,,,,"AS.171.605.
 Quantum Mechanics I.
 4 Credits.
 Review of wave mechanics and the Schrodinger equation, Hilbert space, harmonic oscillator, the WKB approximation, central forces and angular momentum, scattering,  electron spin, density matrix, perturbation theory (time-independent  and time-dependent), quantized radiation field, absorption and emission of radiation, identical particles, second quantization, Dirac equation."
-AS.171.606,Quantum Mechanics,4,"Review of wave mechanics and the Schrodinger equation, Hilbert space, harmonic oscillator, the WKB approximation, central forces and angular momentum, scattering, electron spin, density matrix, perturbation theory (time -independent and time - dependent), quantized radiation field, absorption and emission of radiation, identical particles, second quantization, Dirac equation.",,,,,,"AS.171.606.
+AS.171.606,Quantum Mechanics,4,"Review of wave mechanics and the Schrodinger equation, Hilbert space, harmonic oscillator, the WKB approximation, central forces and angular momentum, scattering, electron spin, density matrix, perturbation theory (time -independent and time - dependent), quantized radiation field, absorption and emission of radiation, identical particles, second quantization, Dirac equation. Recommended Course Background: AS.171.303 and AS.171.304",,,,,,"AS.171.606.
 Quantum Mechanics.
 4 Credits.
 Review of wave mechanics and the Schrodinger equation, Hilbert space, harmonic oscillator, the WKB approximation, central forces and angular momentum, scattering, electron spin, density matrix, perturbation theory (time -independent and time - dependent), quantized radiation field, absorption and emission of radiation, identical particles, second quantization, Dirac equation. Recommended Course Background:
@@ -643,12 +606,11 @@ AS.171.613,Radiative Astrophysics,3,"A one-term survey of the processes that gen
 Radiative Astrophysics.
 3 Credits.
 A one-term survey of the processes that generate radiation of astrophysical importance. Topics include radiative transfer, the theory of radiation fields, polarization and Stokes parameters, radiation from accelerating charges, bremsstrahlung, synchrotron radiation, thermal dust emission, Compton scattering, properties of plasmas, atomic and molecular quantum transitions, and applications to astrophysical observations."
-AS.171.618,Observational Astronomy,3,"How do we observe the Universe at each wavelength and what do we see?  This course will present the knowledge required for astronomical observations across the entire spectrum. For each wavelength range (gamma rays, X-rays, UV, visible, IR, radio) we will discuss the typeof detector used, the range of possible observations and current open questions. We will also discuss the dominant astronomical and terrestrial sources across the spectrum, and study the differences between ground- and space-based observations.",,,,,,"AS.171.618.
+AS.171.618,Observational Astronomy,3,"How do we observe the Universe at each wavelength and what do we see? This course will present the knowledge required for astronomical observations across the entire spectrum. For each wavelength range (gamma rays, X-rays, UV, visible, IR, radio) we will discuss the typeof detector used, the range of possible observations and current open questions. We will also discuss the dominant astronomical and terrestrial sources across the spectrum, and study the differences between ground- and space-based observations.",,,,,,"AS.171.618.
 Observational Astronomy.
 3 Credits.
 How do we observe the Universe at each wavelength and what do we see?  This course will present the knowledge required for astronomical observations across the entire spectrum. For each wavelength range (gamma rays, X-rays, UV, visible, IR, radio) we will discuss the typeof detector used, the range of possible observations and current open questions. We will also discuss the dominant astronomical and terrestrial sources across the spectrum, and study the differences between ground- and space-based observations."
-AS.171.621,Condensed Matter Physics,3,"This sequence is intended for graduate students in physics and related fields. Topics include: metals and insulators, diffraction and crystallography, phonons, electrons in a periodic potential, transport. Co-listed with
-AS.171.405",,,,,,"AS.171.621.
+AS.171.621,Condensed Matter Physics,3,"This sequence is intended for graduate students in physics and related fields. Topics include: metals and insulators, diffraction and crystallography, phonons, electrons in a periodic potential, transport. Co-listed with AS.171.405",,,,,,"AS.171.621.
 Condensed Matter Physics.
 3 Credits.
 This sequence is intended for graduate students in physics and related fields. Topics include: metals and insulators, diffraction and crystallography, phonons, electrons in a periodic potential, transport. Co-listed with
@@ -680,11 +642,11 @@ Group Theory in Physics.
 3 Credits.
 Introduction to finite and Lie groups, representations and applications to quantum mechanics, condensed matter physics, and other fields of physics; selected topics from differential geometry and algebraic topology.
 Distribution Area: Natural Sciences"
-AS.171.644,Exoplanets and Planet Formation,3,"A graduate-level introduction to the properties of the solar system, the known exoplanet systems, and the astrophysics of planet formation and evolution.  Topics also include the fundamentals of star formation, protoplanetary disk structure and evolution, exoplanet detection techniques, and the status of the search for other Earths in the Galaxy.  Upper-level undergraduates may enroll with the permission of the instructor.",,,,,,"AS.171.644.
+AS.171.644,Exoplanets and Planet Formation,3,"A graduate-level introduction to the properties of the solar system, the known exoplanet systems, and the astrophysics of planet formation and evolution. Topics also include the fundamentals of star formation, protoplanetary disk structure and evolution, exoplanet detection techniques, and the status of the search for other Earths in the Galaxy. Upper-level undergraduates may enroll with the permission of the instructor.",,,,,,"AS.171.644.
 Exoplanets and Planet Formation.
 3 Credits.
 A graduate-level introduction to the properties of the solar system, the known exoplanet systems, and the astrophysics of planet formation and evolution.  Topics also include the fundamentals of star formation, protoplanetary disk structure and evolution, exoplanet detection techniques, and the status of the search for other Earths in the Galaxy.  Upper-level undergraduates may enroll with the permission of the instructor."
-AS.171.646,General Relativity,3,An introduction to the physics of general relativity.  Principal topics are: physics in curved spacetimes; the Equivalence Principle; the Einstein Field Equations; the post-Newtonian approximation and Solar System tests; the Schwarzschild and Kerr solutions of the Field Equations and properties of black holes; Friedmann solutions and cosmology; and gravitational wave propagation and generation.,,Natural Sciences,,,,"AS.171.646.
+AS.171.646,General Relativity,3,An introduction to the physics of general relativity. Principal topics are: physics in curved spacetimes; the Equivalence Principle; the Einstein Field Equations; the post-Newtonian approximation and Solar System tests; the Schwarzschild and Kerr solutions of the Field Equations and properties of black holes; Friedmann solutions and cosmology; and gravitational wave propagation and generation.,,Natural Sciences,,,,"AS.171.646.
 General Relativity.
 3 Credits.
 An introduction to the physics of general relativity.  Principal topics are: physics in curved spacetimes; the Equivalence Principle; the Einstein Field Equations; the post-Newtonian approximation and Solar System tests; the Schwarzschild and Kerr solutions of the Field Equations and properties of black holes; Friedmann solutions and cosmology; and gravitational wave propagation and generation.
@@ -694,22 +656,22 @@ Physics of Cell Biology: From Mechanics to Information.
 3 Credits.
 Cells are actively-driven soft materials – but also efficient sensors and information processors. This course will cover the physics of those cellular functions, from the mechanics of DNA to the sensing of chemical signals. Questions answered include: How does polymer physics limit how quickly chromosomes move? Why do cells use long, thin flagella to swim? What limits the accuracy of a cell’s chemotaxis?Some experience with partial differential equations required. No biology knowledge beyond the high school level necessary. Some problem sets will require minimal programming.
 Distribution Area: Natural Sciences"
-AS.171.649,Astrophysical Plasmas,3,"This course is for both graduate students and undergraduate students. There is no prerequisite although reading for introductory texts will be supplied where useful. Postdocs are also welcome to attend. Topics that will be discussed include: 1.Gravitational Wave Astronomy (related to cosmic plasmas),2. Ultra-High Energy Cosmic Rays,3. Black Hole Electrodynamics, 4.the Intergalactic, Interstellar and Intra-Cluster Medium, 5.Pulsars, 6.Magnetars, 7.Stellar and Galactic Dynamos,8.Solar Flares and CMEs, 9.Gamma Ray Bursts, 10.Supernovae and their Remnants,  11. Radio Sources and Jets and, 12. the universal cosmic plasma from earliest times13.Finally the detailed dusty plasmas around protostellar and protoplanetary disks including debris components of comets, asteroids planetesimals and interstellar intruders. We will spend roughly one week on each topic. In class, we will combine the lectures with reading interesting new papers from the current literature and it is expected that students will be sufficiently fluent in this field by the end of the semester to critically discuss and analyze such papers as experts.",,Natural Sciences,,,,"AS.171.649.
+AS.171.649,Astrophysical Plasmas,3,"This course is for both graduate students and undergraduate students. There is no prerequisite although reading for introductory texts will be supplied where useful. Postdocs are also welcome to attend. Topics that will be discussed include: 1.Gravitational Wave Astronomy (related to cosmic plasmas),2. Ultra-High Energy Cosmic Rays,3. Black Hole Electrodynamics, 4.the Intergalactic, Interstellar and Intra-Cluster Medium, 5.Pulsars, 6.Magnetars, 7.Stellar and Galactic Dynamos,8.Solar Flares and CMEs, 9.Gamma Ray Bursts, 10.Supernovae and their Remnants, 11. Radio Sources and Jets and, 12. the universal cosmic plasma from earliest times13.Finally the detailed dusty plasmas around protostellar and protoplanetary disks including debris components of comets, asteroids planetesimals and interstellar intruders. We will spend roughly one week on each topic. In class, we will combine the lectures with reading interesting new papers from the current literature and it is expected that students will be sufficiently fluent in this field by the end of the semester to critically discuss and analyze such papers as experts.",,Natural Sciences,,,,"AS.171.649.
 Astrophysical Plasmas.
 3 Credits.
 This course is for both graduate students and undergraduate students. There is no prerequisite although reading for introductory texts will be supplied where useful. Postdocs are also welcome to attend. Topics that will be discussed include: 1.Gravitational Wave Astronomy (related to cosmic plasmas),2. Ultra-High Energy Cosmic Rays,3. Black Hole Electrodynamics, 4.the Intergalactic, Interstellar and Intra-Cluster Medium, 5.Pulsars, 6.Magnetars, 7.Stellar and Galactic Dynamos,8.Solar Flares and CMEs, 9.Gamma Ray Bursts, 10.Supernovae and their Remnants,  11. Radio Sources and Jets and, 12. the universal cosmic plasma from earliest times13.Finally the detailed dusty plasmas around protostellar and protoplanetary disks including debris components of comets, asteroids planetesimals and interstellar intruders. We will spend roughly one week on each topic. In class, we will combine the lectures with reading interesting new papers from the current literature and it is expected that students will be sufficiently fluent in this field by the end of the semester to critically discuss and analyze such papers as experts.
 Distribution Area: Natural Sciences"
-AS.171.671,Advanced Topics in Astrobiology,3,"This is an advanced course discussing mainstream and frontier topics in the five areas of:  1. Cosmology and galaxy, star, black hole and planet formation. 2. Discussions on the astrophysics of (exo-)planets including atmospheres, non-equilibrium atmospheres and biosignatures.  3.Future missions including the Habitable Worlds Observatory. 4. The hazards of space flight and how to overcome them 5. Significant existential questions for life’s continuance over the vast timeline of the Universe.",FA2,Natural Sciences,,,,"AS.171.671.
+AS.171.671,Advanced Topics in Astrobiology,3,"This is an advanced course discussing mainstream and frontier topics in the five areas of: 1. Cosmology and galaxy, star, black hole and planet formation. 2. Discussions on the astrophysics of (exo-)planets including atmospheres, non-equilibrium atmospheres and biosignatures. 3.Future missions including the Habitable Worlds Observatory. 4. The hazards of space flight and how to overcome them 5. Significant existential questions for life’s continuance over the vast timeline of the Universe.",FA2,Natural Sciences,,,,"AS.171.671.
 Advanced Topics in Astrobiology.
 3 Credits.
 This is an advanced course discussing mainstream and frontier topics in the five areas of:  1. Cosmology and galaxy, star, black hole and planet formation. 2. Discussions on the astrophysics of (exo-)planets including atmospheres, non-equilibrium atmospheres and biosignatures.  3.Future missions including the Habitable Worlds Observatory. 4. The hazards of space flight and how to overcome them 5. Significant existential questions for life’s continuance over the vast timeline of the Universe.
 Distribution Area: Natural Sciences
 AS Foundational Abilities: Science and Data (FA2)"
-AS.171.701,Quantum Field Theory,3,"Introduction to relativistic quantum mechanics and quantum field theory.  Canonical quantization; scalar, spinor, and vector fields; scattering theory; renormalization; functional integration; spontaneous symmetry breaking; Standard Model of particle physics.",,,,,,"AS.171.701.
+AS.171.701,Quantum Field Theory,3,"Introduction to relativistic quantum mechanics and quantum field theory. Canonical quantization; scalar, spinor, and vector fields; scattering theory; renormalization; functional integration; spontaneous symmetry breaking; Standard Model of particle physics.",,,,,,"AS.171.701.
 Quantum Field Theory.
 3 Credits.
 Introduction to relativistic quantum mechanics and quantum field theory.  Canonical quantization; scalar, spinor, and vector fields; scattering theory; renormalization; functional integration; spontaneous symmetry breaking; Standard Model of particle physics."
-AS.171.702,Quantum Field Theory II,3,Introduction to relativistic quantum mechanics and quantum field theory.,,,,,,"AS.171.702.
+AS.171.702,Quantum Field Theory II,3,Introduction to relativistic quantum mechanics and quantum field theory. Recommended Course Background: AS.171.605 - AS.171.606 or equivalent.,,,,,,"AS.171.702.
 Quantum Field Theory II.
 3 Credits.
 Introduction to relativistic quantum mechanics and quantum field theory. Recommended Course Background:
@@ -717,7 +679,7 @@ AS.171.605
 -
 AS.171.606
 or equivalent."
-AS.171.703,Advanced Statistical Mechanics,3,"Brief review of basic statistical mechanics and thermodynamics.  Then hydrodynamic theory is derived from statistical mechanics and classical treatments of phase transitions, including Ginzburg-Landau theory.",,,,,,"AS.171.703.
+AS.171.703,Advanced Statistical Mechanics,3,"Brief review of basic statistical mechanics and thermodynamics. Then hydrodynamic theory is derived from statistical mechanics and classical treatments of phase transitions, including Ginzburg-Landau theory.",,,,,,"AS.171.703.
 Advanced Statistical Mechanics.
 3 Credits.
 Brief review of basic statistical mechanics and thermodynamics.  Then hydrodynamic theory is derived from statistical mechanics and classical treatments of phase transitions, including Ginzburg-Landau theory."
@@ -735,11 +697,11 @@ Machine Learning for Physicists.
 3 Credits.
 Neural networks have changed the ways we interact with data and think about statistics. For scientists, it is important to understand the fundamental concepts behind these systems, why they work, what their potential and limitations are. This course will open the black box of neural networks and address some of the theoretical foundations of Machine Learning. It will include aspects of statistics in high dimensions, information theory, optimization, architectures, as well as concepts from neuroscience. We will alternate between theory and applications in python. More at https://bit.ly/3LEAg7D
 Distribution Area: Natural Sciences"
-AS.171.750,Cosmology,3,"Review of special relativity and an introduction to general relativity, Robertson-Walker metric, and Friedmann equation and solutions.  Key transitions in the thermal evolution of the universe, including big bang nucleosynthesis, recombination, and reionization.  The early universe (inflation), dark energy, dark matter, and the cosmic microwave background.  Development of density perturbations, galaxy formation, and large-scale structure.",,,,,,"AS.171.750.
+AS.171.750,Cosmology,3,"Review of special relativity and an introduction to general relativity, Robertson-Walker metric, and Friedmann equation and solutions. Key transitions in the thermal evolution of the universe, including big bang nucleosynthesis, recombination, and reionization. The early universe (inflation), dark energy, dark matter, and the cosmic microwave background. Development of density perturbations, galaxy formation, and large-scale structure.",,,,,,"AS.171.750.
 Cosmology.
 3 Credits.
 Review of special relativity and an introduction to general relativity, Robertson-Walker metric, and Friedmann equation and solutions.  Key transitions in the thermal evolution of the universe, including big bang nucleosynthesis, recombination, and reionization.  The early universe (inflation), dark energy, dark matter, and the cosmic microwave background.  Development of density perturbations, galaxy formation, and large-scale structure."
-AS.171.752,Black Hole Astrophysics,3,"Black holes are the central engines for a wide variety of astrophysical objects: Galactic X-ray sources, active galactic nuclei, gamma-ray bursts, stellar tidal disruptions, and black hole mergers.  Although the mass distribution of astrophysical black holes spans ten orders of magnitude and their circumstances can vary tremendously, the physical processes relevant to them are often closely related. The class will begin with an overview of astrophysical black hole phenomenology and then review the most important physical mechanisms responsible for their observed properties: relativistic orbits for both matter and photons; accretion dynamics and radiation; relativistic jet launching, propagation, and radiation;  binary black hole dynamics and gravitational wave emission; and lastly, black hole creation.",,,,,,"AS.171.752.
+AS.171.752,Black Hole Astrophysics,3,"Black holes are the central engines for a wide variety of astrophysical objects: Galactic X-ray sources, active galactic nuclei, gamma-ray bursts, stellar tidal disruptions, and black hole mergers. Although the mass distribution of astrophysical black holes spans ten orders of magnitude and their circumstances can vary tremendously, the physical processes relevant to them are often closely related. The class will begin with an overview of astrophysical black hole phenomenology and then review the most important physical mechanisms responsible for their observed properties: relativistic orbits for both matter and photons; accretion dynamics and radiation; relativistic jet launching, propagation, and radiation; binary black hole dynamics and gravitational wave emission; and lastly, black hole creation.",,,,,,"AS.171.752.
 Black Hole Astrophysics.
 3 Credits.
 Black holes are the central engines for a wide variety of astrophysical objects: Galactic X-ray sources, active galactic nuclei, gamma-ray bursts, stellar tidal disruptions, and black hole mergers.  Although the mass distribution of astrophysical black holes spans ten orders of magnitude and their circumstances can vary tremendously, the physical processes relevant to them are often closely related. The class will begin with an overview of astrophysical black hole phenomenology and then review the most important physical mechanisms responsible for their observed properties: relativistic orbits for both matter and photons; accretion dynamics and radiation; relativistic jet launching, propagation, and radiation;  binary black hole dynamics and gravitational wave emission; and lastly, black hole creation."
@@ -751,7 +713,7 @@ AS.171.764,Experimental Techniques in Condensed Matter Physics,3,"This course wi
 Experimental Techniques in Condensed Matter Physics.
 3 Credits.
 This course will be a survey of modern techniques in experimental condensed matter physics and is intended for graduate students interested in this area, but others interested in this topic (especially condensed matter the- ory students) are encouraged to enroll. Topics include low temperature techniques, transport, the SQUID and other magnetic probes, digital and analog signal processing, scattering (neutron, X-ray, and light), EPR, NMR, data analysis, and Monte Carlo. Sample preparation, including crystal and film growth and lithography will also be covered."
-AS.171.785,Advanced Particle Theory:  Dark Matter,3,"The overwhelming evidence that dark matter exists and that it is not part of the fundamental theory of matter (the standard model) suggests the need for a graduate course.  I will cover what is known and not known about dark matter, being specific enough to open lines of inquiry.  I will cover what the rules of quantum field theory would allow it to be and how it could interact with us.  I will go over possible mechanisms that explain the generation of dark matter in our universe in the first place.  In addition, I will go over the ways to potentially discover (interact with) it directly.The first half or more of the course should be mostly accessible to advanced graduate students in astrophysics and high-energy particle experimentalists.  The last half/third will be more field-theory oriented",,Natural Sciences,,,,"AS.171.785.
+AS.171.785,Advanced Particle Theory:  Dark Matter,3,"The overwhelming evidence that dark matter exists and that it is not part of the fundamental theory of matter (the standard model) suggests the need for a graduate course. I will cover what is known and not known about dark matter, being specific enough to open lines of inquiry. I will cover what the rules of quantum field theory would allow it to be and how it could interact with us. I will go over possible mechanisms that explain the generation of dark matter in our universe in the first place. In addition, I will go over the ways to potentially discover (interact with) it directly.The first half or more of the course should be mostly accessible to advanced graduate students in astrophysics and high-energy particle experimentalists. The last half/third will be more field-theory oriented",,Natural Sciences,,,,"AS.171.785.
 Advanced Particle Theory:  Dark Matter.
 3 Credits.
 The overwhelming evidence that dark matter exists and that it is not part of the fundamental theory of matter (the standard model) suggests the need for a graduate course.  I will cover what is known and not known about dark matter, being specific enough to open lines of inquiry.  I will cover what the rules of quantum field theory would allow it to be and how it could interact with us.  I will go over possible mechanisms that explain the generation of dark matter in our universe in the first place.  In addition, I will go over the ways to potentially discover (interact with) it directly.The first half or more of the course should be mostly accessible to advanced graduate students in astrophysics and high-energy particle experimentalists.  The last half/third will be more field-theory oriented
