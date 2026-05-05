@@ -1,0 +1,40 @@
+course_code,course_title,instructor,instructors_full,term,department,workload_avg,teaching_avg,intellectual_avg
+AS.373.111.01.FA24,First Year Heritage Chinese,"Zhao, Nan","Zhao, Nan",2024 Fall,Chinese,3.46,4.64,4.36
+AS.373.111.01.FA25,First Year Heritage Chinese,"Zhao, Nan","Zhao, Nan",2025 Fall,Chinese,3.19,4.56,4.19
+AS.373.112.01.SP24,First Year Heritage Chinese II,"Zhao, Nan","Zhao, Nan",2024 Spring,Chinese,3.13,4.75,4.38
+AS.373.112.01.SP25,First Year Heritage Chinese II,"Zhao, Nan","Zhao, Nan",2025 Spring,Chinese,3.00,4.46,4.42
+AS.373.115.01.FA24,First Year Chinese,Yang + Zhao,"Yang, Shuyi + Zhao, Nan",2024 Fall,Chinese,3.44,4.67,4.63
+AS.373.115.02.FA24,First Year Chinese,"Yang, Shuyi","Yang, Shuyi",2024 Fall,Chinese,3.50,4.70,4.60
+AS.373.115.02.FA24,First Year Chinese,"Zhao, Nan","Zhao, Nan",2024 Fall,Chinese,3.50,5.00,4.60
+AS.373.115.02.FA25,First Year Chinese,Yang + Zhao,"Yang, Shuyi + Zhao, Nan",2025 Fall,Chinese,3.00,4.90,4.70
+AS.373.115.01.FA25,First Year Chinese,Yang + Zhao,"Yang, Shuyi + Zhao, Nan",2025 Fall,Chinese,3.73,4.82,4.73
+AS.373.116.01.SP24,First Year Chinese II,"Yang, Shuyi","Yang, Shuyi",2024 Spring,Chinese,3.13,4.88,4.38
+AS.373.116.01.SP24,First Year Chinese II,"Zhao, Nan","Zhao, Nan",2024 Spring,Chinese,3.13,5.00,4.38
+AS.373.116.01.SP25,First Year Chinese II,"Yang, Shuyi","Yang, Shuyi",2025 Spring,Chinese,3.56,4.56,4.78
+AS.373.116.01.SP25,First Year Chinese II,"Zhao, Nan","Zhao, Nan",2025 Spring,Chinese,3.56,4.89,4.78
+AS.373.116.02.SP25,First Year Chinese II,Yang + Zhao,"Yang, Shuyi + Zhao, Nan",2025 Spring,Chinese,3.75,5.00,4.75
+AS.373.211.01.FA24,Second Year Heritage Chinese,"Zhao, Nan","Zhao, Nan",2024 Fall,Chinese,2.67,4.78,4.11
+AS.373.211.01.FA25,Second Year Heritage Chinese,"Zhao, Nan","Zhao, Nan",2025 Fall,Chinese,3.25,4.50,4.25
+AS.373.212.01.SP24,Second Year Heritage Chinese II,"Zhao, Nan","Zhao, Nan",2024 Spring,Chinese,2.88,5.00,4.57
+AS.373.212.01.SP25,Second Year Heritage Chinese II,"Zhao, Nan","Zhao, Nan",2025 Spring,Chinese,3.22,4.78,4.56
+AS.373.215.02.FA24,Second Year Chinese,"Yang, Shuyi","Yang, Shuyi",2024 Fall,Chinese,2.40,4.86,4.43
+AS.373.215.02.FA24,Second Year Chinese,"Wang, Qian","Wang, Qian",2024 Fall,Chinese,2.40,4.71,4.43
+AS.373.215.01.FA24,Second Year Chinese,"Yang, Shuyi","Yang, Shuyi",2024 Fall,Chinese,2.63,4.63,4.38
+AS.373.215.01.FA24,Second Year Chinese,"Wang, Qian","Wang, Qian",2024 Fall,Chinese,2.63,4.75,4.38
+AS.373.215.01.FA25,Second Year Chinese,"Yang, Shuyi","Yang, Shuyi",2025 Fall,Chinese,2.60,4.70,4.30
+AS.373.215.01.FA25,Second Year Chinese,"Wang, Qian","Wang, Qian",2025 Fall,Chinese,2.60,4.80,4.30
+AS.373.215.02.FA25,Second Year Chinese,"Yang, Shuyi","Yang, Shuyi",2025 Fall,Chinese,2.50,4.67,4.33
+AS.373.215.02.FA25,Second Year Chinese,"Wang, Qian","Wang, Qian",2025 Fall,Chinese,2.50,4.83,4.33
+AS.373.216.02.SP24,Second Year Chinese II,Wang + Yang,"Wang, Qian + Yang, Shuyi",2024 Spring,Chinese,4.33,4.83,4.67
+AS.373.216.01.SP24,Second Year Chinese II,Wang + Yang,"Wang, Qian + Yang, Shuyi",2024 Spring,Chinese,3.46,5.00,4.85
+AS.373.216.01.SP25,Second Year Chinese II,Wang + Yang,"Wang, Qian + Yang, Shuyi",2025 Spring,Chinese,2.75,4.75,4.75
+AS.373.216.02.SP25,Second Year Chinese II,Wang + Yang,"Wang, Qian + Yang, Shuyi",2025 Spring,Chinese,2.71,5.00,4.43
+AS.373.313.01.FA24,Third Year Heritage Chinese,"Wang, Qian","Wang, Qian",2024 Fall,Chinese,3.00,4.80,4.80
+AS.373.314.01.SP24,Third Year Heritage Chinese II,"Wang, Qian","Wang, Qian",2024 Spring,Chinese,3.38,5.00,4.75
+AS.373.314.01.SP25,Third Year Heritage Chinese II,"Wang, Qian","Wang, Qian",2025 Spring,Chinese,3.17,5.00,4.33
+AS.373.315.01.FA24,Third Year Chinese,"Yang, Shuyi","Yang, Shuyi",2024 Fall,Chinese,3.75,4.88,4.87
+AS.373.315.01.FA25,Third Year Chinese,"Yang, Shuyi","Yang, Shuyi",2025 Fall,Chinese,2.92,4.54,4.50
+AS.373.316.01.SP24,Third Year Chinese II,"Yang, Shuyi","Yang, Shuyi",2024 Spring,Chinese,3.25,4.67,4.56
+AS.373.316.01.SP25,Third Year Chinese II,"Yang, Shuyi","Yang, Shuyi",2025 Spring,Chinese,3.76,4.82,4.76
+AS.373.491.01.FA24,5th Year Chinese,"Zhao, Nan","Zhao, Nan",2024 Fall,Chinese,2.40,5.00,3.80
+AS.373.492.01.SP24,Fifth Year Chinese II,"Zhao, Nan","Zhao, Nan",2024 Spring,Chinese,3.00,4.60,4.20

@@ -1,0 +1,24 @@
+course_code,course_title,instructor,instructors_full,term,department,workload_avg,teaching_avg,intellectual_avg
+AS.378.115.01.FA24,First Year Japanese,"Naganuma, Rena","Naganuma, Rena",2024 Fall,Japanese,3.71,5.00,4.71
+AS.378.115.01.FA24,First Year Japanese,"Johnson, Yuki","Johnson, Yuki",2024 Fall,Japanese,3.71,4.71,4.71
+AS.378.115.02.FA24,First Year Japanese,Johnson + Naganuma,"Johnson, Yuki + Naganuma, Rena",2024 Fall,Japanese,3.57,4.71,4.57
+AS.378.115.03.FA24,First Year Japanese,"Naganuma, Rena","Naganuma, Rena",2024 Fall,Japanese,2.79,4.93,4.64
+AS.378.115.03.FA24,First Year Japanese,"Johnson, Yuki","Johnson, Yuki",2024 Fall,Japanese,2.79,4.71,4.64
+AS.378.115.01.FA25,First Year Japanese,"Nakao, Makiko","Nakao, Makiko",2025 Fall,Japanese,3.21,4.92,4.75
+AS.378.115.01.FA25,First Year Japanese,"Tasho, Emi","Tasho, Emi",2025 Fall,Japanese,3.21,4.94,4.75
+AS.378.115.02.FA25,First Year Japanese,"Nakao, Makiko","Nakao, Makiko",2025 Fall,Japanese,3.82,4.80,4.45
+AS.378.115.02.FA25,First Year Japanese,"Tasho, Emi","Tasho, Emi",2025 Fall,Japanese,3.82,4.73,4.45
+AS.378.116.02.SP24,First Year Japanese II,"Naganuma, Rena","Naganuma, Rena",2024 Spring,Japanese,3.20,5.00,3.80
+AS.378.116.02.SP24,First Year Japanese II,"Johnson, Yuki","Johnson, Yuki",2024 Spring,Japanese,3.20,4.80,3.80
+AS.378.116.01.SP24,First Year Japanese II,Johnson + Naganuma,"Johnson, Yuki + Naganuma, Rena",2024 Spring,Japanese,3.38,4.88,4.63
+AS.378.116.02.SP25,First Year Japanese II,"Naganuma, Rena","Naganuma, Rena",2025 Spring,Japanese,3.43,4.86,4.29
+AS.378.116.02.SP25,First Year Japanese II,"Johnson, Yuki","Johnson, Yuki",2025 Spring,Japanese,3.43,4.43,4.29
+AS.378.116.01.SP25,First Year Japanese II,Johnson + Naganuma,"Johnson, Yuki + Naganuma, Rena",2025 Spring,Japanese,3.25,5.00,5.00
+AS.378.116.03.SP25,First Year Japanese II,"Naganuma, Rena","Naganuma, Rena",2025 Spring,Japanese,3.20,4.75,4.40
+AS.378.116.03.SP25,First Year Japanese II,"Johnson, Yuki","Johnson, Yuki",2025 Spring,Japanese,3.20,4.80,4.40
+AS.378.215.02.FA24,Second Year Japanese,"Nakao, Makiko","Nakao, Makiko",2024 Fall,Japanese,3.38,4.88,4.75
+AS.378.215.01.FA25,Second Year Japanese,"Nakao, Makiko","Nakao, Makiko",2025 Fall,Japanese,3.50,5.00,4.75
+AS.378.215.02.FA25,Second Year Japanese,"Nakao, Makiko","Nakao, Makiko",2025 Fall,Japanese,3.60,5.00,4.80
+AS.378.216.02.SP25,Second Year Japanese II,"Nakao, Makiko","Nakao, Makiko",2025 Spring,Japanese,4.00,4.86,4.83
+AS.378.315.01.FA25,Third Year Japanese,"Nakao, Makiko","Nakao, Makiko",2025 Fall,Japanese,3.80,4.60,4.40
+AS.378.316.01.SP24,Third Year Japanese II,"Nakao, Makiko","Nakao, Makiko",2024 Spring,Japanese,4.25,4.63,4.63

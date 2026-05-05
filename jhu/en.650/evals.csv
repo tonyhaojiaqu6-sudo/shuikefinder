@@ -1,0 +1,30 @@
+course_code,course_title,instructor,instructors_full,term,department,workload_avg,teaching_avg,intellectual_avg
+EN.650.601.01.FA24,Introduction to Information Security,"Li, Xiangyang","Li, Xiangyang",2024 Fall,Information Security Institute,3.28,4.30,4.25
+EN.650.601.01.FA25,Introduction to Information Security,"Li, Xiangyang","Li, Xiangyang",2025 Fall,Information Security Institute,3.40,4.60,4.40
+EN.650.614.01.FA24,Rights In Digital Age,"Jacobs, Michael","Jacobs, Michael",2024 Fall,Information Security Institute,2.90,4.75,4.68
+EN.650.614.01.FA25,Rights In Digital Age,"Jacobs, Michael","Jacobs, Michael",2025 Fall,Information Security Institute,3.06,4.15,4.15
+EN.650.621.01.FA24,Critical Infrastructure Protection,"Watkins, Lanier","Watkins, Lanier",2024 Fall,Information Security Institute,3.70,4.60,4.80
+EN.650.621.01.FA25,Critical Infrastructure Protection,"Watkins, Lanier","Watkins, Lanier",2025 Fall,Information Security Institute,4.00,4.27,4.45
+EN.650.624.01.SP24,Network Security,"Johnston, Reuben","Johnston, Reuben",2024 Spring,Information Security Institute,3.88,4.81,4.75
+EN.650.624.01.SP25,Network Security,"Johnston, Reuben","Johnston, Reuben",2025 Spring,Information Security Institute,3.93,4.53,4.60
+EN.650.631.01.SP24,Ethical Hacking,"Watkins, Lanier","Watkins, Lanier",2024 Spring,Information Security Institute,3.47,3.81,3.97
+EN.650.631.01.SP25,Ethical Hacking,"Watkins, Lanier","Watkins, Lanier",2025 Spring,Information Security Institute,3.54,4.32,4.45
+EN.650.640.01.SP24,Moral & Legal Foundations of Privacy,"Welling, Matthew","Welling, Matthew",2024 Spring,Information Security Institute,2.71,4.09,4.00
+EN.650.640.01.SP25,Moral & Legal Foundations of Privacy,"Welling, Matthew","Welling, Matthew",2025 Spring,Information Security Institute,2.92,4.48,4.15
+EN.650.654.01.SP24,Computer Intrusion Detection,"Li, Xiangyang","Li, Xiangyang",2024 Spring,Information Security Institute,3.25,4.00,3.81
+EN.650.654.01.SP25,Computer Intrusion Detection,"Li, Xiangyang","Li, Xiangyang",2025 Spring,Information Security Institute,3.23,4.30,4.35
+EN.650.656.01.FA24,Computer Forensics,"Leschke, Tim","Leschke, Tim",2024 Fall,Information Security Institute,3.05,4.61,4.39
+EN.650.656.01.FA25,Computer Forensics,"Leschke, Tim","Leschke, Tim",2025 Fall,Information Security Institute,3.00,4.49,4.16
+EN.650.658.01.FA24,Introduction to Cryptography,"Li, Xiangyang","Li, Xiangyang",2024 Fall,Information Security Institute,3.18,4.09,4.52
+EN.650.658.01.FA25,Introduction to Cryptography,"Li, Xiangyang","Li, Xiangyang",2025 Fall,Information Security Institute,4.08,4.17,4.42
+EN.650.660.01.FA24,Software Vulnerability Analysis,"Johnston, Reuben","Johnston, Reuben",2024 Fall,Information Security Institute,4.47,4.63,4.84
+EN.650.660.01.FA25,Software Vulnerability Analysis,"Johnston, Reuben","Johnston, Reuben",2025 Fall,Information Security Institute,4.26,4.26,4.89
+EN.650.663.01.FA24,Cloud Computing Security,"Johnston, Reuben","Johnston, Reuben",2024 Fall,Information Security Institute,2.87,4.38,4.13
+EN.650.663.01.FA25,Cloud Computing Security,"Johnston, Reuben","Johnston, Reuben",2025 Fall,Information Security Institute,3.58,4.77,4.77
+EN.650.667.01.SP24,Mobile Device Forensics,"Leschke, Tim","Leschke, Tim",2024 Spring,Information Security Institute,3.03,4.56,4.38
+EN.650.667.01.SP25,Mobile Device Forensics,"Leschke, Tim","Leschke, Tim",2025 Spring,Information Security Institute,3.19,4.47,3.97
+EN.650.673.01.FA24,Mobile and Wireless Security,"Dutta, Ashutosh","Dutta, Ashutosh",2024 Fall,Information Security Institute,2.84,4.56,4.67
+EN.650.673.01.FA25,Mobile and Wireless Security,"Dutta, Ashutosh","Dutta, Ashutosh",2025 Fall,Information Security Institute,2.84,4.10,3.95
+EN.650.683.01.FA24,Cybersecurity Risk Management,"Abed, Javad","Abed, Javad",2024 Fall,Information Security Institute,3.37,4.03,4.00
+EN.650.683.01.FA25,Cybersecurity Risk Management,"Abed, Javad","Abed, Javad",2025 Fall,Information Security Institute,2.97,4.00,3.88
+EN.650.685.01.SP25,"Cybersecurity Compliance: Regulation, Behavior, and Best Practices","Abed, Javad","Abed, Javad",2025 Spring,Information Security Institute,2.75,4.38,4.00

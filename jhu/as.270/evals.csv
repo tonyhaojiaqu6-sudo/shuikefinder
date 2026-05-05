@@ -1,0 +1,61 @@
+course_code,course_title,instructor,instructors_full,term,department,workload_avg,teaching_avg,intellectual_avg
+AS.270.103.01.FA24,Introduction to Global Environmental Change,"Zaitchik, Benjamin","Zaitchik, Benjamin",2024 Fall,Earth and Planetary Sciences,3.09,4.11,4.04
+AS.270.103.01.FA24,Introduction to Global Environmental Change,"Gnanadesikan, Anand","Gnanadesikan, Anand",2024 Fall,Earth and Planetary Sciences,3.09,3.83,4.04
+AS.270.103.01.FA24,Introduction to Global Environmental Change,"Karimi, Saman","Karimi, Saman",2024 Fall,Earth and Planetary Sciences,3.09,4.11,4.04
+AS.270.103.01.FA25,Introduction to Global Environmental Change,"Gnanadesikan, Anand","Gnanadesikan, Anand",2025 Fall,Earth and Planetary Sciences,3.09,4.22,4.16
+AS.270.103.01.FA25,Introduction to Global Environmental Change,"Waugh, Darryn","Waugh, Darryn",2025 Fall,Earth and Planetary Sciences,3.09,3.84,4.16
+AS.270.114.01.SP24,Guided Tour: The Planets,"Lewis, Kevin","Lewis, Kevin",2024 Spring,Earth and Planetary Sciences,2.72,4.20,4.02
+AS.270.114.01.SP25,Guided Tour: The Planets,"Lewis, Kevin","Lewis, Kevin",2025 Spring,Earth and Planetary Sciences,2.85,4.32,4.00
+AS.270.114.01.SP25,Guided Tour: The Planets,"Sing, David","Sing, David",2025 Spring,Earth and Planetary Sciences,2.85,4.06,4.00
+AS.270.202.01.SP24,Introduction to Ecology,"Szlavecz, Katalin","Szlavecz, Katalin",2024 Spring,Earth and Planetary Sciences,2.94,4.28,4.00
+AS.270.202.01.SP25,Introduction to Ecology,"Avolio, Meghan","Avolio, Meghan",2025 Spring,Earth and Planetary Sciences,2.88,4.31,4.14
+AS.270.205.01.SP24,Introduction to Geographic Information Systems and Geospatial Analysis,"Chen, Xin","Chen, Xin",2024 Spring,Earth and Planetary Sciences,3.44,3.67,4.22
+AS.270.205.01.FA24,Introduction to Geographic Information Systems and Geospatial Analysis,"Chen, Xin","Chen, Xin",2024 Fall,Earth and Planetary Sciences,3.69,3.19,3.94
+AS.270.205.01.SP25,Introduction to Geographic Information Systems and Geospatial Analysis,"Chen, Xin","Chen, Xin",2025 Spring,Earth and Planetary Sciences,3.33,4.23,4.15
+AS.270.205.01.FA25,Introduction to Geographic Information Systems and Geospatial Analysis,"Chen, Xin","Chen, Xin",2025 Fall,Earth and Planetary Sciences,3.20,3.53,3.90
+AS.270.220.01.FA24,The Dynamic Earth: An Introduction to Geology,"Viete, Daniel","Viete, Daniel",2024 Fall,Earth and Planetary Sciences,3.08,4.43,4.25
+AS.270.220.01.FA24,The Dynamic Earth: An Introduction to Geology,"Wiemann, Jasmina","Wiemann, Jasmina",2024 Fall,Earth and Planetary Sciences,3.08,4.14,4.25
+AS.270.220.01.FA25,The Dynamic Earth: An Introduction to Geology,"Smith, Emmy","Smith, Emmy",2025 Fall,Earth and Planetary Sciences,2.64,4.65,4.48
+AS.270.221.01.FA24,The Dynamic Earth Laboratory,"Viete, Daniel","Viete, Daniel",2024 Fall,Earth and Planetary Sciences,4.23,4.00,4.21
+AS.270.221.01.FA24,The Dynamic Earth Laboratory,"Wiemann, Jasmina","Wiemann, Jasmina",2024 Fall,Earth and Planetary Sciences,4.23,4.10,4.21
+AS.270.221.01.FA25,The Dynamic Earth Laboratory,"Smith, Emmy","Smith, Emmy",2025 Fall,Earth and Planetary Sciences,3.31,4.57,4.86
+AS.270.224.01.SP24,Oceans & Atmospheres,"Waugh, Darryn","Waugh, Darryn",2024 Spring,Earth and Planetary Sciences,2.84,4.00,4.53
+AS.270.224.01.SP24,Oceans & Atmospheres,"Haine, Thomas","Haine, Thomas",2024 Spring,Earth and Planetary Sciences,2.84,4.42,4.53
+AS.270.224.01.SP25,Oceans & Atmospheres,"Waugh, Darryn","Waugh, Darryn",2025 Spring,Earth and Planetary Sciences,2.81,4.31,4.44
+AS.270.224.01.SP25,Oceans & Atmospheres,"Haine, Thomas","Haine, Thomas",2025 Spring,Earth and Planetary Sciences,2.81,4.50,4.44
+AS.270.306.01.SP24,Urban Ecology,"Avolio, Meghan","Avolio, Meghan",2024 Spring,Earth and Planetary Sciences,3.12,4.35,4.12
+AS.270.310.01.SP24,Evolution and Development of the Vertebrates,"Bever, Gabriel","Bever, Gabriel",2024 Spring,Earth and Planetary Sciences,2.64,4.82,4.82
+AS.270.311.01.SP24,Geobiology,"Gomes, Maya","Gomes, Maya",2024 Spring,Earth and Planetary Sciences,2.63,4.75,4.63
+AS.270.312.01.SP25,Mammalian Evolution,"Cooke, Siobhan","Cooke, Siobhan",2025 Spring,Earth and Planetary Sciences,2.80,4.80,4.60
+AS.270.317.01.SP24,Conservation Biology,"Burgess, Jerry","Burgess, Jerry",2024 Spring,Earth and Planetary Sciences,3.33,4.83,4.25
+AS.270.317.01.SP25,Conservation Biology,"Burgess, Jerry","Burgess, Jerry",2025 Spring,Earth and Planetary Sciences,3.18,5.00,4.83
+AS.270.318.01.FA24,Remote Sensing of the Environment,Karimi + Lewis + Zaitchik,"Karimi, Saman + Lewis, Kevin + Zaitchik, Benjamin",2024 Fall,Earth and Planetary Sciences,3.57,4.50,4.38
+AS.270.323.01.SP24,Ocean Biogeochemical Cycles,"Gnanadesikan, Anand","Gnanadesikan, Anand",2024 Spring,Earth and Planetary Sciences,3.00,4.57,4.71
+AS.270.325.01.SP25,Introductory Oceanography,"Gnanadesikan, Anand","Gnanadesikan, Anand",2025 Spring,Earth and Planetary Sciences,3.36,4.27,5.00
+AS.270.332.01.SP25,Soil Ecology,"Szlavecz, Katalin","Szlavecz, Katalin",2025 Spring,Earth and Planetary Sciences,3.29,4.57,4.14
+AS.270.338.01.FA24,Field Methods in Ecology,"Avolio, Meghan","Avolio, Meghan",2024 Fall,Earth and Planetary Sciences,4.13,5.00,4.88
+AS.270.338.01.FA24,Field Methods in Ecology,"Szlavecz, Katalin","Szlavecz, Katalin",2024 Fall,Earth and Planetary Sciences,4.13,4.88,4.88
+AS.270.338.01.FA25,Field Methods in Ecology,Avolio + Szlavecz,"Avolio, Meghan + Szlavecz, Katalin",2025 Fall,Earth and Planetary Sciences,4.45,4.73,4.36
+AS.270.346.01.SP25,Structural Geology Seminar,"Viete, Daniel","Viete, Daniel",2025 Spring,Earth and Planetary Sciences,1.92,5.00,4.54
+AS.270.350.01.SP25,Sedimentary Geology,"Smith, Emmy","Smith, Emmy",2025 Spring,Earth and Planetary Sciences,3.67,4.80,4.90
+AS.270.353.01.FA24,Forested Landscapes and Ecology,"Burgess, Jerry","Burgess, Jerry",2024 Fall,Earth and Planetary Sciences,2.86,4.86,4.57
+AS.270.353.01.FA25,Forested Landscapes and Ecology,"Burgess, Jerry","Burgess, Jerry",2025 Fall,Earth and Planetary Sciences,3.80,5.00,4.80
+AS.270.355.01.FA24,Forested Landscapes and Ecology Lab,"Burgess, Jerry","Burgess, Jerry",2024 Fall,Earth and Planetary Sciences,2.83,4.79,4.64
+AS.270.355.01.FA25,Forested Landscapes and Ecology Lab,"Burgess, Jerry","Burgess, Jerry",2025 Fall,Earth and Planetary Sciences,3.10,5.00,4.80
+AS.270.365.01.FA25,Magmatic and Volcanic Systems on Earth and Other Planets,"Beaudry, Patrick","Beaudry, Patrick",2025 Fall,Earth and Planetary Sciences,3.57,4.13,4.63
+AS.270.366.01.SP24,Spacecraft Instrumentation Project,"Kraemer, David","Kraemer, David",2024 Spring,Earth and Planetary Sciences,2.38,4.48,4.00
+AS.270.366.01.SP24,Spacecraft Instrumentation Project,"Horst, Sarah","Horst, Sarah",2024 Spring,Earth and Planetary Sciences,2.38,4.55,4.00
+AS.270.366.01.SP24,Spacecraft Instrumentation Project,"Izenberg, Noam","Izenberg, Noam",2024 Spring,Earth and Planetary Sciences,2.38,4.65,4.00
+AS.270.366.01.FA24,Spacecraft Instrumentation Project,"Kraemer, David","Kraemer, David",2024 Fall,Earth and Planetary Sciences,2.60,4.20,3.87
+AS.270.366.01.FA24,Spacecraft Instrumentation Project,"Horst, Sarah","Horst, Sarah",2024 Fall,Earth and Planetary Sciences,2.60,4.23,3.87
+AS.270.366.01.FA24,Spacecraft Instrumentation Project,"Izenberg, Noam","Izenberg, Noam",2024 Fall,Earth and Planetary Sciences,2.60,4.53,3.87
+AS.270.366.01.SP25,Spacecraft Instrumentation Project,"Kraemer, David","Kraemer, David",2025 Spring,Earth and Planetary Sciences,2.33,4.11,3.05
+AS.270.366.01.SP25,Spacecraft Instrumentation Project,"Horst, Sarah","Horst, Sarah",2025 Spring,Earth and Planetary Sciences,2.33,3.88,3.05
+AS.270.366.01.SP25,Spacecraft Instrumentation Project,"Izenberg, Noam","Izenberg, Noam",2025 Spring,Earth and Planetary Sciences,2.33,4.11,3.05
+AS.270.379.01.FA24,Atmospheric Science,"Waugh, Darryn","Waugh, Darryn",2024 Fall,Earth and Planetary Sciences,3.60,4.60,4.80
+AS.270.399.01.FA24,Climate and Infectious Disease,"Yasanayake, Chanud","Yasanayake, Chanud",2024 Fall,Earth and Planetary Sciences,2.88,5.00,4.63
+AS.270.406.01.FA25,Deciphering the History of Life,"Wiemann, Jasmina","Wiemann, Jasmina",2025 Fall,Earth and Planetary Sciences,2.50,4.50,4.50
+AS.270.410.01.FA25,Planetary Surface Processes,"Lewis, Kevin","Lewis, Kevin",2025 Fall,Earth and Planetary Sciences,3.10,4.70,4.80
+AS.270.412.01.SP24,Spring seminar: Geological Field Studies in California,"Smith, Emmy","Smith, Emmy",2024 Spring,Earth and Planetary Sciences,2.88,5.00,4.75
+AS.270.415.01.FA25,Seminar in Ecology,Avolio + Szlavecz,"Avolio, Meghan + Szlavecz, Katalin",2025 Fall,Earth and Planetary Sciences,1.89,4.78,4.78
+AS.270.423.01.SP24,Planetary Atmospheres,"Horst, Sarah","Horst, Sarah",2024 Spring,Earth and Planetary Sciences,2.91,4.92,4.67

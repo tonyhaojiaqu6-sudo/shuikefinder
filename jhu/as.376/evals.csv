@@ -1,0 +1,66 @@
+course_code,course_title,instructor,instructors_full,term,department,workload_avg,teaching_avg,intellectual_avg
+AS.376.342.01.FA24,Caribbean Music,"Diggs-Thompson, Marilynne","Diggs-Thompson, Marilynne",2024 Fall,Music,2.90,4.20,4.00
+AS.376.342.01.FA25,Caribbean Music,"Diggs-Thompson, Marilynne","Diggs-Thompson, Marilynne",2025 Fall,Music,2.80,4.80,4.20
+AS.376.111.02.SP24,Rudiments of Music Theory and Musicianship,"Prescott, Jordan","Prescott, Jordan",2024 Spring,Music,2.64,4.73,4.57
+AS.376.111.01.SP24,Rudiments of Music Theory and Musicianship,"Perry, Lisa","Perry, Lisa",2024 Spring,Music,2.92,4.69,4.38
+AS.376.111.02.FA24,Rudiments of Music Theory and Musicianship,"Ahn, Hyo Eun (Heather)","Ahn, Hyo Eun (Heather)",2024 Fall,Music,3.07,4.67,4.07
+AS.376.111.01.FA24,Rudiments of Music Theory and Musicianship,"Prescott, Jordan","Prescott, Jordan",2024 Fall,Music,2.31,4.77,4.38
+AS.376.111.02.SP25,Rudiments of Music Theory and Musicianship,"Lee, Jia Yi","Lee, Jia Yi",2025 Spring,Music,2.93,4.07,4.14
+AS.376.111.01.SP25,Rudiments of Music Theory and Musicianship,"Prescott, Jordan","Prescott, Jordan",2025 Spring,Music,2.09,4.92,4.08
+AS.376.111.02.FA25,Rudiments of Music Theory and Musicianship,"Prescott, Jordan","Prescott, Jordan",2025 Fall,Music,2.67,4.83,4.33
+AS.376.111.01.FA25,Rudiments of Music Theory and Musicianship,"Prescott, Jordan","Prescott, Jordan",2025 Fall,Music,2.25,4.85,4.15
+AS.376.211.01.SP24,Music Theory I,"Perry, Lisa","Perry, Lisa",2024 Spring,Music,3.17,4.67,4.50
+AS.376.211.02.SP24,Music Theory I,"Rickelton, Michael","Rickelton, Michael",2024 Spring,Music,3.00,4.60,4.20
+AS.376.211.02.FA24,Music Theory I,"Perry, Lisa","Perry, Lisa",2024 Fall,Music,3.67,4.67,4.33
+AS.376.211.01.FA24,Music Theory I,"Prescott, Jordan","Prescott, Jordan",2024 Fall,Music,2.33,4.83,4.67
+AS.376.211.02.SP25,Music Theory I,"Fishbein, Joshua","Fishbein, Joshua",2025 Spring,Music,3.25,4.75,4.38
+AS.376.211.02.SP25,Music Theory I,"Perry, Lisa","Perry, Lisa",2025 Spring,Music,3.25,4.50,4.38
+AS.376.211.01.SP25,Music Theory I,"Prescott, Jordan","Prescott, Jordan",2025 Spring,Music,2.00,4.56,4.10
+AS.376.211.02.FA25,Music Theory I,"Perry, Lisa","Perry, Lisa",2025 Fall,Music,3.55,4.64,4.18
+AS.376.211.01.FA25,Music Theory I,"Prescott, Jordan","Prescott, Jordan",2025 Fall,Music,2.60,4.60,4.20
+AS.376.212.01.SP24,Music Theory II,"Rickelton, Michael","Rickelton, Michael",2024 Spring,Music,3.17,4.17,4.58
+AS.376.212.01.FA24,Music Theory II,"Rickelton, Michael","Rickelton, Michael",2024 Fall,Music,3.60,3.20,4.50
+AS.376.212.01.SP25,Music Theory II,"Rickelton, Michael","Rickelton, Michael",2025 Spring,Music,4.20,3.60,4.20
+AS.376.212.01.FA25,Music Theory II,"Rickelton, Michael","Rickelton, Michael",2025 Fall,Music,3.00,4.71,4.43
+AS.376.221.01.SP24,Musicianship I,"Fishbein, Joshua","Fishbein, Joshua",2024 Spring,Music,2.67,4.83,4.60
+AS.376.221.01.FA24,Musicianship I,"Fishbein, Joshua","Fishbein, Joshua",2024 Fall,Music,2.43,4.57,3.86
+AS.376.221.01.SP25,Musicianship I,"Fishbein, Joshua","Fishbein, Joshua",2025 Spring,Music,2.67,4.17,3.67
+AS.376.221.01.FA25,Musicianship I,"Fishbein, Joshua","Fishbein, Joshua",2025 Fall,Music,2.25,4.31,4.08
+AS.376.222.01.SP24,Musicianship II,"Fishbein, Joshua","Fishbein, Joshua",2024 Spring,Music,2.09,4.73,4.18
+AS.376.222.01.SP25,Musicianship II,"Fishbein, Joshua","Fishbein, Joshua",2025 Spring,Music,2.33,4.83,4.17
+AS.376.222.01.FA25,Musicianship II,"Fishbein, Joshua","Fishbein, Joshua",2025 Fall,Music,2.00,5.00,3.17
+AS.376.231.01.SP24,Western Classical Music,"Ahn, Suhnne","Ahn, Suhnne",2024 Spring,Music,2.27,4.64,4.27
+AS.376.231.01.SP25,Western Classical Music,"Ahn, Suhnne","Ahn, Suhnne",2025 Spring,Music,2.48,4.14,3.82
+AS.376.242.01.FA24,History of Rock and Roll,"Rickelton, Michael","Rickelton, Michael",2024 Fall,Music,2.27,4.55,4.18
+AS.376.242.01.FA25,History of Rock and Roll,"Rickelton, Michael","Rickelton, Michael",2025 Fall,Music,2.78,4.18,3.55
+AS.376.244.02.SP24,Electronic Music Production,"Patrick, Wendel","Patrick, Wendel",2024 Spring,Music,2.36,4.45,4.18
+AS.376.244.01.SP24,Electronic Music Production,"Patrick, Wendel","Patrick, Wendel",2024 Spring,Music,2.31,4.67,4.20
+AS.376.244.01.FA24,Electronic Music Production,"Patrick, Wendel","Patrick, Wendel",2024 Fall,Music,2.31,4.62,4.23
+AS.376.244.02.FA24,Electronic Music Production,"Patrick, Wendel","Patrick, Wendel",2024 Fall,Music,2.20,4.64,4.20
+AS.376.244.01.SP25,Electronic Music Production,"Patrick, Wendel","Patrick, Wendel",2025 Spring,Music,2.27,4.20,3.87
+AS.376.244.02.SP25,Electronic Music Production,"Patrick, Wendel","Patrick, Wendel",2025 Spring,Music,2.08,4.31,4.15
+AS.376.244.02.FA25,Electronic Music Production,"Sale, James","Sale, James",2025 Fall,Music,3.13,4.47,4.40
+AS.376.245.01.FA24,"Introduction to Sound, Audio, and Recording Arts","Stella, Andrew","Stella, Andrew",2024 Fall,Music,2.80,4.60,4.40
+AS.376.250.01.SP24,Introduction to Computer Music,"Burt, Samuel","Burt, Samuel",2024 Spring,Music,3.00,4.50,4.33
+AS.376.250.01.SP25,Introduction to Computer Music,"Burt, Samuel","Burt, Samuel",2025 Spring,Music,2.00,5.00,5.00
+AS.376.250.01.FA25,Introduction to Computer Music,"Burt, Samuel","Burt, Samuel",2025 Fall,Music,2.83,4.42,3.92
+AS.376.252.01.SP24,Jazz History,"Sims, Ian","Sims, Ian",2024 Spring,Music,2.69,4.38,3.85
+AS.376.252.01.SP25,Jazz History,"Sims, Ian","Sims, Ian",2025 Spring,Music,2.42,4.69,4.38
+AS.376.258.01.FA24,Jazz Improvisation and Theory,"Sims, Ian","Sims, Ian",2024 Fall,Music,2.71,4.14,4.00
+AS.376.258.01.FA25,Jazz Improvisation and Theory,"Sims, Ian","Sims, Ian",2025 Fall,Music,2.50,4.75,4.75
+AS.376.299.01.SP24,Advanced Chamber Music,"Yoo, Shirley","Yoo, Shirley",2024 Spring,Music,2.33,5.00,4.78
+AS.376.299.01.FA24,Advanced Chamber Music,"Yoo, Shirley","Yoo, Shirley",2024 Fall,Music,2.17,5.00,4.86
+AS.376.299.01.SP25,Advanced Chamber Music,"Yoo, Shirley","Yoo, Shirley",2025 Spring,Music,2.11,4.89,4.44
+AS.376.299.02.SP25,Advanced Chamber Music,"Yoo, Shirley","Yoo, Shirley",2025 Spring,Music,2.75,5.00,4.63
+AS.376.299.01.FA25,Advanced Chamber Music,"Yoo, Shirley","Yoo, Shirley",2025 Fall,Music,2.56,4.89,4.89
+AS.376.303.01.FA24,Musical Theater on Broadway and Beyond,"Wang, Derrick","Wang, Derrick",2024 Fall,Music,2.89,4.44,4.67
+AS.376.303.01.FA25,Musical Theater on Broadway and Beyond,"Wang, Derrick","Wang, Derrick",2025 Fall,Music,3.80,2.70,3.60
+AS.376.334.01.SP24,World Music & Cultures,"Brady, Sophie","Brady, Sophie",2024 Spring,Music,2.88,4.89,4.44
+AS.376.334.01.SP25,World Music & Cultures,"Mahinka, Janice","Mahinka, Janice",2025 Spring,Music,3.29,4.29,4.14
+AS.376.336.01.SP25,Beethoven and the Transformation of Musical Style,"Ahn, Suhnne","Ahn, Suhnne",2025 Spring,Music,2.33,4.78,4.33
+AS.376.345.01.SP24,Music and Law,"Wang, Derrick","Wang, Derrick",2024 Spring,Music,2.40,4.50,3.70
+AS.376.345.01.SP25,Music and Law,"Wang, Derrick","Wang, Derrick",2025 Spring,Music,3.17,4.14,4.57
+AS.376.347.01.SP24,Popular Music in the Arab World,"El Rayes, Nour","El Rayes, Nour",2024 Spring,Music,2.60,5.00,4.60
+AS.376.371.01.SP24,Introduction to Music Cognition,"Lopez-Gonzalez, Monica","Lopez-Gonzalez, Monica",2024 Spring,Music,2.90,4.80,4.60
+AS.376.405.01.FA24,Opera Fever in the Nineteenth Century,"Vasilyeva, Laura","Vasilyeva, Laura",2024 Fall,Music,3.57,4.43,4.57
+AS.376.428.01.FA25,Mozart Operas,"Kass, Lily","Kass, Lily",2025 Fall,Music,3.50,4.00,3.50

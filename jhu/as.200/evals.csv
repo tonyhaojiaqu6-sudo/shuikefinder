@@ -1,0 +1,120 @@
+course_code,course_title,instructor,instructors_full,term,department,workload_avg,teaching_avg,intellectual_avg
+AS.200.101.01.FA24,Introduction to Psychology,"Firestone, Chaz","Firestone, Chaz",2024 Fall,Psychological and Brain Sciences,2.61,4.50,4.11
+AS.200.101.01.FA25,Introduction to Psychology,"Firestone, Chaz","Firestone, Chaz",2025 Fall,Psychological and Brain Sciences,2.60,4.72,4.22
+AS.200.110.01.SP24,Introduction to Cognitive Psychology,"Flombaum, Jonathan","Flombaum, Jonathan",2024 Spring,Psychological and Brain Sciences,2.25,4.63,4.12
+AS.200.132.01.FA24,Introduction to Developmental Psychology,"Liu, Shari","Liu, Shari",2024 Fall,Psychological and Brain Sciences,2.79,4.51,4.25
+AS.200.132.01.FA25,Introduction to Developmental Psychology,"Liu, Shari","Liu, Shari",2025 Fall,Psychological and Brain Sciences,2.93,4.32,4.18
+AS.200.133.01.SP24,Introduction to Social Psychology,"Drigotas, Stephen","Drigotas, Stephen",2024 Spring,Psychological and Brain Sciences,2.47,4.43,4.13
+AS.200.133.01.FA24,Introduction to Social Psychology,"Drigotas, Stephen","Drigotas, Stephen",2024 Fall,Psychological and Brain Sciences,2.57,4.30,4.04
+AS.200.133.01.SP25,Introduction to Social Psychology,"Drigotas, Stephen","Drigotas, Stephen",2025 Spring,Psychological and Brain Sciences,2.60,4.22,4.07
+AS.200.133.01.FA25,Introduction to Social Psychology,"Drigotas, Stephen","Drigotas, Stephen",2025 Fall,Psychological and Brain Sciences,2.62,4.45,3.99
+AS.200.141.01.SP24,"Foundations of Brain, Behavior and Cognition","Smith, Dani","Smith, Dani",2024 Spring,Psychological and Brain Sciences,4.27,3.98,4.69
+AS.200.141.01.FA24,"Foundations of Brain, Behavior and Cognition","Ross, Bob","Ross, Bob",2024 Fall,Psychological and Brain Sciences,4.23,4.55,4.77
+AS.200.141.01.SP25,"Foundations of Brain, Behavior and Cognition","Smith, Dani","Smith, Dani",2025 Spring,Psychological and Brain Sciences,3.87,4.13,4.63
+AS.200.141.01.FA25,"Foundations of Brain, Behavior and Cognition","Ross, Bob","Ross, Bob",2025 Fall,Psychological and Brain Sciences,4.03,4.31,4.61
+AS.200.159.01.SP24,Evolutionary Psychology,"Egeth, Howard","Egeth, Howard",2024 Spring,Psychological and Brain Sciences,2.40,4.40,4.40
+AS.200.159.01.SP25,Evolutionary Psychology,"Egeth, Howard","Egeth, Howard",2025 Spring,Psychological and Brain Sciences,2.73,3.92,3.92
+AS.200.200.06.FA24,Research Methods in Psychology,"Selterman, Dylan","Selterman, Dylan",2024 Fall,Psychological and Brain Sciences,3.50,3.61,4.11
+AS.200.200.02.FA24,Research Methods in Psychology,"Selterman, Dylan","Selterman, Dylan",2024 Fall,Psychological and Brain Sciences,3.29,4.11,4.28
+AS.200.200.04.FA24,Research Methods in Psychology,"Selterman, Dylan","Selterman, Dylan",2024 Fall,Psychological and Brain Sciences,3.38,4.54,4.23
+AS.200.200.05.FA24,Research Methods in Psychology,"Selterman, Dylan","Selterman, Dylan",2024 Fall,Psychological and Brain Sciences,3.14,3.79,4.31
+AS.200.200.01.FA24,Research Methods in Psychology,"Selterman, Dylan","Selterman, Dylan",2024 Fall,Psychological and Brain Sciences,3.60,4.24,4.25
+AS.200.200.03.FA24,Research Methods in Psychology,"Selterman, Dylan","Selterman, Dylan",2024 Fall,Psychological and Brain Sciences,3.25,4.55,4.15
+AS.200.200.06.FA25,Research Methods in Psychology,"Bowen, Jeffrey","Bowen, Jeffrey",2025 Fall,Psychological and Brain Sciences,3.67,4.00,4.33
+AS.200.200.04.FA25,Research Methods in Psychology,"Bowen, Jeffrey","Bowen, Jeffrey",2025 Fall,Psychological and Brain Sciences,3.58,4.63,4.47
+AS.200.200.01.FA25,Research Methods in Psychology,"Bowen, Jeffrey","Bowen, Jeffrey",2025 Fall,Psychological and Brain Sciences,3.33,4.24,4.25
+AS.200.200.02.FA25,Research Methods in Psychology,"Bowen, Jeffrey","Bowen, Jeffrey",2025 Fall,Psychological and Brain Sciences,3.44,4.29,4.06
+AS.200.200.05.FA25,Research Methods in Psychology,"Bowen, Jeffrey","Bowen, Jeffrey",2025 Fall,Psychological and Brain Sciences,3.56,4.63,4.56
+AS.200.202.01.FA24,Forensic Psychology,"Howe, Chelsea","Howe, Chelsea",2024 Fall,Psychological and Brain Sciences,3.30,4.34,4.35
+AS.200.202.01.FA25,Forensic Psychology,"Howe, Chelsea","Howe, Chelsea",2025 Fall,Psychological and Brain Sciences,2.92,4.61,4.53
+AS.200.208.01.SP25,Animal Behavior,"Bohn, Kisi","Bohn, Kisi",2025 Spring,Psychological and Brain Sciences,3.03,4.44,4.47
+AS.200.209.01.SP24,Personality,"Howe, Chelsea","Howe, Chelsea",2024 Spring,Psychological and Brain Sciences,3.06,4.50,4.35
+AS.200.209.01.SP25,Personality,"Howe, Chelsea","Howe, Chelsea",2025 Spring,Psychological and Brain Sciences,2.97,4.64,4.44
+AS.200.212.01.SP24,Psychopathology,"Papadakis, Alison","Papadakis, Alison",2024 Spring,Psychological and Brain Sciences,3.32,4.53,4.40
+AS.200.212.01.SP25,Psychopathology,"Papadakis, Alison","Papadakis, Alison",2025 Spring,Psychological and Brain Sciences,3.17,4.71,4.45
+AS.200.219.01.FA25,Political Psychology,"Selterman, Dylan","Selterman, Dylan",2025 Fall,Psychological and Brain Sciences,2.73,4.38,4.09
+AS.200.222.01.FA24,Positive Psychology,"Halberda, Justin","Halberda, Justin",2024 Fall,Psychological and Brain Sciences,3.28,4.61,4.16
+AS.200.222.01.FA25,Positive Psychology,"Halberda, Justin","Halberda, Justin",2025 Fall,Psychological and Brain Sciences,3.16,4.52,4.07
+AS.200.238.01.FA24,Primate Minds,"Krupenye, Christopher","Krupenye, Christopher",2024 Fall,Psychological and Brain Sciences,2.50,4.65,4.41
+AS.200.240.01.SP25,Industrial and Organizational Psychology,"Papadakis, Alison","Papadakis, Alison",2025 Spring,Psychological and Brain Sciences,2.66,4.25,3.81
+AS.200.240.01.SP25,Industrial and Organizational Psychology,"Barger, Eric","Barger, Eric",2025 Spring,Psychological and Brain Sciences,2.66,4.17,3.81
+AS.200.250.01.SP24,Behavioral Neuroscience,"Janak, patricia","Janak, patricia",2024 Spring,Psychological and Brain Sciences,2.32,4.66,4.36
+AS.200.300.04.SP25,Design & Statistical Analysis for Psychology,"Bowen, Jeffrey","Bowen, Jeffrey",2025 Spring,Psychological and Brain Sciences,3.74,3.94,4.05
+AS.200.300.02.SP25,Design & Statistical Analysis for Psychology,"Bowen, Jeffrey","Bowen, Jeffrey",2025 Spring,Psychological and Brain Sciences,4.00,4.00,4.28
+AS.200.300.01.SP25,Design & Statistical Analysis for Psychology,"Bowen, Jeffrey","Bowen, Jeffrey",2025 Spring,Psychological and Brain Sciences,3.50,3.69,4.13
+AS.200.300.03.SP25,Design & Statistical Analysis for Psychology,"Bowen, Jeffrey","Bowen, Jeffrey",2025 Spring,Psychological and Brain Sciences,3.83,4.05,4.00
+AS.200.300.05.SP25,Design & Statistical Analysis for Psychology,"Bowen, Jeffrey","Bowen, Jeffrey",2025 Spring,Psychological and Brain Sciences,4.00,3.82,4.35
+AS.200.301.01.SP24,History Of Psychology,"Hofer, Paul","Hofer, Paul",2024 Spring,Psychological and Brain Sciences,2.79,4.13,4.42
+AS.200.301.01.SP25,History Of Psychology,"Hofer, Paul","Hofer, Paul",2025 Spring,Psychological and Brain Sciences,2.97,4.16,4.09
+AS.200.304.01.SP24,Neuroscience of Decision Making,"Stuphorn, Veit","Stuphorn, Veit",2024 Spring,Psychological and Brain Sciences,2.67,4.19,4.53
+AS.200.304.01.SP25,Neuroscience of Decision Making,"Stuphorn, Veit","Stuphorn, Veit",2025 Spring,Psychological and Brain Sciences,3.08,4.21,4.50
+AS.200.305.01.SP24,Advanced Seminar in Forensic Psychology,"Howe, Chelsea","Howe, Chelsea",2024 Spring,Psychological and Brain Sciences,3.35,5.00,4.82
+AS.200.305.01.SP25,Advanced Seminar in Forensic Psychology,"Howe, Chelsea","Howe, Chelsea",2025 Spring,Psychological and Brain Sciences,3.30,4.80,4.75
+AS.200.307.01.SP24,Medical Psychology,"Papadakis, Alison","Papadakis, Alison",2024 Spring,Psychological and Brain Sciences,2.81,4.64,4.23
+AS.200.307.01.SP24,Medical Psychology,"Etzel, Erin","Etzel, Erin",2024 Spring,Psychological and Brain Sciences,2.81,4.32,4.23
+AS.200.307.01.SP25,Medical Psychology,"Etzel, Erin","Etzel, Erin",2025 Spring,Psychological and Brain Sciences,2.72,4.31,4.08
+AS.200.311.01.SP24,"Sensory Representations in the Brain: Maps, Modules, & Distributed Coding","Fischer, Jason","Fischer, Jason",2024 Spring,Psychological and Brain Sciences,2.60,4.90,4.60
+AS.200.312.01.FA24,Substance Use and Mental Health,"Howe, Chelsea","Howe, Chelsea",2024 Fall,Psychological and Brain Sciences,2.69,4.77,4.65
+AS.200.312.01.FA25,Substance Use and Mental Health,"Howe, Chelsea","Howe, Chelsea",2025 Fall,Psychological and Brain Sciences,2.85,4.86,4.79
+AS.200.316.01.FA25,Mind Reading 101: The Psychology of Mental State Inference,"Croom, Sholei","Croom, Sholei",2025 Fall,Psychological and Brain Sciences,2.71,4.93,4.67
+AS.200.317.01.SP24,Interpersonal Relations,"Drigotas, Stephen","Drigotas, Stephen",2024 Spring,Psychological and Brain Sciences,2.83,4.30,4.13
+AS.200.317.01.SP25,Interpersonal Relations,"Drigotas, Stephen","Drigotas, Stephen",2025 Spring,Psychological and Brain Sciences,3.07,4.64,4.64
+AS.200.319.01.SP24,Political Psychology,"Selterman, Dylan","Selterman, Dylan",2024 Spring,Psychological and Brain Sciences,2.77,3.88,3.50
+AS.200.319.01.SP25,Political Psychology,"Selterman, Dylan","Selterman, Dylan",2025 Spring,Psychological and Brain Sciences,2.82,4.64,4.57
+AS.200.321.01.SP24,Child and Adolescent Psychopathology,"Papadakis, Alison","Papadakis, Alison",2024 Spring,Psychological and Brain Sciences,3.27,4.95,4.70
+AS.200.321.01.FA24,Child and Adolescent Psychopathology,"Papadakis, Alison","Papadakis, Alison",2024 Fall,Psychological and Brain Sciences,3.50,4.70,4.71
+AS.200.321.01.FA25,Child and Adolescent Psychopathology,"Papadakis, Alison","Papadakis, Alison",2025 Fall,Psychological and Brain Sciences,3.64,4.44,4.59
+AS.200.322.01.FA24,Clinical Neuropsychology,"Rickards, Tyler","Rickards, Tyler",2024 Fall,Psychological and Brain Sciences,2.79,4.71,4.50
+AS.200.322.01.SP25,Clinical Neuropsychology,"Rickards, Tyler","Rickards, Tyler",2025 Spring,Psychological and Brain Sciences,2.83,4.58,4.58
+AS.200.322.01.FA25,Clinical Neuropsychology,"Rickards, Tyler","Rickards, Tyler",2025 Fall,Psychological and Brain Sciences,2.92,4.58,4.33
+AS.200.323.01.SP25,Psychology and Social Media,"Bowen, Jeffrey","Bowen, Jeffrey",2025 Spring,Psychological and Brain Sciences,3.14,4.52,4.32
+AS.200.325.01.FA24,Social Attraction and Relationship Development,"Selterman, Dylan","Selterman, Dylan",2024 Fall,Psychological and Brain Sciences,2.89,4.17,3.83
+AS.200.325.01.FA25,Social Attraction and Relationship Development,"Selterman, Dylan","Selterman, Dylan",2025 Fall,Psychological and Brain Sciences,2.76,4.65,4.65
+AS.200.330.01.SP24,Human and Machine Intelligence,"Lee, Daeyeol","Lee, Daeyeol",2024 Spring,Psychological and Brain Sciences,2.22,4.24,4.41
+AS.200.330.01.SP25,Human and Machine Intelligence,"Lee, Daeyeol","Lee, Daeyeol",2025 Spring,Psychological and Brain Sciences,2.31,4.56,4.31
+AS.200.332.01.SP24,Seminar in Theoretical Neuroscience,"Honey, Christopher","Honey, Christopher",2024 Spring,Psychological and Brain Sciences,2.64,4.60,4.80
+AS.200.332.01.SP25,Seminar in Theoretical Neuroscience,"Honey, Christopher","Honey, Christopher",2025 Spring,Psychological and Brain Sciences,2.84,4.42,4.32
+AS.200.333.01.FA24,Advanced Social Psychology,"Drigotas, Stephen","Drigotas, Stephen",2024 Fall,Psychological and Brain Sciences,3.00,4.53,4.53
+AS.200.333.01.FA25,Advanced Social Psychology,"Drigotas, Stephen","Drigotas, Stephen",2025 Fall,Psychological and Brain Sciences,3.50,4.75,4.75
+AS.200.334.01.SP24,Human Memory Psychology,"Chen, Janice","Chen, Janice",2024 Spring,Psychological and Brain Sciences,1.94,4.63,4.31
+AS.200.334.01.FA25,Human Memory Psychology,"Chen, Janice","Chen, Janice",2025 Fall,Psychological and Brain Sciences,2.28,4.83,4.50
+AS.200.337.01.SP24,Origins of the Social Mind,"Krupenye, Christopher","Krupenye, Christopher",2024 Spring,Psychological and Brain Sciences,3.00,4.64,4.69
+AS.200.337.01.FA24,Origins of the Social Mind,"Krupenye, Christopher","Krupenye, Christopher",2024 Fall,Psychological and Brain Sciences,2.79,4.71,4.64
+AS.200.340.01.SP24,Diversity in Psychology,"Haskins, Debby","Haskins, Debby",2024 Spring,Psychological and Brain Sciences,2.81,4.81,4.50
+AS.200.340.01.FA24,Diversity in Psychology,"Kirkman, Claudette","Kirkman, Claudette",2024 Fall,Psychological and Brain Sciences,2.81,4.81,4.50
+AS.200.340.01.SP25,Diversity in Psychology,"Haskins, Debby","Haskins, Debby",2025 Spring,Psychological and Brain Sciences,3.07,4.81,4.56
+AS.200.340.01.FA25,Diversity in Psychology,"Kirkman, Claudette","Kirkman, Claudette",2025 Fall,Psychological and Brain Sciences,2.81,4.56,4.19
+AS.200.344.01.SP24,Behavioral Endocrinology,"Bohn, Kirsten","Bohn, Kirsten",2024 Spring,Psychological and Brain Sciences,3.00,4.26,4.41
+AS.200.344.01.SP25,Behavioral Endocrinology,"Bohn, Kisi","Bohn, Kisi",2025 Spring,Psychological and Brain Sciences,3.18,4.35,4.34
+AS.200.369.01.SP25,Neuroscience of Motivation & Reward,"Janak, patricia","Janak, patricia",2025 Spring,Psychological and Brain Sciences,2.73,4.67,4.33
+AS.200.370.01.SP24,Functional Human Neuroanatomy,"Courtney Faruqee, Susan","Courtney Faruqee, Susan",2024 Spring,Psychological and Brain Sciences,3.08,3.85,4.00
+AS.200.374.01.SP24,Happiness and Psychological Well-Being,"Selterman, Dylan","Selterman, Dylan",2024 Spring,Psychological and Brain Sciences,2.72,4.11,4.06
+AS.200.374.02.SP25,Happiness and Psychological Well-Being,"Selterman, Dylan","Selterman, Dylan",2025 Spring,Psychological and Brain Sciences,2.69,4.53,4.25
+AS.200.374.01.SP25,Happiness and Psychological Well-Being,"Selterman, Dylan","Selterman, Dylan",2025 Spring,Psychological and Brain Sciences,2.83,4.67,4.50
+AS.200.376.01.FA24,Neuropsychopharmacology,"Sterbing-D'Angelo, Susanne","Sterbing-D'Angelo, Susanne",2024 Fall,Psychological and Brain Sciences,3.16,3.95,4.14
+AS.200.376.01.FA25,Neuropsychopharmacology,"Gorman, Linda","Gorman, Linda",2025 Fall,Psychological and Brain Sciences,3.17,3.67,4.06
+AS.200.376.01.FA25,Neuropsychopharmacology,"Sterbing-D'Angelo, Susanne","Sterbing-D'Angelo, Susanne",2025 Fall,Psychological and Brain Sciences,3.17,3.50,4.06
+AS.200.376.01.FA25,Neuropsychopharmacology,"Baraban, Jay","Baraban, Jay",2025 Fall,Psychological and Brain Sciences,3.17,4.03,4.06
+AS.200.377.01.SP24,Neuroethology,"Sterbing-D'Angelo, Susanne","Sterbing-D'Angelo, Susanne",2024 Spring,Psychological and Brain Sciences,3.33,4.80,4.80
+AS.200.377.01.SP25,Neuroethology,"Sterbing-D'Angelo, Susanne","Sterbing-D'Angelo, Susanne",2025 Spring,Psychological and Brain Sciences,2.86,4.75,4.81
+AS.200.380.01.FA24,Neurobiology of Human Cognition,"Bedny, Marina","Bedny, Marina",2024 Fall,Psychological and Brain Sciences,3.58,3.59,3.96
+AS.200.380.01.FA25,Neurobiology of Human Cognition,"Bedny, Marina","Bedny, Marina",2025 Fall,Psychological and Brain Sciences,3.08,4.57,4.50
+AS.200.382.01.FA24,Models of Psychotherapy,"Papadakis, Alison","Papadakis, Alison",2024 Fall,Psychological and Brain Sciences,4.00,4.67,4.73
+AS.200.382.01.SP25,Models of Psychotherapy,"Papadakis, Alison","Papadakis, Alison",2025 Spring,Psychological and Brain Sciences,3.86,5.00,4.93
+AS.200.382.01.FA25,Models of Psychotherapy,"Papadakis, Alison","Papadakis, Alison",2025 Fall,Psychological and Brain Sciences,3.56,4.81,5.00
+AS.200.385.01.SP25,Human Neuroplasticity,"Bedny, Marina","Bedny, Marina",2025 Spring,Psychological and Brain Sciences,2.93,4.86,4.71
+AS.200.388.01.SP24,Occupational Health Psychology,"Fox, Heather","Fox, Heather",2024 Spring,Psychological and Brain Sciences,2.71,4.57,4.17
+AS.200.401.01.SP24,Careers in Psychology -Freshman,"Fox, Heather","Fox, Heather",2024 Spring,Psychological and Brain Sciences,1.44,4.36,3.63
+AS.200.401.01.SP25,Careers in Psychology -Freshman,Eatherly + Halberda + Schantz,"Eatherly, Rickie + Halberda, Justin + Schantz, Ashley",2025 Spring,Psychological and Brain Sciences,2.00,4.40,4.20
+AS.200.402.01.SP24,Careers in Psychology - Sophomore,"Fox, Heather","Fox, Heather",2024 Spring,Psychological and Brain Sciences,1.29,4.57,3.00
+AS.200.402.01.SP25,Careers in Psychology - Sophomore,"Halberda, Justin","Halberda, Justin",2025 Spring,Psychological and Brain Sciences,1.60,4.20,3.40
+AS.200.402.01.SP25,Careers in Psychology - Sophomore,"Schantz, Ashley","Schantz, Ashley",2025 Spring,Psychological and Brain Sciences,1.60,4.80,3.40
+AS.200.402.01.SP25,Careers in Psychology - Sophomore,"Eatherly, Rickie","Eatherly, Rickie",2025 Spring,Psychological and Brain Sciences,1.60,4.80,3.40
+AS.200.403.01.SP24,Careers in Psychology - Juniors & Seniors,"Fox, Heather","Fox, Heather",2024 Spring,Psychological and Brain Sciences,1.86,4.50,4.07
+AS.200.403.01.SP25,Careers in Psychology - Juniors,"Halberda, Justin","Halberda, Justin",2025 Spring,Psychological and Brain Sciences,1.63,3.80,3.50
+AS.200.403.01.SP25,Careers in Psychology - Juniors,"Schantz, Ashley","Schantz, Ashley",2025 Spring,Psychological and Brain Sciences,1.63,4.63,3.50
+AS.200.403.01.SP25,Careers in Psychology - Juniors,"Eatherly, Rickie","Eatherly, Rickie",2025 Spring,Psychological and Brain Sciences,1.63,4.75,3.50
+AS.200.404.01.SP25,Careers in Psychology - Seniors,"Halberda, Justin","Halberda, Justin",2025 Spring,Psychological and Brain Sciences,2.00,4.00,3.80
+AS.200.404.01.SP25,Careers in Psychology - Seniors,"Schantz, Ashley","Schantz, Ashley",2025 Spring,Psychological and Brain Sciences,2.00,4.40,3.80
+AS.200.404.01.SP25,Careers in Psychology - Seniors,"Eatherly, Rickie","Eatherly, Rickie",2025 Spring,Psychological and Brain Sciences,2.00,4.60,3.80
+AS.200.457.01.FA24,Advanced Statistical Methods,"Honey, Christopher","Honey, Christopher",2024 Fall,Psychological and Brain Sciences,3.75,4.00,4.00

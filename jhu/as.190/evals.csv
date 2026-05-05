@@ -1,0 +1,118 @@
+course_code,course_title,instructor,instructors_full,term,department,workload_avg,teaching_avg,intellectual_avg
+AS.190.101.05.SP25,Introduction to American Politics,"Sheingate, Adam","Sheingate, Adam",2025 Spring,Political Science,2.75,4.63,4.19
+AS.190.101.01.SP25,Introduction to American Politics,"Sheingate, Adam","Sheingate, Adam",2025 Spring,Political Science,2.63,4.59,4.24
+AS.190.101.04.SP25,Introduction to American Politics,"Sheingate, Adam","Sheingate, Adam",2025 Spring,Political Science,2.83,3.67,3.67
+AS.190.101.03.SP25,Introduction to American Politics,"Sheingate, Adam","Sheingate, Adam",2025 Spring,Political Science,3.00,4.47,4.47
+AS.190.101.07.SP25,Introduction to American Politics,"Sheingate, Adam","Sheingate, Adam",2025 Spring,Political Science,3.07,4.60,4.20
+AS.190.101.02.SP25,Introduction to American Politics,"Sheingate, Adam","Sheingate, Adam",2025 Spring,Political Science,2.75,4.44,3.75
+AS.190.101.05.FA25,Introduction to American Politics,"Lieberman, Robert","Lieberman, Robert",2025 Fall,Political Science,2.73,3.75,4.25
+AS.190.101.03.FA25,Introduction to American Politics,"Lieberman, Robert","Lieberman, Robert",2025 Fall,Political Science,3.20,3.57,3.93
+AS.190.101.01.FA25,Introduction to American Politics,"Lieberman, Robert","Lieberman, Robert",2025 Fall,Political Science,2.63,3.53,3.53
+AS.190.101.04.FA25,Introduction to American Politics,"Lieberman, Robert","Lieberman, Robert",2025 Fall,Political Science,2.64,3.18,3.45
+AS.190.101.06.FA25,Introduction to American Politics,"Lieberman, Robert","Lieberman, Robert",2025 Fall,Political Science,2.44,3.33,3.67
+AS.190.101.02.FA25,Introduction to American Politics,"Lieberman, Robert","Lieberman, Robert",2025 Fall,Political Science,2.72,3.39,3.78
+AS.190.102.06.SP24,Introduction To Comparative Politics,"Jabko, Nicolas","Jabko, Nicolas",2024 Spring,Political Science,3.25,4.00,4.00
+AS.190.102.02.SP24,Introduction To Comparative Politics,"Jabko, Nicolas","Jabko, Nicolas",2024 Spring,Political Science,3.41,3.88,4.12
+AS.190.102.01.SP24,Introduction To Comparative Politics,"Jabko, Nicolas","Jabko, Nicolas",2024 Spring,Political Science,3.22,3.61,3.72
+AS.190.102.05.SP24,Introduction To Comparative Politics,"Jabko, Nicolas","Jabko, Nicolas",2024 Spring,Political Science,3.43,3.50,4.14
+AS.190.102.08.SP24,Introduction To Comparative Politics,"Jabko, Nicolas","Jabko, Nicolas",2024 Spring,Political Science,2.88,3.76,3.76
+AS.190.102.04.SP24,Introduction To Comparative Politics,"Jabko, Nicolas","Jabko, Nicolas",2024 Spring,Political Science,3.42,3.63,4.11
+AS.190.102.07.SP24,Introduction To Comparative Politics,"Jabko, Nicolas","Jabko, Nicolas",2024 Spring,Political Science,3.00,3.50,3.33
+AS.190.102.03.SP24,Introduction To Comparative Politics,"Jabko, Nicolas","Jabko, Nicolas",2024 Spring,Political Science,3.19,3.63,4.31
+AS.190.108.05.FA25,Contemporary International Politics,"David, Steven","David, Steven",2025 Fall,Political Science,4.50,4.60,4.60
+AS.190.108.01.FA25,Contemporary International Politics,"David, Steven","David, Steven",2025 Fall,Political Science,3.78,4.89,4.67
+AS.190.108.06.FA25,Contemporary International Politics,"David, Steven","David, Steven",2025 Fall,Political Science,3.62,4.15,4.23
+AS.190.108.04.FA25,Contemporary International Politics,"David, Steven","David, Steven",2025 Fall,Political Science,3.23,4.57,4.36
+AS.190.108.03.FA25,Contemporary International Politics,"David, Steven","David, Steven",2025 Fall,Political Science,3.71,4.93,4.79
+AS.190.108.02.FA25,Contemporary International Politics,"David, Steven","David, Steven",2025 Fall,Political Science,3.56,4.78,4.78
+AS.190.111.03.FA24,Introduction to Global Studies,"Marlin-Bennett, Renee","Marlin-Bennett, Renee",2024 Fall,Political Science,3.17,3.28,3.67
+AS.190.111.05.FA24,Introduction to Global Studies,"Marlin-Bennett, Renee","Marlin-Bennett, Renee",2024 Fall,Political Science,2.94,3.25,3.50
+AS.190.111.06.FA24,Introduction to Global Studies,"Marlin-Bennett, Renee","Marlin-Bennett, Renee",2024 Fall,Political Science,3.25,3.00,3.41
+AS.190.111.02.FA24,Introduction to Global Studies,"Marlin-Bennett, Renee","Marlin-Bennett, Renee",2024 Fall,Political Science,3.28,3.17,3.83
+AS.190.111.01.FA24,Introduction to Global Studies,"Marlin-Bennett, Renee","Marlin-Bennett, Renee",2024 Fall,Political Science,3.11,3.06,3.39
+AS.190.111.04.FA24,Introduction to Global Studies,"Marlin-Bennett, Renee","Marlin-Bennett, Renee",2024 Fall,Political Science,3.38,2.63,3.50
+AS.190.122.01.FA24,Western Political Theory,"Phillips, Chas.","Phillips, Chas.",2024 Fall,Political Science,3.85,4.70,4.70
+AS.190.180.03.SP25,Introduction to Political Theory,"Brendese, PJ","Brendese, PJ",2025 Spring,Political Science,2.80,4.47,4.40
+AS.190.180.02.SP25,Introduction to Political Theory,"Brendese, PJ","Brendese, PJ",2025 Spring,Political Science,3.00,4.50,4.25
+AS.190.180.01.SP25,Introduction to Political Theory,"Brendese, PJ","Brendese, PJ",2025 Spring,Political Science,3.27,4.25,4.38
+AS.190.180.04.SP25,Introduction to Political Theory,"Brendese, PJ","Brendese, PJ",2025 Spring,Political Science,3.13,4.50,4.75
+AS.190.180.05.FA25,Introduction to Political Theory,"Simon, Josh","Simon, Josh",2025 Fall,Political Science,3.00,4.69,4.31
+AS.190.180.01.FA25,Introduction to Political Theory,"Simon, Josh","Simon, Josh",2025 Fall,Political Science,3.50,4.53,4.71
+AS.190.180.04.FA25,Introduction to Political Theory,"Simon, Josh","Simon, Josh",2025 Fall,Political Science,3.71,4.86,4.43
+AS.190.180.03.FA25,Introduction to Political Theory,"Simon, Josh","Simon, Josh",2025 Fall,Political Science,3.22,4.44,4.22
+AS.190.180.02.FA25,Introduction to Political Theory,"Simon, Josh","Simon, Josh",2025 Fall,Political Science,3.29,4.53,4.13
+AS.190.227.04.FA24,U.S. Foreign Policy,"Schmidt, Sebastian","Schmidt, Sebastian",2024 Fall,Political Science,3.36,4.55,4.09
+AS.190.227.02.FA24,U.S. Foreign Policy,"Schmidt, Sebastian","Schmidt, Sebastian",2024 Fall,Political Science,2.94,4.13,3.94
+AS.190.227.03.FA24,U.S. Foreign Policy,"Schmidt, Sebastian","Schmidt, Sebastian",2024 Fall,Political Science,3.56,4.22,4.33
+AS.190.227.01.FA24,U.S. Foreign Policy,"Schmidt, Sebastian","Schmidt, Sebastian",2024 Fall,Political Science,3.31,4.13,4.56
+AS.190.227.05.FA24,U.S. Foreign Policy,"Schmidt, Sebastian","Schmidt, Sebastian",2024 Fall,Political Science,2.80,4.00,3.40
+AS.190.228.01.FA24,The American Presidency,"Ginsberg, Benjamin","Ginsberg, Benjamin",2024 Fall,Political Science,2.33,4.50,4.25
+AS.190.228.01.FA25,The American Presidency,"Ginsberg, Benjamin","Ginsberg, Benjamin",2025 Fall,Political Science,2.62,4.69,4.57
+AS.190.231.01.FA24,Politics of Income Inequality,"Rehm, Philipp","Rehm, Philipp",2024 Fall,Political Science,2.90,4.40,4.20
+AS.190.231.01.SP25,Politics of Income Inequality,"Rehm, Philipp","Rehm, Philipp",2025 Spring,Political Science,3.27,5.00,4.55
+AS.190.231.01.FA25,Politics of Income Inequality,"Rehm, Philipp","Rehm, Philipp",2025 Fall,Political Science,3.00,4.40,4.13
+AS.190.239.01.SP24,Power and Global Politics,"Marlin-Bennett, Renee","Marlin-Bennett, Renee",2024 Spring,Political Science,3.08,3.92,4.42
+AS.190.246.01.FA24,Climate Solutions:  The Global Politics and Technology of Decarbonization,"Allan, Bentley","Allan, Bentley",2024 Fall,Political Science,3.00,4.63,4.50
+AS.190.246.03.FA24,Climate Solutions:  The Global Politics and Technology of Decarbonization,"Allan, Bentley","Allan, Bentley",2024 Fall,Political Science,3.40,5.00,4.70
+AS.190.246.01.FA25,Climate Solutions:  The Global Politics and Technology of Decarbonization,"Allan, Bentley","Allan, Bentley",2025 Fall,Political Science,3.04,4.72,4.58
+AS.190.249.01.SP25,Fictional World Politics: International Relations Through Fiction,"Marlin-Bennett, Renee","Marlin-Bennett, Renee",2025 Spring,Political Science,3.29,4.47,4.40
+AS.190.251.01.SP24,Labor and American Politics,"Luff, Jennifer","Luff, Jennifer",2024 Spring,Political Science,3.00,4.56,4.39
+AS.190.267.03.FA24,Introduction to Political Economy,"Chambers, Samuel","Chambers, Samuel",2024 Fall,Political Science,3.43,3.43,4.00
+AS.190.267.01.FA24,Introduction to Political Economy,"Chambers, Samuel","Chambers, Samuel",2024 Fall,Political Science,2.58,4.23,4.62
+AS.190.267.02.FA24,Introduction to Political Economy,"Chambers, Samuel","Chambers, Samuel",2024 Fall,Political Science,3.18,4.00,4.09
+AS.190.286.01.SP24,"Liberalism, Republicanism, and Democracy in American Political Theory","Schmitz, Volker","Schmitz, Volker",2024 Spring,Political Science,4.20,3.40,4.40
+AS.190.302.01.SP24,Human Rights and Global Justice,"Ross, Andrew","Ross, Andrew",2024 Spring,Political Science,3.57,4.86,4.71
+AS.190.305.01.SP25,"Human Rights as a Practice, Weapon, and Symbol","Ross, Andrew","Ross, Andrew",2025 Spring,Political Science,3.57,4.79,4.79
+AS.190.314.01.FA25,What is Money?,"Chambers, Samuel","Chambers, Samuel",2025 Fall,Political Science,3.63,3.88,4.25
+AS.190.317.01.SP25,Marxism and Revolution,"Schmitz, Volker","Schmitz, Volker",2025 Spring,Political Science,3.63,5.00,5.00
+AS.190.317.01.SP25,Marxism and Revolution,"Roundtree, Jacob","Roundtree, Jacob",2025 Spring,Political Science,3.63,4.50,5.00
+AS.190.318.01.SP24,Does Israel Have a Future?,"David, Steven","David, Steven",2024 Spring,Political Science,3.19,4.75,4.75
+AS.190.318.01.SP25,Does Israel Have a Future?,"David, Steven","David, Steven",2025 Spring,Political Science,3.29,4.86,4.86
+AS.190.322.01.SP25,Future of American Democracy,"Lieberman, Robert","Lieberman, Robert",2025 Spring,Political Science,2.92,4.33,4.00
+AS.190.327.01.FA25,Politics of Information,"Marlin-Bennett, Renee","Marlin-Bennett, Renee",2025 Fall,Political Science,3.33,3.67,4.33
+AS.190.339.01.FA24,American Racial Politics,"Spence, Lester","Spence, Lester",2024 Fall,Political Science,3.00,4.72,4.67
+AS.190.345.01.SP25,Public Opinion,"Trump, Kris-Stella","Trump, Kris-Stella",2025 Spring,Political Science,2.80,4.90,4.62
+AS.190.345.01.FA25,Public Opinion,"Trump, Kris-Stella","Trump, Kris-Stella",2025 Fall,Political Science,2.95,4.43,4.05
+AS.190.347.01.FA24,A New Cold War? Sino-American Relations in the 21st Century,"David, Steven","David, Steven",2024 Fall,Political Science,3.40,4.93,4.93
+AS.190.348.01.SP24,"Business, Finance, and Government in E. Asia","Yasuda, John","Yasuda, John",2024 Spring,Political Science,3.14,4.80,4.73
+AS.190.355.01.SP25,Comparative Racial Politics,"Spence, Lester","Spence, Lester",2025 Spring,Political Science,2.94,4.44,4.47
+AS.190.360.01.FA25,Data Science meets Political Science,"Shilliam, Robbie","Shilliam, Robbie",2025 Fall,Political Science,1.71,4.57,3.86
+AS.190.360.01.FA25,Data Science meets Political Science,"Murray, Kenton","Murray, Kenton",2025 Fall,Political Science,1.71,4.43,3.86
+AS.190.364.01.SP25,Conversations on the Crisis in the Middle East,"David, Steven","David, Steven",2025 Spring,Political Science,1.80,4.67,4.42
+AS.190.366.01.FA24,Free Speech and the Law in Comparative Perspective,"Katz, Richard","Katz, Richard",2024 Fall,Political Science,3.31,4.19,4.63
+AS.190.366.01.FA24,Free Speech and the Law in Comparative Perspective,"Zackin, Emily","Zackin, Emily",2024 Fall,Political Science,3.31,4.75,4.63
+AS.190.370.01.FA25,Chinese Politics,"Yasuda, John","Yasuda, John",2025 Fall,Political Science,3.06,5.00,4.76
+AS.190.373.01.SP24,Theories of Global Violence,"Phillips, Chas.","Phillips, Chas.",2024 Spring,Political Science,3.87,4.81,4.63
+AS.190.377.01.SP25,Rastafari in Baltimore and the Caribbean: Transnational Community Development in the Black World,"Shilliam, Robbie","Shilliam, Robbie",2025 Spring,Political Science,3.00,4.75,4.63
+AS.190.378.01.SP25,The U.S. Supreme Court and Social Movements,"Zackin, Emily","Zackin, Emily",2025 Spring,Political Science,3.27,4.86,4.87
+AS.190.379.01.FA24,Nationalism and the Politics of Identity,"Kocher, Matthew","Kocher, Matthew",2024 Fall,Political Science,3.50,4.63,4.88
+AS.190.379.01.FA25,Nationalism and the Politics of Identity,"Kocher, Matthew","Kocher, Matthew",2025 Fall,Political Science,3.64,4.50,4.71
+AS.190.385.01.SP24,Urban Politics and Policy,"Spence, Lester","Spence, Lester",2024 Spring,Political Science,2.74,4.68,4.16
+AS.190.388.01.FA24,Race and the Politics of Memory,"Brendese, PJ","Brendese, PJ",2024 Fall,Political Science,3.50,4.25,4.75
+AS.190.390.01.SP25,Race and American Democracy,"Lieberman, Robert","Lieberman, Robert",2025 Spring,Political Science,3.00,5.00,5.00
+AS.190.394.01.SP24,Comparative Politics of the Middle East and North Africa,"Parkinson, Sarah","Parkinson, Sarah",2024 Spring,Political Science,3.89,4.78,4.56
+AS.190.397.01.FA24,The Politics of International Law,"Ross, Andrew","Ross, Andrew",2024 Fall,Political Science,3.64,4.79,4.86
+AS.190.397.01.FA25,The Politics of International Law,"Ross, Andrew","Ross, Andrew",2025 Fall,Political Science,3.61,4.83,4.83
+AS.190.405.01.FA24,Food Politics,"Sheingate, Adam","Sheingate, Adam",2024 Fall,Political Science,2.86,4.93,4.79
+AS.190.405.01.FA25,Food Politics,"Sheingate, Adam","Sheingate, Adam",2025 Fall,Political Science,3.32,4.82,4.50
+AS.190.423.01.SP25,Planetary Geopolitics,"Deudney, Daniel","Deudney, Daniel",2025 Spring,Political Science,3.43,4.71,4.57
+AS.190.425.01.SP24,The New Deal and American Politics,"Schlozman, Daniel","Schlozman, Daniel",2024 Spring,Political Science,3.82,4.67,4.82
+AS.190.427.01.SP24,Political Economy of Japan and Korea,"Chung, Erin","Chung, Erin",2024 Spring,Political Science,3.14,4.86,4.71
+AS.190.429.01.SP24,Politics of the Market Economy,"Jabko, Nicolas","Jabko, Nicolas",2024 Spring,Political Science,4.13,4.63,4.75
+AS.190.429.01.SP25,Politics of the Market Economy,"Jabko, Nicolas","Jabko, Nicolas",2025 Spring,Political Science,4.33,4.00,4.71
+AS.190.437.01.FA25,Race and Ethnic Politics in the United States,"Weaver, Vesla","Weaver, Vesla",2025 Fall,Political Science,4.10,4.90,4.90
+AS.190.438.01.FA24,Violence and Politics,"Ginsberg, Benjamin","Ginsberg, Benjamin",2024 Fall,Political Science,2.67,4.31,4.08
+AS.190.438.01.FA25,Violence and Politics,"Ginsberg, Benjamin","Ginsberg, Benjamin",2025 Fall,Political Science,2.17,4.55,4.58
+AS.190.439.01.SP24,The American State from Above and Below,Lieberman + Weaver,"Lieberman, Robert + Weaver, Vesla",2024 Spring,Political Science,3.33,4.78,4.56
+AS.190.440.01.FA24,European Politics in Comparative Perspective,"Jabko, Nicolas","Jabko, Nicolas",2024 Fall,Political Science,3.50,4.88,4.75
+AS.190.443.01.FA25,Politics of Outer Space,"Deudney, Daniel","Deudney, Daniel",2025 Fall,Political Science,2.59,4.23,4.27
+AS.190.451.01.SP25,Geopolitics,"Deudney, Daniel","Deudney, Daniel",2025 Spring,Political Science,3.33,4.46,4.46
+AS.190.454.01.FA24,Nuclear Weapons and World Politics,"Deudney, Daniel","Deudney, Daniel",2024 Fall,Political Science,3.14,4.40,4.53
+AS.190.456.01.FA24,Humanitarianism and World Politics,Barkawi + Ross,"Barkawi, Tarak + Ross, Andrew",2024 Fall,Political Science,4.00,4.88,4.88
+AS.190.458.01.FA24,Global climate Politics: Net-Zero Industrial Policy and World Order,"Allan, Bentley","Allan, Bentley",2024 Fall,Political Science,3.75,5.00,5.00
+AS.190.467.01.FA25,Theories of Justice,"Culbert, Jennifer","Culbert, Jennifer",2025 Fall,Political Science,3.63,4.38,4.88
+AS.190.474.01.SP24,Philosophy of Law,"Culbert, Jennifer","Culbert, Jennifer",2024 Spring,Political Science,3.17,4.92,5.00
+AS.190.475.01.FA24,America in Comparative and International Perspective,"Deudney, Daniel","Deudney, Daniel",2024 Fall,Political Science,3.80,4.50,4.60
+AS.190.475.01.FA25,America in Comparative and International Perspective,"Deudney, Daniel","Deudney, Daniel",2025 Fall,Political Science,2.89,4.11,4.00
+AS.190.480.01.FA24,Democracy and Institutional Anxiety across the Political Spectrum,Shilliam + Teles,"Shilliam, Robbie + Teles, Steven",2024 Fall,Political Science,3.00,4.67,4.82
+AS.190.481.01.SP25,"Student Activism: Histories, Theories, Practices","Shilliam, Robbie","Shilliam, Robbie",2025 Spring,Political Science,2.56,4.80,4.73

@@ -1,0 +1,66 @@
+course_code,course_title,instructor,instructors_full,term,department,workload_avg,teaching_avg,intellectual_avg
+AS.371.126.01.FA24,Fiber Art and the String Revolution,"Baskin, Sasha","Baskin, Sasha",2024 Fall,Art,2.92,5.00,4.43
+AS.371.126.02.FA24,Fiber Art and the String Revolution,"Baskin, Sasha","Baskin, Sasha",2024 Fall,Art,2.79,5.00,4.57
+AS.371.126.02.FA25,Fiber Art and the String Revolution,"Baskin, Sasha","Baskin, Sasha",2025 Fall,Art,2.91,5.00,4.64
+AS.371.126.01.FA25,Fiber Art and the String Revolution,"Baskin, Sasha","Baskin, Sasha",2025 Fall,Art,3.36,5.00,4.62
+AS.371.130.01.SP24,Smartphone Photography,"Caro, Christiana","Caro, Christiana",2024 Spring,Art,2.38,4.25,4.13
+AS.371.130.01.FA24,Smartphone Photography,"Caro, Christiana","Caro, Christiana",2024 Fall,Art,2.50,4.50,4.13
+AS.371.130.01.SP25,Smartphone Photography,"Caro, Christiana","Caro, Christiana",2025 Spring,Art,1.78,4.30,4.10
+AS.371.131.01.SP24,Foundation Drawing,"Hwang, Tae","Hwang, Tae",2024 Spring,Art,2.85,4.62,4.50
+AS.371.131.02.SP24,Foundation Drawing,"Hwang, Tae","Hwang, Tae",2024 Spring,Art,2.77,4.31,4.08
+AS.371.131.02.FA24,Foundation Drawing,"Shaw, Ernest","Shaw, Ernest",2024 Fall,Art,2.67,4.42,4.00
+AS.371.131.01.FA24,Foundation Drawing,"Hwang, Tae","Hwang, Tae",2024 Fall,Art,2.83,4.75,4.17
+AS.371.131.02.SP25,Foundation Drawing,"Baskin, Sasha","Baskin, Sasha",2025 Spring,Art,2.54,4.86,4.64
+AS.371.131.01.SP25,Foundation Drawing,"Hwang, Tae","Hwang, Tae",2025 Spring,Art,2.85,4.57,3.93
+AS.371.131.02.FA25,Foundation Drawing,"Hwang, Tae","Hwang, Tae",2025 Fall,Art,2.83,4.42,4.17
+AS.371.131.01.FA25,Foundation Drawing,"Hwang, Tae","Hwang, Tae",2025 Fall,Art,3.08,4.46,4.23
+AS.371.133.01.SP24,Oil Painting I,"Murphy, Margaret","Murphy, Margaret",2024 Spring,Art,3.50,4.75,4.50
+AS.371.133.02.SP24,Oil Painting I,"Gruber, Barbara","Gruber, Barbara",2024 Spring,Art,3.00,4.56,4.11
+AS.371.133.02.FA24,Oil Painting I,"Gruber, Barbara","Gruber, Barbara",2024 Fall,Art,3.50,4.60,4.44
+AS.371.133.01.FA24,Oil Painting I,"Murphy, Margaret","Murphy, Margaret",2024 Fall,Art,3.20,5.00,4.60
+AS.371.133.02.SP25,Oil Painting I,"Gruber, Barbara","Gruber, Barbara",2025 Spring,Art,3.73,4.00,3.90
+AS.371.133.01.SP25,Oil Painting I,"Shaw, Ernest","Shaw, Ernest",2025 Spring,Art,2.64,4.90,4.64
+AS.371.133.02.FA25,Oil Painting I,"Gruber, Barbara","Gruber, Barbara",2025 Fall,Art,3.40,3.20,3.89
+AS.371.133.01.FA25,Oil Painting I,"Murphy, Margaret","Murphy, Margaret",2025 Fall,Art,2.11,4.90,4.67
+AS.371.152.02.SP24,Introduction to Digital Photography,"Berger, phyllis","Berger, phyllis",2024 Spring,Art,2.56,4.40,4.30
+AS.371.152.01.SP24,Introduction to Digital Photography,"Berger, phyllis","Berger, phyllis",2024 Spring,Art,2.33,5.00,4.40
+AS.371.152.02.FA24,Digital Photography I,"Berger, phyllis","Berger, phyllis",2024 Fall,Art,3.20,4.90,4.50
+AS.371.152.01.FA24,Digital Photography I,"Berger, phyllis","Berger, phyllis",2024 Fall,Art,2.50,4.13,4.13
+AS.371.152.03.SP25,Digital Photography I,"Berger, phyllis","Berger, phyllis",2025 Spring,Art,2.44,4.80,4.22
+AS.371.152.01.SP25,Digital Photography I,"Caro, Christiana","Caro, Christiana",2025 Spring,Art,3.00,4.78,4.33
+AS.371.152.02.SP25,Digital Photography I,"Berger, phyllis","Berger, phyllis",2025 Spring,Art,2.50,4.20,4.40
+AS.371.152.03.FA25,Digital Photography I,"Caro, Christiana","Caro, Christiana",2025 Fall,Art,3.00,4.71,4.25
+AS.371.152.02.FA25,Digital Photography I,"berger, phyllis","berger, phyllis",2025 Fall,Art,2.50,4.80,4.30
+AS.371.152.01.FA25,Digital Photography I,"berger, phyllis","berger, phyllis",2025 Fall,Art,2.38,4.75,3.88
+AS.371.153.01.SP24,Introduction to Visual Communication- Graphic Design,"Hwang, Tae","Hwang, Tae",2024 Spring,Art,2.50,4.80,4.70
+AS.371.153.01.SP25,Introduction to Visual Communication- Graphic Design,"Hwang, Tae","Hwang, Tae",2025 Spring,Art,2.38,4.13,4.13
+AS.371.184.01.SP24,Introduction to Silk Screen Printing,"Reyes, Edgar","Reyes, Edgar",2024 Spring,Art,2.45,4.45,4.18
+AS.371.184.01.SP25,Introduction to Silk Screen Printing,"Reyes, Edgar","Reyes, Edgar",2025 Spring,Art,2.92,4.42,4.17
+AS.371.212.01.SP25,UX Design Fundamentals,"Flyntz, Elizabeth","Flyntz, Elizabeth",2025 Spring,Art,3.33,4.56,4.22
+AS.371.212.01.FA25,UX Design Fundamentals,"Flyntz, Elizabeth","Flyntz, Elizabeth",2025 Fall,Art,3.00,4.75,4.50
+AS.371.216.01.FA24,From the still life to the figurative: Photographic Lighting Techniques,"Steck Jr., John","Steck Jr., John",2024 Fall,Art,2.63,5.00,4.75
+AS.371.216.01.FA25,From the still life to the figurative: Photographic Lighting Techniques,"Steck Jr., John","Steck Jr., John",2025 Fall,Art,2.33,4.86,4.57
+AS.371.217.01.SP24,Film Photography in the Digital World,"Steck Jr., John","Steck Jr., John",2024 Spring,Art,2.67,5.00,4.56
+AS.371.217.01.FA24,Film Photography in the Digital World,"Steck Jr., John","Steck Jr., John",2024 Fall,Art,2.22,4.78,4.22
+AS.371.217.01.SP25,Film Photography in the Digital World,"Steck Jr., John","Steck Jr., John",2025 Spring,Art,2.70,4.80,4.50
+AS.371.217.01.FA25,Film Photography in the Digital World,"Steck Jr., John","Steck Jr., John",2025 Fall,Art,2.63,5.00,4.38
+AS.371.218.01.FA25,Documentary Photography: The Stories We Tell,"Caro, Christiana","Caro, Christiana",2025 Fall,Art,2.17,4.57,4.20
+AS.371.219.01.FA24,Experimental Photography: Light-Sensitive & Hands-on Processes,"Steck Jr., John","Steck Jr., John",2024 Fall,Art,2.80,5.00,5.00
+AS.371.219.01.FA25,Experimental Photography: Light-Sensitive & Hands-on Processes,"Steck Jr., John","Steck Jr., John",2025 Fall,Art,2.38,5.00,4.50
+AS.371.226.01.SP24,Sculptural Fibers,"Baskin, Sasha","Baskin, Sasha",2024 Spring,Art,3.36,4.92,4.75
+AS.371.226.01.SP25,Sculptural Fibers,"Baskin, Sasha","Baskin, Sasha",2025 Spring,Art,2.62,5.00,4.46
+AS.371.234.01.FA24,Oil Painting II,"Murphy, Margaret","Murphy, Margaret",2024 Fall,Art,3.67,4.33,4.40
+AS.371.234.01.FA25,Oil Painting II,"Murphy, Margaret","Murphy, Margaret",2025 Fall,Art,3.33,4.17,4.67
+AS.371.236.01.SP24,Drawing: The Portrait,"Baskin, Sasha","Baskin, Sasha",2024 Spring,Art,2.00,4.92,4.75
+AS.371.238.01.SP24,Portrait and Figure Painting,"Shaw, Ernest","Shaw, Ernest",2024 Spring,Art,2.38,3.75,4.25
+AS.371.238.01.SP25,Portrait and Figure Painting,"Shaw, Ernest","Shaw, Ernest",2025 Spring,Art,2.00,4.63,4.50
+AS.371.250.01.FA25,Life Drawing,"Shaw, Ernest","Shaw, Ernest",2025 Fall,Art,2.70,4.73,4.18
+AS.371.289.01.FA24,Collage & Assemblage: 2D and 3D Art Practices,"Hwang, Tae","Hwang, Tae",2024 Fall,Art,3.09,4.55,4.55
+AS.371.289.01.FA25,Collage & Assemblage: 2D and 3D Art Practices,"Hwang, Tae","Hwang, Tae",2025 Fall,Art,2.40,4.91,4.60
+AS.371.290.01.SP24,Introduction to Jewelry and Small Metals,"Lowrie, Andrew","Lowrie, Andrew",2024 Spring,Art,3.89,4.20,4.50
+AS.371.290.01.FA24,Introduction to Jewelry and Small Metals,"Lowrie, Andrew","Lowrie, Andrew",2024 Fall,Art,4.00,4.73,4.50
+AS.371.290.01.SP25,Introduction to Jewelry and Small Metals,"Lowrie, Andrew","Lowrie, Andrew",2025 Spring,Art,4.10,4.00,4.00
+AS.371.290.01.FA25,Introduction to Jewelry and Small Metals,"Lowrie, Andrew","Lowrie, Andrew",2025 Fall,Art,4.30,4.10,4.40
+AS.371.300.01.SP24,Advanced Fiber Structures,"Baskin, Sasha","Baskin, Sasha",2024 Spring,Art,3.63,4.88,4.75
+AS.371.300.01.SP25,Advanced Fiber Structures,"Baskin, Sasha","Baskin, Sasha",2025 Spring,Art,3.00,4.83,4.83
+AS.371.401.01.SP25,Advanced Projects in Visual Art,"Murphy, Margaret","Murphy, Margaret",2025 Spring,Art,3.33,4.44,4.33

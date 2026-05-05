@@ -1,0 +1,178 @@
+course_code,course_title,instructor,instructors_full,term,department,workload_avg,teaching_avg,intellectual_avg
+EN.520.123.01.SP24,Computational Modeling for Electrical and Computer Engineering,"Dehak, Najim","Dehak, Najim",2024 Spring,Electrical and Computer Engineering,2.89,1.81,3.12
+EN.520.123.01.SP24,Computational Modeling for Electrical and Computer Engineering,"Thebaud, Thomas","Thebaud, Thomas",2024 Spring,Electrical and Computer Engineering,2.89,3.17,3.12
+EN.520.123.03.SP24,Computational Modeling for Electrical and Computer Engineering,"Dehak, Najim","Dehak, Najim",2024 Spring,Electrical and Computer Engineering,3.08,2.22,2.92
+EN.520.123.03.SP24,Computational Modeling for Electrical and Computer Engineering,"Thebaud, Thomas","Thebaud, Thomas",2024 Spring,Electrical and Computer Engineering,3.08,3.33,2.92
+EN.520.123.02.SP24,Computational Modeling for Electrical and Computer Engineering,"Dehak, Najim","Dehak, Najim",2024 Spring,Electrical and Computer Engineering,3.16,2.18,3.16
+EN.520.123.02.SP24,Computational Modeling for Electrical and Computer Engineering,"Thebaud, Thomas","Thebaud, Thomas",2024 Spring,Electrical and Computer Engineering,3.16,3.16,3.16
+EN.520.137.03.SP25,First Year ECE Design,"Buccafusca, Lucas","Buccafusca, Lucas",2025 Spring,Electrical and Computer Engineering,3.83,4.21,4.04
+EN.520.137.02.SP25,First Year ECE Design,"Buccafusca, Lucas","Buccafusca, Lucas",2025 Spring,Electrical and Computer Engineering,3.56,4.06,4.33
+EN.520.137.01.SP25,First Year ECE Design,"Buccafusca, Lucas","Buccafusca, Lucas",2025 Spring,Electrical and Computer Engineering,3.32,4.43,4.35
+EN.520.142.01.SP24,Digital Systems Fundamentals,"Buccafusca, Lucas","Buccafusca, Lucas",2024 Spring,Electrical and Computer Engineering,3.19,4.73,4.17
+EN.520.142.01.SP25,Digital Systems Fundamentals,"Buccafusca, Lucas","Buccafusca, Lucas",2025 Spring,Electrical and Computer Engineering,3.51,4.45,4.24
+EN.520.150.01.SP24,"Light, Image and Vision","Kang, Jin","Kang, Jin",2024 Spring,Electrical and Computer Engineering,2.00,4.80,4.20
+EN.520.150.01.SP25,"Light, Image and Vision","Kang, Jin","Kang, Jin",2025 Spring,Electrical and Computer Engineering,2.10,4.30,3.60
+EN.520.214.02.SP24,Signals & Systems,"Elhilali, Mounya","Elhilali, Mounya",2024 Spring,Electrical and Computer Engineering,4.00,3.53,4.62
+EN.520.214.01.SP24,Signals & Systems,"Elhilali, Mounya","Elhilali, Mounya",2024 Spring,Electrical and Computer Engineering,3.73,3.71,4.35
+EN.520.214.03.SP25,Signals & Systems,"Elhilali, Mounya","Elhilali, Mounya",2025 Spring,Electrical and Computer Engineering,4.00,3.85,4.30
+EN.520.214.02.SP25,Signals & Systems,"Elhilali, Mounya","Elhilali, Mounya",2025 Spring,Electrical and Computer Engineering,3.43,4.36,4.43
+EN.520.214.01.SP25,Signals & Systems,"Elhilali, Mounya","Elhilali, Mounya",2025 Spring,Electrical and Computer Engineering,4.00,3.50,4.05
+EN.520.214.01.FA25,Signals and Systems,"Weinert, Howard","Weinert, Howard",2025 Fall,Electrical and Computer Engineering,2.76,4.41,4.65
+EN.520.216.01.SP24,Introduction To VLSI,"Etienne Cummings, Ralph","Etienne Cummings, Ralph",2024 Spring,Electrical and Computer Engineering,4.14,3.20,4.47
+EN.520.216.01.SP25,Introduction To VLSI,"Etienne Cummings, Ralph","Etienne Cummings, Ralph",2025 Spring,Electrical and Computer Engineering,3.73,3.48,4.09
+EN.520.219.02.FA24,Introduction to Electromagnetics,"Foster, Mark","Foster, Mark",2024 Fall,Electrical and Computer Engineering,2.88,3.50,3.67
+EN.520.219.01.FA24,Introduction to Electromagnetics,"Foster, Mark","Foster, Mark",2024 Fall,Electrical and Computer Engineering,2.48,4.11,3.96
+EN.520.219.01.FA25,Introduction to Electromagnetics,"Foster, Amy","Foster, Amy",2025 Fall,Electrical and Computer Engineering,2.88,2.77,3.76
+EN.520.220.01.SP24,Electromagnetic Waves,"Foster, Mark","Foster, Mark",2024 Spring,Electrical and Computer Engineering,2.60,4.40,4.60
+EN.520.220.01.SP25,Electromagnetic Waves,"Foster, Mark","Foster, Mark",2025 Spring,Electrical and Computer Engineering,2.86,4.08,4.38
+EN.520.225.01.FA24,Advanced Digital Systems,"Mendat, Daniel","Mendat, Daniel",2024 Fall,Electrical and Computer Engineering,2.67,4.00,4.09
+EN.520.225.01.FA25,Advanced Digital Systems,"Mendat, Daniel","Mendat, Daniel",2025 Fall,Electrical and Computer Engineering,2.44,4.33,4.00
+EN.520.230.03.FA24,Mastering Electronics,"Ramesh,  Sathappan","Ramesh,  Sathappan",2024 Fall,Electrical and Computer Engineering,3.80,3.50,3.81
+EN.520.230.03.FA24,Mastering Electronics,"Buccafusca,  Lucas","Buccafusca,  Lucas",2024 Fall,Electrical and Computer Engineering,3.80,4.50,3.81
+EN.520.230.02.FA24,Mastering Electronics,"Ramesh,  Sathappan","Ramesh,  Sathappan",2024 Fall,Electrical and Computer Engineering,3.56,3.46,4.20
+EN.520.230.02.FA24,Mastering Electronics,"Buccafusca,  Lucas","Buccafusca,  Lucas",2024 Fall,Electrical and Computer Engineering,3.56,4.53,4.20
+EN.520.230.01.FA24,Mastering Electronics,"Ramesh,  Sathappan","Ramesh,  Sathappan",2024 Fall,Electrical and Computer Engineering,4.00,3.92,4.67
+EN.520.230.01.FA24,Mastering Electronics,"Buccafusca,  Lucas","Buccafusca,  Lucas",2024 Fall,Electrical and Computer Engineering,4.00,4.38,4.67
+EN.520.230.04.FA24,Mastering Electronics,"Ramesh,  Sathappan","Ramesh,  Sathappan",2024 Fall,Electrical and Computer Engineering,4.33,3.70,4.25
+EN.520.230.04.FA24,Mastering Electronics,"Buccafusca,  Lucas","Buccafusca,  Lucas",2024 Fall,Electrical and Computer Engineering,4.33,4.75,4.25
+EN.520.230.01.FA25,Mastering Electronics,"Ramesh, Sathappan","Ramesh, Sathappan",2025 Fall,Electrical and Computer Engineering,4.08,3.23,4.34
+EN.520.230.01.FA25,Mastering Electronics,"Buccafusca, Lucas","Buccafusca, Lucas",2025 Fall,Electrical and Computer Engineering,4.08,4.31,4.34
+EN.520.231.03.FA24,Mastering Electronics Laboratory,"Ramesh,  Sathappan","Ramesh,  Sathappan",2024 Fall,Electrical and Computer Engineering,3.56,3.50,3.70
+EN.520.231.04.FA24,Mastering Electronics Laboratory,"Ramesh,  Sathappan","Ramesh,  Sathappan",2024 Fall,Electrical and Computer Engineering,3.29,4.12,3.76
+EN.520.231.02.FA24,Mastering Electronics Laboratory,"Ramesh,  Sathappan","Ramesh,  Sathappan",2024 Fall,Electrical and Computer Engineering,3.60,3.59,3.44
+EN.520.231.01.FA24,Mastering Electronics Laboratory,"Ramesh,  Sathappan","Ramesh,  Sathappan",2024 Fall,Electrical and Computer Engineering,3.63,3.37,3.37
+EN.520.231.01.FA25,Mastering Electronics Laboratory,"Ramesh, Sathappan","Ramesh, Sathappan",2025 Fall,Electrical and Computer Engineering,3.18,2.78,3.06
+EN.520.231.03.FA25,Mastering Electronics Laboratory,"Ramesh, Sathappan","Ramesh, Sathappan",2025 Fall,Electrical and Computer Engineering,3.47,3.00,3.47
+EN.520.231.02.FA25,Mastering Electronics Laboratory,"Ramesh, Sathappan","Ramesh, Sathappan",2025 Fall,Electrical and Computer Engineering,3.35,3.12,3.29
+EN.520.231.04.FA25,Mastering Electronics Laboratory,"Ramesh, Sathappan","Ramesh, Sathappan",2025 Fall,Electrical and Computer Engineering,3.50,3.13,3.13
+EN.520.232.01.SP24,Mastering Electronics II,"Foster, Amy","Foster, Amy",2024 Spring,Electrical and Computer Engineering,2.94,3.50,4.25
+EN.520.232.01.SP25,Mastering Electronics II,"Foster, Amy","Foster, Amy",2025 Spring,Electrical and Computer Engineering,2.67,4.17,4.25
+EN.520.233.01.SP24,Mastering Electronics II Lab,"Buccafusca, Lucas","Buccafusca, Lucas",2024 Spring,Electrical and Computer Engineering,3.14,5.00,4.57
+EN.520.233.02.SP24,Mastering Electronics II Lab,"Buccafusca, Lucas","Buccafusca, Lucas",2024 Spring,Electrical and Computer Engineering,3.13,5.00,4.50
+EN.520.233.01.SP25,Mastering Electronics II Lab,"Buccafusca, Lucas","Buccafusca, Lucas",2025 Spring,Electrical and Computer Engineering,2.20,5.00,4.80
+EN.520.233.02.SP25,Mastering Electronics II Lab,"Buccafusca, Lucas","Buccafusca, Lucas",2025 Spring,Electrical and Computer Engineering,3.00,4.86,4.71
+EN.520.302.01.SP24,Internet of Things Project Lab,"Glaser, Robert","Glaser, Robert",2024 Spring,Electrical and Computer Engineering,2.40,4.40,4.00
+EN.520.344.02.FA24,Introduction to Digital Signal Processing,"Iglesias, Pablo","Iglesias, Pablo",2024 Fall,Electrical and Computer Engineering,3.00,2.50,3.83
+EN.520.344.02.FA24,Introduction to Digital Signal Processing,"Buccafusca,  Lucas","Buccafusca,  Lucas",2024 Fall,Electrical and Computer Engineering,3.00,3.00,3.83
+EN.520.344.01.FA24,Introduction to Digital Signal Processing,"Iglesias, Pablo","Iglesias, Pablo",2024 Fall,Electrical and Computer Engineering,3.00,3.44,4.40
+EN.520.344.01.FA24,Introduction to Digital Signal Processing,"Buccafusca,  Lucas","Buccafusca,  Lucas",2024 Fall,Electrical and Computer Engineering,3.00,4.50,4.40
+EN.520.344.01.FA25,Introduction to Digital Signal Processing,"Sisman, Berrak","Sisman, Berrak",2025 Fall,Electrical and Computer Engineering,1.88,3.78,3.00
+EN.520.349.01.FA24,Microprocessor Lab I,"Glaser, Robert","Glaser, Robert",2024 Fall,Electrical and Computer Engineering,4.00,4.00,5.00
+EN.520.349.01.FA25,Microprocessor Lab I,"Glaser, Robert","Glaser, Robert",2025 Fall,Electrical and Computer Engineering,3.25,4.11,4.22
+EN.520.353.01.SP24,Control Systems,"Fazlyab, Mahyar","Fazlyab, Mahyar",2024 Spring,Electrical and Computer Engineering,3.09,4.08,4.31
+EN.520.353.01.SP25,Control Systems,"Fazlyab, Mahyar","Fazlyab, Mahyar",2025 Spring,Electrical and Computer Engineering,3.07,4.80,4.40
+EN.520.370.01.FA24,Introduction to Renewable Energy Engineering,"Thon, Susanna","Thon, Susanna",2024 Fall,Electrical and Computer Engineering,3.19,4.50,4.15
+EN.520.370.01.FA25,Introduction to Renewable Energy Engineering,"Thon, Susanna","Thon, Susanna",2025 Fall,Electrical and Computer Engineering,3.25,4.35,4.05
+EN.520.424.02.FA24,FPGA Synthesis Lab,"Pouliquen, Philippe","Pouliquen, Philippe",2024 Fall,Electrical and Computer Engineering,4.40,3.36,4.82
+EN.520.424.01.FA24,FPGA Synthesis Lab,"Pouliquen, Philippe","Pouliquen, Philippe",2024 Fall,Electrical and Computer Engineering,4.20,3.88,4.75
+EN.520.424.02.FA25,FPGA Synthesis Lab,"Pouliquen, Philippe","Pouliquen, Philippe",2025 Fall,Electrical and Computer Engineering,4.08,3.83,4.67
+EN.520.424.01.FA25,FPGA Synthesis Lab,"Pouliquen, Philippe","Pouliquen, Philippe",2025 Fall,Electrical and Computer Engineering,4.50,3.36,4.47
+EN.520.427.01.FA24,Design of Advanced Instruments and Systems,"Ramesh,  Sathappan","Ramesh,  Sathappan",2024 Fall,Electrical and Computer Engineering,2.83,3.71,3.71
+EN.520.427.01.FA25,Design of Advanced Instruments and Systems,"Ramesh, Sathappan","Ramesh, Sathappan",2025 Fall,Electrical and Computer Engineering,2.82,4.27,4.00
+EN.520.433.01.SP24,Medical Image Analysis,"Prince, Jerry","Prince, Jerry",2024 Spring,Electrical and Computer Engineering,4.36,3.93,4.36
+EN.520.433.01.SP25,Medical Image Analysis,"Prince, Jerry","Prince, Jerry",2025 Spring,Electrical and Computer Engineering,4.00,3.86,3.86
+EN.520.439.01.SP24,Machine Learning for Medical Applications,"Moro Velazquez, Laureano","Moro Velazquez, Laureano",2024 Spring,Electrical and Computer Engineering,5.00,4.50,4.75
+EN.520.439.01.SP25,Machine Learning for Medical Applications,"Moro Velazquez, Laureano","Moro Velazquez, Laureano",2025 Spring,Electrical and Computer Engineering,4.50,4.25,4.75
+EN.520.450.01.SP25,Advanced Micro-Processor Lab,"Glaser, Robert","Glaser, Robert",2025 Spring,Electrical and Computer Engineering,3.67,4.60,4.40
+EN.520.465.01.FA25,Machine Perception,Chellappa + Kathirvel,"Chellappa, Rama + Kathirvel, Ram Prabhakar",2025 Fall,Electrical and Computer Engineering,4.00,2.67,3.67
+EN.520.495.01.FA24,Microfabrication Laboratory,"Andreou, Andreas","Andreou, Andreas",2024 Fall,Electrical and Computer Engineering,3.45,3.45,3.91
+EN.520.495.01.FA24,Microfabrication Laboratory,"Wang,  Jeff","Wang,  Jeff",2024 Fall,Electrical and Computer Engineering,3.45,3.55,3.91
+EN.520.495.01.FA25,Microfabrication Laboratory,"Andreou, Andreas","Andreou, Andreas",2025 Fall,Electrical and Computer Engineering,3.38,3.63,4.13
+EN.520.495.01.FA25,Microfabrication Laboratory,"Wang, Jeff","Wang, Jeff",2025 Fall,Electrical and Computer Engineering,3.38,4.13,4.13
+EN.520.603.01.FA24,Introduction to Optical Instruments,"Khurgin, Jacob","Khurgin, Jacob",2024 Fall,Electrical and Computer Engineering,3.21,4.29,4.21
+EN.520.603.01.FA25,Introduction to Optical Instruments,"Khurgin, Jacob","Khurgin, Jacob",2025 Fall,Electrical and Computer Engineering,3.33,4.44,4.67
+EN.520.605.01.SP24,Advanced Optical and Optoelectronic Instruments and Devices,"Khurgin, Jacob","Khurgin, Jacob",2024 Spring,Electrical and Computer Engineering,3.44,4.67,4.78
+EN.520.612.01.FA24,Machine Learning for Signal Processing,Dehak + Thebaud,"Dehak, Najim + Thebaud,  Thomas",2024 Fall,Electrical and Computer Engineering,4.26,4.04,4.30
+EN.520.612.01.FA25,Machine Learning for Signal Processing,"Dehak, Najim","Dehak, Najim",2025 Fall,Electrical and Computer Engineering,3.97,3.77,4.22
+EN.520.612.01.FA25,Machine Learning for Signal Processing,"Thebaud, Thomas","Thebaud, Thomas",2025 Fall,Electrical and Computer Engineering,3.97,4.16,4.22
+EN.520.613.01.FA24,Advanced Topics in Optical Medical Imaging,"Kang, Jin","Kang, Jin",2024 Fall,Electrical and Computer Engineering,3.10,4.30,4.64
+EN.520.613.01.FA25,Advanced Topics in Optical Medical Imaging,"Kang, Jin","Kang, Jin",2025 Fall,Electrical and Computer Engineering,3.10,4.20,4.20
+EN.520.614.01.FA24,Image Processing & Analysis,"Goutsias, John","Goutsias, John",2024 Fall,Electrical and Computer Engineering,3.88,4.17,4.50
+EN.520.614.01.FA25,Image Processing & Analysis,"Goutsias, John","Goutsias, John",2025 Fall,Electrical and Computer Engineering,3.56,3.89,4.25
+EN.520.615.01.SP24,Image Processing & Analysis II,"Goutsias, John","Goutsias, John",2024 Spring,Electrical and Computer Engineering,3.00,4.83,4.43
+EN.520.617.01.SP24,Computation for Engineers,"Weinert, Howard","Weinert, Howard",2024 Spring,Electrical and Computer Engineering,3.25,4.08,4.00
+EN.520.617.01.SP25,Computation for Engineers,"Weinert, Howard","Weinert, Howard",2025 Spring,Electrical and Computer Engineering,2.67,4.42,4.25
+EN.520.618.01.FA24,Modern Convex Optimization,"Fazlyab, Mahyar","Fazlyab, Mahyar",2024 Fall,Electrical and Computer Engineering,4.00,4.53,4.84
+EN.520.618.01.FA25,Modern Convex Optimization,"Fazlyab, Mahyar","Fazlyab, Mahyar",2025 Fall,Electrical and Computer Engineering,3.94,4.63,4.78
+EN.520.619.01.SP25,Advanced Power System Optimization,"Dvorkin, Yury","Dvorkin, Yury",2025 Spring,Electrical and Computer Engineering,3.70,4.27,4.73
+EN.520.621.01.FA24,Introduction To Nonlinear Systems,"Iglesias, Pablo","Iglesias, Pablo",2024 Fall,Electrical and Computer Engineering,3.25,4.83,4.67
+EN.520.622.01.FA24,Principles of Complex Networked Systems,"Goutsias, John","Goutsias, John",2024 Fall,Electrical and Computer Engineering,2.88,4.29,4.12
+EN.520.622.01.FA25,Principles of Complex Networked Systems,"Goutsias, John","Goutsias, John",2025 Fall,Electrical and Computer Engineering,2.60,4.15,4.53
+EN.520.623.01.SP24,Medical Image Analysis,"Prince, Jerry","Prince, Jerry",2024 Spring,Electrical and Computer Engineering,4.12,4.29,4.50
+EN.520.623.01.SP25,Medical Image Analysis,"Prince, Jerry","Prince, Jerry",2025 Spring,Electrical and Computer Engineering,4.41,4.72,4.78
+EN.520.624.01.FA24,Integrated Photonics,"Foster, Amy","Foster, Amy",2024 Fall,Electrical and Computer Engineering,3.11,3.90,3.70
+EN.520.625.01.SP24,Efficient Computing for AI,"Fan, Deliang","Fan, Deliang",2024 Spring,Electrical and Computer Engineering,2.93,4.73,4.40
+EN.520.627.01.SP24,Photovoltaics and Energy Devices,"Thon, Susanna","Thon, Susanna",2024 Spring,Electrical and Computer Engineering,3.56,4.81,4.63
+EN.520.627.01.SP25,Photovoltaics and Energy Devices,"Thon, Susanna","Thon, Susanna",2025 Spring,Electrical and Computer Engineering,3.47,4.83,4.79
+EN.520.630.01.FA24,Introduction to Medical Imaging,"Bell, Muyinatu","Bell, Muyinatu",2024 Fall,Electrical and Computer Engineering,3.33,4.08,4.58
+EN.520.630.01.FA25,Introduction to Medical Imaging,"Bell, Muyinatu","Bell, Muyinatu",2025 Fall,Electrical and Computer Engineering,3.82,4.00,4.47
+EN.520.631.01.SP24,Ultrasound and Photoacoustic Beamforming,"Bell, Muyinatu","Bell, Muyinatu",2024 Spring,Electrical and Computer Engineering,3.36,4.50,4.67
+EN.520.631.01.SP25,Ultrasound and Photoacoustic Beamforming,"Bell, Muyinatu","Bell, Muyinatu",2025 Spring,Electrical and Computer Engineering,3.50,4.71,4.93
+EN.520.632.01.FA24,Medical Imaging Systems,"Prince, Jerry","Prince, Jerry",2024 Fall,Electrical and Computer Engineering,4.38,4.67,4.70
+EN.520.632.01.FA25,Medical Imaging Systems,"Prince, Jerry","Prince, Jerry",2025 Fall,Electrical and Computer Engineering,4.35,4.44,4.74
+EN.520.633.01.FA25,Intro To Robust Control,"Iglesias, Pablo","Iglesias, Pablo",2025 Fall,Electrical and Computer Engineering,2.80,5.00,5.00
+EN.520.635.01.FA24,Digital Signal Processing,"Weinert, Howard","Weinert, Howard",2024 Fall,Electrical and Computer Engineering,3.64,4.35,4.30
+EN.520.635.01.FA25,Digital Signal Processing,"Weinert, Howard","Weinert, Howard",2025 Fall,Electrical and Computer Engineering,2.90,4.35,4.23
+EN.520.637.01.FA24,Foundations of Reinforcement Learning,"Mallada, Enrique","Mallada, Enrique",2024 Fall,Electrical and Computer Engineering,3.80,4.28,4.57
+EN.520.637.01.FA25,Foundations of Reinforcement Learning,"Mallada, Enrique","Mallada, Enrique",2025 Fall,Electrical and Computer Engineering,3.73,3.57,4.38
+EN.520.638.01.SP24,Deep Learning,"Patel, Vishal","Patel, Vishal",2024 Spring,Electrical and Computer Engineering,3.22,4.54,4.36
+EN.520.638.01.SP25,Deep Learning,"Patel, Vishal","Patel, Vishal",2025 Spring,Electrical and Computer Engineering,3.28,4.38,4.17
+EN.520.640.01.SP24,Machine Intelligence on Embedded Systems,"Andreou, Andreas","Andreou, Andreas",2024 Spring,Electrical and Computer Engineering,3.29,4.14,4.29
+EN.520.640.01.SP24,Machine Intelligence on Embedded Systems,"Mendat, Daniel","Mendat, Daniel",2024 Spring,Electrical and Computer Engineering,3.29,4.43,4.29
+EN.520.640.01.SP25,Machine Intelligence on Embedded Systems,"Andreou, Andreas","Andreou, Andreas",2025 Spring,Electrical and Computer Engineering,2.86,4.21,4.14
+EN.520.640.01.SP25,Machine Intelligence on Embedded Systems,"Mendat, Daniel","Mendat, Daniel",2025 Spring,Electrical and Computer Engineering,2.86,4.79,4.14
+EN.520.644.02.FA24,FPGA Synthesis Lab,"Pouliquen, Philippe","Pouliquen, Philippe",2024 Fall,Electrical and Computer Engineering,4.45,4.36,4.91
+EN.520.644.02.FA25,FPGA Synthesis Lab,"Pouliquen, Philippe","Pouliquen, Philippe",2025 Fall,Electrical and Computer Engineering,4.10,4.10,4.60
+EN.520.644.01.FA25,FPGA Synthesis Lab,"Pouliquen, Philippe","Pouliquen, Philippe",2025 Fall,Electrical and Computer Engineering,3.67,4.25,5.00
+EN.520.645.01.FA24,Audio Signal Processing,"Elhilali, Mounya","Elhilali, Mounya",2024 Fall,Electrical and Computer Engineering,4.36,4.44,4.52
+EN.520.645.01.FA25,Audio Signal Processing,"Elhilali, Mounya","Elhilali, Mounya",2025 Fall,Electrical and Computer Engineering,3.56,4.11,4.11
+EN.520.646.01.FA24,Wavelets & Filter Banks,"Tran, Trac Duy","Tran, Trac Duy",2024 Fall,Electrical and Computer Engineering,3.31,4.88,4.56
+EN.520.646.01.FA25,Wavelets & Filter Banks,"Tran, Trac Duy","Tran, Trac Duy",2025 Fall,Electrical and Computer Engineering,3.15,4.85,4.35
+EN.520.647.01.SP24,Information Theory,"Villalba Lopez, Jesus","Villalba Lopez, Jesus",2024 Spring,Electrical and Computer Engineering,3.36,3.91,4.45
+EN.520.647.01.SP25,Information Theory,"Villalba Lopez, Jesus","Villalba Lopez, Jesus",2025 Spring,Electrical and Computer Engineering,3.11,4.22,4.33
+EN.520.648.01.SP24,Compressed Sensing and Sparse Recovery,"Tran, Trac Duy","Tran, Trac Duy",2024 Spring,Electrical and Computer Engineering,3.10,4.75,4.75
+EN.520.648.01.SP25,Compressed Sensing and Sparse Recovery,"Tran, Trac Duy","Tran, Trac Duy",2025 Spring,Electrical and Computer Engineering,3.17,4.74,4.60
+EN.520.650.01.SP24,Machine Intelligence,"Chellappa, Rama","Chellappa, Rama",2024 Spring,Electrical and Computer Engineering,3.31,4.02,4.33
+EN.520.650.01.SP24,Machine Intelligence,"Peng, Cheng","Peng, Cheng",2024 Spring,Electrical and Computer Engineering,3.31,3.98,4.33
+EN.520.650.01.SP25,Machine Intelligence,"Chellappa, Rama","Chellappa, Rama",2025 Spring,Electrical and Computer Engineering,3.37,4.36,4.31
+EN.520.650.01.SP25,Machine Intelligence,"Kathirvel, Ram Prabhakar","Kathirvel, Ram Prabhakar",2025 Spring,Electrical and Computer Engineering,3.37,4.40,4.31
+EN.520.650.01.SP25,Machine Intelligence,"Yadav, Abhay Kumar","Yadav, Abhay Kumar",2025 Spring,Electrical and Computer Engineering,3.37,4.06,4.31
+EN.520.651.01.FA24,Random Signal Analysis,"Tran, Trac Duy","Tran, Trac Duy",2024 Fall,Electrical and Computer Engineering,3.07,4.83,4.69
+EN.520.651.01.FA25,Random Signal Analysis,"Tran, Trac Duy","Tran, Trac Duy",2025 Fall,Electrical and Computer Engineering,3.10,4.58,4.35
+EN.520.653.01.SP25,Dynamics & Control of Modern Power Systems,"Geng, Sijia","Geng, Sijia",2025 Spring,Electrical and Computer Engineering,3.50,4.70,4.70
+EN.520.654.01.FA24,Control Systems Design,"Geng, Sijia","Geng, Sijia",2024 Fall,Electrical and Computer Engineering,3.75,3.75,4.38
+EN.520.654.01.FA25,Control Systems Design,"Iglesias, Pablo","Iglesias, Pablo",2025 Fall,Electrical and Computer Engineering,3.18,4.62,4.38
+EN.520.654.01.FA25,Control Systems Design,"Geng, Sijia","Geng, Sijia",2025 Fall,Electrical and Computer Engineering,3.18,4.78,4.38
+EN.520.657.01.FA24,Design of Advanced Instruments and Systems,"Ramesh,  Sathappan","Ramesh,  Sathappan",2024 Fall,Electrical and Computer Engineering,2.66,4.15,3.91
+EN.520.657.01.FA25,Design of Advanced Instruments and Systems,"Ramesh, Sathappan","Ramesh, Sathappan",2025 Fall,Electrical and Computer Engineering,3.08,4.61,4.30
+EN.520.658.01.SP25,Computational Imaging,"Sun, Yu","Sun, Yu",2025 Spring,Electrical and Computer Engineering,3.19,4.56,4.38
+EN.520.658.01.FA25,Computational Imaging,"Sun, Yu","Sun, Yu",2025 Fall,Electrical and Computer Engineering,3.00,4.62,4.76
+EN.520.659.01.SP24,Machine learning for medical applications,"Moro Velazquez, Laureano","Moro Velazquez, Laureano",2024 Spring,Electrical and Computer Engineering,4.51,4.27,4.39
+EN.520.659.01.SP25,Machine learning for medical applications,"Moro Velazquez, Laureano","Moro Velazquez, Laureano",2025 Spring,Electrical and Computer Engineering,4.00,4.67,4.67
+EN.520.661.01.SP25,"AI and Biometric Systems: Techniques, Applications, and Ethics",Dehak + Thebaud,"Dehak, Najim + Thebaud, Thomas",2025 Spring,Electrical and Computer Engineering,3.00,4.86,4.71
+EN.520.663.01.SP25,ECE Ideation and Design Lab,"Andreou, Andreas","Andreou, Andreas",2025 Spring,Electrical and Computer Engineering,3.00,5.00,5.00
+EN.520.663.01.SP25,ECE Ideation and Design Lab,,,2025 Spring,Electrical and Computer Engineering,,4.00,
+EN.520.665.02.FA24,Machine Perception,"Chellappa, Rama","Chellappa, Rama",2024 Fall,Electrical and Computer Engineering,2.94,4.22,4.61
+EN.520.665.01.FA24,Machine Perception,"Chellappa, Rama","Chellappa, Rama",2024 Fall,Electrical and Computer Engineering,3.58,3.77,4.05
+EN.520.666.01.SP24,Information Extraction,"Khudanpur, Sanjeev","Khudanpur, Sanjeev",2024 Spring,Electrical and Computer Engineering,4.19,3.64,4.35
+EN.520.666.01.SP25,Information Extraction,"Khudanpur, Sanjeev","Khudanpur, Sanjeev",2025 Spring,Electrical and Computer Engineering,3.96,4.65,4.77
+EN.520.666.01.SP25,Information Extraction,"Wiesner, Matthew","Wiesner, Matthew",2025 Spring,Electrical and Computer Engineering,3.96,4.62,4.77
+EN.520.668.01.SP25,Advanced Electronic Lab Design,"Andreou, Andreas","Andreou, Andreas",2025 Spring,Electrical and Computer Engineering,2.80,3.60,3.60
+EN.520.668.02.SP25,Advanced Electronic Lab Design,"Andreou, Andreas","Andreou, Andreas",2025 Spring,Electrical and Computer Engineering,3.00,3.67,3.83
+EN.520.683.01.SP24,Bio-Photonics Laboratory,"Kang, Jin","Kang, Jin",2024 Spring,Electrical and Computer Engineering,3.45,3.55,3.82
+EN.520.683.01.SP25,Bio-Photonics Laboratory,"Kang, Jin","Kang, Jin",2025 Spring,Electrical and Computer Engineering,2.75,4.00,4.00
+EN.520.685.01.SP24,Advanced Semiconductor Devices,"Khurgin, Jacob","Khurgin, Jacob",2024 Spring,Electrical and Computer Engineering,3.33,5.00,4.67
+EN.520.687.01.SP24,Clinical Diagnostic Devices and Methods,"Ramesh, Sathappan","Ramesh, Sathappan",2024 Spring,Electrical and Computer Engineering,3.30,4.60,4.20
+EN.520.687.01.SP25,Clinical Diagnostic Devices and Methods,"Ramesh, Sathappan","Ramesh, Sathappan",2025 Spring,Electrical and Computer Engineering,2.83,3.83,3.58
+EN.520.691.01.FA24,CAD Design of Digital VLSI Systems I (Grad),"Mohsenin, Tinoosh","Mohsenin, Tinoosh",2024 Fall,Electrical and Computer Engineering,4.00,3.41,4.06
+EN.520.691.01.SP25,CAD Design of Digital VLSI Systems I (Grad),"Mohsenin, Tinoosh","Mohsenin, Tinoosh",2025 Spring,Electrical and Computer Engineering,3.67,4.00,4.33
+EN.520.691.01.FA25,CAD Design of Digital VLSI Systems I (Grad),"Mohsenin, Tinoosh","Mohsenin, Tinoosh",2025 Fall,Electrical and Computer Engineering,3.86,3.50,4.20
+EN.520.692.01.SP24,Mixed-Mode VLSI Systems,"Pouliquen, Philippe","Pouliquen, Philippe",2024 Spring,Electrical and Computer Engineering,2.00,5.00,4.50
+EN.520.692.01.SP25,Mixed-Mode VLSI Systems,"Pouliquen, Philippe","Pouliquen, Philippe",2025 Spring,Electrical and Computer Engineering,3.79,4.07,4.71
+EN.520.697.01.SP24,Data Communications and Networking,"Dutta, Ashutosh","Dutta, Ashutosh",2024 Spring,Electrical and Computer Engineering,3.00,4.71,4.71
+EN.520.697.01.SP25,Data Communications and Networking,"Dutta, Ashutosh","Dutta, Ashutosh",2025 Spring,Electrical and Computer Engineering,2.83,4.14,4.36
+EN.520.698.01.SP24,Networks Meet Machine Learning: Methods and Applications,"Dvorkin, Yury","Dvorkin, Yury",2024 Spring,Electrical and Computer Engineering,3.25,3.63,4.13
+EN.520.773.01.FA24,Advanced Topics In Microsytem Fabrication,"Andreou, Andreas","Andreou, Andreas",2024 Fall,Electrical and Computer Engineering,3.50,4.29,4.14
+EN.520.773.01.FA24,Advanced Topics In Microsytem Fabrication,"Wang,  Jeff","Wang,  Jeff",2024 Fall,Electrical and Computer Engineering,3.50,4.50,4.14
+EN.520.773.01.FA25,Advanced Topics In Microsytem Fabrication,"Andreou, Andreas","Andreou, Andreas",2025 Fall,Electrical and Computer Engineering,4.08,4.31,4.50
+EN.520.773.01.FA25,Advanced Topics In Microsytem Fabrication,"Wang, Jeff","Wang, Jeff",2025 Fall,Electrical and Computer Engineering,4.08,4.69,4.50

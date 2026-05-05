@@ -1,0 +1,226 @@
+course_code,course_title,instructor,instructors_full,term,department,workload_avg,teaching_avg,intellectual_avg
+AS.210.101.03.FA24,French Elements I,"Anderson, Bruce","Anderson, Bruce",2024 Fall,German and Romance Languages and Literatures,3.08,4.79,4.43
+AS.210.101.01.FA24,French Elements I,"Guillemard, Claude","Guillemard, Claude",2024 Fall,German and Romance Languages and Literatures,2.67,4.67,4.44
+AS.210.101.02.FA24,French Elements I,"Lulu, Annie","Lulu, Annie",2024 Fall,German and Romance Languages and Literatures,3.62,3.93,3.86
+AS.210.101.03.FA25,French Elements I,"Jean-Pierre, Jean-Ederson","Jean-Pierre, Jean-Ederson",2025 Fall,German and Romance Languages and Literatures,2.78,4.80,4.40
+AS.210.101.01.FA25,French Elements I,"Lulu, Annie","Lulu, Annie",2025 Fall,German and Romance Languages and Literatures,3.00,4.60,4.40
+AS.210.101.02.FA25,French Elements I,"Luo, Wanyun","Luo, Wanyun",2025 Fall,German and Romance Languages and Literatures,2.75,4.83,4.42
+AS.210.102.03.SP24,French Elements II,"Guillemard, Claude","Guillemard, Claude",2024 Spring,German and Romance Languages and Literatures,3.50,5.00,4.75
+AS.210.102.02.SP24,French Elements II,"Guillemard, Claude","Guillemard, Claude",2024 Spring,German and Romance Languages and Literatures,2.78,4.67,4.44
+AS.210.102.01.SP24,French Elements II,"Guillemard, Claude","Guillemard, Claude",2024 Spring,German and Romance Languages and Literatures,2.75,5.00,4.25
+AS.210.102.01.FA24,French Elements II,"Guillemard, Claude","Guillemard, Claude",2024 Fall,German and Romance Languages and Literatures,2.63,4.75,4.50
+AS.210.102.01.SP25,French Elements II,"Guillemard, Claude","Guillemard, Claude",2025 Spring,German and Romance Languages and Literatures,3.00,4.50,4.42
+AS.210.102.01.FA25,French Elements II,"D'Amato, Thomas","D'Amato, Thomas",2025 Fall,German and Romance Languages and Literatures,3.63,4.88,4.50
+AS.210.105.01.SP24,Fast-Track Beginning French,"Anderson, Bruce","Anderson, Bruce",2024 Spring,German and Romance Languages and Literatures,3.14,4.71,4.17
+AS.210.105.01.SP25,Fast-Track Beginning French,"Anderson, Bruce","Anderson, Bruce",2025 Spring,German and Romance Languages and Literatures,3.57,5.00,5.00
+AS.210.111.02.SP24,Spanish Elements I,"Tracy, Michelle","Tracy, Michelle",2024 Spring,German and Romance Languages and Literatures,3.53,4.67,4.47
+AS.210.111.01.SP24,Spanish Elements I,"Tracy, Michelle","Tracy, Michelle",2024 Spring,German and Romance Languages and Literatures,3.50,4.80,4.70
+AS.210.111.01.FA24,Spanish Elements I,"Sanchez, Loreto","Sanchez, Loreto",2024 Fall,German and Romance Languages and Literatures,3.70,4.14,3.80
+AS.210.111.01.FA24,Spanish Elements I,"Hernandez Rodriguez, Daniela","Hernandez Rodriguez, Daniela",2024 Fall,German and Romance Languages and Literatures,3.70,4.18,3.80
+AS.210.111.03.FA24,Spanish Elements I,"Hernandez Rodriguez, Daniela","Hernandez Rodriguez, Daniela",2024 Fall,German and Romance Languages and Literatures,3.00,4.70,4.00
+AS.210.111.02.FA24,Spanish Elements I,"Tracy, Michelle","Tracy, Michelle",2024 Fall,German and Romance Languages and Literatures,3.43,4.71,4.36
+AS.210.111.01.SP25,Spanish Elements I,"Tracy, Michelle","Tracy, Michelle",2025 Spring,German and Romance Languages and Literatures,3.00,4.17,3.86
+AS.210.111.01.SP25,Spanish Elements I,"Franco, Bruno","Franco, Bruno",2025 Spring,German and Romance Languages and Literatures,3.00,4.64,3.86
+AS.210.111.02.SP25,Spanish Elements I,"Tracy, Michelle","Tracy, Michelle",2025 Spring,German and Romance Languages and Literatures,3.27,4.73,4.53
+AS.210.111.03.FA25,Spanish Elements I,"Torres Burgos, Carmen","Torres Burgos, Carmen",2025 Fall,German and Romance Languages and Literatures,3.33,4.43,4.17
+AS.210.111.03.FA25,Spanish Elements I,"Veraguas, Ignacio","Veraguas, Ignacio",2025 Fall,German and Romance Languages and Literatures,3.33,4.75,4.17
+AS.210.111.01.FA25,Spanish Elements I,"Macias Cardoso, Ricardo","Macias Cardoso, Ricardo",2025 Fall,German and Romance Languages and Literatures,3.25,3.50,3.75
+AS.210.111.02.FA25,Spanish Elements I,"Hubbard, Arancha","Hubbard, Arancha",2025 Fall,German and Romance Languages and Literatures,2.92,4.17,4.00
+AS.210.111.04.FA25,Spanish Elements I,"Frex, Hans","Frex, Hans",2025 Fall,German and Romance Languages and Literatures,3.00,5.00,4.40
+AS.210.112.01.SP24,Spanish Elements II,"Walls, Alfredo","Walls, Alfredo",2024 Spring,German and Romance Languages and Literatures,3.46,4.85,4.31
+AS.210.112.03.SP24,Spanish Elements II,"Fabro, Lila","Fabro, Lila",2024 Spring,German and Romance Languages and Literatures,3.07,4.60,4.07
+AS.210.112.02.SP24,Spanish Elements II,"Sanchez, Loreto","Sanchez, Loreto",2024 Spring,German and Romance Languages and Literatures,2.82,5.00,4.58
+AS.210.112.02.SP24,Spanish Elements II,"Sanchez Paraiso, Maria","Sanchez Paraiso, Maria",2024 Spring,German and Romance Languages and Literatures,2.82,4.75,4.58
+AS.210.112.02.FA24,Spanish Elements II,"Tracy, Michelle","Tracy, Michelle",2024 Fall,German and Romance Languages and Literatures,3.33,4.83,4.58
+AS.210.112.01.FA24,Spanish Elements II,"Tracy, Michelle","Tracy, Michelle",2024 Fall,German and Romance Languages and Literatures,3.62,4.54,4.46
+AS.210.112.03.SP25,Spanish Elements II,Hernandez Rodriguez + Tracy,"Hernandez Rodriguez, Daniela + Tracy, Michelle",2025 Spring,German and Romance Languages and Literatures,3.50,4.50,4.25
+AS.210.112.01.SP25,Spanish Elements II,"Tracy, Michelle","Tracy, Michelle",2025 Spring,German and Romance Languages and Literatures,3.29,4.89,4.50
+AS.210.112.02.SP25,Spanish Elements II,"Tracy, Michelle","Tracy, Michelle",2025 Spring,German and Romance Languages and Literatures,3.70,4.73,4.73
+AS.210.112.03.FA25,Spanish Elements II,"Tracy, Michelle","Tracy, Michelle",2025 Fall,German and Romance Languages and Literatures,3.33,4.67,4.44
+AS.210.112.01.FA25,Spanish Elements II,"Tracy, Michelle","Tracy, Michelle",2025 Fall,German and Romance Languages and Literatures,3.18,4.63,4.41
+AS.210.112.02.FA25,Spanish Elements II,"Tracy, Michelle","Tracy, Michelle",2025 Fall,German and Romance Languages and Literatures,3.00,4.67,4.33
+AS.210.120.01.SP24,Modern Hebrew for Beginners I,"Scott, Cameron","Scott, Cameron",2024 Spring,German and Romance Languages and Literatures,2.50,4.83,4.17
+AS.210.120.01.FA24,Elementary Modern Hebrew,"Bessire, Mirit","Bessire, Mirit",2024 Fall,German and Romance Languages and Literatures,2.50,5.00,4.67
+AS.210.121.01.SP24,Modern Hebrew for Beginners II,"Bessire, Mirit","Bessire, Mirit",2024 Spring,German and Romance Languages and Literatures,3.00,5.00,4.90
+AS.210.151.01.SP24,Italian Elements I,"Zannirato, Alessandro","Zannirato, Alessandro",2024 Spring,German and Romance Languages and Literatures,2.80,5.00,4.70
+AS.210.151.01.SP24,Italian Elements I,"Proietti, Leonardo","Proietti, Leonardo",2024 Spring,German and Romance Languages and Literatures,2.80,4.90,4.70
+AS.210.151.01.FA24,Italian Elements I,"Raimondi, Silvia","Raimondi, Silvia",2024 Fall,German and Romance Languages and Literatures,3.33,4.17,4.17
+AS.210.151.03.FA24,Italian Elements I,"Proietti, Leonardo","Proietti, Leonardo",2024 Fall,German and Romance Languages and Literatures,2.78,4.80,4.40
+AS.210.151.01.SP25,Italian Elements I,"Cerreti, Marta","Cerreti, Marta",2025 Spring,German and Romance Languages and Literatures,3.40,4.70,4.30
+AS.210.151.01.SP25,Italian Elements I,"Zannirato, Alessandro","Zannirato, Alessandro",2025 Spring,German and Romance Languages and Literatures,3.40,5.00,4.30
+AS.210.151.03.FA25,Italian Elements I,"Proietti, Leonardo","Proietti, Leonardo",2025 Fall,German and Romance Languages and Literatures,2.80,4.40,4.20
+AS.210.152.03.SP24,Italian Elements II,"Proietti, Leonardo","Proietti, Leonardo",2024 Spring,German and Romance Languages and Literatures,2.71,4.86,4.71
+AS.210.152.02.SP25,Italian Elements II,"Proietti, Leonardo","Proietti, Leonardo",2025 Spring,German and Romance Languages and Literatures,2.50,4.80,4.20
+AS.210.161.01.SP24,German Elements I,"Mifflin, Deborah","Mifflin, Deborah",2024 Spring,German and Romance Languages and Literatures,2.80,5.00,4.60
+AS.210.161.01.SP24,German Elements I,"Djapo, Hervé","Djapo, Hervé",2024 Spring,German and Romance Languages and Literatures,2.80,4.60,4.60
+AS.210.161.01.FA24,German Elements I,"Liao, Jiantong","Liao, Jiantong",2024 Fall,German and Romance Languages and Literatures,3.25,4.78,4.75
+AS.210.161.01.SP25,German Elements I,"ter Haseborg, Heiko","ter Haseborg, Heiko",2025 Spring,German and Romance Languages and Literatures,3.46,4.79,4.77
+AS.210.161.03.FA25,German Elements I,"Schmitz, Lisa","Schmitz, Lisa",2025 Fall,German and Romance Languages and Literatures,3.00,4.80,3.40
+AS.210.161.01.FA25,German Elements I,"Gray, Glen","Gray, Glen",2025 Fall,German and Romance Languages and Literatures,3.45,4.67,4.50
+AS.210.161.02.FA25,German Elements I,"Liao, Jiantong","Liao, Jiantong",2025 Fall,German and Romance Languages and Literatures,2.73,4.45,4.27
+AS.210.162.01.SP24,German Elements II,"Mifflin, Deborah","Mifflin, Deborah",2024 Spring,German and Romance Languages and Literatures,3.50,4.17,4.50
+AS.210.162.01.SP24,German Elements II,"Gray, Glen","Gray, Glen",2024 Spring,German and Romance Languages and Literatures,3.50,4.67,4.50
+AS.210.162.02.SP24,German Elements II,"Mifflin, Deborah","Mifflin, Deborah",2024 Spring,German and Romance Languages and Literatures,3.60,4.60,4.20
+AS.210.162.02.SP24,German Elements II,"Dargan, Gargi","Dargan, Gargi",2024 Spring,German and Romance Languages and Literatures,3.60,4.40,4.20
+AS.210.162.01.FA25,German Elements II,"ter Haseborg, Heiko","ter Haseborg, Heiko",2025 Fall,German and Romance Languages and Literatures,2.83,5.00,4.71
+AS.210.173.03.FA24,Fast Portuguese for Spanish Speakers and speakers of other Romance Languages I,"Franco, Bruno","Franco, Bruno",2024 Fall,German and Romance Languages and Literatures,2.43,4.75,4.13
+AS.210.173.01.FA24,Fast Portuguese for Spanish Speakers and speakers of other Romance Languages I,"De Azeredo Cerqueira, Flavia","De Azeredo Cerqueira, Flavia",2024 Fall,German and Romance Languages and Literatures,2.82,5.00,4.80
+AS.210.173.01.SP25,Fast Portuguese for Spanish Speakers and speakers of other Romance Languages I,"Sanchez, Loreto","Sanchez, Loreto",2025 Spring,German and Romance Languages and Literatures,2.89,4.83,4.33
+AS.210.173.01.SP25,Fast Portuguese for Spanish Speakers and speakers of other Romance Languages I,"De Azeredo Cerqueira, Flavia","De Azeredo Cerqueira, Flavia",2025 Spring,German and Romance Languages and Literatures,2.89,4.67,4.33
+AS.210.173.01.FA25,Fast Portuguese for Spanish Speakers and speakers of other Romance Languages I,"De Azeredo Cerqueira, Flavia","De Azeredo Cerqueira, Flavia",2025 Fall,German and Romance Languages and Literatures,2.38,4.62,4.38
+AS.210.173.02.FA25,Fast Portuguese for Spanish Speakers and speakers of other Romance Languages I,"Franco, Bruno","Franco, Bruno",2025 Fall,German and Romance Languages and Literatures,2.50,4.50,4.38
+AS.210.175.01.SP24,Accelerated Italian for Advanced Speakers of other Romance Languages,"Zannirato, Alessandro","Zannirato, Alessandro",2024 Spring,German and Romance Languages and Literatures,3.30,4.90,4.60
+AS.210.175.01.FA24,Accelerated Italian for Advanced Speakers of other Romance Languages,"Zannirato, Alessandro","Zannirato, Alessandro",2024 Fall,German and Romance Languages and Literatures,3.44,4.78,4.56
+AS.210.175.01.FA25,Accelerated Italian for Advanced Speakers of other Romance Languages,"Zannirato, Alessandro","Zannirato, Alessandro",2025 Fall,German and Romance Languages and Literatures,3.62,5.00,4.50
+AS.210.176.01.SP25,Accelerated Italian for Advanced Speakers of other Romance Languages II,"Zannirato, Alessandro","Zannirato, Alessandro",2025 Spring,German and Romance Languages and Literatures,3.44,4.89,4.67
+AS.210.201.02.SP24,Intermediate French I,"Roos, Suzanne","Roos, Suzanne",2024 Spring,German and Romance Languages and Literatures,2.86,4.71,4.14
+AS.210.201.01.SP24,Intermediate French I,"Roos, Suzanne","Roos, Suzanne",2024 Spring,German and Romance Languages and Literatures,2.33,4.78,4.44
+AS.210.201.01.FA24,Intermediate French I,"Roos, Suzanne","Roos, Suzanne",2024 Fall,German and Romance Languages and Literatures,3.10,4.63,4.50
+AS.210.201.01.FA24,Intermediate French I,"Mehra, Julianne","Mehra, Julianne",2024 Fall,German and Romance Languages and Literatures,3.10,5.00,4.50
+AS.210.201.03.FA24,Intermediate French I,Abdulaziz + Roos,"Abdulaziz, Safa + Roos, Suzanne",2024 Fall,German and Romance Languages and Literatures,2.50,5.00,4.56
+AS.210.201.02.FA24,Intermediate French I,"Roos, Suzanne","Roos, Suzanne",2024 Fall,German and Romance Languages and Literatures,2.75,,4.44
+AS.210.201.02.FA24,Intermediate French I,"Abdulaziz, Safa","Abdulaziz, Safa",2024 Fall,German and Romance Languages and Literatures,2.75,4.78,4.44
+AS.210.201.02.SP25,Intermediate French I,"Roos, Suzanne","Roos, Suzanne",2025 Spring,German and Romance Languages and Literatures,2.58,4.50,4.08
+AS.210.201.02.FA25,Intermediate French I,"Roos, Suzanne","Roos, Suzanne",2025 Fall,German and Romance Languages and Literatures,2.50,4.40,4.00
+AS.210.201.03.FA25,Intermediate French I,"Roos, Suzanne","Roos, Suzanne",2025 Fall,German and Romance Languages and Literatures,2.60,4.60,4.00
+AS.210.201.01.FA25,Intermediate French I,"Roos, Suzanne","Roos, Suzanne",2025 Fall,German and Romance Languages and Literatures,3.00,4.78,4.56
+AS.210.202.02.SP24,Intermediate French II,"Mariot, Manon","Mariot, Manon",2024 Spring,German and Romance Languages and Literatures,3.13,4.43,4.13
+AS.210.202.02.FA24,Intermediate French II,"Roos, Suzanne","Roos, Suzanne",2024 Fall,German and Romance Languages and Literatures,2.54,4.62,4.54
+AS.210.202.01.FA24,Intermediate French II,"Roos, Suzanne","Roos, Suzanne",2024 Fall,German and Romance Languages and Literatures,2.86,4.57,4.57
+AS.210.202.03.SP25,Intermediate French II,"Abdulaziz, Safa","Abdulaziz, Safa",2025 Spring,German and Romance Languages and Literatures,3.00,5.00,4.75
+AS.210.202.02.SP25,Intermediate French II,"Mehra, Julianne","Mehra, Julianne",2025 Spring,German and Romance Languages and Literatures,2.85,4.85,4.54
+AS.210.202.01.FA25,Intermediate French II,"Roos, Suzanne","Roos, Suzanne",2025 Fall,German and Romance Languages and Literatures,2.73,4.75,4.53
+AS.210.202.01.FA25,Intermediate French II,"Dreyer, Pierre Elie Georges","Dreyer, Pierre Elie Georges",2025 Fall,German and Romance Languages and Literatures,2.73,4.73,4.53
+AS.210.211.02.SP24,Intermediate Spanish I,"Tracy, Michelle","Tracy, Michelle",2024 Spring,German and Romance Languages and Literatures,3.30,4.91,4.55
+AS.210.211.01.SP24,Intermediate Spanish I,"Clarke, Rhiannon","Clarke, Rhiannon",2024 Spring,German and Romance Languages and Literatures,3.00,4.50,4.25
+AS.210.211.02.FA24,Intermediate Spanish I,"Martinez-Velez, Naiara","Martinez-Velez, Naiara",2024 Fall,German and Romance Languages and Literatures,3.31,4.31,4.08
+AS.210.211.03.FA24,Intermediate Spanish I,"Martinez-Velez, Naiara","Martinez-Velez, Naiara",2024 Fall,German and Romance Languages and Literatures,3.22,4.29,3.89
+AS.210.211.03.FA24,Intermediate Spanish I,"Hernandez Rodriguez, Daniela","Hernandez Rodriguez, Daniela",2024 Fall,German and Romance Languages and Literatures,3.22,4.44,3.89
+AS.210.211.01.FA24,Intermediate Spanish I,"Martinez-Velez, Naiara","Martinez-Velez, Naiara",2024 Fall,German and Romance Languages and Literatures,3.17,4.67,4.46
+AS.210.211.02.SP25,Intermediate Spanish I,"Hernandez Rodriguez, Daniela","Hernandez Rodriguez, Daniela",2025 Spring,German and Romance Languages and Literatures,3.40,4.75,4.69
+AS.210.211.01.SP25,Intermediate Spanish I,"Martinez-Velez, Naiara","Martinez-Velez, Naiara",2025 Spring,German and Romance Languages and Literatures,2.70,4.90,4.40
+AS.210.211.02.FA25,Intermediate Spanish I,"Torres Burgos, Carmen","Torres Burgos, Carmen",2025 Fall,German and Romance Languages and Literatures,3.30,4.33,4.60
+AS.210.211.02.FA25,Intermediate Spanish I,"Hernandez Rodriguez, Daniela","Hernandez Rodriguez, Daniela",2025 Fall,German and Romance Languages and Literatures,3.30,4.67,4.60
+AS.210.211.01.FA25,Intermediate Spanish I,"Torres Burgos, Carmen","Torres Burgos, Carmen",2025 Fall,German and Romance Languages and Literatures,3.17,4.50,4.33
+AS.210.211.01.FA25,Intermediate Spanish I,"Hernandez Rodriguez, Daniela","Hernandez Rodriguez, Daniela",2025 Fall,German and Romance Languages and Literatures,3.17,4.75,4.33
+AS.210.211.03.FA25,Intermediate Spanish I,Sanchez Paraiso + Torres Burgos,"Sanchez Paraiso, Maria + Torres Burgos, Carmen",2025 Fall,German and Romance Languages and Literatures,3.00,5.00,4.33
+AS.210.212.01.SP24,Intermediate Spanish II,"Martinez-Velez, Naiara","Martinez-Velez, Naiara",2024 Spring,German and Romance Languages and Literatures,2.75,4.88,4.38
+AS.210.212.04.SP24,Intermediate Spanish II,"Martinez-Velez, Naiara","Martinez-Velez, Naiara",2024 Spring,German and Romance Languages and Literatures,3.00,4.50,4.50
+AS.210.212.02.SP24,Intermediate Spanish II,"Martinez-Velez, Naiara","Martinez-Velez, Naiara",2024 Spring,German and Romance Languages and Literatures,3.25,4.58,4.25
+AS.210.212.01.FA24,Intermediate Spanish II,"Martinez-Velez, Naiara","Martinez-Velez, Naiara",2024 Fall,German and Romance Languages and Literatures,3.20,4.70,4.40
+AS.210.212.01.FA24,Intermediate Spanish II,"Sanchez, Loreto","Sanchez, Loreto",2024 Fall,German and Romance Languages and Literatures,3.20,5.00,4.40
+AS.210.212.02.FA24,Intermediate Spanish II,"Martinez-Velez, Naiara","Martinez-Velez, Naiara",2024 Fall,German and Romance Languages and Literatures,3.69,4.77,4.69
+AS.210.212.02.SP25,Intermediate Spanish II,"Martinez-Velez, Naiara","Martinez-Velez, Naiara",2025 Spring,German and Romance Languages and Literatures,3.53,4.06,4.13
+AS.210.212.03.SP25,Intermediate Spanish II,"Hubbard, Arancha","Hubbard, Arancha",2025 Spring,German and Romance Languages and Literatures,3.60,4.40,4.20
+AS.210.212.01.SP25,Intermediate Spanish II,"Martinez-Velez, Naiara","Martinez-Velez, Naiara",2025 Spring,German and Romance Languages and Literatures,2.85,4.69,4.23
+AS.210.212.01.FA25,Intermediate Spanish II,"Torres Burgos, Carmen","Torres Burgos, Carmen",2025 Fall,German and Romance Languages and Literatures,3.22,5.00,4.44
+AS.210.212.01.FA25,Intermediate Spanish II,"Sanchez Paraiso, Maria","Sanchez Paraiso, Maria",2025 Fall,German and Romance Languages and Literatures,3.22,4.89,4.44
+AS.210.212.02.FA25,Intermediate Spanish II,"Ramos, Rosario","Ramos, Rosario",2025 Fall,German and Romance Languages and Literatures,3.43,4.14,4.38
+AS.210.212.02.FA25,Intermediate Spanish II,"Torres Burgos, Carmen","Torres Burgos, Carmen",2025 Fall,German and Romance Languages and Literatures,3.43,4.00,4.38
+AS.210.220.01.FA24,Intermediate Hebrew I,"Bessire, Mirit","Bessire, Mirit",2024 Fall,German and Romance Languages and Literatures,2.56,4.22,3.89
+AS.210.221.01.SP25,Intermediate Modern Hebrew II,"Bessire, Mirit","Bessire, Mirit",2025 Spring,German and Romance Languages and Literatures,2.10,4.67,4.40
+AS.210.251.02.FA24,Intermediate Italian I,Proietti + Zannirato,"Proietti, Leonardo + Zannirato, Alessandro",2024 Fall,German and Romance Languages and Literatures,2.83,5.00,4.50
+AS.210.251.01.FA25,Intermediate Italian I,"Proietti, Leonardo","Proietti, Leonardo",2025 Fall,German and Romance Languages and Literatures,2.67,4.50,4.17
+AS.210.252.01.SP25,Intermediate Italian II,"Proietti, Leonardo","Proietti, Leonardo",2025 Spring,German and Romance Languages and Literatures,2.80,5.00,5.00
+AS.210.261.01.FA24,Intermediate German I,"Wheeler, Heidi","Wheeler, Heidi",2024 Fall,German and Romance Languages and Literatures,2.71,5.00,4.50
+AS.210.261.02.FA24,Intermediate German I,"Wheeler, Heidi","Wheeler, Heidi",2024 Fall,German and Romance Languages and Literatures,3.00,4.60,4.80
+AS.210.261.02.FA24,Intermediate German I,"Dargan, Gargi","Dargan, Gargi",2024 Fall,German and Romance Languages and Literatures,3.00,4.20,4.80
+AS.210.261.01.FA25,Intermediate German I,"Wheeler, Heidi","Wheeler, Heidi",2025 Fall,German and Romance Languages and Literatures,3.00,4.57,4.43
+AS.210.262.02.SP24,Intermediate German II,"Wheeler, Heidi","Wheeler, Heidi",2024 Spring,German and Romance Languages and Literatures,3.00,4.80,4.60
+AS.210.262.01.SP25,Intermediate German II,"Dargan, Gargi","Dargan, Gargi",2025 Spring,German and Romance Languages and Literatures,2.83,4.83,4.83
+AS.210.262.02.SP25,Intermediate German II,"Wheeler, Heidi","Wheeler, Heidi",2025 Spring,German and Romance Languages and Literatures,2.67,4.67,4.17
+AS.210.271.01.FA24,Intermediate Portuguese I,"De Azeredo Cerqueira, Flavia","De Azeredo Cerqueira, Flavia",2024 Fall,German and Romance Languages and Literatures,2.78,5.00,4.78
+AS.210.271.01.SP25,Intermediate Portuguese I,"Sanchez, Loreto","Sanchez, Loreto",2025 Spring,German and Romance Languages and Literatures,2.63,4.86,4.41
+AS.210.271.01.SP25,Intermediate Portuguese I,"De Azeredo Cerqueira, Flavia","De Azeredo Cerqueira, Flavia",2025 Spring,German and Romance Languages and Literatures,2.63,4.65,4.41
+AS.210.272.01.FA24,Intermediate Portuguese II,De Azeredo Cerqueira + Nagasawa,"De Azeredo Cerqueira, Flavia + Nagasawa, Ellen",2024 Fall,German and Romance Languages and Literatures,2.50,5.00,4.67
+AS.210.272.01.SP25,Intermediate Portuguese II,Nagasawa + Sanchez,"Nagasawa, Ellen + Sanchez, Loreto",2025 Spring,German and Romance Languages and Literatures,3.25,5.00,4.75
+AS.210.301.01.SP24,Advanced French for Writing,"Cook-Gailloud, Kristin","Cook-Gailloud, Kristin",2024 Spring,German and Romance Languages and Literatures,3.18,4.42,4.50
+AS.210.301.02.SP24,Advanced French for Writing,"Cook-Gailloud, Kristin","Cook-Gailloud, Kristin",2024 Spring,German and Romance Languages and Literatures,2.50,5.00,4.83
+AS.210.301.01.FA24,Advanced French for Writing,"Cook-Gailloud, Kristin","Cook-Gailloud, Kristin",2024 Fall,German and Romance Languages and Literatures,3.00,4.83,4.67
+AS.210.301.02.FA24,Advanced French for Writing,"Cook-Gailloud, Kristin","Cook-Gailloud, Kristin",2024 Fall,German and Romance Languages and Literatures,2.71,4.60,4.29
+AS.210.301.02.FA24,Advanced French for Writing,"D'Amato, Thomas","D'Amato, Thomas",2024 Fall,German and Romance Languages and Literatures,2.71,4.86,4.29
+AS.210.301.01.SP25,Advanced French for Writing,"Cook-Gailloud, Kristin","Cook-Gailloud, Kristin",2025 Spring,German and Romance Languages and Literatures,2.83,4.60,4.83
+AS.210.301.02.SP25,Advanced French for Writing,"Cook-Gailloud, Kristin","Cook-Gailloud, Kristin",2025 Spring,German and Romance Languages and Literatures,3.00,4.00,4.00
+AS.210.301.01.FA25,Advanced French for Writing,"Cook-Gailloud, Kristin","Cook-Gailloud, Kristin",2025 Fall,German and Romance Languages and Literatures,3.00,4.14,4.29
+AS.210.301.02.FA25,Advanced French for Writing,"Cook-Gailloud, Kristin","Cook-Gailloud, Kristin",2025 Fall,German and Romance Languages and Literatures,2.88,4.63,4.43
+AS.210.302.03.SP24,Advanced French for Speaking,"Wuensch, April","Wuensch, April",2024 Spring,German and Romance Languages and Literatures,2.80,3.80,4.00
+AS.210.302.02.SP24,Advanced French for Speaking,"Wuensch, April","Wuensch, April",2024 Spring,German and Romance Languages and Literatures,2.75,4.67,4.60
+AS.210.302.01.SP24,Advanced French for Speaking,"Wuensch, April","Wuensch, April",2024 Spring,German and Romance Languages and Literatures,2.75,4.50,3.63
+AS.210.302.01.SP24,Advanced French for Speaking,"Tribotte, Julien","Tribotte, Julien",2024 Spring,German and Romance Languages and Literatures,2.75,3.63,3.63
+AS.210.302.02.FA24,Advanced French for Speaking,"Roche, Camille","Roche, Camille",2024 Fall,German and Romance Languages and Literatures,3.33,4.83,4.83
+AS.210.302.01.SP25,Advanced French for Speaking,"Wuensch, April","Wuensch, April",2025 Spring,German and Romance Languages and Literatures,2.57,4.29,3.86
+AS.210.302.02.SP25,Advanced French for Speaking,"Wuensch, April","Wuensch, April",2025 Spring,German and Romance Languages and Literatures,2.75,3.92,4.08
+AS.210.302.01.FA25,Advanced French for Speaking,"Wuensch, April","Wuensch, April",2025 Fall,German and Romance Languages and Literatures,3.20,3.67,4.17
+AS.210.302.02.FA25,Advanced French for Speaking,"Wuensch, April","Wuensch, April",2025 Fall,German and Romance Languages and Literatures,3.33,4.67,4.83
+AS.210.309.01.FA24,The Sounds of French,"Anderson, Bruce","Anderson, Bruce",2024 Fall,German and Romance Languages and Literatures,2.71,4.86,4.17
+AS.210.311.03.SP24,Advanced Spanish I,Hubbard + Sanchez Paraiso,"Hubbard, Arancha + Sanchez Paraiso, Maria",2024 Spring,German and Romance Languages and Literatures,3.67,5.00,4.58
+AS.210.311.03.FA24,Advanced Spanish I,"Hubbard, Arancha","Hubbard, Arancha",2024 Fall,German and Romance Languages and Literatures,3.78,3.78,3.89
+AS.210.311.01.FA24,Advanced Spanish I,"Hubbard, Arancha","Hubbard, Arancha",2024 Fall,German and Romance Languages and Literatures,3.75,4.50,4.00
+AS.210.311.02.FA24,Advanced Spanish I,"Sanchez Paraiso, Maria","Sanchez Paraiso, Maria",2024 Fall,German and Romance Languages and Literatures,3.22,5.00,4.40
+AS.210.311.01.SP25,Advanced Spanish I,"Hubbard, Arancha","Hubbard, Arancha",2025 Spring,German and Romance Languages and Literatures,3.77,5.00,4.62
+AS.210.311.01.SP25,Advanced Spanish I,"Sanchez Paraiso, Maria","Sanchez Paraiso, Maria",2025 Spring,German and Romance Languages and Literatures,3.77,4.93,4.62
+AS.210.311.01.FA25,Advanced Spanish I,"Torres Burgos, Carmen","Torres Burgos, Carmen",2025 Fall,German and Romance Languages and Literatures,3.25,4.83,4.58
+AS.210.311.03.FA25,Advanced Spanish I,"Hernandez Rodriguez, Daniela","Hernandez Rodriguez, Daniela",2025 Fall,German and Romance Languages and Literatures,3.30,4.40,3.80
+AS.210.311.02.FA25,Advanced Spanish I,"Hubbard, Arancha","Hubbard, Arancha",2025 Fall,German and Romance Languages and Literatures,3.67,3.89,4.11
+AS.210.312.02.SP24,Advanced Spanish II,"Hubbard, Arancha","Hubbard, Arancha",2024 Spring,German and Romance Languages and Literatures,3.85,4.08,4.00
+AS.210.312.01.SP24,Advanced Spanish II,"Hubbard, Arancha","Hubbard, Arancha",2024 Spring,German and Romance Languages and Literatures,3.80,4.70,4.20
+AS.210.312.02.FA24,Advanced Spanish II,"Sanchez, Loreto","Sanchez, Loreto",2024 Fall,German and Romance Languages and Literatures,3.54,4.50,4.50
+AS.210.312.02.FA24,Advanced Spanish II,"Hubbard, Arancha","Hubbard, Arancha",2024 Fall,German and Romance Languages and Literatures,3.54,4.62,4.50
+AS.210.312.01.FA24,Advanced Spanish II,"Hubbard, Arancha","Hubbard, Arancha",2024 Fall,German and Romance Languages and Literatures,3.75,4.00,4.50
+AS.210.312.02.SP25,Advanced Spanish II,"Hubbard, Arancha","Hubbard, Arancha",2025 Spring,German and Romance Languages and Literatures,3.40,4.50,4.00
+AS.210.312.01.SP25,Advanced Spanish II,"Hubbard, Arancha","Hubbard, Arancha",2025 Spring,German and Romance Languages and Literatures,3.33,4.50,4.17
+AS.210.312.01.FA25,Advanced Spanish II,"Hubbard, Arancha","Hubbard, Arancha",2025 Fall,German and Romance Languages and Literatures,3.67,4.33,4.17
+AS.210.313.01.SP24,Medical Spanish,"Ramos, Rosario","Ramos, Rosario",2024 Spring,German and Romance Languages and Literatures,3.91,4.25,4.36
+AS.210.313.01.SP24,Medical Spanish,"Torres Burgos, Carmen","Torres Burgos, Carmen",2024 Spring,German and Romance Languages and Literatures,3.91,4.73,4.36
+AS.210.313.02.SP24,Medical Spanish,"Ramos, Rosario","Ramos, Rosario",2024 Spring,German and Romance Languages and Literatures,3.92,4.67,4.67
+AS.210.313.02.SP24,Medical Spanish,"Torres Burgos, Carmen","Torres Burgos, Carmen",2024 Spring,German and Romance Languages and Literatures,3.92,4.92,4.67
+AS.210.313.02.FA24,Medical Spanish,"Torres Burgos, Carmen","Torres Burgos, Carmen",2024 Fall,German and Romance Languages and Literatures,3.73,4.18,4.27
+AS.210.313.01.FA24,Medical Spanish,"Torres Burgos, Carmen","Torres Burgos, Carmen",2024 Fall,German and Romance Languages and Literatures,3.63,4.75,4.38
+AS.210.313.02.SP25,Medical Spanish,"Ramos, Rosario","Ramos, Rosario",2025 Spring,German and Romance Languages and Literatures,3.43,4.33,4.36
+AS.210.313.02.SP25,Medical Spanish,"Torres Burgos, Carmen","Torres Burgos, Carmen",2025 Spring,German and Romance Languages and Literatures,3.43,4.71,4.36
+AS.210.313.01.SP25,Medical Spanish,"Ramos, Rosario","Ramos, Rosario",2025 Spring,German and Romance Languages and Literatures,3.55,4.60,4.73
+AS.210.313.01.SP25,Medical Spanish,"Torres Burgos, Carmen","Torres Burgos, Carmen",2025 Spring,German and Romance Languages and Literatures,3.55,4.82,4.73
+AS.210.313.01.FA25,Medical Spanish,"Torres Burgos, Carmen","Torres Burgos, Carmen",2025 Fall,German and Romance Languages and Literatures,3.73,4.73,4.45
+AS.210.313.02.FA25,Medical Spanish,"Torres Burgos, Carmen","Torres Burgos, Carmen",2025 Fall,German and Romance Languages and Literatures,3.63,5.00,4.88
+AS.210.314.01.FA25,Spanish for International Commerce,"Hubbard, Arancha","Hubbard, Arancha",2025 Fall,German and Romance Languages and Literatures,3.14,5.00,4.43
+AS.210.315.01.SP25,Spanish for International Relations,"Ramos, Rosario","Ramos, Rosario",2025 Spring,German and Romance Languages and Literatures,3.57,4.00,4.29
+AS.210.316.01.SP24,Advanced Spanish Conversation,Hubbard + Ramos + Sanchez Paraiso,"Hubbard, Arancha + Ramos, Rosario + Sanchez Paraiso, Maria",2024 Spring,German and Romance Languages and Literatures,3.17,5.00,5.00
+AS.210.316.01.FA24,Advanced Spanish Conversation,"Ramos, Rosario","Ramos, Rosario",2024 Fall,German and Romance Languages and Literatures,3.00,5.00,4.43
+AS.210.316.01.FA24,Advanced Spanish Conversation,"Sanchez Paraiso, Maria","Sanchez Paraiso, Maria",2024 Fall,German and Romance Languages and Literatures,3.00,4.79,4.43
+AS.210.316.01.FA25,Advanced Spanish Conversation,"Sanchez Paraiso, Maria","Sanchez Paraiso, Maria",2025 Fall,German and Romance Languages and Literatures,,4.87,4.71
+AS.210.319.01.SP25,Spanish for Public Health,"Martinez-Velez, Naiara","Martinez-Velez, Naiara",2025 Spring,German and Romance Languages and Literatures,3.63,4.67,4.63
+AS.210.319.01.SP25,Spanish for Public Health,"Sanchez Paraiso, Maria","Sanchez Paraiso, Maria",2025 Spring,German and Romance Languages and Literatures,3.63,4.88,4.63
+AS.210.320.01.FA25,Advanced Modern Hebrew I,"Bessire, Mirit","Bessire, Mirit",2025 Fall,German and Romance Languages and Literatures,2.75,4.25,4.38
+AS.210.320.01.FA25,Advanced Modern Hebrew I,"Nachum, Adi","Nachum, Adi",2025 Fall,German and Romance Languages and Literatures,2.75,4.50,4.38
+AS.210.351.01.FA24,Advanced Italian I,"Zannirato, Alessandro","Zannirato, Alessandro",2024 Fall,German and Romance Languages and Literatures,4.00,5.00,4.20
+AS.210.351.01.FA24,Advanced Italian I,"Giuseffi Grippa, Gianluca","Giuseffi Grippa, Gianluca",2024 Fall,German and Romance Languages and Literatures,4.00,4.00,4.20
+AS.210.351.01.FA25,Advanced Italian I,"Zannirato, Alessandro","Zannirato, Alessandro",2025 Fall,German and Romance Languages and Literatures,2.88,5.00,4.38
+AS.210.351.01.FA25,Advanced Italian I,"Proietti, Leonardo","Proietti, Leonardo",2025 Fall,German and Romance Languages and Literatures,2.88,4.50,4.38
+AS.210.352.01.SP24,Advanced Italian II,"Franzini, Martina","Franzini, Martina",2024 Spring,German and Romance Languages and Literatures,3.14,4.86,4.43
+AS.210.352.01.SP25,Advanced Italian II,"Giuseffi Grippa, Gianluca","Giuseffi Grippa, Gianluca",2025 Spring,German and Romance Languages and Literatures,3.20,3.33,4.33
+AS.210.361.01.FA24,Advanced German I: Cultural Topics of the Modern German-speaking World,"Beller, Luke","Beller, Luke",2024 Fall,German and Romance Languages and Literatures,3.00,5.00,4.50
+AS.210.361.01.FA25,Advanced German I: Cultural Topics of the Modern German-speaking World,"ter Haseborg, Heiko","ter Haseborg, Heiko",2025 Fall,German and Romance Languages and Literatures,2.67,5.00,4.17
+AS.210.362.01.SP24,Advanced German II: Contemporary Issues in the German Speaking World,"Mifflin, Deborah","Mifflin, Deborah",2024 Spring,German and Romance Languages and Literatures,4.00,3.75,4.00
+AS.210.362.02.SP25,Advanced German II: Contemporary Issues in the German Speaking World,"Beller, Luke","Beller, Luke",2025 Spring,German and Romance Languages and Literatures,2.83,4.83,4.33
+AS.210.363.01.FA25,Business German,"Todarello, Josh","Todarello, Josh",2025 Fall,German and Romance Languages and Literatures,3.40,3.00,2.50
+AS.210.371.01.FA24,Advanced Portuguese I,"De Azeredo Cerqueira, Flavia","De Azeredo Cerqueira, Flavia",2024 Fall,German and Romance Languages and Literatures,3.50,5.00,5.00
+AS.210.371.01.FA24,Advanced Portuguese I,"Nagasawa, Ellen","Nagasawa, Ellen",2024 Fall,German and Romance Languages and Literatures,3.50,4.83,5.00
+AS.210.371.01.FA25,Advanced Portuguese I,"De Azeredo Cerqueira, Flavia","De Azeredo Cerqueira, Flavia",2025 Fall,German and Romance Languages and Literatures,3.67,5.00,4.50
+AS.210.371.01.FA25,Advanced Portuguese I,"Nagasawa, Ellen","Nagasawa, Ellen",2025 Fall,German and Romance Languages and Literatures,3.67,4.83,4.50
+AS.210.372.01.SP25,Advanced Portuguese II,"Sanchez, Loreto","Sanchez, Loreto",2025 Spring,German and Romance Languages and Literatures,2.83,5.00,4.50
+AS.210.372.01.SP25,Advanced Portuguese II,"Nagasawa, Ellen","Nagasawa, Ellen",2025 Spring,German and Romance Languages and Literatures,2.83,4.83,4.50
+AS.210.411.02.SP24,Contacts and Contrasts in Spanish for the Professions,"Ramos, Rosario","Ramos, Rosario",2024 Spring,German and Romance Languages and Literatures,3.38,4.88,4.63
+AS.210.411.02.FA24,Contacts and Contrasts in Spanish for the Professions,"Ramos, Rosario","Ramos, Rosario",2024 Fall,German and Romance Languages and Literatures,4.10,4.10,4.30
+AS.210.411.01.FA24,Contacts and Contrasts in Spanish for the Professions,"Ramos, Rosario","Ramos, Rosario",2024 Fall,German and Romance Languages and Literatures,4.11,4.44,4.78
+AS.210.411.01.SP25,Contacts and Contrasts in Spanish for the Professions,"Ramos, Rosario","Ramos, Rosario",2025 Spring,German and Romance Languages and Literatures,3.63,4.50,4.50
+AS.210.411.02.FA25,Contacts and Contrasts in Spanish for the Professions,"Ramos, Rosario","Ramos, Rosario",2025 Fall,German and Romance Languages and Literatures,3.89,4.11,4.56
+AS.210.412.02.SP24,Community Based Learning - Spanish Language Practicum,"Sanchez, Loreto","Sanchez, Loreto",2024 Spring,German and Romance Languages and Literatures,2.86,4.43,4.29
+AS.210.412.01.SP24,Community Based Learning - Spanish Language Practicum,"Sanchez, Loreto","Sanchez, Loreto",2024 Spring,German and Romance Languages and Literatures,2.67,4.78,4.56
+AS.210.412.01.FA24,Community Based Learning - Spanish Language Practicum,"Sanchez, Loreto","Sanchez, Loreto",2024 Fall,German and Romance Languages and Literatures,3.20,5.00,5.00
+AS.210.412.02.SP25,Community Based Learning - Spanish Language Practicum,"Sanchez, Loreto","Sanchez, Loreto",2025 Spring,German and Romance Languages and Literatures,2.86,4.83,4.50
+AS.210.412.01.SP25,Community Based Learning - Spanish Language Practicum,"Sanchez, Loreto","Sanchez, Loreto",2025 Spring,German and Romance Languages and Literatures,2.86,4.75,4.50
+AS.210.412.01.FA25,Community Based Learning - Spanish Language Practicum,"Sanchez, Loreto","Sanchez, Loreto",2025 Fall,German and Romance Languages and Literatures,3.25,4.50,4.50
+AS.210.417.01.SP24,Eloquent French,"Cook-Gailloud, Kristin","Cook-Gailloud, Kristin",2024 Spring,German and Romance Languages and Literatures,3.90,4.30,4.20
+AS.210.417.01.FA24,Eloquent French,"Cook-Gailloud, Kristin","Cook-Gailloud, Kristin",2024 Fall,German and Romance Languages and Literatures,3.25,4.13,4.13
+AS.210.417.01.SP25,Eloquent French,"Cook-Gailloud, Kristin","Cook-Gailloud, Kristin",2025 Spring,German and Romance Languages and Literatures,3.67,4.83,4.50
+AS.210.417.01.FA25,Eloquent French,"Cook-Gailloud, Kristin","Cook-Gailloud, Kristin",2025 Fall,German and Romance Languages and Literatures,3.14,4.71,4.71

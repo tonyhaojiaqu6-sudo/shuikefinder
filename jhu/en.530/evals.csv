@@ -1,0 +1,227 @@
+course_code,course_title,instructor,instructors_full,term,department,workload_avg,teaching_avg,intellectual_avg
+EN.530.111.01.FA24,Intro to MechE Design and CAD,"Marra, Steven","Marra, Steven",2024 Fall,Mechanical Engineering,4.02,4.58,4.29
+EN.530.111.01.FA25,Intro to MechE Design and CAD,"Marra, Steven","Marra, Steven",2025 Fall,Mechanical Engineering,3.93,4.28,4.07
+EN.530.111.01.FA25,Intro to MechE Design and CAD,"Murphy, Todd","Murphy, Todd",2025 Fall,Mechanical Engineering,3.93,4.18,4.07
+EN.530.115.03.FA24,MechE Freshman Lab I,"Marra, Steven","Marra, Steven",2024 Fall,Mechanical Engineering,3.23,4.54,4.15
+EN.530.115.02.FA24,MechE Freshman Lab I,"Marra, Steven","Marra, Steven",2024 Fall,Mechanical Engineering,3.56,4.41,4.00
+EN.530.115.04.FA24,MechE Freshman Lab I,"Marra, Steven","Marra, Steven",2024 Fall,Mechanical Engineering,3.08,4.67,4.17
+EN.530.115.01.FA24,MechE Freshman Lab I,"Marra, Steven","Marra, Steven",2024 Fall,Mechanical Engineering,3.07,4.56,4.31
+EN.530.115.05.FA25,MechE Freshman Lab I,"Marra, Steven","Marra, Steven",2025 Fall,Mechanical Engineering,3.22,4.35,4.33
+EN.530.115.05.FA25,MechE Freshman Lab I,"Murphy, Todd","Murphy, Todd",2025 Fall,Mechanical Engineering,3.22,4.11,4.33
+EN.530.115.04.FA25,MechE Freshman Lab I,"Marra, Steven","Marra, Steven",2025 Fall,Mechanical Engineering,2.76,4.47,3.94
+EN.530.115.04.FA25,MechE Freshman Lab I,"Murphy, Todd","Murphy, Todd",2025 Fall,Mechanical Engineering,2.76,4.35,3.94
+EN.530.115.01.FA25,MechE Freshman Lab I,"Marra, Steven","Marra, Steven",2025 Fall,Mechanical Engineering,2.90,4.35,4.14
+EN.530.115.01.FA25,MechE Freshman Lab I,"Murphy, Todd","Murphy, Todd",2025 Fall,Mechanical Engineering,2.90,4.33,4.14
+EN.530.115.02.FA25,MechE Freshman Lab I,"Marra, Steven","Marra, Steven",2025 Fall,Mechanical Engineering,3.27,4.00,3.73
+EN.530.115.02.FA25,MechE Freshman Lab I,"Murphy, Todd","Murphy, Todd",2025 Fall,Mechanical Engineering,3.27,4.40,3.73
+EN.530.115.03.FA25,MechE Freshman Lab I,"Marra, Steven","Marra, Steven",2025 Fall,Mechanical Engineering,2.84,4.47,4.21
+EN.530.115.03.FA25,MechE Freshman Lab I,"Murphy, Todd","Murphy, Todd",2025 Fall,Mechanical Engineering,2.84,4.42,4.21
+EN.530.116.04.SP24,MechE Freshman Lab II,"Marra, Steven","Marra, Steven",2024 Spring,Mechanical Engineering,4.10,5.00,4.50
+EN.530.116.01.SP24,MechE Freshman Lab II,"Marra, Steven","Marra, Steven",2024 Spring,Mechanical Engineering,4.30,4.20,4.40
+EN.530.116.02.SP24,MechE Freshman Lab II,"Marra, Steven","Marra, Steven",2024 Spring,Mechanical Engineering,3.88,4.56,4.41
+EN.530.116.03.SP24,MechE Freshman Lab II,"Marra, Steven","Marra, Steven",2024 Spring,Mechanical Engineering,4.06,4.53,4.12
+EN.530.116.05.SP24,MechE Freshman Lab II,"Marra, Steven","Marra, Steven",2024 Spring,Mechanical Engineering,4.27,4.83,4.25
+EN.530.116.02.SP25,MechE Freshman Lab II,"Marra, Steven","Marra, Steven",2025 Spring,Mechanical Engineering,4.40,4.50,4.65
+EN.530.116.04.SP25,MechE Freshman Lab II,"Marra, Steven","Marra, Steven",2025 Spring,Mechanical Engineering,4.17,4.42,4.17
+EN.530.116.03.SP25,MechE Freshman Lab II,"Marra, Steven","Marra, Steven",2025 Spring,Mechanical Engineering,4.56,4.56,4.28
+EN.530.116.01.SP25,MechE Freshman Lab II,"Marra, Steven","Marra, Steven",2025 Spring,Mechanical Engineering,4.08,4.58,4.33
+EN.530.123.01.FA24,Introduction to Mechanics I,"Kraemer, David","Kraemer, David",2024 Fall,Mechanical Engineering,2.72,3.42,3.72
+EN.530.123.01.FA25,Introduction to Mechanics I,"Kraemer, David","Kraemer, David",2025 Fall,Mechanical Engineering,2.98,4.09,3.95
+EN.530.124.01.SP24,Intro to Mechanics II,"Barman, Ishan","Barman, Ishan",2024 Spring,Mechanical Engineering,3.02,3.16,3.97
+EN.530.124.01.SP25,Introduction to Mechanics II,"Barman, Ishan","Barman, Ishan",2025 Spring,Mechanical Engineering,2.98,2.91,3.67
+EN.530.202.01.SP24,Mechanical Engineering Dynamics,"Cowan, Noah","Cowan, Noah",2024 Spring,Mechanical Engineering,4.15,3.42,3.87
+EN.530.202.01.SP25,Mechanical Engineering Dynamics,"Belkoff, Stephen","Belkoff, Stephen",2025 Spring,Mechanical Engineering,3.23,3.20,3.89
+EN.530.212.05.SP24,MechE Dynamics Laboratory,"Cowan, Noah","Cowan, Noah",2024 Spring,Mechanical Engineering,3.33,3.00,3.50
+EN.530.212.01.SP24,MechE Dynamics Laboratory,"Cowan, Noah","Cowan, Noah",2024 Spring,Mechanical Engineering,2.69,2.91,3.25
+EN.530.212.04.SP24,MechE Dynamics Laboratory,"Cowan, Noah","Cowan, Noah",2024 Spring,Mechanical Engineering,3.33,2.82,3.54
+EN.530.212.03.SP24,MechE Dynamics Laboratory,"Cowan, Noah","Cowan, Noah",2024 Spring,Mechanical Engineering,3.17,3.58,3.92
+EN.530.212.02.SP24,MechE Dynamics Laboratory,"Cowan, Noah","Cowan, Noah",2024 Spring,Mechanical Engineering,3.08,3.57,3.75
+EN.530.212.02.SP25,MechE Dynamics Laboratory,"Belkoff, Stephen","Belkoff, Stephen",2025 Spring,Mechanical Engineering,3.07,3.62,3.80
+EN.530.212.05.SP25,MechE Dynamics Laboratory,"Belkoff, Stephen","Belkoff, Stephen",2025 Spring,Mechanical Engineering,3.43,4.13,3.67
+EN.530.212.01.SP25,MechE Dynamics Laboratory,"Belkoff, Stephen","Belkoff, Stephen",2025 Spring,Mechanical Engineering,2.67,3.42,3.47
+EN.530.212.04.SP25,MechE Dynamics Laboratory,"Belkoff, Stephen","Belkoff, Stephen",2025 Spring,Mechanical Engineering,3.08,3.23,3.58
+EN.530.212.03.SP25,MechE Dynamics Laboratory,"Belkoff, Stephen","Belkoff, Stephen",2025 Spring,Mechanical Engineering,2.86,3.31,3.67
+EN.530.215.01.SP24,Mechanics-Based Design,"El-Awady, Jaafar","El-Awady, Jaafar",2024 Spring,Mechanical Engineering,3.95,3.71,4.35
+EN.530.215.01.SP25,Mechanics-Based Design,"Nguyen, Vicky","Nguyen, Vicky",2025 Spring,Mechanical Engineering,3.92,3.95,4.42
+EN.530.216.06.SP24,Mechanics Based Design Laboratory,"Marra, Steven","Marra, Steven",2024 Spring,Mechanical Engineering,3.33,4.78,4.22
+EN.530.216.01.SP24,Mechanics Based Design Laboratory,"Marra, Steven","Marra, Steven",2024 Spring,Mechanical Engineering,3.90,4.70,4.50
+EN.530.216.02.SP24,Mechanics Based Design Laboratory,"Marra, Steven","Marra, Steven",2024 Spring,Mechanical Engineering,3.20,4.40,3.90
+EN.530.216.05.SP24,Mechanics Based Design Laboratory,"Marra, Steven","Marra, Steven",2024 Spring,Mechanical Engineering,3.33,4.75,4.56
+EN.530.216.04.SP24,Mechanics Based Design Laboratory,"Marra, Steven","Marra, Steven",2024 Spring,Mechanical Engineering,3.25,4.78,4.22
+EN.530.216.03.SP24,Mechanics Based Design Laboratory,"Marra, Steven","Marra, Steven",2024 Spring,Mechanical Engineering,3.89,4.33,4.22
+EN.530.216.04.SP25,Mechanics Based Design Laboratory,"Marra, Steven","Marra, Steven",2025 Spring,Mechanical Engineering,3.56,4.75,4.36
+EN.530.216.01.SP25,Mechanics Based Design Laboratory,"Marra, Steven","Marra, Steven",2025 Spring,Mechanical Engineering,3.58,4.92,4.50
+EN.530.231.01.FA24,Mechanical Engineering Thermodynamics,"Katz, Joseph","Katz, Joseph",2024 Fall,Mechanical Engineering,3.80,3.24,4.47
+EN.530.231.01.FA25,Mechanical Engineering Thermodynamics,"Katz, Joseph","Katz, Joseph",2025 Fall,Mechanical Engineering,4.00,3.87,4.62
+EN.530.232.01.FA24,Mechanical Engineering Thermodynamics Laboratory,"Marra, Steven","Marra, Steven",2024 Fall,Mechanical Engineering,4.17,4.45,4.11
+EN.530.232.01.FA25,Mechanical Engineering Thermodynamics Laboratory,"Marra, Steven","Marra, Steven",2025 Fall,Mechanical Engineering,4.10,4.33,4.05
+EN.530.232.01.FA25,Mechanical Engineering Thermodynamics Laboratory,"Katz, Joseph","Katz, Joseph",2025 Fall,Mechanical Engineering,4.10,3.79,4.05
+EN.530.241.01.SP24,Electronics & Instrumentation,"Kraemer, David","Kraemer, David",2024 Spring,Mechanical Engineering,2.89,4.17,4.21
+EN.530.241.01.SP25,Electronics & Instrumentation,"Kraemer, David","Kraemer, David",2025 Spring,Mechanical Engineering,2.80,4.30,4.12
+EN.530.243.04.SP24,Electronics and Instrumentation Laboratory,"Kraemer, David","Kraemer, David",2024 Spring,Mechanical Engineering,3.00,4.00,4.20
+EN.530.243.03.SP24,Electronics and Instrumentation Laboratory,"Kraemer, David","Kraemer, David",2024 Spring,Mechanical Engineering,2.55,4.20,4.27
+EN.530.243.02.SP24,Electronics and Instrumentation Laboratory,"Kraemer, David","Kraemer, David",2024 Spring,Mechanical Engineering,2.88,3.94,3.94
+EN.530.243.01.SP24,Electronics and Instrumentation Laboratory,"Kraemer, David","Kraemer, David",2024 Spring,Mechanical Engineering,3.00,4.21,4.00
+EN.530.243.01.SP25,Electronics and Instrumentation Laboratory,"Kraemer, David","Kraemer, David",2025 Spring,Mechanical Engineering,2.88,4.61,4.61
+EN.530.243.04.SP25,Electronics and Instrumentation Laboratory,"Kraemer, David","Kraemer, David",2025 Spring,Mechanical Engineering,3.08,4.67,4.27
+EN.530.243.03.SP25,Electronics and Instrumentation Laboratory,"Kraemer, David","Kraemer, David",2025 Spring,Mechanical Engineering,2.92,4.42,4.25
+EN.530.243.02.SP25,Electronics and Instrumentation Laboratory,"Kraemer, David","Kraemer, David",2025 Spring,Mechanical Engineering,3.00,3.78,3.85
+EN.530.254.01.SP24,Manufacturing Engineering,"Barker, Dani","Barker, Dani",2024 Spring,Mechanical Engineering,2.33,4.00,3.50
+EN.530.254.06.FA24,Manufacturing Engineering,"Barker, Dani","Barker, Dani",2024 Fall,Mechanical Engineering,3.20,3.80,3.80
+EN.530.254.02.FA24,Manufacturing Engineering,"Barker, Dani","Barker, Dani",2024 Fall,Mechanical Engineering,3.17,4.17,4.17
+EN.530.254.01.FA24,Manufacturing Engineering,"Barker, Dani","Barker, Dani",2024 Fall,Mechanical Engineering,3.20,4.60,4.20
+EN.530.254.05.FA24,Manufacturing Engineering,"Barker, Dani","Barker, Dani",2024 Fall,Mechanical Engineering,3.40,3.80,3.80
+EN.530.254.04.FA24,Manufacturing Engineering,"Barker, Dani","Barker, Dani",2024 Fall,Mechanical Engineering,3.20,4.17,3.50
+EN.530.254.03.FA24,Manufacturing Engineering,"Barker, Dani","Barker, Dani",2024 Fall,Mechanical Engineering,2.80,4.40,3.60
+EN.530.254.07.FA24,Manufacturing Engineering,"Barker, Dani","Barker, Dani",2024 Fall,Mechanical Engineering,3.50,5.00,4.25
+EN.530.254.01.SP25,Manufacturing Engineering,"Barker, Dani","Barker, Dani",2025 Spring,Mechanical Engineering,2.33,5.00,4.00
+EN.530.254.01.FA25,Manufacturing Engineering,"Barker, Dani","Barker, Dani",2025 Fall,Mechanical Engineering,3.00,4.50,4.33
+EN.530.310.01.FA24,Reverse Engineering and Diagnostics,"Belkoff, Stephen","Belkoff, Stephen",2024 Fall,Mechanical Engineering,2.61,4.39,3.94
+EN.530.327.01.FA24,Introduction to Fluid Mechanics,"Ni, Rui","Ni, Rui",2024 Fall,Mechanical Engineering,3.60,4.81,4.70
+EN.530.327.01.FA25,Introduction to Fluid Mechanics,"Ni, Rui","Ni, Rui",2025 Fall,Mechanical Engineering,3.58,4.66,4.65
+EN.530.329.01.FA24,Introduction to Fluid Mechanics Laboratory,"Marra, Steven","Marra, Steven",2024 Fall,Mechanical Engineering,3.09,4.56,4.07
+EN.530.329.01.FA25,Introduction to Fluid Mechanics Laboratory,"Ni, Rui","Ni, Rui",2025 Fall,Mechanical Engineering,3.22,4.20,3.97
+EN.530.329.01.FA25,Introduction to Fluid Mechanics Laboratory,"Marra, Steven","Marra, Steven",2025 Fall,Mechanical Engineering,3.22,4.53,3.97
+EN.530.334.01.SP24,Heat Transfer,"Hur, Claire","Hur, Claire",2024 Spring,Mechanical Engineering,3.65,3.56,4.31
+EN.530.334.01.SP25,Heat Transfer,"Hur, Claire","Hur, Claire",2025 Spring,Mechanical Engineering,3.68,3.75,4.44
+EN.530.335.07.SP24,Heat Transfer Laboratory,"Jarecki, Dominic","Jarecki, Dominic",2024 Spring,Mechanical Engineering,3.20,3.80,4.20
+EN.530.335.05.SP24,Heat Transfer Laboratory,"Jarecki, Dominic","Jarecki, Dominic",2024 Spring,Mechanical Engineering,3.20,2.40,3.80
+EN.530.335.04.SP24,Heat Transfer Laboratory,"Jarecki, Dominic","Jarecki, Dominic",2024 Spring,Mechanical Engineering,3.20,2.20,3.20
+EN.530.335.02.SP24,Heat Transfer Laboratory,"Jarecki, Dominic","Jarecki, Dominic",2024 Spring,Mechanical Engineering,3.67,3.33,3.83
+EN.530.335.01.SP24,Heat Transfer Laboratory,"Jarecki, Dominic","Jarecki, Dominic",2024 Spring,Mechanical Engineering,3.33,3.83,4.17
+EN.530.335.03.SP24,Heat Transfer Laboratory,"Jarecki, Dominic","Jarecki, Dominic",2024 Spring,Mechanical Engineering,3.50,2.67,2.83
+EN.530.335.09.SP24,Heat Transfer Laboratory,"Jarecki, Dominic","Jarecki, Dominic",2024 Spring,Mechanical Engineering,3.80,4.20,3.75
+EN.530.335.08.SP24,Heat Transfer Laboratory,"Jarecki, Dominic","Jarecki, Dominic",2024 Spring,Mechanical Engineering,3.60,3.60,3.60
+EN.530.335.03.SP25,Heat Transfer Laboratory,"Marra, Steven","Marra, Steven",2025 Spring,Mechanical Engineering,3.50,4.60,4.60
+EN.530.335.05.SP25,Heat Transfer Laboratory,"Marra, Steven","Marra, Steven",2025 Spring,Mechanical Engineering,3.29,4.29,4.29
+EN.530.335.01.SP25,Heat Transfer Laboratory,"Marra, Steven","Marra, Steven",2025 Spring,Mechanical Engineering,3.00,4.83,4.50
+EN.530.335.01.SP25,Heat Transfer Laboratory,"Feild, David","Feild, David",2025 Spring,Mechanical Engineering,3.00,3.67,4.50
+EN.530.335.07.SP25,Heat Transfer Laboratory,"Marra, Steven","Marra, Steven",2025 Spring,Mechanical Engineering,3.40,4.60,4.20
+EN.530.335.02.SP25,Heat Transfer Laboratory,"Marra, Steven","Marra, Steven",2025 Spring,Mechanical Engineering,3.80,4.83,4.50
+EN.530.335.10.SP25,Heat Transfer Laboratory,"Marra, Steven","Marra, Steven",2025 Spring,Mechanical Engineering,3.00,4.75,4.50
+EN.530.335.06.SP25,Heat Transfer Laboratory,"Marra, Steven","Marra, Steven",2025 Spring,Mechanical Engineering,3.33,4.60,4.33
+EN.530.335.04.SP25,Heat Transfer Laboratory,"Marra, Steven","Marra, Steven",2025 Spring,Mechanical Engineering,3.86,5.00,4.57
+EN.530.343.01.SP24,Design and Analysis of Dynamical Systems,"Kim, Jin Seob","Kim, Jin Seob",2024 Spring,Mechanical Engineering,4.02,3.91,4.47
+EN.530.343.01.SP25,Design and Analysis of Dynamical Systems,"Whitcomb, Louis","Whitcomb, Louis",2025 Spring,Mechanical Engineering,3.87,3.77,4.16
+EN.530.344.03.SP24,Design and Analysis of Dynamical Systems Laboratory,"Marra, Steven","Marra, Steven",2024 Spring,Mechanical Engineering,2.50,4.50,4.14
+EN.530.344.01.SP24,Design and Analysis of Dynamical Systems Laboratory,"Marra, Steven","Marra, Steven",2024 Spring,Mechanical Engineering,2.44,4.56,4.06
+EN.530.344.02.SP24,Design and Analysis of Dynamical Systems Laboratory,"Marra, Steven","Marra, Steven",2024 Spring,Mechanical Engineering,2.21,4.60,4.07
+EN.530.344.02.SP25,Design and Analysis of Dynamical Systems Laboratory,"Marra, Steven","Marra, Steven",2025 Spring,Mechanical Engineering,2.10,4.78,4.11
+EN.530.344.01.SP25,Design and Analysis of Dynamical Systems Laboratory,"Marra, Steven","Marra, Steven",2025 Spring,Mechanical Engineering,2.10,4.72,4.14
+EN.530.344.03.SP25,Design and Analysis of Dynamical Systems Laboratory,"Marra, Steven","Marra, Steven",2025 Spring,Mechanical Engineering,2.21,4.45,3.89
+EN.530.352.01.FA24,Materials Selection,"Hemker, Kevin","Hemker, Kevin",2024 Fall,Mechanical Engineering,4.00,3.04,3.77
+EN.530.352.01.FA25,Materials Selection,"Hemker, Kevin","Hemker, Kevin",2025 Fall,Mechanical Engineering,3.54,2.85,3.86
+EN.530.403.01.FA24,MechE Senior Design Project I,"Bauernschub, Rich","Bauernschub, Rich",2024 Fall,Mechanical Engineering,4.80,4.38,4.69
+EN.530.403.01.FA25,MechE Senior Design Project I,"Belkoff, Stephen","Belkoff, Stephen",2025 Fall,Mechanical Engineering,4.72,4.71,4.78
+EN.530.403.01.FA25,MechE Senior Design Project I,"Bauernschub, Rich","Bauernschub, Rich",2025 Fall,Mechanical Engineering,4.72,4.65,4.78
+EN.530.404.01.SP24,MechE Senior Design Project II,"Belkoff, Stephen","Belkoff, Stephen",2024 Spring,Mechanical Engineering,4.25,4.00,4.25
+EN.530.404.01.SP24,MechE Senior Design Project II,"Bauernschub, Richard","Bauernschub, Richard",2024 Spring,Mechanical Engineering,4.25,5.00,4.25
+EN.530.404.01.SP25,MechE Senior Design Project II,"Belkoff, Stephen","Belkoff, Stephen",2025 Spring,Mechanical Engineering,4.82,4.64,4.53
+EN.530.404.01.SP25,MechE Senior Design Project II,"Bauernschub, Rich","Bauernschub, Rich",2025 Spring,Mechanical Engineering,4.82,4.44,4.53
+EN.530.410.01.SP24,Biomechanics of the Cell,"Sun, Sean","Sun, Sean",2024 Spring,Mechanical Engineering,2.81,3.62,3.95
+EN.530.410.01.SP25,Biomechanics of the Cell,"Sun, Sean","Sun, Sean",2025 Spring,Mechanical Engineering,3.07,4.21,4.43
+EN.530.414.02.FA24,Computer-Aided Design,"Stoianovici, Dan","Stoianovici, Dan",2024 Fall,Mechanical Engineering,4.22,4.72,4.28
+EN.530.414.01.FA24,Computer-Aided Design,"Stoianovici, Dan","Stoianovici, Dan",2024 Fall,Mechanical Engineering,3.88,4.69,4.44
+EN.530.414.02.FA25,Computer-Aided Design,"Stoianovici, Dan","Stoianovici, Dan",2025 Fall,Mechanical Engineering,3.94,4.71,4.53
+EN.530.414.01.FA25,Computer-Aided Design,"Stoianovici, Dan","Stoianovici, Dan",2025 Fall,Mechanical Engineering,4.11,4.56,4.53
+EN.530.418.01.FA25,Aerospace Structures,"Dragone, Tom","Dragone, Tom",2025 Fall,Mechanical Engineering,3.50,4.83,4.92
+EN.530.420.05.FA24,Robot Sensors/Actuators,"Kraemer, David","Kraemer, David",2024 Fall,Mechanical Engineering,3.38,4.75,4.50
+EN.530.420.01.FA24,Robot Sensors/Actuators,"Kraemer, David","Kraemer, David",2024 Fall,Mechanical Engineering,3.67,5.00,4.50
+EN.530.420.08.FA25,Robot Sensors/Actuators,"Kraemer, David","Kraemer, David",2025 Fall,Mechanical Engineering,3.25,4.67,4.33
+EN.530.420.07.FA25,Robot Sensors/Actuators,"Kraemer, David","Kraemer, David",2025 Fall,Mechanical Engineering,3.40,4.29,4.00
+EN.530.420.05.FA25,Robot Sensors/Actuators,"Kraemer, David","Kraemer, David",2025 Fall,Mechanical Engineering,3.00,4.56,4.00
+EN.530.420.06.FA25,Robot Sensors/Actuators,"Kraemer, David","Kraemer, David",2025 Fall,Mechanical Engineering,2.78,4.70,4.10
+EN.530.420.04.FA25,Robot Sensors/Actuators,"Kraemer, David","Kraemer, David",2025 Fall,Mechanical Engineering,3.22,4.70,4.50
+EN.530.420.03.FA25,Robot Sensors/Actuators,"Kraemer, David","Kraemer, David",2025 Fall,Mechanical Engineering,2.90,4.78,3.90
+EN.530.420.01.FA25,Robot Sensors/Actuators,"Kraemer, David","Kraemer, David",2025 Fall,Mechanical Engineering,3.00,4.67,4.00
+EN.530.420.02.FA25,Robot Sensors/Actuators,"Kraemer, David","Kraemer, David",2025 Fall,Mechanical Engineering,3.17,4.75,4.50
+EN.530.421.02.SP24,Mechatronics,"Brown, Jeremy","Brown, Jeremy",2024 Spring,Mechanical Engineering,3.56,4.39,4.50
+EN.530.421.01.SP24,Mechatronics,"Brown, Jeremy","Brown, Jeremy",2024 Spring,Mechanical Engineering,3.47,4.21,4.58
+EN.530.421.03.SP24,Mechatronics,"Brown, Jeremy","Brown, Jeremy",2024 Spring,Mechanical Engineering,3.54,4.77,4.50
+EN.530.421.03.SP25,Mechatronics,"Brown, Jeremy","Brown, Jeremy",2025 Spring,Mechanical Engineering,3.56,4.05,4.11
+EN.530.421.01.SP25,Mechatronics,"Brown, Jeremy","Brown, Jeremy",2025 Spring,Mechanical Engineering,3.07,4.19,4.13
+EN.530.421.02.SP25,Mechatronics,"Brown, Jeremy","Brown, Jeremy",2025 Spring,Mechanical Engineering,3.55,4.37,4.21
+EN.530.425.01.SP25,Mechanics of Flight,"Ni, Rui","Ni, Rui",2025 Spring,Mechanical Engineering,3.71,4.24,4.70
+EN.530.429.01.FA25,Musculoskeletal Biomechanics,"Middendorf, Jill","Middendorf, Jill",2025 Fall,Mechanical Engineering,3.38,4.57,4.64
+EN.530.430.01.FA24,Applied Finite Element Analysis,"Boyle, Michael","Boyle, Michael",2024 Fall,Mechanical Engineering,3.90,4.80,4.60
+EN.530.430.01.FA25,Applied Finite Element Analysis,"Boyle, Michael","Boyle, Michael",2025 Fall,Mechanical Engineering,3.74,4.68,4.47
+EN.530.431.01.SP24,Biomechanics of Development,"Weng, Shinuo","Weng, Shinuo",2024 Spring,Mechanical Engineering,2.25,2.75,3.75
+EN.530.431.01.SP25,Biomechanics of Development,"Weng, Shinuo","Weng, Shinuo",2025 Spring,Mechanical Engineering,3.00,4.33,4.00
+EN.530.432.01.SP24,Jet & Rocket Propulsion,"Katz, Joseph","Katz, Joseph",2024 Spring,Mechanical Engineering,3.75,4.30,4.60
+EN.530.438.01.SP25,Aerospace Materials,"Hemker, Kevin","Hemker, Kevin",2025 Spring,Mechanical Engineering,3.32,3.85,3.85
+EN.530.455.01.FA24,Additive Manufacturing,"Mueller, Jochen","Mueller, Jochen",2024 Fall,Mechanical Engineering,2.50,4.25,3.50
+EN.530.465.01.FA25,"Spacecrafts, Submarines, and Glaciers: Solid Mechanics in Extreme Environments","El-Awady, Jaafar","El-Awady, Jaafar",2025 Fall,Mechanical Engineering,2.63,4.47,4.21
+EN.530.480.01.SP24,Image Processing and Data Visualization,"Chen, Yun","Chen, Yun",2024 Spring,Mechanical Engineering,3.12,3.56,4.22
+EN.530.604.01.SP24,Mechanical Properties of Materials,"Mitra, Nilanjan","Mitra, Nilanjan",2024 Spring,Mechanical Engineering,2.73,2.73,3.18
+EN.530.605.01.FA24,Mechanics of Solids and Materials,"Nguyen, Vicky","Nguyen, Vicky",2024 Fall,Mechanical Engineering,4.11,4.72,4.78
+EN.530.605.01.FA25,Mechanics of Solids and Materials,"Hurley, Ryan","Hurley, Ryan",2025 Fall,Mechanical Engineering,3.42,4.89,4.74
+EN.530.606.01.SP24,Mechanics of Solids and Materials II,"Lloyd, Jeffrey","Lloyd, Jeffrey",2024 Spring,Mechanical Engineering,3.21,4.36,4.43
+EN.530.606.01.SP25,Mechanics of Solids and Materials II,"Nguyen, Vicky","Nguyen, Vicky",2025 Spring,Mechanical Engineering,4.14,4.64,4.64
+EN.530.607.01.SP24,Introduction to Wind Energy,"Gayme, Dennice","Gayme, Dennice",2024 Spring,Mechanical Engineering,2.89,3.80,4.11
+EN.530.607.01.SP25,Introduction to Wind Energy,"Gayme, Dennice","Gayme, Dennice",2025 Spring,Mechanical Engineering,3.05,4.50,4.25
+EN.530.610.01.FA24,Quantitative Cell Mechanics,"Sun, Sean","Sun, Sean",2024 Fall,Mechanical Engineering,2.25,4.00,4.25
+EN.530.610.01.FA25,Quantitative Cell Mechanics,"Sun, Sean","Sun, Sean",2025 Fall,Mechanical Engineering,2.33,4.75,4.75
+EN.530.616.01.FA24,Introduction to Linear Systems Theory,"Whitcomb, Louis","Whitcomb, Louis",2024 Fall,Mechanical Engineering,3.68,4.47,4.50
+EN.530.616.01.FA25,Introduction to Linear Systems Theory,"Whitcomb, Louis","Whitcomb, Louis",2025 Fall,Mechanical Engineering,3.77,4.64,4.67
+EN.530.618.01.SP24,Fabricatology - Advanced Materials Processing,"Kang, Sung Hoon","Kang, Sung Hoon",2024 Spring,Mechanical Engineering,3.00,4.64,4.29
+EN.530.619.01.FA25,Aerospace Structures,"Dragone, Tom","Dragone, Tom",2025 Fall,Mechanical Engineering,3.13,4.00,4.38
+EN.530.621.01.FA24,Fluid Dynamics I,"Zaki, Tamer","Zaki, Tamer",2024 Fall,Mechanical Engineering,3.31,4.80,4.80
+EN.530.621.01.FA25,Fluid Dynamics I,"Meneveau, Charles","Meneveau, Charles",2025 Fall,Mechanical Engineering,4.23,4.31,4.77
+EN.530.622.01.SP24,Fluid Dynamics II,"Roohi Golkhatmi, Ehsan","Roohi Golkhatmi, Ehsan",2024 Spring,Mechanical Engineering,4.92,2.33,3.60
+EN.530.622.01.SP25,Fluid Dynamics II,"Katz, Joseph","Katz, Joseph",2025 Spring,Mechanical Engineering,3.67,4.30,4.70
+EN.530.623.01.SP24,Design of Marine Robots,"Bellingham, James","Bellingham, James",2024 Spring,Mechanical Engineering,3.00,4.78,4.11
+EN.530.624.01.FA24,Dynamics of Robots and Spacecraft (Graduate),"Kim, Jin Seob","Kim, Jin Seob",2024 Fall,Mechanical Engineering,3.75,4.38,4.88
+EN.530.624.01.FA25,Dynamics of Robots and Spacecraft (Graduate),"Kim, Jin Seob","Kim, Jin Seob",2025 Fall,Mechanical Engineering,3.44,4.70,4.80
+EN.530.625.01.FA24,Turbulence,"Meneveau, Charles","Meneveau, Charles",2024 Fall,Mechanical Engineering,3.30,4.64,4.82
+EN.530.626.01.FA25,Trajectory Generation for Space Systems,"Cauligi, Abhishek","Cauligi, Abhishek",2025 Fall,Mechanical Engineering,3.22,4.63,4.72
+EN.530.627.01.SP25,Intermediate Fluid Mechanics (graduate),"Meneveau, Charles","Meneveau, Charles",2025 Spring,Mechanical Engineering,3.69,4.46,4.46
+EN.530.632.01.SP24,Convection,"Seo, Jung-Hee","Seo, Jung-Hee",2024 Spring,Mechanical Engineering,3.08,4.24,4.38
+EN.530.635.01.SP24,Guidance and Control of Flight Vehicles,"Dembner, Danny","Dembner, Danny",2024 Spring,Mechanical Engineering,3.14,4.14,4.14
+EN.530.637.01.FA25,Energy Meteorology,"Lundquist, Julie","Lundquist, Julie",2025 Fall,Mechanical Engineering,3.30,4.80,4.20
+EN.530.638.01.SP25,Aerospace Materials,"Jalali, Syed Idrees Afzal","Jalali, Syed Idrees Afzal",2025 Spring,Mechanical Engineering,3.33,4.27,4.07
+EN.530.641.01.FA24,Statistical Learning For Engineers,"Kim, Jin Seob","Kim, Jin Seob",2024 Fall,Mechanical Engineering,3.37,4.42,4.56
+EN.530.641.01.FA25,Statistical Learning For Engineers,"Kim, Jin Seob","Kim, Jin Seob",2025 Fall,Mechanical Engineering,4.06,4.12,4.38
+EN.530.643.01.FA24,"Fundamentals, Design Principles and Applications of Microfluidic Systems","Hur, Claire","Hur, Claire",2024 Fall,Mechanical Engineering,3.08,4.50,4.42
+EN.530.643.01.FA25,"Fundamentals, Design Principles and Applications of Microfluidic Systems","Hur, Claire","Hur, Claire",2025 Fall,Mechanical Engineering,3.57,4.57,4.29
+EN.530.646.01.SP24,"Robot Devices, Kinematics, Dynamics, and Control","Kim, Jin Seob","Kim, Jin Seob",2024 Spring,Mechanical Engineering,4.44,4.56,4.75
+EN.530.646.02.FA24,"Robot Devices, Kinematics, Dynamics, and Control","Kim, Jin Seob","Kim, Jin Seob",2024 Fall,Mechanical Engineering,4.06,4.35,4.41
+EN.530.646.04.FA24,"Robot Devices, Kinematics, Dynamics, and Control","Kim, Jin Seob","Kim, Jin Seob",2024 Fall,Mechanical Engineering,4.20,4.60,4.60
+EN.530.646.01.FA24,"Robot Devices, Kinematics, Dynamics, and Control","Kim, Jin Seob","Kim, Jin Seob",2024 Fall,Mechanical Engineering,4.39,4.00,4.17
+EN.530.646.03.FA24,"Robot Devices, Kinematics, Dynamics, and Control","Kim, Jin Seob","Kim, Jin Seob",2024 Fall,Mechanical Engineering,4.46,4.15,4.69
+EN.530.646.01.SP25,"Robot Devices, Kinematics, Dynamics, and Control","Kim, Jin Seob","Kim, Jin Seob",2025 Spring,Mechanical Engineering,4.63,4.36,4.68
+EN.530.646.04.FA25,"Robot Devices, Kinematics, Dynamics, and Control","Kim, Jin Seob","Kim, Jin Seob",2025 Fall,Mechanical Engineering,4.39,3.94,4.35
+EN.530.646.03.FA25,"Robot Devices, Kinematics, Dynamics, and Control","Kim, Jin Seob","Kim, Jin Seob",2025 Fall,Mechanical Engineering,4.47,4.35,4.75
+EN.530.646.02.FA25,"Robot Devices, Kinematics, Dynamics, and Control","Kim, Jin Seob","Kim, Jin Seob",2025 Fall,Mechanical Engineering,4.68,3.79,4.37
+EN.530.646.01.FA25,"Robot Devices, Kinematics, Dynamics, and Control","Kim, Jin Seob","Kim, Jin Seob",2025 Fall,Mechanical Engineering,4.50,4.14,4.71
+EN.530.647.01.SP24,Adaptive Systems and Control,"Whitcomb, Louis","Whitcomb, Louis",2024 Spring,Mechanical Engineering,3.71,4.88,4.59
+EN.530.648.01.SP25,Biosolid Mechanics,"Middendorf, Jill","Middendorf, Jill",2025 Spring,Mechanical Engineering,3.13,4.25,3.63
+EN.530.656.01.FA25,Deformation Mechanisms,"Hemker, Kevin","Hemker, Kevin",2025 Fall,Mechanical Engineering,3.69,4.13,4.38
+EN.530.663.01.SP24,Robot Motion Planning,"Kim, Jin Seob","Kim, Jin Seob",2024 Spring,Mechanical Engineering,3.55,4.48,4.48
+EN.530.663.01.SP25,Robot Motion Planning,"Kim, Jin Seob","Kim, Jin Seob",2025 Spring,Mechanical Engineering,3.26,4.63,4.46
+EN.530.666.01.SP25,Magnetically Actuated and MRI Compatible Robots,"Krieger, Axel","Krieger, Axel",2025 Spring,Mechanical Engineering,3.71,5.00,4.79
+EN.530.668.01.SP25,Locomotion Mechanics: Fundamentals,"Li, Chen","Li, Chen",2025 Spring,Mechanical Engineering,2.92,4.00,4.36
+EN.530.668.01.FA25,Locomotion Mechanics: Fundamentals,"Li, Chen","Li, Chen",2025 Fall,Mechanical Engineering,3.31,3.85,4.19
+EN.530.669.01.SP24,Locomotion Mechanics: Recent Advances,"Li, Chen","Li, Chen",2024 Spring,Mechanical Engineering,3.31,4.08,4.33
+EN.530.672.01.SP24,Biosensing & BioMEMS,"Wang, Jeff","Wang, Jeff",2024 Spring,Mechanical Engineering,3.74,4.00,4.05
+EN.530.672.01.SP24,Biosensing & BioMEMS,"Hsieh, Kuangwen","Hsieh, Kuangwen",2024 Spring,Mechanical Engineering,3.74,3.90,4.05
+EN.530.683.01.FA24,Applied Computational Modeling in Aerodynamics and Heat Transfer,"Seo, Jung-Hee","Seo, Jung-Hee",2024 Fall,Mechanical Engineering,3.08,4.46,4.46
+EN.530.683.01.FA25,Applied Computational Modeling in Aerodynamics and Heat Transfer,"Seo, Jung-Hee","Seo, Jung-Hee",2025 Fall,Mechanical Engineering,3.06,4.56,4.47
+EN.530.691.01.FA24,Haptic Interface Design for Human-Robot Interaction,"Brown, Jeremy","Brown, Jeremy",2024 Fall,Mechanical Engineering,3.33,4.62,4.38
+EN.530.691.01.FA25,Haptic Interface Design for Human-Robot Interaction,"Brown, Jeremy","Brown, Jeremy",2025 Fall,Mechanical Engineering,2.80,4.56,4.37
+EN.530.692.01.SP25,Flexible Robotic System Modeling,"Kim, Jin Seob","Kim, Jin Seob",2025 Spring,Mechanical Engineering,3.20,4.92,4.91
+EN.530.693.01.FA24,"Fabrication of Biomaterials, Engineered Tissues and Food","Chen, Yun","Chen, Yun",2024 Fall,Mechanical Engineering,4.63,3.78,4.25
+EN.530.694.01.SP24,Scanning Electron Microscopy 101: Fundamentals of Nanocharacterization and Nanofabrication,"Mo, Rigen","Mo, Rigen",2024 Spring,Mechanical Engineering,2.38,4.38,4.63
+EN.530.696.01.SP24,Learning-Based Control for Robotics,"Moore, Joseph","Moore, Joseph",2024 Spring,Mechanical Engineering,4.46,3.69,4.85
+EN.530.696.01.SP25,Learning-Based Control for Robotics,"Moore, Joseph","Moore, Joseph",2025 Spring,Mechanical Engineering,4.43,4.24,4.70
+EN.530.707.01.SP24,Robot System Programming,"Leonard, Simon","Leonard, Simon",2024 Spring,Mechanical Engineering,4.83,4.50,4.94
+EN.530.707.01.SP25,Robot System Programming,"Leonard, Simon","Leonard, Simon",2025 Spring,Mechanical Engineering,4.84,4.05,4.65
+EN.530.721.01.FA25,Medical Robotics System Design,"Krieger, Axel","Krieger, Axel",2025 Fall,Mechanical Engineering,3.52,4.88,4.72
+EN.530.738.01.FA24,Micromechanics of Heterogeneous and Granular Materials,"Hurley, Ryan","Hurley, Ryan",2024 Fall,Mechanical Engineering,3.50,4.67,4.88
+EN.530.748.01.SP24,"Stress Waves, Impacts and Shockwaves","Ramesh, KT","Ramesh, KT",2024 Spring,Mechanical Engineering,3.00,4.86,4.86
+EN.530.761.01.FA24,Mathematical Methods of Engineering I,"Gayme, Dennice","Gayme, Dennice",2024 Fall,Mechanical Engineering,3.31,3.79,4.19
+EN.530.761.01.FA25,Mathematical Methods of Engineering I,"Gayme, Dennice","Gayme, Dennice",2025 Fall,Mechanical Engineering,3.56,3.91,4.09
+EN.530.766.01.FA24,Numerical Methods,"Mittal, Rajat","Mittal, Rajat",2024 Fall,Mechanical Engineering,3.94,4.79,4.58
+EN.530.766.01.FA25,Numerical Methods,"Mittal, Rajat","Mittal, Rajat",2025 Fall,Mechanical Engineering,3.54,4.93,4.70
+EN.530.767.01.SP24,Computational Fluid Dynamics,"Mittal, Rajat","Mittal, Rajat",2024 Spring,Mechanical Engineering,3.40,5.00,4.95
+EN.530.767.01.SP25,Computational Fluid Dynamics,"Mittal, Rajat","Mittal, Rajat",2025 Spring,Mechanical Engineering,4.00,4.83,4.67
+EN.530.777.01.FA24,Multiphase Flow,"Tryggvason, Gretar","Tryggvason, Gretar",2024 Fall,Mechanical Engineering,3.13,4.75,5.00

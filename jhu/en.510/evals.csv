@@ -1,0 +1,79 @@
+course_code,course_title,instructor,instructors_full,term,department,workload_avg,teaching_avg,intellectual_avg
+EN.510.106.01.FA24,Foundations of Materials Science & Engineering,"Erlebacher, Jonah","Erlebacher, Jonah",2024 Fall,Materials Science and Engineering,2.80,4.33,4.13
+EN.510.106.01.FA25,Foundations of Materials Science & Engineering,"Erlebacher, Jonah","Erlebacher, Jonah",2025 Fall,Materials Science and Engineering,2.83,4.67,4.50
+EN.510.135.01.FA25,MSE Design Team I,"Wilson, Orla","Wilson, Orla",2025 Fall,Materials Science and Engineering,3.00,4.00,5.00
+EN.510.135.01.FA25,MSE Design Team I,,,2025 Fall,Materials Science and Engineering,,3.00,
+EN.510.311.01.FA24,Structure of Materials,"Lin, DINGCHANG","Lin, DINGCHANG",2024 Fall,Materials Science and Engineering,3.45,3.25,4.30
+EN.510.311.01.FA25,Structure of Materials,"Taheri, Mitra","Taheri, Mitra",2025 Fall,Materials Science and Engineering,2.22,2.78,3.03
+EN.510.312.01.SP24,Thermodynamics/Materials,"Spicer, James","Spicer, James",2024 Spring,Materials Science and Engineering,2.54,3.64,3.68
+EN.510.312.01.SP25,Thermodynamics/Materials,"Spicer, James","Spicer, James",2025 Spring,Materials Science and Engineering,2.42,4.11,3.79
+EN.510.313.01.FA24,Mechanical Properties of Materials,"Rupert, Timothy","Rupert, Timothy",2024 Fall,Materials Science and Engineering,2.88,4.29,4.29
+EN.510.313.01.FA25,Mechanical Properties of Materials,"Rupert, Timothy","Rupert, Timothy",2025 Fall,Materials Science and Engineering,2.94,4.56,4.78
+EN.510.314.01.SP24,Electronic Properties of Materials,"Katz, Howard","Katz, Howard",2024 Spring,Materials Science and Engineering,2.64,4.00,4.36
+EN.510.314.01.SP25,Electronic Properties of Materials,"Katz, Howard","Katz, Howard",2025 Spring,Materials Science and Engineering,2.20,4.70,4.50
+EN.510.315.01.FA24,Physical Chemistry of Materials II,"Luo, Yuting","Luo, Yuting",2024 Fall,Materials Science and Engineering,3.56,2.69,4.13
+EN.510.315.01.FA25,Physical Chemistry of Materials II,"Luo, Yuting","Luo, Yuting",2025 Fall,Materials Science and Engineering,3.21,3.36,4.43
+EN.510.316.01.SP24,Biomaterials I,"Mao, Hai-Quan","Mao, Hai-Quan",2024 Spring,Materials Science and Engineering,3.73,4.42,4.69
+EN.510.316.01.SP25,Biomaterials I,"Mao, Hai-Quan","Mao, Hai-Quan",2025 Spring,Materials Science and Engineering,3.52,4.37,4.37
+EN.510.335.01.FA24,MSE Design Team I,"Wilson, Orla","Wilson, Orla",2024 Fall,Materials Science and Engineering,3.14,4.50,4.71
+EN.510.336.01.SP25,MSE Design Team II,"Wilson, Orla","Wilson, Orla",2025 Spring,Materials Science and Engineering,3.00,4.00,5.00
+EN.510.400.01.SP25,Introduction to Ceramics,"McGuiggan, Patty","McGuiggan, Patty",2025 Spring,Materials Science and Engineering,3.14,4.36,4.36
+EN.510.402.01.SP24,Dynamics of Soft Materials,"McGuiggan, Patty","McGuiggan, Patty",2024 Spring,Materials Science and Engineering,3.18,4.09,4.45
+EN.510.407.01.FA24,Biomaterials Principles and Applications,"Gu, Luo","Gu, Luo",2024 Fall,Materials Science and Engineering,3.10,4.46,4.67
+EN.510.407.01.FA25,Biomaterials Principles and Applications,"Gu, Luo","Gu, Luo",2025 Fall,Materials Science and Engineering,3.27,4.52,4.52
+EN.510.426.01.FA24,Biomolecular Materials I - Soluble Proteins and Amphiphiles,"Hristova, Kalina","Hristova, Kalina",2024 Fall,Materials Science and Engineering,3.00,4.60,4.60
+EN.510.428.01.FA24,Materials Science Laboratory I,"Wilson, Orla","Wilson, Orla",2024 Fall,Materials Science and Engineering,3.56,4.44,4.33
+EN.510.428.01.FA25,Materials Science Laboratory I,"Wilson, Orla","Wilson, Orla",2025 Fall,Materials Science and Engineering,3.33,4.78,4.56
+EN.510.429.01.SP24,Materials Science Laboratory II,"Wilson, Orla","Wilson, Orla",2024 Spring,Materials Science and Engineering,3.71,4.71,4.43
+EN.510.429.01.SP25,Materials Science Laboratory II,"Wilson, Orla","Wilson, Orla",2025 Spring,Materials Science and Engineering,3.33,4.44,4.33
+EN.510.430.01.SP24,Biomaterials Lab,"Dunleavey, Jessica","Dunleavey, Jessica",2024 Spring,Materials Science and Engineering,3.80,4.20,4.20
+EN.510.430.01.SP24,Biomaterials Lab,"Lin, DINGCHANG","Lin, DINGCHANG",2024 Spring,Materials Science and Engineering,3.80,4.60,4.20
+EN.510.430.01.SP25,Biomaterials Lab,"Lin, DINGCHANG","Lin, DINGCHANG",2025 Spring,Materials Science and Engineering,4.00,4.75,4.75
+EN.510.433.01.FA24,Senior Design Research,"Wilson, Orla","Wilson, Orla",2024 Fall,Materials Science and Engineering,4.20,4.50,4.25
+EN.510.433.01.FA25,Senior Design Research,"Wilson, Orla","Wilson, Orla",2025 Fall,Materials Science and Engineering,3.50,4.50,4.50
+EN.510.434.01.SP25,Senior Design/Research II,"Wilson, Orla","Wilson, Orla",2025 Spring,Materials Science and Engineering,3.80,5.00,5.00
+EN.510.439.01.SP24,Biomaterials Senior Design II,"Wilson, Orla","Wilson, Orla",2024 Spring,Materials Science and Engineering,2.67,4.75,5.00
+EN.510.442.01.FA24,Nanomaterials Lab,"McGuiggan, Patty","McGuiggan, Patty",2024 Fall,Materials Science and Engineering,3.00,4.89,4.33
+EN.510.442.01.FA25,Nanomaterials Lab,"McGuiggan, Patty","McGuiggan, Patty",2025 Fall,Materials Science and Engineering,2.75,4.67,4.08
+EN.510.451.01.SP24,Recycling for Sustainablility,"Spicer, James","Spicer, James",2024 Spring,Materials Science and Engineering,2.62,4.64,4.43
+EN.510.453.01.FA24,Materials Characterization,"McGuiggan, Patty","McGuiggan, Patty",2024 Fall,Materials Science and Engineering,3.20,4.60,4.47
+EN.510.453.02.FA25,Materials Characterization,"McGuiggan, Patty","McGuiggan, Patty",2025 Fall,Materials Science and Engineering,3.18,4.24,4.41
+EN.510.453.01.FA25,Materials Characterization,"McGuiggan, Patty","McGuiggan, Patty",2025 Fall,Materials Science and Engineering,3.55,4.73,4.73
+EN.510.601.01.FA24,Structure of Materials,"Hufnagel, Todd","Hufnagel, Todd",2024 Fall,Materials Science and Engineering,4.14,4.03,4.67
+EN.510.601.01.FA25,Structure of Materials,"Hufnagel, Todd","Hufnagel, Todd",2025 Fall,Materials Science and Engineering,4.48,4.59,4.69
+EN.510.602.01.FA24,Thermodynamics of Materials,"Searson, Peter","Searson, Peter",2024 Fall,Materials Science and Engineering,3.25,4.30,4.35
+EN.510.602.01.FA25,Thermodynamics of Materials,"Searson, Peter","Searson, Peter",2025 Fall,Materials Science and Engineering,3.13,3.48,3.76
+EN.510.603.01.SP24,Phase Transformations of Materials,"Curk, Tine","Curk, Tine",2024 Spring,Materials Science and Engineering,4.04,4.37,4.74
+EN.510.603.01.SP25,Phase Transformations of Materials,"Curk, Tine","Curk, Tine",2025 Spring,Materials Science and Engineering,3.48,4.79,4.59
+EN.510.604.01.SP25,Mechanical Properties of Materials,"Hufnagel, Todd","Hufnagel, Todd",2025 Spring,Materials Science and Engineering,3.77,4.62,4.62
+EN.510.605.01.FA24,"Electrical, Optical and Magnetic Properties of Materials","Spicer, James","Spicer, James",2024 Fall,Materials Science and Engineering,3.09,4.92,4.75
+EN.510.606.01.FA25,Structure and Properties of Materials,"Spicer, James","Spicer, James",2025 Fall,Materials Science and Engineering,3.19,4.53,4.41
+EN.510.606.02.FA25,Structure and Properties of Materials,"Spicer, James","Spicer, James",2025 Fall,Materials Science and Engineering,3.29,4.87,4.79
+EN.510.610.01.SP24,Fundamentals of Biomaterials,"Searson, Peter","Searson, Peter",2024 Spring,Materials Science and Engineering,3.10,4.50,4.40
+EN.510.610.02.SP24,Fundamentals of Biomaterials,"Searson, Peter","Searson, Peter",2024 Spring,Materials Science and Engineering,3.71,4.43,4.29
+EN.510.610.02.SP25,Fundamentals of Biomaterials,"Searson, Peter","Searson, Peter",2025 Spring,Materials Science and Engineering,2.90,4.70,4.30
+EN.510.610.01.SP25,Fundamentals of Biomaterials,"Searson, Peter","Searson, Peter",2025 Spring,Materials Science and Engineering,3.25,4.29,4.25
+EN.510.615.01.SP24,Physical Properties of Materials,"McGuiggan, Patty","McGuiggan, Patty",2024 Spring,Materials Science and Engineering,3.16,4.68,4.42
+EN.510.615.01.SP25,Physical Properties of Materials,"McGuiggan, Patty","McGuiggan, Patty",2025 Spring,Materials Science and Engineering,2.71,4.39,4.25
+EN.510.617.01.FA25,Advanced Topics in Biomaterials,"Mao, Hai-Quan","Mao, Hai-Quan",2025 Fall,Materials Science and Engineering,2.50,5.00,4.50
+EN.510.619.01.SP24,Physical Metallurgy,"Hufnagel, Todd","Hufnagel, Todd",2024 Spring,Materials Science and Engineering,3.40,4.71,4.60
+EN.510.621.01.FA25,Misfolding diseases and the thermodynamics of protein folding,"Hristova, Kalina","Hristova, Kalina",2025 Fall,Materials Science and Engineering,3.08,4.92,4.75
+EN.510.622.01.SP24,Micro and Nano Structured Materials & Devices,"Hall, Anthony Shoji","Hall, Anthony Shoji",2024 Spring,Materials Science and Engineering,2.67,4.33,4.50
+EN.510.625.01.SP24,Materials Science Fundamentals for Batteries,"García-Méndez, Maria","García-Méndez, Maria",2024 Spring,Materials Science and Engineering,2.40,5.00,5.00
+EN.510.625.01.SP25,Advanced Batteries,"García-Méndez, Maria","García-Méndez, Maria",2025 Spring,Materials Science and Engineering,2.91,4.45,4.45
+EN.510.627.01.SP25,Biomolecular Materials II: Biomembranes,"Hristova, Kalina","Hristova, Kalina",2025 Spring,Materials Science and Engineering,3.00,4.80,4.60
+EN.510.635.01.FA25,Mechanical Properties of Human Tissue: From Bones to Cells,"Weihs, Tim","Weihs, Tim",2025 Fall,Materials Science and Engineering,3.42,4.83,4.58
+EN.510.636.01.SP24,Biomaterials for Cell Engineering,"Gu, Luo","Gu, Luo",2024 Spring,Materials Science and Engineering,2.29,4.67,4.25
+EN.510.652.01.SP24,Materials in Extreme Environments,"Taheri, Mitra","Taheri, Mitra",2024 Spring,Materials Science and Engineering,2.50,5.00,4.50
+EN.510.652.01.SP25,Materials in Extreme Environments,"Taheri, Mitra","Taheri, Mitra",2025 Spring,Materials Science and Engineering,2.50,4.33,4.08
+EN.510.653.01.FA24,Materials Characterization,"García-Méndez, Maria","García-Méndez, Maria",2024 Fall,Materials Science and Engineering,2.85,4.69,4.46
+EN.510.653.01.FA25,Materials Characterization,"García-Méndez, Maria","García-Méndez, Maria",2025 Fall,Materials Science and Engineering,2.79,4.60,4.20
+EN.510.654.01.FA24,Nanomaterials for Genetic Medicine,"Lian, Xizhen","Lian, Xizhen",2024 Fall,Materials Science and Engineering,2.62,4.77,4.69
+EN.510.654.01.FA25,Nanomaterials for Genetic Medicine,"Lian, Xizhen","Lian, Xizhen",2025 Fall,Materials Science and Engineering,3.08,4.04,4.36
+EN.510.656.01.FA24,Computational modeling of soft/bio materials,"Curk, Tine","Curk, Tine",2024 Fall,Materials Science and Engineering,3.40,4.59,4.65
+EN.510.657.01.FA24,Materials Science of Thin Films,"Weihs, Tim","Weihs, Tim",2024 Fall,Materials Science and Engineering,3.36,4.25,4.50
+EN.510.658.01.FA24,Electroanalytical Chemistry & Energy Conversion,"Hall, Anthony Shoji","Hall, Anthony Shoji",2024 Fall,Materials Science and Engineering,2.94,4.69,4.31
+EN.510.662.01.SP24,Transmission Electron Microscopy:  Methods,"Livi, KEN","Livi, KEN",2024 Spring,Materials Science and Engineering,2.67,4.50,4.50
+EN.510.662.01.SP25,Transmission Electron Microscopy:  Methods,"Livi, KEN","Livi, KEN",2025 Spring,Materials Science and Engineering,2.83,5.00,4.50
+EN.510.666.01.FA24,Introduction to Computational Materials Modeling,"Oses, Corey","Oses, Corey",2024 Fall,Materials Science and Engineering,3.18,4.18,4.55
+EN.510.666.01.FA25,Materials Modeling,"Oses, Corey","Oses, Corey",2025 Fall,Materials Science and Engineering,4.07,4.29,4.57

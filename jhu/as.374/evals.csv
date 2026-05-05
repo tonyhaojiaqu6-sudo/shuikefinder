@@ -1,0 +1,50 @@
+course_code,course_title,instructor,instructors_full,term,department,workload_avg,teaching_avg,intellectual_avg
+AS.374.102.01.SP24,Foundations of Leadership,Rutherford + Thompson + Yeager,"Rutherford, Brandon + Thompson, Brandon + Yeager, Zachery",2024 Spring,Military Science,2.75,4.75,4.25
+AS.374.102.01.SP25,Foundations of Leadership,"Yeager, Zachery","Yeager, Zachery",2025 Spring,Military Science,1.00,5.00,4.50
+AS.374.102.01.SP25,Foundations of Leadership,"Thompson, Brandon","Thompson, Brandon",2025 Spring,Military Science,1.00,4.67,4.50
+AS.374.102.01.SP25,Foundations of Leadership,"Rutherford, Brandon","Rutherford, Brandon",2025 Spring,Military Science,1.00,4.67,4.50
+AS.374.110.01.FA25,"Basic Leadership Laboratory, ROTC 101","Bangsboll, Brandon","Bangsboll, Brandon",2025 Fall,Military Science,3.50,,4.00
+AS.374.110.01.FA25,"Basic Leadership Laboratory, ROTC 101","Hale, Megan","Hale, Megan",2025 Fall,Military Science,3.50,,4.00
+AS.374.110.01.FA25,"Basic Leadership Laboratory, ROTC 101","Yeager, Zachery","Yeager, Zachery",2025 Fall,Military Science,3.50,5.00,4.00
+AS.374.110.01.FA25,"Basic Leadership Laboratory, ROTC 101","Thompson, Brandon","Thompson, Brandon",2025 Fall,Military Science,3.50,,4.00
+AS.374.110.01.FA25,"Basic Leadership Laboratory, ROTC 101","Ivey, Timothy","Ivey, Timothy",2025 Fall,Military Science,3.50,,4.00
+AS.374.110.01.FA25,"Basic Leadership Laboratory, ROTC 101","Kim, Dennis","Kim, Dennis",2025 Fall,Military Science,3.50,5.00,4.00
+AS.374.120.01.SP25,Basic Leadership Laboratory II,,,2025 Spring,Military Science,1.00,5.00,3.00
+AS.374.201.02.FA24,Leadership and Ethics,Bangsboll + Ivey + Leung + Thompson + Yeager,"Bangsboll, Brandon + Ivey, Timothy + Leung, Tim + Thompson, Brandon + Yeager, Zachery",2024 Fall,Military Science,2.83,4.33,4.29
+AS.374.201.02.FA25,Leadership and Ethics,Bangsboll + Ivey + Kim + Thompson + Yeager,"Bangsboll, Brandon + Ivey, Timothy + Kim, Dennis + Thompson, Brandon + Yeager, Zachery",2025 Fall,Military Science,1.33,5.00,3.00
+AS.374.202.01.SP24,Army Doctrine and Decision Making,"Bangsboll, Brandon","Bangsboll, Brandon",2024 Spring,Military Science,3.25,4.80,4.40
+AS.374.202.01.SP24,Army Doctrine and Decision Making,"Yeager, Zachery","Yeager, Zachery",2024 Spring,Military Science,3.25,4.80,4.40
+AS.374.202.01.SP24,Army Doctrine and Decision Making,"Leung, Tim","Leung, Tim",2024 Spring,Military Science,3.25,4.80,4.40
+AS.374.202.01.SP24,Army Doctrine and Decision Making,"Thompson, Brandon","Thompson, Brandon",2024 Spring,Military Science,3.25,4.80,4.40
+AS.374.202.01.SP24,Army Doctrine and Decision Making,"Rutherford, Brandon","Rutherford, Brandon",2024 Spring,Military Science,3.25,4.75,4.40
+AS.374.210.01.FA24,Basic Team Leadership,"Bangsboll, Brandon","Bangsboll, Brandon",2024 Fall,Military Science,2.50,4.33,4.43
+AS.374.210.01.FA24,Basic Team Leadership,"Yeager, Zachery","Yeager, Zachery",2024 Fall,Military Science,2.50,4.43,4.43
+AS.374.210.01.FA24,Basic Team Leadership,"Leung, Tim","Leung, Tim",2024 Fall,Military Science,2.50,4.33,4.43
+AS.374.210.01.FA24,Basic Team Leadership,"Thompson, Brandon","Thompson, Brandon",2024 Fall,Military Science,2.50,4.33,4.43
+AS.374.210.01.FA24,Basic Team Leadership,"Ivey, Timothy","Ivey, Timothy",2024 Fall,Military Science,2.50,4.33,4.43
+AS.374.210.01.FA25,Basic Team Leadership,Bangsboll + Ivey + Kim + Thompson + Yeager,"Bangsboll, Brandon + Ivey, Timothy + Kim, Dennis + Thompson, Brandon + Yeager, Zachery",2025 Fall,Military Science,1.33,5.00,3.33
+AS.374.220.01.SP24,Advanced Team Leadership,"Bangsboll, Brandon","Bangsboll, Brandon",2024 Spring,Military Science,2.75,4.80,4.80
+AS.374.220.01.SP24,Advanced Team Leadership,"Yeager, Zachery","Yeager, Zachery",2024 Spring,Military Science,2.75,4.80,4.80
+AS.374.220.01.SP24,Advanced Team Leadership,"Leung, Tim","Leung, Tim",2024 Spring,Military Science,2.75,5.00,4.80
+AS.374.220.01.SP24,Advanced Team Leadership,"Thompson, Brandon","Thompson, Brandon",2024 Spring,Military Science,2.75,5.00,4.80
+AS.374.220.01.SP24,Advanced Team Leadership,"Rutherford, Brandon","Rutherford, Brandon",2024 Spring,Military Science,2.75,4.75,4.80
+AS.374.220.01.SP25,Advanced Team Leadership,,,2025 Spring,Military Science,3.00,4.75,4.20
+AS.374.301.02.FA24,Training Management and the Warfighting Functions,Bangsboll + Ivey + Leung + Thompson + Yeager,"Bangsboll, Brandon + Ivey, Timothy + Leung, Tim + Thompson, Brandon + Yeager, Zachery",2024 Fall,Military Science,3.50,5.00,4.50
+AS.374.302.01.SP25,Applied Leadership in Small Unit Operations,"Yeager, Zachery","Yeager, Zachery",2025 Spring,Military Science,3.75,4.60,4.60
+AS.374.302.01.SP25,Applied Leadership in Small Unit Operations,"Thompson, Brandon","Thompson, Brandon",2025 Spring,Military Science,3.75,4.60,4.60
+AS.374.302.01.SP25,Applied Leadership in Small Unit Operations,"Rutherford, Brandon","Rutherford, Brandon",2025 Spring,Military Science,3.75,5.00,4.60
+AS.374.310.01.FA24,Basic Tactical Leadership Lab,"Bangsboll, Brandon","Bangsboll, Brandon",2024 Fall,Military Science,3.33,5.00,4.33
+AS.374.310.01.FA24,Basic Tactical Leadership Lab,"Yeager, Zachery","Yeager, Zachery",2024 Fall,Military Science,3.33,4.67,4.33
+AS.374.310.01.FA24,Basic Tactical Leadership Lab,"Leung, Tim","Leung, Tim",2024 Fall,Military Science,3.33,5.00,4.33
+AS.374.310.01.FA24,Basic Tactical Leadership Lab,"Thompson, Brandon","Thompson, Brandon",2024 Fall,Military Science,3.33,5.00,4.33
+AS.374.310.01.FA24,Basic Tactical Leadership Lab,"Ivey, Timothy","Ivey, Timothy",2024 Fall,Military Science,3.33,5.00,4.33
+AS.374.310.01.FA25,Basic Tactical Leadership Lab,"Bangsboll, Brandon","Bangsboll, Brandon",2025 Fall,Military Science,3.60,4.33,4.00
+AS.374.310.01.FA25,Basic Tactical Leadership Lab,"Yeager, Zachery","Yeager, Zachery",2025 Fall,Military Science,3.60,3.75,4.00
+AS.374.310.01.FA25,Basic Tactical Leadership Lab,"Thompson, Brandon","Thompson, Brandon",2025 Fall,Military Science,3.60,4.50,4.00
+AS.374.310.01.FA25,Basic Tactical Leadership Lab,"Ivey, Timothy","Ivey, Timothy",2025 Fall,Military Science,3.60,4.50,4.00
+AS.374.310.01.FA25,Basic Tactical Leadership Lab,"Kim, Dennis","Kim, Dennis",2025 Fall,Military Science,3.60,4.75,4.00
+AS.374.320.01.SP25,Advanced Tactical Leadership,,,2025 Spring,Military Science,4.20,4.60,4.60
+AS.374.401.02.FA25,The Army Officer,Bangsboll + Ivey + Kim + Thompson + Yeager,"Bangsboll, Brandon + Ivey, Timothy + Kim, Dennis + Thompson, Brandon + Yeager, Zachery",2025 Fall,Military Science,2.33,5.00,4.67
+AS.374.402.02.SP24,Company Grade Leadership,Rutherford + Thompson + Yeager,"Rutherford, Brandon + Thompson, Brandon + Yeager, Zachery",2024 Spring,Military Science,2.83,5.00,4.43
+AS.374.410.01.FA25,Advanced Planning & Decision Making I,Bangsboll + Ivey + Kim + Thompson + Yeager,"Bangsboll, Brandon + Ivey, Timothy + Kim, Dennis + Thompson, Brandon + Yeager, Zachery",2025 Fall,Military Science,3.60,5.00,4.80
+AS.374.420.01.SP24,Advanced Organizational Planning,Rutherford + Thompson + Yeager,"Rutherford, Brandon + Thompson, Brandon + Yeager, Zachery",2024 Spring,Military Science,3.33,5.00,5.00

@@ -1,0 +1,169 @@
+course_code,course_title,instructor,instructors_full,term,department,workload_avg,teaching_avg,intellectual_avg
+EN.540.101.01.FA25,Chemical Engineering Today,"Josephson, Lilian Lam","Josephson, Lilian Lam",2025 Fall,Chemical and Biomolecular Engineering,1.38,3.96,3.26
+EN.540.202.01.SP24,Introduction to Chemical & Biological Process Analysis,"Zerin, Nagma","Zerin, Nagma",2024 Spring,Chemical and Biomolecular Engineering,3.50,4.00,4.00
+EN.540.202.05.SP24,Introduction to Chemical & Biological Process Analysis,"Zerin, Nagma","Zerin, Nagma",2024 Spring,Chemical and Biomolecular Engineering,3.27,4.82,4.36
+EN.540.202.02.SP24,Introduction to Chemical & Biological Process Analysis,"Zerin, Nagma","Zerin, Nagma",2024 Spring,Chemical and Biomolecular Engineering,3.45,4.91,4.55
+EN.540.202.04.FA24,Introduction to Chemical & Biological Process Analysis,"Zerin,  Nagma","Zerin,  Nagma",2024 Fall,Chemical and Biomolecular Engineering,3.08,4.85,4.42
+EN.540.202.03.FA24,Introduction to Chemical & Biological Process Analysis,"Zerin,  Nagma","Zerin,  Nagma",2024 Fall,Chemical and Biomolecular Engineering,3.25,4.62,4.46
+EN.540.202.06.FA24,Introduction to Chemical & Biological Process Analysis,"Zerin,  Nagma","Zerin,  Nagma",2024 Fall,Chemical and Biomolecular Engineering,3.13,4.07,4.13
+EN.540.202.05.FA24,Introduction to Chemical & Biological Process Analysis,"Zerin,  Nagma","Zerin,  Nagma",2024 Fall,Chemical and Biomolecular Engineering,3.46,4.31,4.38
+EN.540.202.02.FA24,Introduction to Chemical & Biological Process Analysis,"Zerin,  Nagma","Zerin,  Nagma",2024 Fall,Chemical and Biomolecular Engineering,3.20,4.87,4.27
+EN.540.202.01.FA24,Introduction to Chemical & Biological Process Analysis,"Zerin,  Nagma","Zerin,  Nagma",2024 Fall,Chemical and Biomolecular Engineering,3.31,4.54,4.38
+EN.540.202.05.SP25,Introduction to Chemical & Biological Process Analysis,"Zerin, Nagma","Zerin, Nagma",2025 Spring,Chemical and Biomolecular Engineering,2.83,4.91,4.33
+EN.540.202.03.SP25,Introduction to Chemical & Biological Process Analysis,"Zerin, Nagma","Zerin, Nagma",2025 Spring,Chemical and Biomolecular Engineering,3.08,4.17,4.00
+EN.540.202.01.SP25,Introduction to Chemical & Biological Process Analysis,"Zerin, Nagma","Zerin, Nagma",2025 Spring,Chemical and Biomolecular Engineering,2.45,4.36,3.36
+EN.540.202.04.SP25,Introduction to Chemical & Biological Process Analysis,"Zerin, Nagma","Zerin, Nagma",2025 Spring,Chemical and Biomolecular Engineering,3.18,4.36,4.18
+EN.540.202.02.SP25,Introduction to Chemical & Biological Process Analysis,"Zerin, Nagma","Zerin, Nagma",2025 Spring,Chemical and Biomolecular Engineering,2.91,4.36,4.36
+EN.540.202.02.FA25,Introduction to Chemical & Biological Process Analysis,"Chakraborty, Sourojeet","Chakraborty, Sourojeet",2025 Fall,Chemical and Biomolecular Engineering,3.75,4.00,4.09
+EN.540.202.04.FA25,Introduction to Chemical & Biological Process Analysis,"Chakraborty, Sourojeet","Chakraborty, Sourojeet",2025 Fall,Chemical and Biomolecular Engineering,3.60,4.60,4.80
+EN.540.202.03.FA25,Introduction to Chemical & Biological Process Analysis,"Chakraborty, Sourojeet","Chakraborty, Sourojeet",2025 Fall,Chemical and Biomolecular Engineering,3.17,4.25,4.50
+EN.540.202.01.FA25,Introduction to Chemical & Biological Process Analysis,"Chakraborty, Sourojeet","Chakraborty, Sourojeet",2025 Fall,Chemical and Biomolecular Engineering,3.33,4.25,4.58
+EN.540.203.01.SP24,Engineering Thermodynamics,"Bevan, Michael","Bevan, Michael",2024 Spring,Chemical and Biomolecular Engineering,3.72,3.57,4.57
+EN.540.203.01.FA24,Engineering Thermodynamics,"Kokkoli, Efie","Kokkoli, Efie",2024 Fall,Chemical and Biomolecular Engineering,4.00,4.54,4.75
+EN.540.203.01.SP25,Engineering Thermodynamics,"Bevan, Michael","Bevan, Michael",2025 Spring,Chemical and Biomolecular Engineering,3.67,3.39,4.27
+EN.540.203.01.FA25,Engineering Thermodynamics,"Wang, Chao","Wang, Chao",2025 Fall,Chemical and Biomolecular Engineering,3.89,3.27,4.35
+EN.540.205.01.FA25,Mathematical Methods in ChemBE 1,"Edison, John","Edison, John",2025 Fall,Chemical and Biomolecular Engineering,3.13,4.88,4.13
+EN.540.206.01.FA25,Mathematical Methods in ChemBE 2,"Kevrekidis, Yannis","Kevrekidis, Yannis",2025 Fall,Chemical and Biomolecular Engineering,3.80,3.90,4.44
+EN.540.301.02.SP24,Kinetic Processes,"Husmann, Eric","Husmann, Eric",2024 Spring,Chemical and Biomolecular Engineering,3.76,4.04,4.29
+EN.540.301.01.SP24,Kinetic Processes,"Husmann, Eric","Husmann, Eric",2024 Spring,Chemical and Biomolecular Engineering,3.71,4.32,4.50
+EN.540.301.01.SP25,Kinetic Processes,"Husmann, Eric","Husmann, Eric",2025 Spring,Chemical and Biomolecular Engineering,3.78,4.62,4.61
+EN.540.301.02.SP25,Kinetic Processes,"Husmann, Eric","Husmann, Eric",2025 Spring,Chemical and Biomolecular Engineering,3.68,4.38,4.36
+EN.540.303.01.SP24,Transport Phenomena I,"Santhanam, Lakshmi","Santhanam, Lakshmi",2024 Spring,Chemical and Biomolecular Engineering,3.38,2.46,3.89
+EN.540.303.01.FA24,Transport Phenomena I,"Husmann, Eric","Husmann, Eric",2024 Fall,Chemical and Biomolecular Engineering,3.50,4.18,4.43
+EN.540.303.01.SP25,Transport Phenomena I,"Sofou, Stavroula","Sofou, Stavroula",2025 Spring,Chemical and Biomolecular Engineering,3.52,3.54,4.43
+EN.540.303.01.FA25,Transport Phenomena I,"Husmann, Eric","Husmann, Eric",2025 Fall,Chemical and Biomolecular Engineering,3.55,4.34,4.45
+EN.540.304.04.FA24,Transport Phenomena II,"Spangler, Jamie","Spangler, Jamie",2024 Fall,Chemical and Biomolecular Engineering,3.76,4.17,4.67
+EN.540.304.02.FA24,Transport Phenomena II,"Spangler, Jamie","Spangler, Jamie",2024 Fall,Chemical and Biomolecular Engineering,3.21,4.42,4.37
+EN.540.304.03.FA24,Transport Phenomena II,"Spangler, Jamie","Spangler, Jamie",2024 Fall,Chemical and Biomolecular Engineering,3.32,4.21,4.26
+EN.540.304.05.FA24,Transport Phenomena II,"Spangler, Jamie","Spangler, Jamie",2024 Fall,Chemical and Biomolecular Engineering,3.47,4.06,4.33
+EN.540.304.01.FA24,Transport Phenomena II,"Spangler, Jamie","Spangler, Jamie",2024 Fall,Chemical and Biomolecular Engineering,3.37,4.42,4.63
+EN.540.304.04.FA25,Transport Phenomena II,"Spangler, Jamie","Spangler, Jamie",2025 Fall,Chemical and Biomolecular Engineering,3.26,3.94,4.33
+EN.540.304.01.FA25,Transport Phenomena II,"Spangler, Jamie","Spangler, Jamie",2025 Fall,Chemical and Biomolecular Engineering,3.22,4.06,4.72
+EN.540.304.03.FA25,Transport Phenomena II,"Spangler, Jamie","Spangler, Jamie",2025 Fall,Chemical and Biomolecular Engineering,3.39,3.83,4.00
+EN.540.304.02.FA25,Transport Phenomena II,"Spangler, Jamie","Spangler, Jamie",2025 Fall,Chemical and Biomolecular Engineering,3.44,3.76,4.29
+EN.540.304.05.FA25,Transport Phenomena II,"Spangler, Jamie","Spangler, Jamie",2025 Fall,Chemical and Biomolecular Engineering,3.53,3.11,4.32
+EN.540.306.04.SP24,Chemical & Biomolecular Separations,"Liu, Yayuan","Liu, Yayuan",2024 Spring,Chemical and Biomolecular Engineering,3.36,4.07,4.29
+EN.540.306.02.SP24,Chemical & Biomolecular Separations,"Liu, Yayuan","Liu, Yayuan",2024 Spring,Chemical and Biomolecular Engineering,3.27,4.26,4.48
+EN.540.306.01.SP24,Chemical & Biomolecular Separations,"Liu, Yayuan","Liu, Yayuan",2024 Spring,Chemical and Biomolecular Engineering,3.25,4.35,4.50
+EN.540.306.03.SP24,Chemical & Biomolecular Separations,"Liu, Yayuan","Liu, Yayuan",2024 Spring,Chemical and Biomolecular Engineering,3.60,4.00,4.00
+EN.540.306.04.SP25,Chemical & Biomolecular Separations,"Liu, Yayuan","Liu, Yayuan",2025 Spring,Chemical and Biomolecular Engineering,3.50,4.15,4.55
+EN.540.306.02.SP25,Chemical & Biomolecular Separations,"Liu, Yayuan","Liu, Yayuan",2025 Spring,Chemical and Biomolecular Engineering,3.57,4.38,4.67
+EN.540.306.01.SP25,Chemical & Biomolecular Separations,"Liu, Yayuan","Liu, Yayuan",2025 Spring,Chemical and Biomolecular Engineering,3.48,4.35,4.50
+EN.540.306.03.SP25,Chemical & Biomolecular Separations,"Liu, Yayuan","Liu, Yayuan",2025 Spring,Chemical and Biomolecular Engineering,3.48,4.24,4.43
+EN.540.307.01.SP24,Cell Biology for Engineers,"Zerin, Nagma","Zerin, Nagma",2024 Spring,Chemical and Biomolecular Engineering,2.90,4.74,4.26
+EN.540.307.01.SP25,Cell Biology for Engineers,"Zerin, Nagma","Zerin, Nagma",2025 Spring,Chemical and Biomolecular Engineering,2.72,4.69,4.45
+EN.540.309.01.FA24,Product Design Part 1,"Aronhime,  Lawrence","Aronhime,  Lawrence",2024 Fall,Chemical and Biomolecular Engineering,2.50,4.45,3.82
+EN.540.309.01.FA24,Product Design Part 1,"Josephson,  Lilian Lam","Josephson,  Lilian Lam",2024 Fall,Chemical and Biomolecular Engineering,2.50,4.20,3.82
+EN.540.309.01.FA25,Product Design Part 1,"Aronhime, Lawrence","Aronhime, Lawrence",2025 Fall,Chemical and Biomolecular Engineering,3.08,4.92,4.58
+EN.540.309.01.FA25,Product Design Part 1,"Josephson, Lilian Lam","Josephson, Lilian Lam",2025 Fall,Chemical and Biomolecular Engineering,3.08,4.85,4.58
+EN.540.309.02.FA25,Product Design Part 1,"Aronhime, Lawrence","Aronhime, Lawrence",2025 Fall,Chemical and Biomolecular Engineering,3.00,4.63,4.25
+EN.540.309.02.FA25,Product Design Part 1,"Josephson, Lilian Lam","Josephson, Lilian Lam",2025 Fall,Chemical and Biomolecular Engineering,3.00,4.38,4.25
+EN.540.310.01.SP24,Product Design Part 2,Aronhime + Josephson,"Aronhime, Lawrence + Josephson, Lilian",2024 Spring,Chemical and Biomolecular Engineering,3.78,5.00,4.67
+EN.540.310.01.SP25,Product Design Part 2,"Aronhime, Lawrence","Aronhime, Lawrence",2025 Spring,Chemical and Biomolecular Engineering,3.58,4.50,3.83
+EN.540.310.01.SP25,Product Design Part 2,"Josephson, Lilian Lam","Josephson, Lilian Lam",2025 Spring,Chemical and Biomolecular Engineering,3.58,4.17,3.83
+EN.540.311.01.FA25,Projects in ChemE Unit Operations with Experiments,"Zerin, Nagma","Zerin, Nagma",2025 Fall,Chemical and Biomolecular Engineering,4.33,4.00,4.33
+EN.540.311.01.FA25,Projects in ChemE Unit Operations with Experiments,"Jeong, Sangmoo","Jeong, Sangmoo",2025 Fall,Chemical and Biomolecular Engineering,4.33,4.00,4.33
+EN.540.311.01.FA25,Projects in ChemE Unit Operations with Experiments,"Ostermeier, Marc","Ostermeier, Marc",2025 Fall,Chemical and Biomolecular Engineering,4.33,3.33,4.33
+EN.540.311.02.FA25,Projects in ChemE Unit Operations with Experiments,"Zerin, Nagma","Zerin, Nagma",2025 Fall,Chemical and Biomolecular Engineering,4.00,4.75,4.25
+EN.540.311.02.FA25,Projects in ChemE Unit Operations with Experiments,"Cui, Honggang","Cui, Honggang",2025 Fall,Chemical and Biomolecular Engineering,4.00,4.00,4.25
+EN.540.311.02.FA25,Projects in ChemE Unit Operations with Experiments,"Chakraborty, Sourojeet","Chakraborty, Sourojeet",2025 Fall,Chemical and Biomolecular Engineering,4.00,4.00,4.25
+EN.540.311.03.FA25,Projects in ChemE Unit Operations with Experiments,"Zerin, Nagma","Zerin, Nagma",2025 Fall,Chemical and Biomolecular Engineering,4.75,5.00,5.00
+EN.540.311.03.FA25,Projects in ChemE Unit Operations with Experiments,"Ostermeier, Marc","Ostermeier, Marc",2025 Fall,Chemical and Biomolecular Engineering,4.75,3.83,5.00
+EN.540.311.03.FA25,Projects in ChemE Unit Operations with Experiments,"Husmann, Eric","Husmann, Eric",2025 Fall,Chemical and Biomolecular Engineering,4.75,3.50,5.00
+EN.540.311.04.FA25,Projects in ChemE Unit Operations with Experiments,"Jeong, Sangmoo","Jeong, Sangmoo",2025 Fall,Chemical and Biomolecular Engineering,4.75,4.50,4.00
+EN.540.311.04.FA25,Projects in ChemE Unit Operations with Experiments,"Cui, Honggang","Cui, Honggang",2025 Fall,Chemical and Biomolecular Engineering,4.75,4.50,4.00
+EN.540.311.04.FA25,Projects in ChemE Unit Operations with Experiments,"Chakraborty, Sourojeet","Chakraborty, Sourojeet",2025 Fall,Chemical and Biomolecular Engineering,4.75,5.00,4.00
+EN.540.313.03.FA24,Projects in ChemBE Unit Operations with Experiments,"Jeong,  Sangmoo","Jeong,  Sangmoo",2024 Fall,Chemical and Biomolecular Engineering,4.55,3.67,4.45
+EN.540.313.03.FA24,Projects in ChemBE Unit Operations with Experiments,"Ostermeier,  Marc","Ostermeier,  Marc",2024 Fall,Chemical and Biomolecular Engineering,4.55,4.27,4.45
+EN.540.313.05.FA24,Projects in ChemBE Unit Operations with Experiments,"Ostermeier,  Marc","Ostermeier,  Marc",2024 Fall,Chemical and Biomolecular Engineering,4.11,4.56,4.67
+EN.540.313.02.FA24,Projects in ChemBE Unit Operations with Experiments,"Zerin,  Nagma","Zerin,  Nagma",2024 Fall,Chemical and Biomolecular Engineering,4.50,4.56,4.50
+EN.540.313.02.FA24,Projects in ChemBE Unit Operations with Experiments,"Jeong,  Sangmoo","Jeong,  Sangmoo",2024 Fall,Chemical and Biomolecular Engineering,4.50,4.38,4.50
+EN.540.313.02.FA24,Projects in ChemBE Unit Operations with Experiments,"Cui, Honggang","Cui, Honggang",2024 Fall,Chemical and Biomolecular Engineering,4.50,4.69,4.50
+EN.540.313.04.FA24,Projects in ChemBE Unit Operations with Experiments,"Zerin,  Nagma","Zerin,  Nagma",2024 Fall,Chemical and Biomolecular Engineering,4.53,4.73,4.47
+EN.540.313.04.FA24,Projects in ChemBE Unit Operations with Experiments,"Jeong,  Sangmoo","Jeong,  Sangmoo",2024 Fall,Chemical and Biomolecular Engineering,4.53,4.38,4.47
+EN.540.313.05.FA25,Projects in ChemBE Unit Operations with Experiments,"Ostermeier, Marc","Ostermeier, Marc",2025 Fall,Chemical and Biomolecular Engineering,4.57,4.50,4.57
+EN.540.313.05.FA25,Projects in ChemBE Unit Operations with Experiments,"Husmann, Eric","Husmann, Eric",2025 Fall,Chemical and Biomolecular Engineering,4.57,4.36,4.57
+EN.540.314.02.SP24,ChemBE Product Design,"Josephson, Lilian","Josephson, Lilian",2024 Spring,Chemical and Biomolecular Engineering,3.13,4.53,3.94
+EN.540.314.04.SP24,ChemBE Product Design,"Gracias, David","Gracias, David",2024 Spring,Chemical and Biomolecular Engineering,3.44,3.94,3.94
+EN.540.314.01.SP24,ChemBE Product Design,"Farias, Stephen","Farias, Stephen",2024 Spring,Chemical and Biomolecular Engineering,4.00,4.63,3.75
+EN.540.314.02.SP25,ChemBE Product Design,"Josephson, Lilian Lam","Josephson, Lilian Lam",2025 Spring,Chemical and Biomolecular Engineering,3.69,4.35,4.25
+EN.540.314.02.SP25,ChemBE Product Design,"Farias, Stephen","Farias, Stephen",2025 Spring,Chemical and Biomolecular Engineering,3.69,4.00,4.25
+EN.540.314.03.SP25,ChemBE Product Design,"Josephson, Lilian Lam","Josephson, Lilian Lam",2025 Spring,Chemical and Biomolecular Engineering,3.43,4.33,3.71
+EN.540.314.03.SP25,ChemBE Product Design,"Farias, Stephen","Farias, Stephen",2025 Spring,Chemical and Biomolecular Engineering,3.43,4.00,3.71
+EN.540.314.01.SP25,ChemBE Product Design,"Josephson, Lilian Lam","Josephson, Lilian Lam",2025 Spring,Chemical and Biomolecular Engineering,3.35,4.24,4.18
+EN.540.314.01.SP25,ChemBE Product Design,"Farias, Stephen","Farias, Stephen",2025 Spring,Chemical and Biomolecular Engineering,3.35,3.29,4.18
+EN.540.315.03.SP24,Process Design with Aspen,"Edison, John","Edison, John",2024 Spring,Chemical and Biomolecular Engineering,4.45,3.94,4.30
+EN.540.315.03.SP24,Process Design with Aspen,"Ratanalert, Sakul","Ratanalert, Sakul",2024 Spring,Chemical and Biomolecular Engineering,4.45,3.83,4.30
+EN.540.315.01.SP24,Process Design with Aspen,"Edison, John","Edison, John",2024 Spring,Chemical and Biomolecular Engineering,4.31,4.00,3.62
+EN.540.315.01.SP24,Process Design with Aspen,"Ratanalert, Sakul","Ratanalert, Sakul",2024 Spring,Chemical and Biomolecular Engineering,4.31,3.50,3.62
+EN.540.315.04.SP24,Process Design with Aspen,"Edison, John","Edison, John",2024 Spring,Chemical and Biomolecular Engineering,4.06,4.56,4.25
+EN.540.315.02.SP24,Process Design with Aspen,"Edison, John","Edison, John",2024 Spring,Chemical and Biomolecular Engineering,4.33,4.56,4.44
+EN.540.315.04.SP25,Process Design with Aspen,"Edison, John","Edison, John",2025 Spring,Chemical and Biomolecular Engineering,4.60,4.05,4.20
+EN.540.315.01.SP25,Process Design with Aspen,"Edison, John","Edison, John",2025 Spring,Chemical and Biomolecular Engineering,4.30,3.57,3.70
+EN.540.315.02.SP25,Process Design with Aspen,"Edison, John","Edison, John",2025 Spring,Chemical and Biomolecular Engineering,3.44,5.00,4.50
+EN.540.315.02.SP25,Process Design with Aspen,"Chakraborty, Sourojeet","Chakraborty, Sourojeet",2025 Spring,Chemical and Biomolecular Engineering,3.44,4.60,4.50
+EN.540.382.01.FA24,Statistical Modeling and Analysis with Python,"Edison, John","Edison, John",2024 Fall,Chemical and Biomolecular Engineering,3.65,4.24,4.53
+EN.540.382.01.FA25,Statistical Modeling and Analysis with Python,"Edison, John","Edison, John",2025 Fall,Chemical and Biomolecular Engineering,3.75,5.00,4.75
+EN.540.409.01.FA24,Dynamic Modeling and Control,"Bukowski, Brandon","Bukowski, Brandon",2024 Fall,Chemical and Biomolecular Engineering,3.50,4.83,4.83
+EN.540.409.04.FA24,Dynamic Modeling and Control,"Bukowski, Brandon","Bukowski, Brandon",2024 Fall,Chemical and Biomolecular Engineering,3.43,4.86,4.71
+EN.540.409.05.FA24,Dynamic Modeling and Control,"Bukowski, Brandon","Bukowski, Brandon",2024 Fall,Chemical and Biomolecular Engineering,3.85,4.69,4.38
+EN.540.409.02.FA24,Dynamic Modeling and Control,"Bukowski, Brandon","Bukowski, Brandon",2024 Fall,Chemical and Biomolecular Engineering,3.29,4.84,4.63
+EN.540.409.05.FA25,Dynamic Modeling and Control,"Bukowski, Brandon","Bukowski, Brandon",2025 Fall,Chemical and Biomolecular Engineering,3.73,4.69,4.63
+EN.540.409.01.FA25,Dynamic Modeling and Control,"Bukowski, Brandon","Bukowski, Brandon",2025 Fall,Chemical and Biomolecular Engineering,3.59,4.29,4.53
+EN.540.409.03.FA25,Dynamic Modeling and Control,"Bukowski, Brandon","Bukowski, Brandon",2025 Fall,Chemical and Biomolecular Engineering,3.72,4.44,4.33
+EN.540.409.04.FA25,Dynamic Modeling and Control,"Bukowski, Brandon","Bukowski, Brandon",2025 Fall,Chemical and Biomolecular Engineering,3.76,4.82,4.65
+EN.540.409.02.FA25,Dynamic Modeling and Control,"Bukowski, Brandon","Bukowski, Brandon",2025 Fall,Chemical and Biomolecular Engineering,3.59,4.95,4.72
+EN.540.419.01.SP24,Projects in the Design of a Chemical Car,"Zerin, Nagma","Zerin, Nagma",2024 Spring,Chemical and Biomolecular Engineering,2.26,4.10,4.16
+EN.540.419.01.SP25,Projects in the Design of a Chemical Car,"Chakraborty, Sourojeet","Chakraborty, Sourojeet",2025 Spring,Chemical and Biomolecular Engineering,2.50,4.71,4.29
+EN.540.419.01.FA25,Chem E Car,"Chakraborty, Sourojeet","Chakraborty, Sourojeet",2025 Fall,Chemical and Biomolecular Engineering,2.35,4.09,4.00
+EN.540.461.01.FA25,Future Food Manufacturing,"Betenbaugh, Michael","Betenbaugh, Michael",2025 Fall,Chemical and Biomolecular Engineering,2.28,3.50,4.06
+EN.540.490.01.SP24,Introduction to Chemical Process Safety,"Husmann, Eric","Husmann, Eric",2024 Spring,Chemical and Biomolecular Engineering,2.38,4.45,3.78
+EN.540.490.01.SP25,Introduction to Chemical Process Safety,"Chakraborty, Sourojeet","Chakraborty, Sourojeet",2025 Spring,Chemical and Biomolecular Engineering,2.17,4.54,3.92
+EN.540.602.01.FA24,Metabolic Systems Biotechnology,"Betenbaugh,  Michael","Betenbaugh,  Michael",2024 Fall,Chemical and Biomolecular Engineering,3.76,4.13,4.38
+EN.540.602.01.FA25,Metabolic Systems Biotechnology,"Betenbaugh, Michael","Betenbaugh, Michael",2025 Fall,Chemical and Biomolecular Engineering,3.83,4.25,4.65
+EN.540.603.01.SP24,Colloids and Nanoparticles,"Bevan, Michael","Bevan, Michael",2024 Spring,Chemical and Biomolecular Engineering,2.50,4.50,4.50
+EN.540.603.01.SP25,Colloids and Nanoparticles,"Bevan, Michael","Bevan, Michael",2025 Spring,Chemical and Biomolecular Engineering,3.11,4.56,4.67
+EN.540.604.01.FA24,Transport Phenomena in Practice,"Santhanam, Lakshmi","Santhanam, Lakshmi",2024 Fall,Chemical and Biomolecular Engineering,3.77,3.86,4.18
+EN.540.605.01.SP24,Modern Data Analysis and Machine Learning for ChemBEs,"Schulman, Rebecca","Schulman, Rebecca",2024 Spring,Chemical and Biomolecular Engineering,3.43,4.40,4.43
+EN.540.605.01.FA25,Modern Data Analysis and Machine Learning for ChemBEs,"Schulman, Rebecca","Schulman, Rebecca",2025 Fall,Chemical and Biomolecular Engineering,3.16,4.03,4.05
+EN.540.607.01.FA24,Renewable Energy Technologies,"Wang, Chao","Wang, Chao",2024 Fall,Chemical and Biomolecular Engineering,3.00,4.03,4.15
+EN.540.614.01.SP24,Computational Protein Structure Prediction and Design,"Gray, Jeff","Gray, Jeff",2024 Spring,Chemical and Biomolecular Engineering,3.71,4.50,4.76
+EN.540.614.01.SP25,Computational Protein Structure Prediction and Design,"Gray, Jeff","Gray, Jeff",2025 Spring,Chemical and Biomolecular Engineering,4.19,4.71,4.86
+EN.540.615.01.FA25,Interfacial Science with Applications to Nanoscale Systems,"Liu, Yayuan","Liu, Yayuan",2025 Fall,Chemical and Biomolecular Engineering,2.82,4.54,4.39
+EN.540.618.01.SP24,Cancer Metabolism,"Jeong, Sangmoo","Jeong, Sangmoo",2024 Spring,Chemical and Biomolecular Engineering,2.69,4.69,4.62
+EN.540.618.01.SP25,Cancer Metabolism,"Jeong, Sangmoo","Jeong, Sangmoo",2025 Spring,Chemical and Biomolecular Engineering,2.49,4.64,4.28
+EN.540.621.01.SP24,Project in Design: Pharmacodynamics,"Donohue, Marc","Donohue, Marc",2024 Spring,Chemical and Biomolecular Engineering,3.40,4.25,4.20
+EN.540.628.01.SP24,Supramolecular Materials and Nanomedicine,"Cui, Honggang","Cui, Honggang",2024 Spring,Chemical and Biomolecular Engineering,2.89,4.15,4.40
+EN.540.628.01.SP25,Supramolecular Materials and Nanomedicine,"Cui, Honggang","Cui, Honggang",2025 Spring,Chemical and Biomolecular Engineering,2.94,4.24,4.17
+EN.540.630.01.FA24,Thermodynamics & Statistical Mechanics,"Vo, Thi","Vo, Thi",2024 Fall,Chemical and Biomolecular Engineering,3.67,4.24,4.71
+EN.540.630.01.FA25,Thermodynamics & Statistical Mechanics,"Vo, Thi","Vo, Thi",2025 Fall,Chemical and Biomolecular Engineering,3.54,4.17,4.73
+EN.540.633.01.FA24,Pharmacokinetics and Pharmacodynamics,"Donohue, Marc","Donohue, Marc",2024 Fall,Chemical and Biomolecular Engineering,3.50,4.25,4.60
+EN.540.633.01.FA25,Pharmacokinetics and Pharmacodynamics,"Donohue, Marc","Donohue, Marc",2025 Fall,Chemical and Biomolecular Engineering,4.00,3.69,4.54
+EN.540.635.01.SP24,Software Carpentry,"Dequiedt, Lucie","Dequiedt, Lucie",2024 Spring,Chemical and Biomolecular Engineering,3.44,3.94,4.44
+EN.540.635.01.FA24,Software Carpentry,"Thota, Nikhil","Thota, Nikhil",2024 Fall,Chemical and Biomolecular Engineering,2.88,4.36,4.21
+EN.540.635.02.SP25,Software Carpentry,"Shaikh, Farhan","Shaikh, Farhan",2025 Spring,Chemical and Biomolecular Engineering,3.08,4.20,4.40
+EN.540.635.01.FA25,Software Carpentry,"Clancy, Paulette","Clancy, Paulette",2025 Fall,Chemical and Biomolecular Engineering,3.13,4.61,4.38
+EN.540.635.01.FA25,Software Carpentry,"Matos Romero, Valentina","Matos Romero, Valentina",2025 Fall,Chemical and Biomolecular Engineering,3.13,4.50,4.38
+EN.540.637.01.SP24,Application of Molecular Evolution to Biotechnology,"Ostermeier, Marc","Ostermeier, Marc",2024 Spring,Chemical and Biomolecular Engineering,2.92,4.21,4.43
+EN.540.637.01.SP25,Application of Molecular Evolution to Biotechnology,"Ostermeier, Marc","Ostermeier, Marc",2025 Spring,Chemical and Biomolecular Engineering,2.44,4.17,4.11
+EN.540.638.01.SP25,Advanced Topics in Pharmacokinetics and Pharmacodynamics I,"Donohue, Marc","Donohue, Marc",2025 Spring,Chemical and Biomolecular Engineering,3.00,4.83,4.83
+EN.540.640.01.FA24,Micro/Nanotechnology: The Science and Engineering of Small Structures,"Gracias, David","Gracias, David",2024 Fall,Chemical and Biomolecular Engineering,3.19,4.29,4.32
+EN.540.640.01.FA25,Micro/Nanotechnology: The Science and Engineering of Small Structures,"Gracias, David","Gracias, David",2025 Fall,Chemical and Biomolecular Engineering,3.28,4.44,4.29
+EN.540.652.01.FA24,Advanced Transport Phenomena,"Konstantopoulos, Konstantinos","Konstantopoulos, Konstantinos",2024 Fall,Chemical and Biomolecular Engineering,3.40,4.43,4.20
+EN.540.652.01.FA25,Advanced Transport Phenomena,"Konstantopoulos, Konstantinos","Konstantopoulos, Konstantinos",2025 Fall,Chemical and Biomolecular Engineering,3.41,4.20,4.54
+EN.540.658.01.SP24,Modeling and Design of Sustainable Chemical Processes,"Bukowski, Brandon","Bukowski, Brandon",2024 Spring,Chemical and Biomolecular Engineering,3.25,4.83,4.75
+EN.540.658.01.SP25,Modeling and Design of Sustainable Chemical Processes,"Bukowski, Brandon","Bukowski, Brandon",2025 Spring,Chemical and Biomolecular Engineering,3.74,4.85,4.58
+EN.540.660.01.SP24,Polymer Physics,"Vo, Thi","Vo, Thi",2024 Spring,Chemical and Biomolecular Engineering,3.35,4.45,4.79
+EN.540.665.01.SP25,Engineering Principles of Drug Delivery,"Sofou, Stavroula","Sofou, Stavroula",2025 Spring,Chemical and Biomolecular Engineering,3.18,4.72,4.53
+EN.540.667.01.SP24,Targeted Drug Delivery: Mechanistic Concepts,"Kokkoli, Efie","Kokkoli, Efie",2024 Spring,Chemical and Biomolecular Engineering,3.67,4.62,4.54
+EN.540.667.01.SP25,Targeted Drug Delivery: Mechanistic Concepts,"Kokkoli, Efie","Kokkoli, Efie",2025 Spring,Chemical and Biomolecular Engineering,3.43,4.67,4.40
+EN.540.671.01.SP24,Advanced Thermodynamics in Practice,"Clancy, Paulette","Clancy, Paulette",2024 Spring,Chemical and Biomolecular Engineering,2.77,4.69,4.35
+EN.540.671.01.SP25,Advanced Thermodynamics in Practice,"Clancy, Paulette","Clancy, Paulette",2025 Spring,Chemical and Biomolecular Engineering,2.96,4.65,4.39
+EN.540.673.01.SP24,Advanced Chemical Reaction Engineering in Practice,"Tsapatsis, Michael","Tsapatsis, Michael",2024 Spring,Chemical and Biomolecular Engineering,3.64,4.57,4.75
+EN.540.673.01.SP25,Advanced Chemical Reaction Engineering in Practice,"Tsapatsis, Michael","Tsapatsis, Michael",2025 Spring,Chemical and Biomolecular Engineering,3.69,4.31,4.77
+EN.540.681.01.SP24,Molecular Kinetics and Catalysis,"Wang, Chao","Wang, Chao",2024 Spring,Chemical and Biomolecular Engineering,3.00,4.20,4.47
+EN.540.681.01.SP25,Molecular Kinetics and Catalysis,"Wang, Chao","Wang, Chao",2025 Spring,Chemical and Biomolecular Engineering,3.06,3.77,4.29
+EN.540.695.02.SP25,Special Topics in Chemical and Biomolecular Engineering,"Donohue, Marc","Donohue, Marc",2025 Spring,Chemical and Biomolecular Engineering,3.17,4.71,4.71
+EN.540.695.01.SP25,Special Topics in Chemical and Biomolecular Engineering,"Grenville, Richard","Grenville, Richard",2025 Spring,Chemical and Biomolecular Engineering,2.88,4.13,4.14
+EN.540.695.02.FA25,Special Topics in Chemical and Biomolecular Engineering,"Donohue, Marc","Donohue, Marc",2025 Fall,Chemical and Biomolecular Engineering,3.50,5.00,5.00
+EN.540.695.01.FA25,Special Topics in Chemical and Biomolecular Engineering,"Grenville, Richard","Grenville, Richard",2025 Fall,Chemical and Biomolecular Engineering,3.13,4.75,4.63

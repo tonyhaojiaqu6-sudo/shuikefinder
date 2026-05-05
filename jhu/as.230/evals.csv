@@ -1,0 +1,96 @@
+course_code,course_title,instructor,instructors_full,term,department,workload_avg,teaching_avg,intellectual_avg
+AS.230.101.01.SP24,Introduction to Sociology,"Liu, Mingtang","Liu, Mingtang",2024 Spring,Sociology,2.88,3.17,3.59
+AS.230.101.01.SP24,Introduction to Sociology,"Boselovic, Joseph","Boselovic, Joseph",2024 Spring,Sociology,2.88,3.56,3.59
+AS.230.101.06.SP24,Introduction to Sociology,"Liu, Mingtang","Liu, Mingtang",2024 Spring,Sociology,3.00,3.82,4.00
+AS.230.101.06.SP24,Introduction to Sociology,"Boselovic, Joseph","Boselovic, Joseph",2024 Spring,Sociology,3.00,4.45,4.00
+AS.230.101.04.SP24,Introduction to Sociology,"Liu, Mingtang","Liu, Mingtang",2024 Spring,Sociology,3.00,3.88,4.06
+AS.230.101.04.SP24,Introduction to Sociology,"Boselovic, Joseph","Boselovic, Joseph",2024 Spring,Sociology,3.00,4.41,4.06
+AS.230.101.03.SP24,Introduction to Sociology,"Liu, Mingtang","Liu, Mingtang",2024 Spring,Sociology,3.00,3.38,3.54
+AS.230.101.03.SP24,Introduction to Sociology,"Boselovic, Joseph","Boselovic, Joseph",2024 Spring,Sociology,3.00,3.50,3.54
+AS.230.101.11.FA24,Introduction to Sociology,"Calder, Ryan","Calder, Ryan",2024 Fall,Sociology,3.91,3.91,3.91
+AS.230.101.09.FA24,Introduction to Sociology,"Calder, Ryan","Calder, Ryan",2024 Fall,Sociology,3.31,3.77,4.00
+AS.230.101.05.FA24,Introduction to Sociology,"Calder, Ryan","Calder, Ryan",2024 Fall,Sociology,3.25,3.92,3.83
+AS.230.101.07.FA24,Introduction to Sociology,"Calder, Ryan","Calder, Ryan",2024 Fall,Sociology,3.63,3.81,4.13
+AS.230.101.03.FA24,Introduction to Sociology,"Calder, Ryan","Calder, Ryan",2024 Fall,Sociology,3.27,4.18,4.00
+AS.230.101.01.FA24,Introduction to Sociology,"Calder, Ryan","Calder, Ryan",2024 Fall,Sociology,3.20,3.64,3.73
+AS.230.101.06.FA24,Introduction to Sociology,"Calder, Ryan","Calder, Ryan",2024 Fall,Sociology,3.69,4.08,4.54
+AS.230.101.08.FA24,Introduction to Sociology,"Calder, Ryan","Calder, Ryan",2024 Fall,Sociology,3.50,4.19,3.81
+AS.230.101.10.FA24,Introduction to Sociology,"Calder, Ryan","Calder, Ryan",2024 Fall,Sociology,4.00,4.22,4.11
+AS.230.101.04.FA24,Introduction to Sociology,"Calder, Ryan","Calder, Ryan",2024 Fall,Sociology,3.67,4.17,4.17
+AS.230.101.02.FA24,Introduction to Sociology,"Calder, Ryan","Calder, Ryan",2024 Fall,Sociology,3.55,4.25,4.33
+AS.230.101.06.FA25,Introduction to Sociology,"Calder, Ryan","Calder, Ryan",2025 Fall,Sociology,3.30,3.50,4.00
+AS.230.101.04.FA25,Introduction to Sociology,"Calder, Ryan","Calder, Ryan",2025 Fall,Sociology,3.90,4.18,4.18
+AS.230.101.02.FA25,Introduction to Sociology,"Calder, Ryan","Calder, Ryan",2025 Fall,Sociology,3.56,3.90,3.78
+AS.230.101.03.FA25,Introduction to Sociology,"Calder, Ryan","Calder, Ryan",2025 Fall,Sociology,2.50,4.20,3.90
+AS.230.101.01.FA25,Introduction to Sociology,"Calder, Ryan","Calder, Ryan",2025 Fall,Sociology,3.09,4.18,4.36
+AS.230.101.05.FA25,Introduction to Sociology,"Calder, Ryan","Calder, Ryan",2025 Fall,Sociology,3.75,4.38,4.25
+AS.230.150.03.SP24,Issues in International Development,"Edwards, Zophia","Edwards, Zophia",2024 Spring,Sociology,3.00,4.14,3.71
+AS.230.150.01.SP24,Issues in International Development,"Edwards, Zophia","Edwards, Zophia",2024 Spring,Sociology,2.88,4.13,4.38
+AS.230.150.02.SP24,Issues in International Development,"Edwards, Zophia","Edwards, Zophia",2024 Spring,Sociology,2.75,3.92,3.75
+AS.230.150.04.SP24,Issues in International Development,"Edwards, Zophia","Edwards, Zophia",2024 Spring,Sociology,2.44,3.89,3.67
+AS.230.150.03.SP25,Issues in International Development,"Edwards, Zophia","Edwards, Zophia",2025 Spring,Sociology,3.22,4.11,3.89
+AS.230.150.04.SP25,Issues in International Development,"Edwards, Zophia","Edwards, Zophia",2025 Spring,Sociology,2.50,4.50,4.50
+AS.230.150.01.SP25,Issues in International Development,"Edwards, Zophia","Edwards, Zophia",2025 Spring,Sociology,2.89,3.89,3.56
+AS.230.202.01.SP24,Research Methods for the Social Sciences,"Chen, Feinian","Chen, Feinian",2024 Spring,Sociology,3.00,4.46,4.31
+AS.230.202.01.SP25,Research Methods for the Social Sciences,"Chen, Feinian","Chen, Feinian",2025 Spring,Sociology,2.50,4.20,3.73
+AS.230.205.02.FA24,Introduction to Social Statistics,"Reese, Mike","Reese, Mike",2024 Fall,Sociology,3.90,4.90,4.80
+AS.230.205.01.FA24,Introduction to Social Statistics,"Reese, Mike","Reese, Mike",2024 Fall,Sociology,3.62,4.50,4.50
+AS.230.213.01.SP24,Social Theory,"White, Alexandre","White, Alexandre",2024 Spring,Sociology,2.88,4.56,4.44
+AS.230.213.01.SP25,Social Theory,"Andreas, Joel","Andreas, Joel",2025 Spring,Sociology,3.42,4.21,4.42
+AS.230.213.01.FA25,Social Theory,"White, Alexandre","White, Alexandre",2025 Fall,Sociology,3.22,4.78,4.67
+AS.230.216.01.SP25,Disability and Society,"Agree, Emily","Agree, Emily",2025 Spring,Sociology,2.29,4.47,4.00
+AS.230.228.01.SP24,Colonialism in Asia and Its Contested Legacies,"Kuo, Huei-Ying","Kuo, Huei-Ying",2024 Spring,Sociology,3.64,4.09,4.09
+AS.230.232.01.FA25,Urban Rebellions,"Okechukwu, Amaka","Okechukwu, Amaka",2025 Fall,Sociology,2.57,4.14,4.00
+AS.230.239.01.FA24,"Coffee, Tea and Empires","Kuo, Huei-Ying","Kuo, Huei-Ying",2024 Fall,Sociology,3.27,3.87,4.00
+AS.230.242.01.SP24,Race and Racism,"Edwards, Zophia","Edwards, Zophia",2024 Spring,Sociology,3.00,4.82,4.64
+AS.230.244.01.SP25,Race and Ethnicity in American Society,"Greif, Meredith","Greif, Meredith",2025 Spring,Sociology,3.07,4.87,4.60
+AS.230.244.01.FA25,Race and Ethnicity in American Society,"Greif, Meredith","Greif, Meredith",2025 Fall,Sociology,2.53,4.87,4.47
+AS.230.312.01.FA24,Education & Society,"Burdick-Will, Julia","Burdick-Will, Julia",2024 Fall,Sociology,3.29,4.71,4.57
+AS.230.313.01.SP25,"Space, Place, Poverty & Race: Sociological Perspectives on Neighborhoods & Public Housing","Deluca, Stefanie","Deluca, Stefanie",2025 Spring,Sociology,3.40,4.00,4.60
+AS.230.319.01.SP25,Sociology of Race and Medicine,"Solanki, Durgesh","Solanki, Durgesh",2025 Spring,Sociology,3.75,4.38,4.38
+AS.230.322.01.SP24,Quantitative Research Practicum,"Greif, Meredith","Greif, Meredith",2024 Spring,Sociology,3.29,4.36,4.00
+AS.230.323.01.SP25,Qualitative Research Practicum,"Calder, Ryan","Calder, Ryan",2025 Spring,Sociology,3.50,4.50,4.50
+AS.230.330.01.SP25,"Space, Society, and Social Change","Ilic, Gorana","Ilic, Gorana",2025 Spring,Sociology,3.00,5.00,4.88
+AS.230.334.01.FA24,Family Demography,"Chen, Feinian","Chen, Feinian",2024 Fall,Sociology,2.73,4.91,4.45
+AS.230.335.01.SP24,Medical Humanitarianism,"Naveh Benjamin, Ilil","Naveh Benjamin, Ilil",2024 Spring,Sociology,2.57,4.93,4.86
+AS.230.335.01.FA24,Medical Humanitarianism,"Naveh Benjamin, Ilil","Naveh Benjamin, Ilil",2024 Fall,Sociology,2.44,5.00,5.00
+AS.230.335.01.SP25,Medical Humanitarianism,"Naveh Benjamin, Ilil","Naveh Benjamin, Ilil",2025 Spring,Sociology,2.47,5.00,4.88
+AS.230.337.01.SP24,Global Crises: Past and Present,"Silver, BEVERLY","Silver, BEVERLY",2024 Spring,Sociology,3.13,4.00,4.13
+AS.230.338.01.SP24,Sociology of Social Reproduction,"Sharma, Sonal","Sharma, Sonal",2024 Spring,Sociology,3.25,4.83,4.67
+AS.230.341.03.SP24,Sociology of Health and Illness,"Agree, Emily","Agree, Emily",2024 Spring,Sociology,2.50,4.27,4.20
+AS.230.341.01.SP24,Sociology of Health and Illness,"Agree, Emily","Agree, Emily",2024 Spring,Sociology,2.80,3.93,3.87
+AS.230.341.04.SP24,Sociology of Health and Illness,"Agree, Emily","Agree, Emily",2024 Spring,Sociology,3.07,4.20,4.13
+AS.230.341.02.SP24,Sociology of Health and Illness,"Agree, Emily","Agree, Emily",2024 Spring,Sociology,2.54,4.31,3.85
+AS.230.341.03.FA24,Sociology of Health and Illness,"Agree, Emily","Agree, Emily",2024 Fall,Sociology,3.00,4.00,3.85
+AS.230.341.01.FA24,Sociology of Health and Illness,"Agree, Emily","Agree, Emily",2024 Fall,Sociology,2.79,4.71,4.43
+AS.230.341.04.FA24,Sociology of Health and Illness,"Agree, Emily","Agree, Emily",2024 Fall,Sociology,2.54,4.25,4.15
+AS.230.341.02.FA24,Sociology of Health and Illness,"Agree, Emily","Agree, Emily",2024 Fall,Sociology,2.86,4.13,4.07
+AS.230.341.04.SP25,Sociology of Health and Illness,"Agree, Emily","Agree, Emily",2025 Spring,Sociology,2.77,4.50,4.27
+AS.230.341.02.SP25,Sociology of Health and Illness,"Agree, Emily","Agree, Emily",2025 Spring,Sociology,2.64,4.23,3.86
+AS.230.341.03.SP25,Sociology of Health and Illness,"Agree, Emily","Agree, Emily",2025 Spring,Sociology,2.79,4.21,4.00
+AS.230.341.01.SP25,Sociology of Health and Illness,"Agree, Emily","Agree, Emily",2025 Spring,Sociology,3.14,4.43,4.29
+AS.230.341.03.FA25,Sociology of Health and Illness,"Agree, Emily","Agree, Emily",2025 Fall,Sociology,2.58,4.58,4.33
+AS.230.341.01.FA25,Sociology of Health and Illness,"Agree, Emily","Agree, Emily",2025 Fall,Sociology,2.54,4.14,3.86
+AS.230.341.04.FA25,Sociology of Health and Illness,"Agree, Emily","Agree, Emily",2025 Fall,Sociology,2.54,4.00,3.85
+AS.230.341.02.FA25,Sociology of Health and Illness,"Agree, Emily","Agree, Emily",2025 Fall,Sociology,2.45,4.50,4.50
+AS.230.348.01.FA24,Climate Change and Society,"Levien, Michael","Levien, Michael",2024 Fall,Sociology,4.00,4.38,4.63
+AS.230.352.01.FA24,Chinese Diaspora: Networks and Identity,"Kuo, Huei-Ying","Kuo, Huei-Ying",2024 Fall,Sociology,3.29,4.36,4.43
+AS.230.354.01.SP25,The City After Civil Rights,"Bader, Michael","Bader, Michael",2025 Spring,Sociology,3.40,4.60,4.60
+AS.230.365.01.SP24,Public Opinion and Democracy,"Morgan, Stephen","Morgan, Stephen",2024 Spring,Sociology,3.17,5.00,4.83
+AS.230.369.01.SP24,Sociology in Economic Life,"Kuo, Huei-Ying","Kuo, Huei-Ying",2024 Spring,Sociology,2.80,4.25,4.13
+AS.230.370.01.SP24,Housing and Homelessness in the United States,"Greif, Meredith","Greif, Meredith",2024 Spring,Sociology,3.06,4.71,4.59
+AS.230.370.01.FA24,Housing and Homelessness in the United States,"Greif, Meredith","Greif, Meredith",2024 Fall,Sociology,2.70,4.86,4.33
+AS.230.370.01.SP25,Housing and Homelessness in the United States,"Greif, Meredith","Greif, Meredith",2025 Spring,Sociology,2.92,4.85,4.46
+AS.230.370.01.FA25,Housing and Homelessness in the United States,"Greif, Meredith","Greif, Meredith",2025 Fall,Sociology,2.42,4.83,4.67
+AS.230.372.01.SP25,"Race, Class, and Decolonization Struggles","Edwards, Zophia","Edwards, Zophia",2025 Spring,Sociology,3.27,4.82,4.45
+AS.230.378.01.SP24,"Refugees, Human Rights, and Sovereignty","Naveh Benjamin, Ilil","Naveh Benjamin, Ilil",2024 Spring,Sociology,2.65,4.88,4.76
+AS.230.378.01.FA24,"Refugees, Human Rights, and Sovereignty","Naveh Benjamin, Ilil","Naveh Benjamin, Ilil",2024 Fall,Sociology,2.70,4.87,4.70
+AS.230.378.91DC.SP25,"Refugees, Human Rights, and Sovereignty","Naveh Benjamin, Ilil","Naveh Benjamin, Ilil",2025 Spring,Sociology,2.57,4.86,4.71
+AS.230.378.01.FA25,"Refugees, Human Rights, and Sovereignty","Naveh Benjamin, Ilil","Naveh Benjamin, Ilil",2025 Fall,Sociology,2.41,5.00,4.84
+AS.230.386.01.FA25,The Making of the Asian Races Across the Pacific in the Long 20th Century,"Kuo, Huei-Ying","Kuo, Huei-Ying",2025 Fall,Sociology,3.43,4.29,4.43
+AS.230.387.91DC.SP25,Global Migration and Refugees: Applied Research and Practice Seminar,"Agarwala, Rina","Agarwala, Rina",2025 Spring,Sociology,2.67,4.89,4.56
+AS.230.393.01.FA25,Global Health and Human Rights,"Naveh Benjamin, Ilil","Naveh Benjamin, Ilil",2025 Fall,Sociology,2.47,4.94,4.56
+AS.230.397.01.SP24,The Political Economy of Drugs and Drug Wars,"Thornton, Christy","Thornton, Christy",2024 Spring,Sociology,3.14,5.00,4.79
+AS.230.428.01.FA24,Introduction to Computational Social Science,"Burdick-Will, Julia","Burdick-Will, Julia",2024 Fall,Sociology,4.00,4.80,4.80
+AS.230.431.01.FA25,Sociology of Gender,"Pugh, Allison","Pugh, Allison",2025 Fall,Sociology,4.25,4.50,5.00
+AS.230.440.01.SP25,Port Cities and Historical Capitalism in Maritime Asia,"Kuo, Huei-Ying","Kuo, Huei-Ying",2025 Spring,Sociology,3.40,4.79,4.71
