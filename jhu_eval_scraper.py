@@ -75,7 +75,7 @@ DELAY_BETWEEN_REQUESTS = 0.5
 # SEARCH_TERMS above. The output file path is built automatically.
 
 SCHOOL = "jhu"
-DEPARTMENT = "as.171"   # change for other depts: "as.110", "en.601", etc.
+DEPARTMENT = "as.173"   # change for other depts: "as.110", "en.601", etc.
 
 OUTPUT_DIR = os.path.join(SCHOOL, DEPARTMENT)
 OUTPUT_FILE = os.path.join(OUTPUT_DIR, "evals.csv")
